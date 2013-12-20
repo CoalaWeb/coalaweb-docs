@@ -1,4 +1,4 @@
-## Table of Contents{#toc}
+## Table of Contents {#toc}
 1.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
     -   [One Click Updates](#updates)
@@ -21,8 +21,8 @@
     -   [Editor XTD Plugin - Contact](#plg-xtd)
 4.  [Need More Help?](#more-help)
 
-##Component - [Back to Top](#toc){#component-guide}
-### Control Panel - [Back to Top](#toc){#control-panel}
+##Component - [Back to Top](#toc) {#component-guide}
+### Control Panel - [Back to Top](#toc) {#control-panel}
 
 The **Control Panel** as seen below is designed to be an easy starting
 point, think of it as the head quarters for the extension. While
