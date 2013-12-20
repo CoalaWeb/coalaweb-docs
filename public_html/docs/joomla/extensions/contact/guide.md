@@ -21,8 +21,8 @@
     -   [Editor XTD Plugin - Contact](#plg-xtd)
 4.  [Need More Help?](#more-help)
 
-##Component - [Back to Top](#toc) {#component-guide}
-### Control Panel - [Back to Top](#toc) {#control-panel}
+##Component {#component-guide}
+### Control Panel {#control-panel}
 
 The **Control Panel** as seen below is designed to be an easy starting
 point, think of it as the head quarters for the extension. While
@@ -32,7 +32,7 @@ different sections and then return before moving onto the next one.
 
 ![Figure 1](images/docs/joomla/extensions/contact/cw-contact-cpanel.png){.coalaweb-docs}
 
-### Inbuilt Help - [Back to Top](#toc){#help}
+### Inbuilt Help {#help}
 
 In the control panel or the tool menu you have a help icon that when
 clicked will open a pop up wrapper of this specific guide. This gives
@@ -41,16 +41,16 @@ out leaving the control panel. *[Figure 2]*
 
 ![Figure 2](images/docs/joomla/extensions/contact/cw-contact-help.png){.coalaweb-docs}
 
-### One Click Updates - [Back to Top](#toc){#updates}
+### One Click Updates {#updates}
 
 #### Coming Soon!
 
-### Extension Options - [Back to Top](#toc){#options}
+### Extension Options {#options}
 
 In the control panel or the tool menu you have a options icon that when
 clicked will open a pop up containing the various extension options.
 
-#### 1. General Contact Options - [Back to Top](#toc){#options-general}
+#### 1. General Contact Options {#options-general}
 
 <span class="tip" markdown="1">The options below will influence the Content Plugin [Pro] and the
 Contact Module unless overridden in the module configuration.</span>
@@ -117,7 +117,7 @@ you to insert a form into your content. *[Figure 5]*
 ![Figure
 5](images/docs/joomla/extensions/contact/cw-contact-config-general3.png){.coalaweb-docs}
 
-#### 2. Messages and Warnings - [Back to Top](#toc){#messages}
+#### 2. Messages and Warnings {#messages}
 
 The next tab allows you to customize the **Messages and Warnings**
 displayed by the CoalaWeb Contact extension. Note: If your site is
@@ -126,7 +126,7 @@ multilingual leave blank and use the language files. *[Figure 6]*
 ![Figure
 6](images/docs/joomla/extensions/contact/cw-contact-config-messages.png){.coalaweb-docs}
 
-#### 3. Labels - [Back to Top](#toc){#options-labels}
+#### 3. Labels {#options-labels}
 
 The next tab allows you to customize the **Labels** displayed by the
 CoalaWeb Contact extension both in the forms and the sent e-mail. Note:
@@ -136,7 +136,7 @@ If your site is multilingual leave blank and use the language files.
 ![Figure
 7](images/docs/joomla/extensions/contact/cw-contact-config-labels.png){.coalaweb-docs}
 
-#### 4. Captcha - [Back to Top](#toc){#options-captcha}
+#### 4. Captcha {#options-captcha}
 
 The next tab allows you to display a **Captcha** to attempt to reduce
 pesky spam. Lets start with the options that apply to both the **Core**
@@ -193,7 +193,7 @@ you with your ReCaptcha keys. *[Figure 9]*
 ![Figure
 9](images/docs/joomla/extensions/contact/cw-contact-config-captcha2.png){.coalaweb-docs}
 
-#### 5. Live Update Options - [Back to Top](#toc)
+#### 5. Live Update Options {#options-updates}
 
 The CoalaWeb Contact extension comes with a built in one click **Live
 Update** system so both **Core** and **Pro** users can keep their
@@ -207,7 +207,7 @@ make sure you still have a valid subscription and the **ID** is correct.
 ![Figure
 10](images/docs/joomla/extensions/contact/cw-contact-config-updates.png){.coalaweb-docs}
 
-#### 6. Where Is My Download ID [Pro] - [Back to Top](#toc){#options-downloadid}
+#### 6. Where Is My Download ID [Pro] {#options-downloadid}
 
 To find your **Download ID** log into **coalaweb.com** and from the top
 menu select **Members → My Subscriptions** scroll down and under **My
@@ -218,7 +218,7 @@ to include any spaces. *[Figure 11]*
 ![Figure
 11](images/docs/joomla/extensions/contact/coalaweb-download-id.png){.coalaweb-docs}
 
-#### 7. Component Permissions - [Back to Top](#toc){#options-permissions}
+#### 7. Component Permissions {#options-permissions}
 
 The last tab contains the permission settings for the CoalaWeb Contact
 component. *[Figure 12]*
@@ -226,11 +226,11 @@ component. *[Figure 12]*
 ![Figure
 12](images/docs/joomla/extensions/contact/cw-contact-config-permissions.png){.coalaweb-docs}
 
-## Contact Module - [Back to Top](#toc){#module}
+## Contact Module {#module}
 ![Module
 Demo](images/docs/joomla/extensions/contact/cw-contact-module-themes.png){.coalaweb-docs}
 
-### General Display Options - [Back to Top](#toc){#mod-general}
+### General Display Options {#mod-general}
 
 The options below will overridden the component configuration.
 
@@ -291,7 +291,7 @@ form into your content. *[Figure 15]*
 ![Figure
 15](images/docs/joomla/extensions/contact/cw-contact-mod-config-general3.png){.coalaweb-docs}
 
-### Captcha - [Back to Top](#toc){#mod-captcha}
+### Captcha {#mod-captcha}
 
 The next options group allows you to display a **Captcha** to attempt to
 reduce pesky spam. Lets start with the options that apply to both the
@@ -343,7 +343,7 @@ and paste your Public and Private keys into the component configuration
 as well as choosing the theme you wish to use also in the component
 configuration. *[Figure 9]*
 
-### Advanced Options - [Back to Top](#toc){#mod-advanced}
+### Advanced Options {#mod-advanced}
 
 The CoalaWeb Contact module also has a few of what I consider **Advanced
 Options** such as the option to assign a **Unique Module ID** to stop
@@ -357,8 +357,8 @@ site is multilingual leave blank and use the language files. *[Figure
 ![Figure
 18](images/docs/joomla/extensions/contact/cw-contact-mod-config-advanced.png){.coalaweb-docs}
 
-##Plugins [PRO Version Only]- [Back to Top](#toc){#plg}
-### Content Plugin - Contact - [Back to Top](#toc){#plg-content}
+##Plugins [PRO Version Only] {#plg}
+### Content Plugin - Contact {#plg-content}
 
 The CoalaWeb Contact plugin gives you even more flexibility by allowing
 you to place one or more contact forms anywhere within your content. All
@@ -368,10 +368,9 @@ the contact form displayed in your content make sure you have the plugin
 installed and published and that you have selected the appropriate
 configuration options.
 
-![Content PLG
-Demo](images/docs/joomla/extensions/contact/cw-contact-plg-content.png){.coalaweb-docs}
+![Content PLG Demo](images/docs/joomla/extensions/contact/cw-contact-plg-content.png){.coalaweb-docs}
 
-### Editor XTD Plugin - Contact - [Back to Top](#toc){#plg-xtd}
+### Editor XTD Plugin - Contact {#plg-xtd}
 
 The **Editor XTD** plugin makes adding a contact form to your Joomla
 content a one click process. Just place the cursor where you want the
