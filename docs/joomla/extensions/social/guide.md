@@ -1,0 +1,807 @@
+## Table of Contents {#toc}
+1.  [Component Guide](#component)
+    -   [Control Panel](#control-panel)
+    -   [One Click Updates](#updates)
+    -   [Inbuilt Help](#help)
+    -   [Extension Options](#options)
+        - [1. Content Plugin Options \[Pro\]](#options-content)
+        - [2. Panel Plugin Options \[Pro\]](#options-panel)
+        - [3. Open Graph Plugin Options \[Pro\]](#options-og)
+        - [4. Quickicon Plugin Options](#options-quick)
+        - [5. Live Update Options](#options-updates)
+        - [6. Where Is My Download ID \[Pro\]](#options-downloadid)
+        - [7. Component Permissions](#options-permissions)
+
+2.  [Social Module Guide](#module)
+    -   [General Display Options](#mod-general)
+    -   [Bookmark This Options](#mod-bookmark)
+    -   [Follow Us Options](#mod-follow)
+    -   [Advanced Options](#mod-advanced)
+
+3.  [Like box Module Guide](#module-lbox)
+    -   [General Options](#mod-lb-general)
+    -   [Layout Options](#mod-lb-layout)
+    -   [Style Options](#mod-lb-style)
+    -   [Extra Options](#mod-lb-extra)
+    -   [Advanced Options](#mod-lb-advanced)
+
+4.  [Google Plus Module Guide \[Pro\]](#module-gplus)
+    -   [General Options](#mod-gplus-general)
+    -   [Layout Options](#mod-gplus-layout)
+    -   [Advanced Options](#mod-gplus-advanced)
+
+5.  [Plugin Guide \[Pro\]](#plg)
+    -   [Content Plugin - Social Likes](#plg-content)
+    -   [Content Plugin - Open Graph](#plg-og)
+    -   [System Plugin - Zoo Elements](#plg-zoo)
+
+6.  [Need More Help?](#more-help)
+
+##Component
+
+### Control Panel
+
+The **Control Panel** as seen below it is designed to be an easy
+starting point, think of it as the components head quarters. While
+carrying out tasks you can easily jump from the **Control Panel** to the
+different sections and then return before moving onto the next one.
+*[Figure 1]*
+
+![Figure
+1](images/docs/joomla/extensions/social-links/cw-slinks-cpanel.png)
+
+### Inbuilt Help
+
+In the control panel or the tool menu you have a help icon that when
+clicked will open a pop up wrapper of this specific guide. This gives
+you an easy way of checking the functionality of a particular item with
+out leaving the control panel. *[Figure 2]*
+
+![Figure
+2](images/docs/joomla/extensions/social-links/cw-slinks-help.png)
+
+### One Click Updates
+
+#### Coming Soon!
+
+### Extension Options
+
+In the control panel or the tool menu you have a options icon that when
+clicked will open a pop up containing the various extension options.
+
+### 1. Content Plugin Options [Pro]
+
+Some of the options selected here will affect the display of the buttons
+in Joomla, K2 and Zoo.
+
+To make it easier to follow I have broken up the **Content Plugin
+Options** into three parts.
+
+#### Part 1 - Display Where
+
+The first option allows you to choose if you want the social buttons to
+be displayed everywhere for example in all items displayed in a blog
+layout or only when you have selected a particular article. This will
+affect the display of the buttons in both Joomla and K2.
+
+The next two options give you an opportunity to select which categories
+you wish the buttons to be displayed in for both Joomla and K2. If you
+wish to select more than one just hold down **Shift** on your keyboard
+and select the categories with your mouse. *[Figure 3]*
+
+![Figure
+3](images/docs/joomla/extensions/social-links/cw-slinks-config-content1.png)
+
+#### Part 2 - Layout
+
+Next are the **Layout Options** here you can choose to display the
+buttons above or below the content and also the button style either
+**Vertical** [Bubble] or **Horizontal**. *[Figure 3a]*
+
+![Figure
+3a](images/docs/joomla/extensions/social-links/cw-slinks-config-content2.png)
+
+#### Part 3 - Social
+Next are the **Social Options** here you can chose which social networks
+you wish to display. These options will affect the display of both the
+buttons in Joomla and K2. *[Figure 3b]*
+
+![Figure
+3b](images/docs/joomla/extensions/social-links/cw-slinks-config-content3.png)
+
+### 2. Panel Plugin Options [Pro]
+
+![Figure
+22](images/docs/joomla/extensions/social-links/cw-slinks-config-panel1.png)
+
+To make it easier to follow I have broken up the **Social Panel Plugin
+Options** into five parts.
+
+#### Part 1 - Display Where
+
+To make it easy to turn on or off the Social Panel plugin completely I
+have included a Load Panel option this will save you having to open up
+the plugin manager to disable it. The next two options give you an
+opportunity to select which categories you wish the panel to be
+displayed in for both Joomla and K2. If you wish to select more than one
+just hold down **Shift** on your keyboard and select the categories with
+your mouse. *[Figure22a]*
+
+![Figure
+22a](images/docs/joomla/extensions/social-links/cw-slinks-config-panel2.png)
+
+#### Part 2 - Layout & Style
+
+Next are the **Layout & Style Options** these options will affect both
+the Fixed and Collapse style layouts. First you can choose if you want
+the panel to be visible all the time displayed to the side of the
+article content or Collapse which will hide the panel off the side of
+the page. The Collapse option becomes visible by clicking a tab that
+extends from the side of the page. The next option allows you to choose
+which side you want the panel displayed on.The next option allows you to
+choose a **Theme** for the panel. I have included a few and will expand
+it over time but if you want to create your own have a look below.
+
+#### Creating your own theme
+
+Creating a theme is easy, just copy the default folder found in:
+
+`media → coalawebsocial → plugins → content → socialpanel → themes`
+
+Give the theme a differnt name and edit the files as needed. All the
+folders located in the themes directory will automatically be listed in
+the **Form Theme** select list.
+
+The last option in the Layout 7 Stle options is Top Space this is the
+amount of space above the panel and will affect both panel styles. The
+top space is measure in % so just enter a number, 15 is the default and
+works well in most situations. *[Figure 22b]*
+
+The Fixed Style will automatically convert to Collapse when the page
+reaches a certain size.
+
+![Figure
+22b](images/docs/joomla/extensions/social-links/cw-slinks-config-panel3.png)
+
+#### Part 3 - Fixed Style
+
+The next couple of option only affect the Fixed panel style. First you
+can choose the Convert Width if the page is reduced smaller than the
+width entered here it will automatically convert to the Collapse style.
+The last option in this section is the side space this is the amount of
+space between the side of the page and the panel it is measured in % so
+just enter a number, 5 is the default and works well in most situations.
+*[Figure 22c]*
+
+![Figure
+22c](images/docs/joomla/extensions/social-links/cw-slinks-config-panel4.png)
+
+#### Part 4 - Collapse Style
+
+The next couple of option only affect the Collapse panel style. First
+you can choose the type of button(tab) to want to use to trigger the
+display of the panel. If you choose Icon you will have to fill in three
+of the next four options. First choose the icon you wish to use it can
+be stored locally or you can use an external URL for the image. Next set
+the width and height of the icon in pixels. Note: Just enter a number
+here with out the px. If you choose to use text which is a a great
+option for multilingual sites you can change the displayed text here.
+The default text is Share but if you do plan to use it on a multilingual
+site it would be better to use the language files to manipulate this
+text.
+
+The next few options control the slide effect of the panel. The first
+two options control the amount of time the panel takes to open and
+close. Durations are given in milliseconds; higher values indicate
+slower animations, not faster ones. The default duration is 400
+milliseconds. The last two options affect the animation style, you have
+a lot to choose from so experiment until you find the ones you
+like.*[Figure 22d]*
+
+![Figure
+22d](images/docs/joomla/extensions/social-links/cw-slinks-config-panel5.png)
+
+#### Part 5 - Social Options
+
+Next are the **Social Options** here you can chose which social networks
+you wish to display. These options will affect the display of both the
+buttons in Joomla and K2. *[Figure 22e]*
+
+![Figure
+22e](images/docs/joomla/extensions/social-links/cw-slinks-config-panel6.png)
+
+### 3. Open Graph Plugin Options [Pro]
+
+The **CoalaWeb Open Graph** plugin will help generate meta data in the
+Open Graph format and then place it in the head of your web pages. This
+information will then be used by elements such as the Facebook vote and
+share buttons to get the best representation of the content being shared
+or voted on.
+
+To make it easier to follow I have broken up the **Open Graph Options**
+into three parts.
+
+#### Part 1 - Display Where
+
+The first option **Only Articles** allows you to choose if you want to
+add Open Graph information to only the article views or to **Category
+Blog** and **Featured** views as well. *[Figure 4]*
+
+![Figure
+4](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph1.png)
+
+#### Part 2 - Default
+
+##### Title
+
+If you have chosen a **Default Title** this will always display next to
+**og:title** meta tag. **[It's recommended to leave this parameter
+blank]***[Figure 4a]* If you haven’t chosen a default title the title
+will be populated like this:
+
+-   **Category View** = The category title.
+-   **Featured View** = The title of the first article.
+-   **Article View** = The title of the article being viewed.
+
+##### URL
+
+If you have chosen a **Default URL** this will always displayed next to
+**og:url** meta tag. **[**It's recommended to leave this parameter
+blank**]** If you haven’t chosen a default URL the plugin will use the
+current URL of the page being viewed. *[Figure 4a]*
+
+##### Site Name
+
+If you have chosen a **Default Site Name** this will always displayed
+next to **og:site\_name** meta tag.**[**It's recommended to leave this
+parameter blank**]** If you haven’t chosen a default Site Name the
+plugin will use the Site Name set in your websites **Global
+Configuration**. *[Figure 4a]*
+
+##### Description
+
+A page description expands on the page title by including additional
+details typically used as a document preview. The description should
+provide a concise summary of the page in approximately 200 characters or
+fewer. *[Figure 4a]*
+
+-   **1st attempt:** If you have chosen a **Default Description** this
+    will always displayed next to **og:description** meta tag. **[**It's
+    recommended to leave this parameter blank**]**
+-   **2nd Attempt:** If you haven’t chosen a default description the
+    plugin will move onto the meta description of the article being
+    viewed or of the first one displayed in Blog or Featured view.
+-   **3rd attempt:** If the first two options return no description its
+    on to the intro text of the article being viewed or of the first one
+    displayed in Blog or Featured view. The plugin will attempt to
+    extract the first 300 words of the intro text and use those as your
+    description.
+
+##### Type
+
+Choose one of the option from the drop down list. Article is the default
+choice. *[Figure 4b]*
+
+##### Image
+
+Let's face it the image is very important so I have put a bit more time
+into how it will be found. *[Figure 4a]*
+
+-   **1st attempt:** If you have chosen a **Default Image** this will
+    always be displayed next to **og:image** meta tag. **[**It's
+    recommended to leave this parameter blank**]**
+-   **2nd attempt:** If you haven’t chosen a default image the plugin
+    will move onto searching the cwopengraph folder
+    **[images/cwopengraph]** for an image that matches the id of the
+    current article. For example you want a specific image for your
+    latest article which has an ID of 1 then rename the image you want
+    to use to 1.jpg and upload it to the image/cwopengraph folder. The
+    plugin will search in this folder for matching images and if it
+    finds one it will be add to the og:image meta tag. Supported image
+    types are jpg, png and gif.
+-   **Last attempt:** The last thing the plugin will do is search
+    through the article content to find an image and if it does that
+    image will be add to the og:image meta tag.
+
+Note: Facebook will only use images that are at least 200x200 px.
+Generally, FB's parser prefers images that are (1) measured in multiples
+of 100 and (2) square format.
+
+![Figure
+4a](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph2.png)
+
+#### Part 3 - Advanced
+
+##### Application ID
+
+Here you can enter your Facebook Application ID. *[Figure 4b]*
+
+![Figure
+4b](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph3.png)
+
+### 4. Quickicon Plugin Options
+
+The CoalaWeb Social Links extension comes with a **Quick Icon** module
+and plugin to help you know if you have the most up to date version of
+the extension. They work together to display an update icon in the
+**Joomla Control Panel** under the title **CoalaWeb Quick Icons** but if
+you prefer to have the icon display within the default Joomla Quick
+Icons module use *mod\_quickicon* in this field.*[Figure 5]*
+
+![Figure
+5](images/docs/joomla/extensions/social-links/cw-slinks-config-qicon.png)
+
+### 5. Live Update Options
+
+The CoalaWeb Social Links extension comes with a built in one click
+**Live Update** system so both **Core** and **Pro** users can keep their
+extension up to date. For the **Pro** users you will have to copy and
+paste your **Download ID** into this field to allow the update system to
+work. Once you have added your **Download ID** the message displayed in
+the **Control Panel** will disappear. If you try to update and it fails
+make sure you still have a valid subscription and the **ID** is correct.
+*[Figure 6]*
+
+![Figure
+6](images/docs/joomla/extensions/social-links/cw-slinks-config-updates.png)
+
+### 6. Where Is My Download ID [Pro]
+
+To find your **Download ID** log into **coalaweb.com** and from the top
+menu select **Members \> My Subscriptions** scroll down and under **My
+Subscriptions** there is a Module called **Download ID** now copy the
+code and paste it back in your component configuration making sure not
+to include any spaces. *[Figure 7]*
+
+![Figure
+7](images/docs/joomla/extensions/social-links/coalaweb-download-id.png)
+
+### 7. Component Permissions
+
+The last tab contains the permission settings for the CoalaWeb Social
+Links component. *[Figure 8]*
+
+![Figure
+8](images/docs/joomla/extensions/social-links/cw-slinks-config-permissions.png)
+
+Social Links Module
+-------------------
+
+### General Display Options
+
+To make it easier to follow I have broken up the General Display Options
+into two parts.
+
+#### Part 1
+
+In this section you can choose the icon style, size and alignment, title
+alignment as well as the title format. *[Figure 9]*
+
+![Figure
+9](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general1.png)
+
+#### Part 2
+
+You also have the option to turn on or off the display of the **Bookmark
+This** or **Follow Us** sections. *Note: individual items are controlled
+in later sections.* You can also choose if you want borders around the
+different sections of the module as well as their width, the modules
+overall width as a percentage and for the *PRO* users you can also
+select the module layout. *[Figure 9a]*
+
+![Figure
+9a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general2.png)
+
+### Bookmark This Options
+
+To make it easier to follow I have broken up the Bookmark This Options
+into two parts.
+
+#### Part 1 - Default
+
+If you want the same title to be used for all of the BookMark This icons
+all of the time add it here. If have chosen a default link I recommend
+you add a default title as well. If left blank the current title will be
+used. If you want the same link to be used for all of the BookMark This
+icons all of the time add it here. If left blank the current URL will be
+used. - Note: When adding your link use the domain minus the http://
+only add the link in the following format www.socialmedia.com. *[Figure
+10]*
+
+![Figure
+10](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark1.png)
+
+#### Part 2 - Display
+
+This section controls what is displayed in the **Bookmark This** part of
+the module. You can choose to display a title including what text will
+be displayed. *Note: If your site is multilingual leave blank and use
+the language files.* You can also choose the color of the title and the
+border color but only if you selected yes to **Display Borders** in the
+**General Display Options** section. This border will surround the
+**Bookmark This** part of the module. You can enter a \# followed by a
+color reference code such as \#000000 for black or you can use the color
+chooser box to the right of the input field. For the social bookmark
+options themselves, scroll down the list ticking the ones you want to
+display and that's it for the **Bookmark This** section. *[Figure 10a]*
+
+![Figure
+10a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark2.png)
+
+### Follow Us Options
+
+To make it easier to follow I have broken up the Follow Us Options into
+three parts.
+
+#### Part 1 - General
+
+This section controls what is displayed in the **Follow Us** part of the
+module. You can choose to display a title including what text will be
+displayed. *Note: If your site is multilingual leave blank and use the
+language files.* You can also choose the color of the title and the
+border color but only if you selected yes to **Display Borders** in the
+**General Display Options** section. This border will surround the
+**Follow Us** part of the module. You can enter a \# followed by a color
+reference code such as \#000000 for black or you can use the color
+chooser box to the right of the input field. *[Figure 11]*
+
+![Figure
+11](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-follow1.png)
+
+#### Part 2 - Follow US A - Z
+
+To make finding the social media icons easier I have broken them up into
+groups of 5 letters organized alphabetically. For example if you are
+look for Facebook just select the F -J group. Just work your way through
+the groups ticking the ones you want to display and adding their
+corresponding links. *[Figure 11a]*
+
+![Figure
+11a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-follow2.png)
+
+When adding links use the domain without the http:// for example
+**www.facebook.com** or for **Mail Us** email@social.com
+
+#### Part 3 - Custom
+
+Due to popular demand there is now a **Custom Option** and for *PRO*
+users **Three Custom Options** to help with those situation where only a
+custom icon will do. To add a custom icon is very similar to a standard
+**Follow Us** option you have to chose to display it, add a link and
+then two more options. First is the **Hover Text** this displays when
+the icon is hovered over by a mouse. Secondly and more importantly is
+the ability to select the **Custom Icon** you want to display keeping in
+mind what size you selected in the **General Options**. The last option
+allows you to link to an externally located icon just enter the complete
+url for example http://coalaweb.com/images/example.png. *[Figure 11b]*
+
+When adding links use the domain without the http:// for example
+**www.facebook.com**.
+
+![Figure
+11b](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-follow3.png)
+
+### Advanced Options
+
+To make it easier to follow I have broken up the Advanced Options into
+two parts.
+
+#### Part 1
+
+The CoalaWeb Social Links module also has a few of what I consider
+**Advanced Options** such as the option to assign a **Unique Module ID**
+to stop conflicts. You can also give the it a **Module Class Suffix** or
+choose whether to use **Cache** including the **Cache Time**. There is
+also an option to turn off the **Module css** if you want to add your
+own styling. Next is the **NoFollow** option that provides a way to tell
+search engines not to follow a particular link. *[Figure 12]*
+
+![Figure
+12](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-advanced1.png)
+
+#### Part 2 - Show Support
+
+The last option is whether to display a **Link Back to CoalaWeb** as
+always it's appreciated but its up to you plus you can choose what text
+to display next to the link. *Note: If your site is multilingual leave
+blank and use the language files. [Figure 12a]*
+
+![Figure
+12a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-advanced2.png)
+
+Facebook Likebox Module
+-----------------------
+
+The like box is a social module that enables Facebook Page owners to
+attract and gain likes from their own website. The like box enables
+people using your website to do the following:
+
+-   See how many people like the Page, and which of their friends like
+    it, too.
+-   Read recent posts from the Page.
+-   Like the Page with one click, without needing to visit the Page.
+
+Quote: The minimum supported widget width is 292 pixels.
+
+### General Options
+
+The first option in this section allows you to add your Facebook page.
+The easiest way to do that is open up your page and copy and paste the
+link in the box. Note: The URL should be in the following format
+https://www.facebook.com/CoalaWeb. The next option is for you to add
+your Facebook Application ID if you have created one. The last option is
+to select what format you want the widget to display in you have a
+choice of HTML5, XFBML and IFRAME. *[Figure 13]*
+
+![Figure
+13](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-general.png)
+
+### Layout Options
+
+A word on **Responsiveness** I have tried to make the CoalaWeb Like Box
+Module as responsive as possible with in the limitations enforced by
+Facebook. To get the best results I recommend leaving the **Widget Min
+Width** small, no **FB Root Div** and just adjust the height to get the
+best result possible.
+
+This brings me to the actual options available in this section the first
+one is the **Widget Min Width** set this to something small as some
+responsive template frameworks will try to shrink down a module before
+moving it entirely as the page width decreases. Next is the **Widget
+Height** here I recommend testing a few different heights with the other
+setting you have chosen I find 500 quite good if for example you are
+**Displaying Faces** and the **Stream**. Note: If you do not see the
+faces, please set a bigger height (e.g. 630). The next option is the
+**Module Width** not to be confused with the **Widget Width** this is
+the surrounding Joomla module. You might want to reduce this width if
+for example you only have two modules displayed at the bottom of your
+page and you want the Like Box to be a bit more compact. The last option
+in this section is the **FB Root Div** I recommend leaving this option
+set to **No** unless you have a very specific reason and especially if
+you are look for the best responsive results.*[Figure 14]*
+
+![Figure
+14](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-layout.png)
+
+### Style Options
+
+This section contains some style options the first one is the **Color
+Style** you have a choice of Light or Dark. *Note: These widget color
+styles are controlled by Facebook.* The next option allows you to turn
+on or off a **Border** around the widget. The next one allows to chose
+if you want the small **Face** boxes to be displayed in the module. The
+last one gives you the option to turn on or off the Facebook **Header**
+at the top of the module. *[Figure 15]*
+
+![Figure
+15](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-style.png)
+
+### Extra Options
+
+In the this section you have two option the first one is the choice of
+turning on or off the display of a **Stream** of the latest posts from
+your Page's wall. The second option is **Force Wall** this is for
+Places, specifies whether the stream contains posts from the Place's
+wall or just checkins from friends.*[Figure 16]*
+
+![Figure
+16](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-extra.png)
+
+### Advanced Options
+
+The CoalaWeb Social Links module also has a few of what I consider
+**Advanced Options** such as the option to assign a **Unique Module ID**
+to stop conflicts, a **Module Class Suffix** or whether to use **Cache**
+including the **Cache Time**. This next option allows you to load the
+**Facebook JavaScript library**. It works with the XFBML and HTML5
+layouts and should only be loaded once so if you are using other
+Facebook widgets only select yes in one of them. There is also an option
+to turn off the **Module css** if you want to add your own styling. Next
+is the **NoFollow** option this provides a way to tell search engines
+don't follow a particular link. The last option is whether to display a
+**Link Back to CoalaWeb** as always it's appreciated but its up to you
+plus you can choose what text to display next to the link. *Note: If
+your site is multilingual leave blank and use the language files.
+[Figure 17]*
+
+![Figure
+17](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-advanced.png)
+Google Plus Module
+------------------
+
+CoalaWeb G Plus is a social module that helps you link your Google+ page
+to your site. Get more recommendations for your site in Google search
+and grow your audience on Google+.
+
+You have a choice of the following badge types:
+
+-   Page
+-   Profile
+-   Community
+
+Valid Ranges: Portrait 180-450 px Landscape 273-450 px
+
+### General Options
+
+The first thing you will need to decide is what type of badge you want
+to display. You have the option to display a Profile, Page or Community
+depending on your needs. You will only need to fill in one of the next
+three options based on your type choice. *Figure 18*
+
+If you need more than one type of badge just create another module.
+
+![Figure
+18](images/docs/joomla/extensions/social-links/cw-gplus-mod-config-general.png)
+
+### Layout & Style Options
+
+To make it easier to follow I have broken up the Layout & Style Options
+into two parts.
+
+#### Part 1
+
+The options found here will affect all the badge types. The first one is
+**Layout**, you can choose to display the badge in Portrait [Vertical]
+or Landscape [Horizontal]. Next you have the option to choose the width
+of the badge in pixels. The following ranges are valid: Portrait layout
+180-450 pixels Landscape layout 273-450 pixels. Next you have a choice
+of Light or Dark. Note: These badge color styles are controlled by
+Google. The next option specifies whether or not to show the tag line
+and the last option is whether or not to display the cover photo in the
+badge. Note: Only if the photo exists. *Figure 18a*
+
+![Figure
+18a](images/docs/joomla/extensions/social-links/cw-gplus-mod-config-layout1.png)
+
+#### Part 2
+
+The next option is to Display Owners this is only aplicable to the
+Community type badge. The last option is the Module Alignment here you
+can choose one of three options Left, Right or Center. *Firgure 18b*
+
+![Figure
+18b](images/docs/joomla/extensions/social-links/cw-gplus-mod-config-layout2.png)
+
+### Advanced Options
+
+To make it easier to follow I have broken up the Advanced Options into
+two parts.
+
+#### Part 1
+
+The CoalaWeb G Plus module also has a few of what I consider **Advanced
+Options** such as the option to assign a **Unique Module ID** to stop
+conflicts. You can also give the it a **Module Class Suffix** or choose
+whether to use **Cache** including the **Cache Time**. There is also
+options to turn on or off the **Module css** and **Google JS**if you
+want. *[Figure 18c]*
+
+![Figure
+18c](images/docs/joomla/extensions/social-links/cw-gplus-mod-config-advanced1.png)
+
+#### Part 2 - Show Support
+
+The last option is whether to display a **Link Back to CoalaWeb** as
+always it's appreciated but its up to you plus you can choose what text
+to display next to the link. *Note: If your site is multilingual leave
+blank and use the language files. [Figure 18d]*
+
+![Figure
+18d](images/docs/joomla/extensions/social-links/cw-gplus-mod-config-advanced2.png)
+
+Plugins [PRO Version Only]
+--------------------------
+
+### Social Likes
+
+The **CoalaWeb Social Likes** plugin is a content plugin designed to
+display all of the popular social networking vote buttons in several
+formats and locations within your **Joomla** and **K2 content**. All of
+the configuration options for this particular plugin can be found in the
+accompanying component under **Extension Options**. If you can't see the
+buttons make sure you have the plugin installed and published and that
+you have selected the appropriate configuration options. *[Figure 19]*
+
+![Figure
+19](images/docs/joomla/extensions/social-links/cw-slinks-plg-content.png)
+
+### Open Graph
+
+#### What is Open Graph?
+
+> An Open Graph object is a regular web page with additional structured
+> data marked up using RDFa Core 1.1 syntax placed in your HTML
+> document's element. A Facebook server downloads a copy of your web
+> page, extracts relevant data, and stores an object representation for
+> future use. Facebook attempts to extract relevant data from links
+> shared on Facebook as well as URL properties passed as part of an Open
+> Graph action.
+
+Facebook Open Graph objects are marked up using Open Graph protocol,
+properties specific to Facebook, and properties specific to your
+Facebook application.
+
+The CoalaWeb Open Graph plugin allows you to add default values for the
+parameters outlined below or dynamically populates them in a variety of
+different ways see [Open Graph Plugin Options [Pro]](#options-og) for
+more details. *[Figure 20]*
+
+##### Open graph Parameters
+
+-   og:url
+-   og:type
+-   og:title
+-   og:image
+-   og:description
+-   og:site\_name
+-   fb:app\_id
+
+![Figure
+20](images/docs/joomla/extensions/social-links/cw-slinks-plg-opengraph.png)
+
+### Zoo Elements - Social Likes
+
+The **CoalaWeb Zoo Elements** plugin is a system plugin designed to
+integrate custom elements and in this case a variety of popular social
+vote buttons into your zoo applications. Once the plugin is installed
+and publish you will be able to carry out the following steps and
+display them where ever you want through out your Zoo content.
+
+The first step is to open up **Zoo** and click the small **Gear Icon**.
+*Figure 21*
+
+![Figure
+21](images/docs/joomla/extensions/social-links/cw-zoo-plg-config1.png)
+
+Now select the **App** you want to add the CoalaWeb Social Likes button
+too for this example we will choose Blog so click **Blog** and then
+select **Article \> Edit Elements**. *Figure 21a*
+
+![Figure
+21a](images/docs/joomla/extensions/social-links/cw-zoo-plg-config2.png)
+
+If the plugin was installed and published properly you should now have a
+new element available under **Social** called **CoalaWeb Social Likes**
+click it once to add it to your **Article** layout. *Figure 21b*
+
+![Figure
+21b](images/docs/joomla/extensions/social-links/cw-zoo-plg-config3.png)
+
+Now give your new element a **Name**, **Description** and choose the
+appropriate settings for the other options and when you are ready click
+**Save & Close**. *Figure 21c*
+
+![Figure
+21c](images/docs/joomla/extensions/social-links/cw-zoo-plg-config4.png)
+
+Now we need to add the newly available element to our **Template** for
+this example we are using the **Default template** and the **Full
+Layout**. *Figure 21d*
+
+![Figure
+21d](images/docs/joomla/extensions/social-links/cw-zoo-plg-config5.png)
+
+Once the new window has opened you can drag and drop the **CoalaWeb
+Social** Custom element over to your desired location I have chosen
+**Bottom**. Feel free to turn on or off the **Label** or even give it an
+**Alternative Label** when you are happy click **Save & Close**. *Figure
+21e*
+
+![Figure
+21e](images/docs/joomla/extensions/social-links/cw-zoo-plg-config6.png)
+
+Now in each of your Articles you will have a new option named what you
+chose back at the start in our case CoalaWeb Social. Just set it to Yes
+and the buttons will magically appear. *Figure 21f*
+
+![Figure
+21f](images/docs/joomla/extensions/social-links/cw-zoo-plg-config7.png)
+
+Need More Help - [Back to Top](#toc)
+------------------------------------
+
+Do you have a question that wasn't covered by the GUIDE? Try the
+[FAQ](/support-menu/documentation/item/coalaweb-social-links-faq).Do you
+have a question that wasn't covered by the GUIDE or the FAQ? Then it's
+time to drop by the [Forum](forum/coalaweb-social-links) I'm sure we can
+help.
