@@ -705,7 +705,9 @@ you have selected the appropriate configuration options. *[Figure 19]*
 
 ### Social Panel
 
-<span class="tip" markdown="1">Social Panel needs jQuery to function correctly. If you don't already have it loaded use the System - CW Gears plugin.</span>
+<span class="tip" markdown="1">Social Panel needs jQuery to function correctly. 
+If you don't already have it loaded use the System - CW Gears plugin.</span>
+
 The **CoalaWeb Social Panel** is a content plugin designed to display a 
 variety of social network vote buttons in your Joomla and K2 article views. 
 They will be displayed in a vertical collapsible bar to the side of the article 
@@ -715,7 +717,7 @@ buttons make sure you have the plugin installed and published and that
 you have selected the appropriate configuration options. *[Figure 20]*
 
 ![Figure
-20](images/docs/joomla/extensions/social-links/cw-slinks-plg-content.png){.coalaweb-docs}
+20](images/docs/joomla/extensions/social-links/cw-slinks-plg-panel.png){.coalaweb-docs}
 
 ### Open Graph
 
