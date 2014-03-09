@@ -70,8 +70,7 @@ clicked will open a pop up containing the various extension options.
 
 ### 1. Content Plugin Options [Pro]
 
-Some of the options selected here will affect the display of the buttons
-in Joomla, K2 and Zoo.
+<span class="tip" markdown="1">Some of the options selected here will affect the display of the buttons in Joomla, K2 and Zoo.</span>
 
 To make it easier to follow I have broken up the **Content Plugin
 Options** into three parts.
@@ -156,8 +155,7 @@ amount of space above the panel and will affect both panel styles. The
 top space is measure in % so just enter a number, 15 is the default and
 works well in most situations. *[Figure 23b]*
 
-The Fixed Style will automatically convert to Collapse when the page
-reaches a certain size.
+<span class="tip" markdown="1">The Fixed Style will automatically convert to Collapse when the page reaches a certain size.</span>
 
 ![Figure
 23b](images/docs/joomla/extensions/social-links/cw-slinks-config-panel3.png){.coalaweb-docs}
@@ -304,9 +302,9 @@ into how it will be found. *[Figure 4a]*
     through the article content to find an image and if it does that
     image will be add to the og:image meta tag.
 
-Note: Facebook will only use images that are at least 200x200 px.
-Generally, FB's parser prefers images that are (1) measured in multiples
-of 100 and (2) square format.
+<span class="tip" markdown="1">Note: FB will only use images that are at least 200x200 px.
+FB prefers images that are measured in multiples
+of 100 and square format.</span>
 
 ![Figure
 4a](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph2.png){.coalaweb-docs}
@@ -520,7 +518,7 @@ people using your website to do the following:
 -   Read recent posts from the Page.
 -   Like the Page with one click, without needing to visit the Page.
 
-Quote: The minimum supported widget width is 292 pixels.
+<span class="tip" markdown="1">Quote: The minimum supported widget width is 292 pixels.<span>
 
 ### General Options
 
@@ -705,8 +703,7 @@ you have selected the appropriate configuration options. *[Figure 19]*
 
 ### Social Panel
 
-<span class="tip" markdown="1">Social Panel needs jQuery to function correctly. 
-If you don't already have it loaded use the System - CW Gears plugin.</span>
+<span class="tip" markdown="1">Social Panel needs jQuery to function correctly. If you don't already have it loaded use the System - CW Gears plugin.</span>
 
 The **CoalaWeb Social Panel** is a content plugin designed to display a 
 variety of social network vote buttons in your Joomla and K2 article views. 
@@ -812,8 +809,6 @@ and the buttons will magically appear. *[Figure 22f]*
 Need More Help - [Back to Top](#toc)
 ------------------------------------
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the
-[FAQ](/support-menu/documentation/item/coalaweb-social-links-faq).</span>
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's
-time to drop by the [Forum](forum/coalaweb-social-links) I'm sure we can
-help.</span>
+<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](/support-menu/documentation/item/coalaweb-social-links-faq).</span>
+
+<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](forum/coalaweb-social-links) I'm sure we can help.</span>
