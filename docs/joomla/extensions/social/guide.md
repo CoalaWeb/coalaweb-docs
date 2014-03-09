@@ -38,7 +38,7 @@
 
 6.  [Need More Help?](#more-help)
 
-##Component {#component-guide}
+## Component {#component-guide}
 ### Control Panel {#control-panel}
 
 The **Control Panel** as seen below it is designed to be an easy
@@ -66,7 +66,7 @@ out leaving the control panel. *[Figure 2]*
 In the control panel or the tool menu you have a options icon that when
 clicked will open a pop up containing the various extension options.
 
-### 1. Content Plugin Options [Pro]
+### 1. Content Plugin Options [Pro] {#options-content}
 
 <span class="tip" markdown="1">Some of the options selected here will affect the display of the buttons in Joomla, K2 and Zoo.</span>
 
@@ -101,7 +101,7 @@ buttons in Joomla and K2. *[Figure 3b]*
 
 ![Figure 3b](images/docs/joomla/extensions/social-links/cw-slinks-config-content3.png){.coalaweb-docs}
 
-### 2. Panel Plugin Options [Pro]
+### 2. Panel Plugin Options [Pro] {#options-panel}
 
 ![Figure 23](images/docs/joomla/extensions/social-links/cw-slinks-config-panel1.png){.coalaweb-docs}
 
@@ -193,7 +193,7 @@ buttons in Joomla and K2. *[Figure 23e]*
 
 ![Figure 23e](images/docs/joomla/extensions/social-links/cw-slinks-config-panel6.png){.coalaweb-docs}
 
-### 3. Open Graph Plugin Options [Pro]
+### 3. Open Graph Plugin Options [Pro] {#options-og}
 
 The **CoalaWeb Open Graph** plugin will help generate meta data in the
 Open Graph format and then place it in the head of your web pages. This
@@ -299,7 +299,7 @@ Here you can enter your Facebook Application ID. *[Figure 4b]*
 
 ![Figure 4b](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph3.png){.coalaweb-docs}
 
-### 4. Quickicon Plugin Options
+### 4. Quickicon Plugin Options {#options-quick}
 
 The CoalaWeb Social Links extension comes with a **Quick Icon** module
 and plugin to help you know if you have the most up to date version of
@@ -310,7 +310,7 @@ Icons module use *mod\_quickicon* in this field. *[Figure 5]*
 
 ![Figure 5](images/docs/joomla/extensions/social-links/cw-slinks-config-qicon.png){.coalaweb-docs}
 
-### 5. Live Update Options
+### 5. Live Update Options {#options-updates}
 
 The CoalaWeb Social Links extension comes with a built in one click
 **Live Update** system so both **Core** and **Pro** users can keep their
@@ -322,7 +322,7 @@ make sure you still have a valid subscription and the **ID** is correct. *[Figur
 
 ![Figure 6](images/docs/joomla/extensions/social-links/cw-slinks-config-updates.png){.coalaweb-docs}
 
-### 6. Where Is My Download ID [Pro]
+### 6. Where Is My Download ID [Pro] {#options-downloadid}
 
 To find your **Download ID** log into **coalaweb.com** and from the top
 menu select **Members \> My Subscriptions** scroll down and under **My
@@ -332,17 +332,16 @@ to include any spaces. *[Figure 7]*
 
 ![Figure 7](images/docs/joomla/extensions/social-links/coalaweb-download-id.png){.coalaweb-docs}
 
-### 7. Component Permissions
+### 7. Component Permissions {#options-permissions}
 
 The last tab contains the permission settings for the CoalaWeb Social
 Links component. *[Figure 8]*
 
 ![Figure 8](images/docs/joomla/extensions/social-links/cw-slinks-config-permissions.png){.coalaweb-docs}
 
-Social Links Module
--------------------
+## Social Links Module {#module}
 
-### General Display Options
+### General Display Options {#mod-general}
 
 <span class="info" markdown="1">To make it easier to follow I have broken up the **General Display Options** into two parts.</span>
 
@@ -364,7 +363,7 @@ select the module layout. *[Figure 9a]*
 
 ![Figure 9a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general2.png){.coalaweb-docs}
 
-### Bookmark This Options
+### Bookmark This Options {#mod-bookmark}
 
 <span class="info" markdown="1">To make it easier to follow I have broken up the **Bookmark This Options** into two parts.</span>
 
@@ -396,10 +395,9 @@ display and that's it for the **Bookmark This** section. *[Figure 10a]*
 
 ![Figure 10a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark2.png){.coalaweb-docs}
 
-### Follow Us Options
+### Follow Us Options {#mod-follow}
 
-To make it easier to follow I have broken up the Follow Us Options into
-three parts.
+<span class="info" markdown="1">To make it easier to follow I have broken up the Follow Us Options into three parts.</span>
 
 #### Part 1 - General
 
@@ -441,12 +439,11 @@ mind what size you selected in the **General Options**. The last option
 allows you to link to an externally located icon just enter the complete
 url for example http://coalaweb.com/images/example.png. *[Figure 11b]*
 
-When adding links use the domain without the http:// for example
-**www.facebook.com**.
+<span class="tip" markdown="1">When adding links use the domain without the http:// for example **www.facebook.com**.</span>
 
 ![Figure 11b](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-follow3.png){.coalaweb-docs}
 
-### Advanced Options
+### Advanced Options {#mod-advanced}
 
 <span class="info" markdown="1">To make it easier to follow I have broken up the **Advanced Options** into two parts.</span>
 
@@ -471,8 +468,7 @@ blank and use the language files. [Figure 12a]*
 
 ![Figure 12a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-advanced2.png){.coalaweb-docs}
 
-Facebook Likebox Module
------------------------
+## Facebook Likebox Module {#module-lbox}
 
 The like box is a social module that enables Facebook Page owners to
 attract and gain likes from their own website. The like box enables
@@ -485,7 +481,7 @@ people using your website to do the following:
 
 <span class="tip" markdown="1">Quote: The minimum supported widget width is 292 pixels.<span>
 
-### General Options
+### General Options {#mod-lb-general}
 
 The first option in this section allows you to add your Facebook page.
 The easiest way to do that is open up your page and copy and paste the
@@ -497,7 +493,7 @@ choice of HTML5, XFBML and IFRAME. *[Figure 13]*
 
 ![Figure 13](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-general.png){.coalaweb-docs}
 
-### Layout Options
+### Layout Options {#mod-lb-layout}
 
 A word on **Responsiveness** I have tried to make the CoalaWeb Like Box
 Module as responsive as possible with in the limitations enforced by
@@ -523,7 +519,7 @@ you are look for the best responsive results. *[Figure 14]*
 
 ![Figure 14](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-layout.png){.coalaweb-docs}
 
-### Style Options
+### Style Options {#mod-lb-style}
 
 This section contains some style options the first one is the **Color
 Style** you have a choice of Light or Dark. *Note: These widget color
@@ -535,7 +531,7 @@ at the top of the module. *[Figure 15]*
 
 ![Figure 15](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-style.png){.coalaweb-docs}
 
-### Extra Options
+### Extra Options {#mod-lb-extra}
 
 In the this section you have two option the first one is the choice of
 turning on or off the display of a **Stream** of the latest posts from
@@ -545,7 +541,7 @@ wall or just checkins from friends. *[Figure 16]*
 
 ![Figure 16](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-extra.png){.coalaweb-docs}
 
-### Advanced Options
+### Advanced Options {#mod-lb-advanced}
 
 The CoalaWeb Social Links module also has a few of what I consider
 **Advanced Options** such as the option to assign a **Unique Module ID**
@@ -563,8 +559,7 @@ your site is multilingual leave blank and use the language files. [Figure 17]*
 
 ![Figure 17](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-advanced.png){.coalaweb-docs}
 
-Google Plus Module
-------------------
+## Google Plus Module {#module-gplus}
 
 CoalaWeb G Plus is a social module that helps you link your Google+ page
 to your site. Get more recommendations for your site in Google search
@@ -576,20 +571,20 @@ You have a choice of the following badge types:
 -   Profile
 -   Community
 
-Valid Ranges: Portrait 180-450 px Landscape 273-450 px
+<span class="tip" markdown="1">Valid Ranges: Portrait 180-450 px Landscape 273-450px </span>
 
-### General Options
+### General Options {#mod-gplus-general}
 
 The first thing you will need to decide is what type of badge you want
 to display. You have the option to display a Profile, Page or Community
 depending on your needs. You will only need to fill in one of the next
 three options based on your type choice. *[Figure 18]*
 
-If you need more than one type of badge just create another module.
+<span class="tip" markdown="1">If you need more than one type of badge just create another module.</span>
 
 ![Figure 18](images/docs/joomla/extensions/social-links/cw-gplus-mod-config-general.png){.coalaweb-docs}
 
-### Layout & Style Options
+### Layout & Style Options {#mod-gplus-layout}
 
 <span class="info" markdown="1">To make it easier to follow I have broken up the **Layout & Style Options** into two parts.</span>
 
@@ -615,7 +610,7 @@ can choose one of three options Left, Right or Center. *[Figure 18b]*
 
 ![Figure 18b](images/docs/joomla/extensions/social-links/cw-gplus-mod-config-layout2.png){.coalaweb-docs}
 
-### Advanced Options
+### Advanced Options {#mod-gplus-advanced}
 
 <span class="info" markdown="1">To make it easier to follow I have broken up the **Advanced Options** into two parts.</span>
 
@@ -639,10 +634,9 @@ blank and use the language files. [Figure 18d]*
 
 ![Figure 18d](images/docs/joomla/extensions/social-links/cw-gplus-mod-config-advanced2.png){.coalaweb-docs}
 
-Plugins [PRO Version Only]
---------------------------
+## Plugins [PRO Version Only] {#plg}
 
-### Social Likes
+### Social Likes {#plg-content}
 
 The **CoalaWeb Social Likes** plugin is a content plugin designed to
 display all of the popular social networking vote buttons in several
@@ -654,7 +648,7 @@ you have selected the appropriate configuration options. *[Figure 19]*
 
 ![Figure 19](images/docs/joomla/extensions/social-links/cw-slinks-plg-content.png){.coalaweb-docs}
 
-### Social Panel
+### Social Panel {#plg-panel}
 
 <span class="tip" markdown="1">Social Panel needs jQuery to function correctly. If you don't already have it loaded use the System - CW Gears plugin.</span>
 
@@ -668,7 +662,7 @@ you have selected the appropriate configuration options. *[Figure 20]*
 
 ![Figure 20](images/docs/joomla/extensions/social-links/cw-slinks-plg-panel.png){.coalaweb-docs}
 
-### Open Graph
+### Open Graph {#plg-og}
 
 #### What is Open Graph?
 
@@ -701,7 +695,7 @@ more details. *[Figure 21]*
 
 ![Figure 21](images/docs/joomla/extensions/social-links/cw-slinks-plg-opengraph.png){.coalaweb-docs}
 
-### Zoo Elements - Social Likes
+### Zoo Elements - Social Likes {#plg-zoo}
 
 The **CoalaWeb Zoo Elements** plugin is a system plugin designed to
 integrate custom elements and in this case a variety of popular social
@@ -750,8 +744,7 @@ and the buttons will magically appear. *[Figure 22f]*
 
 ![Figure 22f](images/docs/joomla/extensions/social-links/cw-zoo-plg-config7.png){.coalaweb-docs}
 
-Need More Help - [Back to Top](#toc)
-------------------------------------
+## Need More Help {#more-help}
 
 <span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](/support-menu/documentation/item/coalaweb-social-links-faq).</span>
 
