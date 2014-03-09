@@ -44,8 +44,7 @@
 The **Control Panel** as seen below it is designed to be an easy
 starting point, think of it as the components head quarters. While
 carrying out tasks you can easily jump from the **Control Panel** to the
-different sections and then return before moving onto the next one.
-*[Figure 1]*
+different sections and then return before moving onto the next one. *[Figure 1]*
 
 ![Figure
 1](images/docs/joomla/extensions/social-links/cw-slinks-cpanel.png)
@@ -152,7 +151,7 @@ Give the theme a differnt name and edit the files as needed. All the
 folders located in the themes directory will automatically be listed in
 the **Form Theme** select list.
 
-The last option in the Layout 7 Stle options is Top Space this is the
+The last option listed under Layout and Style is Top Space this is the
 amount of space above the panel and will affect both panel styles. The
 top space is measure in % so just enter a number, 15 is the default and
 works well in most situations. *[Figure 23b]*
@@ -170,8 +169,7 @@ can choose the Convert Width if the page is reduced smaller than the
 width entered here it will automatically convert to the Collapse style.
 The last option in this section is the side space this is the amount of
 space between the side of the page and the panel it is measured in % so
-just enter a number, 5 is the default and works well in most situations.
-*[Figure 23c]*
+just enter a number, 5 is the default and works well in most situations. *[Figure 23c]*
 
 ![Figure
 23c](images/docs/joomla/extensions/social-links/cw-slinks-config-panel4.png){.coalaweb-docs}
@@ -196,7 +194,7 @@ close. Durations are given in milliseconds; higher values indicate
 slower animations, not faster ones. The default duration is 400
 milliseconds. The last two options affect the animation style, you have
 a lot to choose from so experiment until you find the ones you
-like.*[Figure 23d]*
+like. *[Figure 23d]*
 
 ![Figure
 23d](images/docs/joomla/extensions/social-links/cw-slinks-config-panel5.png){.coalaweb-docs}
@@ -235,8 +233,11 @@ Blog** and **Featured** views as well. *[Figure 4]*
 ##### Title
 
 If you have chosen a **Default Title** this will always display next to
-**og:title** meta tag. **[It's recommended to leave this parameter
-blank]***[Figure 4a]* If you haven’t chosen a default title the title
+**og:title** meta tag.  *[Figure 4a]* 
+
+**[It's recommended to leave this parameter blank]**
+
+If you haven’t chosen a default title the title
 will be populated like this:
 
 -   **Category View** = The category title.
@@ -326,7 +327,7 @@ and plugin to help you know if you have the most up to date version of
 the extension. They work together to display an update icon in the
 **Joomla Control Panel** under the title **CoalaWeb Quick Icons** but if
 you prefer to have the icon display within the default Joomla Quick
-Icons module use *mod\_quickicon* in this field.*[Figure 5]*
+Icons module use *mod\_quickicon* in this field. *[Figure 5]*
 
 ![Figure
 5](images/docs/joomla/extensions/social-links/cw-slinks-config-qicon.png){.coalaweb-docs}
@@ -339,8 +340,7 @@ extension up to date. For the **Pro** users you will have to copy and
 paste your **Download ID** into this field to allow the update system to
 work. Once you have added your **Download ID** the message displayed in
 the **Control Panel** will disappear. If you try to update and it fails
-make sure you still have a valid subscription and the **ID** is correct.
-*[Figure 6]*
+make sure you still have a valid subscription and the **ID** is correct. *[Figure 6]*
 
 ![Figure
 6](images/docs/joomla/extensions/social-links/cw-slinks-config-updates.png){.coalaweb-docs}
@@ -405,8 +405,7 @@ you add a default title as well. If left blank the current title will be
 used. If you want the same link to be used for all of the BookMark This
 icons all of the time add it here. If left blank the current URL will be
 used. - Note: When adding your link use the domain minus the http://
-only add the link in the following format www.socialmedia.com. *[Figure
-10]*
+only add the link in the following format www.socialmedia.com. *[Figure 10]*
 
 ![Figure
 10](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark1.png){.coalaweb-docs}
@@ -558,7 +557,7 @@ for example you only have two modules displayed at the bottom of your
 page and you want the Like Box to be a bit more compact. The last option
 in this section is the **FB Root Div** I recommend leaving this option
 set to **No** unless you have a very specific reason and especially if
-you are look for the best responsive results.*[Figure 14]*
+you are look for the best responsive results. *[Figure 14]*
 
 ![Figure
 14](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-layout.png){.coalaweb-docs}
@@ -582,7 +581,7 @@ In the this section you have two option the first one is the choice of
 turning on or off the display of a **Stream** of the latest posts from
 your Page's wall. The second option is **Force Wall** this is for
 Places, specifies whether the stream contains posts from the Place's
-wall or just checkins from friends.*[Figure 16]*
+wall or just checkins from friends. *[Figure 16]*
 
 ![Figure
 16](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-extra.png){.coalaweb-docs}
@@ -760,7 +759,7 @@ vote buttons into your zoo applications. Once the plugin is installed
 and publish you will be able to carry out the following steps and
 display them where ever you want through out your Zoo content.
 
-The first step is to open up **Zoo** and click the small **Gear Icon**.*[Figure 22]*
+The first step is to open up **Zoo** and click the small **Gear Icon**. *[Figure 22]*
 
 ![Figure
 22](images/docs/joomla/extensions/social-links/cw-zoo-plg-config1.png){.coalaweb-docs}
@@ -781,14 +780,14 @@ click it once to add it to your **Article** layout. *[Figure 22b]*
 
 Now give your new element a **Name**, **Description** and choose the
 appropriate settings for the other options and when you are ready click
-**Save & Close**.[*Figure 22c]*
+**Save & Close**. *[Figure 22c]*
 
 ![Figure
 22c](images/docs/joomla/extensions/social-links/cw-zoo-plg-config4.png){.coalaweb-docs}
 
 Now we need to add the newly available element to our **Template** for
 this example we are using the **Default template** and the **Full
-Layout**.*[Figure 22d]*
+Layout**. *[Figure 22d]*
 
 ![Figure
 22d](images/docs/joomla/extensions/social-links/cw-zoo-plg-config5.png){.coalaweb-docs}
@@ -796,15 +795,14 @@ Layout**.*[Figure 22d]*
 Once the new window has opened you can drag and drop the **CoalaWeb
 Social** Custom element over to your desired location I have chosen
 **Bottom**. Feel free to turn on or off the **Label** or even give it an
-**Alternative Label** when you are happy click **Save & Close**.[*Figure
-22e]*
+**Alternative Label** when you are happy click **Save & Close**. *[Figure 22e]*
 
 ![Figure
 22e](images/docs/joomla/extensions/social-links/cw-zoo-plg-config6.png){.coalaweb-docs}
 
 Now in each of your Articles you will have a new option named what you
 chose back at the start in our case CoalaWeb Social. Just set it to Yes
-and the buttons will magically appear.*[Figure 22f]*
+and the buttons will magically appear. *[Figure 22f]*
 
 ![Figure
 22f](images/docs/joomla/extensions/social-links/cw-zoo-plg-config7.png){.coalaweb-docs}
