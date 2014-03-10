@@ -38,7 +38,7 @@
 
 6.  [Need More Help?](#more-help)
 
-## Component {#component-guide}
+## Component
 ### Control Panel {#control-panel}
 
 The **Control Panel** as seen below it is designed to be an easy
@@ -230,15 +230,15 @@ will be populated like this:
 ##### URL
 
 If you have chosen a **Default URL** this will always displayed next to
-**og:url** meta tag. **[**It's recommended to leave this parameter
-blank**]** If you haven’t chosen a default URL the plugin will use the
+**og:url** meta tag. **Note:It's recommended to leave this parameter
+blank.** If you haven’t chosen a default URL the plugin will use the
 current URL of the page being viewed. *[Figure 4a]*
 
 ##### Site Name
 
 If you have chosen a **Default Site Name** this will always displayed
-next to **og:site\_name** meta tag.**[**It's recommended to leave this
-parameter blank**]** If you haven’t chosen a default Site Name the
+next to **og:site\_name** meta tag. **Note:It's recommended to leave this
+parameter blank.** If you haven’t chosen a default Site Name the
 plugin will use the Site Name set in your websites **Global
 Configuration**. *[Figure 4a]*
 
@@ -250,8 +250,8 @@ provide a concise summary of the page in approximately 200 characters or
 fewer. *[Figure 4a]*
 
 -   **1st attempt:** If you have chosen a **Default Description** this
-    will always displayed next to **og:description** meta tag. **[**It's
-    recommended to leave this parameter blank**]**
+    will always displayed next to **og:description** meta tag. **Note:It's
+    recommended to leave this parameter blank**
 -   **2nd Attempt:** If you haven’t chosen a default description the
     plugin will move onto the meta description of the article being
     viewed or of the first one displayed in Blog or Featured view.
@@ -272,8 +272,8 @@ Let's face it the image is very important so I have put a bit more time
 into how it will be found. *[Figure 4a]*
 
 -   **1st attempt:** If you have chosen a **Default Image** this will
-    always be displayed next to **og:image** meta tag. **[**It's
-    recommended to leave this parameter blank**]**
+    always be displayed next to **og:image** meta tag. **Note:It's
+    recommended to leave this parameter blank**
 -   **2nd attempt:** If you haven’t chosen a default image the plugin
     will move onto searching the cwopengraph folder
     **[images/cwopengraph]** for an image that matches the id of the
