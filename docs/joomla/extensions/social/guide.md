@@ -57,16 +57,16 @@ out leaving the control panel. *[Figure 2]*
 
 ![Figure 2](images/docs/joomla/extensions/social-links/cw-slinks-help.png){.coalaweb-docs}
 
-### One Click Updates {#updates}
+### <a name="updates"></a>One Click Updates
 
 #### Coming Soon!
 
-### Extension Options {#options}
+### <a name="options"></a>Extension Options
 
 In the control panel or the tool menu you have a options icon that when
 clicked will open a pop up containing the various extension options.
 
-### 1. Content Plugin Options [Pro] {#options-content}
+### 1. <a name="options-content"></a>Content Plugin Options \[Pro\]
 
 <span class="tip" markdown="1">Some of the options selected here will affect the display of the buttons in Joomla, K2 and Zoo.</span>
 
