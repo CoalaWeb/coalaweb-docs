@@ -38,8 +38,8 @@
 
 6.  [Need More Help?](#more-help)
 
-## Component
-### Control Panel {#control-panel}
+## <a name="component-guide"></a>Component
+### Control Panel{#control-panel}
 
 The **Control Panel** as seen below it is designed to be an easy
 starting point, think of it as the components head quarters. While
