@@ -4,13 +4,14 @@
     -   [One Click Updates](#updates)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
-        - [1. Content Plugin Options \[Pro\]](#options-content)
-        - [2. Panel Plugin Options \[Pro\]](#options-panel)
-        - [3. Open Graph Plugin Options \[Pro\]](#options-og)
-        - [4. Quickicon Plugin Options](#options-quick)
-        - [5. Live Update Options](#options-updates)
-        - [6. Where Is My Download ID \[Pro\]](#options-downloadid)
-        - [7. Component Permissions](#options-permissions)
+        - [1. Extra Options \[Pro\]](#options-extra)
+        - [2. Content Plugin Options \[Pro\]](#options-content)
+        - [3. Panel Plugin Options \[Pro\]](#options-panel)
+        - [4. Open Graph Plugin Options \[Pro\]](#options-og)
+        - [5. Quickicon Plugin Options](#options-quick)
+        - [6. Live Update Options](#options-updates)
+        - [7. Where Is My Download ID \[Pro\]](#options-downloadid)
+        - [8. Component Permissions](#options-permissions)
 
 2.  [Social Module Guide](#module)
     -   [General Display Options](#mod-general)
@@ -66,7 +67,51 @@ out leaving the control panel. *\[Figure 2\]*
 In the control panel or the tool menu you have a options icon that when
 clicked will open a pop up containing the various extension options.
 
-### 1. <a name="options-content"></a>Content Plugin Options \[Pro\]
+### 1. <a name="options-extra"></a>Extra Options \[Pro\]
+
+#### URL Shortener
+
+<span class="info">Note: cURL is necessary for the system to function correctly.</span>
+
+To check if you have cURL installed open up your **PHP Information** page found under
+
+`System → System Information → PHP Information`
+
+and scroll down or search the page looking for something similar to *\[Figure 24\]*
+
+![Figure 24](images/docs/joomla/extensions/social-links/cw-slinks-config-extra1.png){.coalaweb-docs}
+
+Now that we have made sure cURL is installed lets move onto the configuration options. The first option 
+is whether to turn on the shortening system and which service you wish to use (Currently only Google is avliable).
+
+Next enter the **API Key** your received from your shortening service provider making sure to not leave any extra spaces.
+
+<span class="tip">For more info on how to get an API key scroll down to **How do I get an API Key?**.</span
+
+Next you can choose which URL's you wish to have shortened keeping in mind that the system will alter URLs so in some cases 
+the current votes will disappear. Don't worry they aren't lost you can turn off the system and they will return but it works
+both ways votes counted while using the shortening service in some cases will disappear when changing back.*\[Figure 24\]*
+
+<span class="tip">I recommend at least turning it on the Social Links module as there isn't a visible count.</span>
+
+![Figure 24a](images/docs/joomla/extensions/social-links/cw-slinks-config-extra2.png){.coalaweb-docs}
+
+#### How do I get an API Key? (Google)
+
+Firstly log into your Google account and then go to the API Console using this [link](https://code.google.com/apis/console) you should end up in the **Google Developers Console** from the left menu select:
+
+`APIs and auth → APIs`
+
+Scroll down until you find **URL Shortener API** and turn it on. Once turned on it should move to the top of your list of APIs 
+with **On** in green. *\[Figure 24b\]*
+
+![Figure 24b](images/docs/joomla/extensions/social-links/cw-slinks-config-extra3.png){.coalaweb-docs}
+
+Next select **Credentials** from the left menu and your API Key should be listed to the right under **Public API access**.  *\[Figure 24b\]*
+
+![Figure 24c](images/docs/joomla/extensions/social-links/cw-slinks-config-extra4.png){.coalaweb-docs}
+
+### 2. <a name="options-content"></a>Content Plugin Options \[Pro\]
 
 <span class="tip" markdown="1">Some of the options selected here will affect the display of the buttons in Joomla, K2 and Zoo.</span>
 
@@ -101,7 +146,7 @@ buttons in Joomla and K2. *\[Figure 3b\]*
 
 ![Figure 3b](images/docs/joomla/extensions/social-links/cw-slinks-config-content3.png){.coalaweb-docs}
 
-### 2. <a name="options-panel"></a>Panel Plugin Options \[Pro\]
+### 3. <a name="options-panel"></a>Panel Plugin Options \[Pro\]
 
 ![Figure 23](images/docs/joomla/extensions/social-links/cw-slinks-config-panel1.png){.coalaweb-docs}
 
@@ -193,7 +238,7 @@ buttons in Joomla and K2. *\[Figure 23e\]*
 
 ![Figure 23e](images/docs/joomla/extensions/social-links/cw-slinks-config-panel6.png){.coalaweb-docs}
 
-### 3. <a name="options-og"></a>Open Graph Plugin Options \[Pro\]
+### 4. <a name="options-og"></a>Open Graph Plugin Options \[Pro\]
 
 The **CoalaWeb Open Graph** plugin will help generate meta data in the
 Open Graph format and then place it in the head of your web pages. This
@@ -299,7 +344,7 @@ Here you can enter your Facebook Application ID. *\[Figure 4b\]*
 
 ![Figure 4b](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph3.png){.coalaweb-docs}
 
-### 4. Quickicon Plugin Options {#options-quick}
+### 5. Quickicon Plugin Options {#options-quick}
 
 The CoalaWeb Social Links extension comes with a **Quick Icon** module
 and plugin to help you know if you have the most up to date version of
@@ -310,7 +355,7 @@ Icons module use *mod\_quickicon* in this field. *\[Figure 5\]*
 
 ![Figure 5](images/docs/joomla/extensions/social-links/cw-slinks-config-qicon.png){.coalaweb-docs}
 
-### 5. <a name="options-updates"></a>Live Update Options
+### 6. <a name="options-updates"></a>Live Update Options
 
 The CoalaWeb Social Links extension comes with a built in one click
 **Live Update** system so both **Core** and **Pro** users can keep their
@@ -322,17 +367,17 @@ make sure you still have a valid subscription and the **ID** is correct. *\[Figu
 
 ![Figure 6](images/docs/joomla/extensions/social-links/cw-slinks-config-updates.png){.coalaweb-docs}
 
-### 6. <a name="options-downloadid"></a>Where Is My Download ID \[Pro\]
+### 7. <a name="options-downloadid"></a>Where Is My Download ID \[Pro\]
 
 To find your **Download ID** log into **coalaweb.com** and from the top
 menu select **Members \> My Subscriptions** scroll down and under **My
-Subscriptions** there is a Module called **Download ID** now copy the
-code and paste it back in your component configuration making sure not
+Subscriptions** there is a Module called **Download ID** copy the
+code and paste in your component configuration making sure not
 to include any spaces. *\[Figure 7\]*
 
 ![Figure 7](images/docs/joomla/extensions/social-links/coalaweb-download-id.png){.coalaweb-docs}
 
-### 7. <a name="options-permissions"></a>Component Permissions
+### 8. <a name="options-permissions"></a>Component Permissions
 
 The last tab contains the permission settings for the CoalaWeb Social
 Links component. *\[Figure 8\]*
@@ -619,7 +664,7 @@ The CoalaWeb G Plus module also has a few of what I consider **Advanced
 Options** such as the option to assign a **Unique Module ID** to stop
 conflicts. You can also give the it a **Module Class Suffix** or choose
 whether to use **Cache** including the **Cache Time**. There is also
-options to turn on or off the **Module css** and **Google JS**if you
+options to turn on or off the **Module CSS** and **Google JS**if you
 want. *\[Figure 18c\]*
 
 ![Figure 18c](images/docs/joomla/extensions/social-links/cw-gplus-mod-config-advanced1.png){.coalaweb-docs}
@@ -745,6 +790,6 @@ and the buttons will magically appear. *\[Figure 22f\]*
 
 ## <a name="more-help"></a>Need More Help
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](/support-menu/documentation/item/coalaweb-social-links-faq).</span>
+<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](http://coalaweb.com/support-menu/documentation/item/coalaweb-social-links-faq).</span>
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](forum/coalaweb-social-links) I'm sure we can help.</span>
+<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</span>
