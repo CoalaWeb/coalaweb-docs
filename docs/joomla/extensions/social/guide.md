@@ -82,27 +82,27 @@ and scroll down or search the page looking for something similar to *\[Figure 24
 ![Figure 24](images/docs/joomla/extensions/social-links/cw-slinks-config-extra1.png){.coalaweb-docs}
 
 Now that we have made sure cURL is installed lets move onto the configuration options. The first option 
-is whether to turn on the shortening system and which service you wish to use (Currently only Google is avliable).
+is whether to turn on the shortening system and which service you wish to use (Currently only Google is available).
 
 Next enter the **API Key** your received from your shortening service provider making sure to not leave any extra spaces.
 
-<span class="tip">For more info on how to get an API key scroll down to **How do I get an API Key?**.</span
+<span class="tip">For more info on how to get an API key scroll down to How do I get an API Key?</span
 
 Next you can choose which URL's you wish to have shortened keeping in mind that the system will alter URLs so in some cases 
 the current votes will disappear. Don't worry they aren't lost you can turn off the system and they will return but it works
-both ways votes counted while using the shortening service in some cases will disappear when changing back.*\[Figure 24\]*
+both ways votes counted while using the shortening service in some cases will disappear when changing back. The decision to turn on the URL shortening will ultimately depend on your circumstances. *\[Figure 24\]*
 
-<span class="tip">I recommend at least turning it on the Social Links module as there isn't a visible count.</span>
+<span class="tip">I recommend at least turning it for the Social Links module as there aren't any visible counts.</span>
 
 ![Figure 24a](images/docs/joomla/extensions/social-links/cw-slinks-config-extra2.png){.coalaweb-docs}
 
 #### How do I get an API Key? (Google)
 
-Firstly log into your Google account and then go to the API Console using this [link](https://code.google.com/apis/console) you should end up in the **Google Developers Console** from the left menu select:
+Firstly log into your Google account and then go to the **API Console** using this [link](https://code.google.com/apis/console) you should end up in the **Google Developers Console** now from the left menu select:
 
 `APIs and auth → APIs`
 
-Scroll down until you find **URL Shortener API** and turn it on. Once turned on it should move to the top of your list of APIs 
+Scroll down until you find **URL Shortener API** and turn it on. Once it is turned on it should move to the top of your list of APIs 
 with **On** in green. *\[Figure 24b\]*
 
 ![Figure 24b](images/docs/joomla/extensions/social-links/cw-slinks-config-extra3.png){.coalaweb-docs}
