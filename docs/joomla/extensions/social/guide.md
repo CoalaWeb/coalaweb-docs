@@ -1,4 +1,4 @@
-## Table of Contents {#toc}
+## Table of Contents
 1.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
     -   [One Click Updates](#updates)
@@ -39,7 +39,7 @@
 6.  [Need More Help?](#more-help)
 
 ## <a name="component-guide"></a>Component
-### Control Panel{#control-panel}
+### <a name="control-panel"></a>Control Panel
 
 The **Control Panel** as seen below it is designed to be an easy
 starting point, think of it as the components head quarters. While
@@ -48,7 +48,7 @@ different sections and then return before moving onto the next one. *[Figure 1]*
 
 ![Figure 1](images/docs/joomla/extensions/social-links/cw-slinks-cpanel.png){.coalaweb-docs}
 
-### Inbuilt Help {#help}
+### <a name="help"></a>Inbuilt Help
 
 In the control panel or the tool menu you have a help icon that when
 clicked will open a pop up wrapper of this specific guide. This gives
