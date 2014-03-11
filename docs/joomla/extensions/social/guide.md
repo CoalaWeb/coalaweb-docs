@@ -65,8 +65,7 @@ out leaving the control panel. *\[Figure 2\]*
 
 ### <a name="options"></a>Extension Options
 
-In the control panel or the tool menu you have a options icon that when
-clicked will open a pop up containing the various extension options.
+<span class="info" markdown="1">In the control panel or the tool menu you have a options icon that when clicked will open a pop up containing the various extension options.</span>
 
 ### 1. <a name="options-extra"></a>Extra Options \[Pro\]
 
@@ -91,7 +90,7 @@ Next enter the **API Key** your received from your shortening service provider m
 
 Next you can choose which URL's you wish to have shortened keeping in mind that the system will alter URLs so in some cases 
 the current votes will disappear. Don't worry they aren't lost you can turn off the system and they will return but it works
-both ways votes counted while using the shortening service in some cases will disappear when changing back. The decision to turn on URL shortening and where will ultimately depend on your circumstances. *\[Figure 24\]*
+both ways votes counted while using the shortening service in some cases will disappear when changing back. The decision to turn on URL shortening and where will ultimately depend on your circumstances. *\[Figure 24a\]*
 
 <span class="tip">I recommend at least turning it for the Social Links module as there aren't any visible counts.</span>
 
@@ -99,7 +98,7 @@ both ways votes counted while using the shortening service in some cases will di
 
 #### How do I get an API Key? (Google)
 
-Firstly log into your Google account and then go to the **API Console** using this [link](https://code.google.com/apis/console) you should end up in the **Google Developers Console**  *\[Figure 24b\]*now from the left menu select:
+Firstly log into your Google account and then go to the **API Console** using this [link](https://code.google.com/apis/console) you should end up in the **Google Developers Console**  *\[Figure 24c\]*now from the left menu select:
 
 `APIs and auth → APIs`
 
@@ -108,7 +107,7 @@ with **On** in green. *\[Figure 24b\]*
 
 ![Figure 24b](images/docs/joomla/extensions/social-links/cw-slinks-config-extra3.png){.coalaweb-docs}
 
-Next select **Credentials** from the left menu and your API Key should be listed to the right under **Public API access**.  *\[Figure 24b\]*
+Next select **Credentials** from the left menu and your API Key should be listed to the right under **Public API access**.  *\[Figure 24c\]*
 
 ![Figure 24c](images/docs/joomla/extensions/social-links/cw-slinks-config-extra4.png){.coalaweb-docs}
 
