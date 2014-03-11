@@ -411,7 +411,7 @@ select the module layout. *\[Figure 9a\]*
 
 ![Figure 9a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general2.png){.coalaweb-docs}
 
-### <a name="mod-custom-theme">Creating a Custom Theme
+### <a name="mod-custom-theme"></a>Creating a Custom Theme
 
 Creating a theme is easy, just copy the custom-example folder found in:
 
