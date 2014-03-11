@@ -15,6 +15,7 @@
 
 2.  [Social Module Guide](#module)
     -   [General Display Options](#mod-general)
+    -   [Create Custom Theme](#mod-custom-theme)
     -   [Bookmark This Options](#mod-bookmark)
     -   [Follow Us Options](#mod-follow)
     -   [Advanced Options](#mod-advanced)
@@ -395,13 +396,7 @@ Links component. *\[Figure 8\]*
 In this section you can choose the icon style, size and alignment, title
 alignment as well as the title format. *\[Figure 9\]*
 
-#### Creating your own theme
-
-Creating a theme is easy, just copy the custom-example folder found in:
-
-`media → coalawebsocial → components → sociallinks → themes-icon`
-
-Give the theme a different name, edit the files as needed and of course add your custom icons. All the folders located in the themes-icon directory will automatically be listed in the **Icon Styles** select list.
+<span class="tip" markdown="1">Want to create a custom theme? Have a look at [Creating a Custom Theme](#mod-custom-theme)</span>
 
 ![Figure 9](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general1.png){.coalaweb-docs}
 
@@ -415,6 +410,15 @@ overall width as a percentage and for the *PRO* users you can also
 select the module layout. *\[Figure 9a\]*
 
 ![Figure 9a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general2.png){.coalaweb-docs}
+
+### <a name="mod-custom-theme">Creating a Custom Theme
+
+Creating a theme is easy, just copy the custom-example folder found in:
+
+`media → coalawebsocial → components → sociallinks → themes-icon`
+
+Give the theme a different name, edit the files as needed and of course add your custom icons. 
+All the folders located in the themes-icon directory will automatically be listed in the **Icon Styles** select list.
 
 ### <a name="mod-bookmark"></a>Bookmark This Options
 
