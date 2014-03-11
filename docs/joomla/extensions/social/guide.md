@@ -86,11 +86,11 @@ is whether to turn on the shortening system and which service you wish to use (C
 
 Next enter the **API Key** your received from your shortening service provider making sure to not leave any extra spaces.
 
-<span class="tip">For more info on how to get an API key scroll down to How do I get an API Key?</span
+<span class="tip">For more info on how to get an API key scroll down to How do I get an API Key?</span>
 
 Next you can choose which URL's you wish to have shortened keeping in mind that the system will alter URLs so in some cases 
 the current votes will disappear. Don't worry they aren't lost you can turn off the system and they will return but it works
-both ways votes counted while using the shortening service in some cases will disappear when changing back. The decision to turn on the URL shortening will ultimately depend on your circumstances. *\[Figure 24\]*
+both ways votes counted while using the shortening service in some cases will disappear when changing back. The decision to turn on URL shortening and where will ultimately depend on your circumstances. *\[Figure 24\]*
 
 <span class="tip">I recommend at least turning it for the Social Links module as there aren't any visible counts.</span>
 
@@ -98,7 +98,7 @@ both ways votes counted while using the shortening service in some cases will di
 
 #### How do I get an API Key? (Google)
 
-Firstly log into your Google account and then go to the **API Console** using this [link](https://code.google.com/apis/console) you should end up in the **Google Developers Console** now from the left menu select:
+Firstly log into your Google account and then go to the **API Console** using this [link](https://code.google.com/apis/console) you should end up in the **Google Developers Console**  *\[Figure 24b\]*now from the left menu select:
 
 `APIs and auth → APIs`
 
@@ -182,7 +182,7 @@ Creating a theme is easy, just copy the default folder found in:
 
 `media → coalawebsocial → plugins → content → socialpanel → themes`
 
-Give the theme a differnt name and edit the files as needed. All the
+Give the theme a different name and edit the files as needed. All the
 folders located in the themes directory will automatically be listed in
 the **Form Theme** select list.
 
@@ -394,6 +394,14 @@ Links component. *\[Figure 8\]*
 
 In this section you can choose the icon style, size and alignment, title
 alignment as well as the title format. *\[Figure 9\]*
+
+#### Creating your own theme
+
+Creating a theme is easy, just copy the custom-example folder found in:
+
+`media → coalawebsocial → components → sociallinks → themes-icon`
+
+Give the theme a different name, edit the files as needed and of course add your custom icons. All the folders located in the themes-icon directory will automatically be listed in the **Icon Styles** select list.
 
 ![Figure 9](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general1.png){.coalaweb-docs}
 
