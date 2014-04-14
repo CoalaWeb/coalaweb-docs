@@ -28,18 +28,18 @@ The **Control Panel** as seen below is designed to be an easy starting
 point, think of it as the head quarters for the extension. While
 carrying out tasks you can easily jump from the **Control Panel** to the
 different sections and then return before moving onto the next one.
-*[Figure 1]*
+*[Figure-1]*
 
-![Figure 1](images/docs/joomla/extensions/contact/cw-contact-cpanel.png "Figure 1"){.coalaweb-docs}
+![Figure-1](images/docs/joomla/extensions/contact/cw-contact-cpanel.png "Figure-1"){.coalaweb-docs}
 
 ### Inbuilt Help {#help}
 
 In the control panel or the tool menu you have a help icon that when
 clicked will open a pop up wrapper of this specific guide. This gives
 you an easy way of checking the functionality of a particular item with
-out leaving the control panel. *[Figure 2]*
+out leaving the control panel. *[Figure-2]*
 
-![Figure 2](images/docs/joomla/extensions/contact/cw-contact-help.png){.coalaweb-docs}
+![Figure-2](images/docs/joomla/extensions/contact/cw-contact-help.png "Figure-2"){.coalaweb-docs}
 
 ### One Click Updates {#updates}
 
@@ -69,10 +69,9 @@ submitters subject if you have chosen to display this option. Lastly you
 have an option to chose the format you wish the emails to be sent in. If
 you are using the core version you will only have the **No HTML** option
 but for Pro users you will have two additional options of **Basic HTML**
-and **Rich HTML**. *[Figure 3]*
+and **Rich HTML**. *[Figure-3]*
 
-![Figure
-3](images/docs/joomla/extensions/contact/cw-contact-config-general1.png){.coalaweb-docs}
+![Figure-3](images/docs/joomla/extensions/contact/cw-contact-config-general1.png "Figure-3"){.coalaweb-docs}
 
 #### Part 2
 
@@ -83,10 +82,9 @@ should be required fields. Next you can chose to display a **Copy Me**
 field allowing users to receive a copy of the form when they submit it.
 The last two options are for the **Pro** subscribers and they allow you
 to set and display the **Character Limit** for the message field of the
-form. *[Figure 4]*
+form. *[Figure-4]*
 
-![Figure
-4](images/docs/joomla/extensions/contact/cw-contact-config-general2.png){.coalaweb-docs}
+![Figure-4](images/docs/joomla/extensions/contact/cw-contact-config-general2.png "Figure-4"){.coalaweb-docs}
 
 #### Part 3
 
@@ -112,29 +110,26 @@ option while the **Pro** subscribers get 6 color options as well. The
 last two options allow you to choose the text to be displayed on the
 **Submit** button at the bottom of the contact form and for the **Pro**
 users the button displayed at the bottom of the editor window allowing
-you to insert a form into your content. *[Figure 5]*
+you to insert a form into your content. *[Figure-5]*
 
-![Figure
-5](images/docs/joomla/extensions/contact/cw-contact-config-general3.png){.coalaweb-docs}
+![Figure-5](images/docs/joomla/extensions/contact/cw-contact-config-general3.png "Figure-5"){.coalaweb-docs}
 
 #### 2. Messages and Warnings {#messages}
 
 The next tab allows you to customize the **Messages and Warnings**
 displayed by the CoalaWeb Contact extension. Note: If your site is
-multilingual leave blank and use the language files. *[Figure 6]*
+multilingual leave blank and use the language files. *[Figure-6]*
 
-![Figure
-6](images/docs/joomla/extensions/contact/cw-contact-config-messages.png){.coalaweb-docs}
+![Figure-6](images/docs/joomla/extensions/contact/cw-contact-config-messages.png "Figure-6"){.coalaweb-docs}
 
 #### 3. Labels {#options-labels}
 
 The next tab allows you to customize the **Labels** displayed by the
 CoalaWeb Contact extension both in the forms and the sent e-mail. Note:
 If your site is multilingual leave blank and use the language files.
-*[Figure 7]*
+*[Figure-7]*
 
-![Figure
-7](images/docs/joomla/extensions/contact/cw-contact-config-labels.png){.coalaweb-docs}
+![Figure-7](images/docs/joomla/extensions/contact/cw-contact-config-labels.png "Figure-7"){.coalaweb-docs}
 
 #### 4. Captcha {#options-captcha}
 
@@ -160,10 +155,9 @@ allowing the form to be submitted. The default question is:
 Feel free to choose a question and answer but try to aim for a good
 balance between difficult to answer for a spam bot while not too
 annoying for a real user. Note: If your site is multilingual leave blank
-and use the language files. *[Figure 8]*
+and use the language files. *[Figure-8]*
 
-![Figure
-8](images/docs/joomla/extensions/contact/cw-contact-config-captcha1.png){.coalaweb-docs}
+![Figure-8](images/docs/joomla/extensions/contact/cw-contact-config-captcha1.png "Figure-8"){.coalaweb-docs}
 
 For the Pro subscribers you get two additional Captcha options.
 
@@ -188,10 +182,9 @@ To get started grab your Public and Private keys by signing in with your
 Google account (create an account if you don't have one) here: [Create a
 reCAPTCHA key](https://www.google.com/recaptcha/admin/create). Once you
 have an account register your website domain, and Google will provide
-you with your ReCaptcha keys. *[Figure 9]*
+you with your ReCaptcha keys. *[Figure-9]*
 
-![Figure
-9](images/docs/joomla/extensions/contact/cw-contact-config-captcha2.png){.coalaweb-docs}
+![Figure-9](images/docs/joomla/extensions/contact/cw-contact-config-captcha2.png "Figure-9"){.coalaweb-docs}
 
 #### 5. Live Update Options {#options-updates}
 
@@ -202,10 +195,9 @@ paste your **Download ID** into this field to allow the update system to
 work. Once you have added your **Download ID** the message displayed in
 the **Control Panel** will disappear. If you try to update and it fails
 make sure you still have a valid subscription and the **ID** is correct.
-*[Figure 10]*
+*[Figure-10]*
 
-![Figure
-10](images/docs/joomla/extensions/contact/cw-contact-config-updates.png){.coalaweb-docs}
+![Figure-10](images/docs/joomla/extensions/contact/cw-contact-config-updates.png "Figure-10"){.coalaweb-docs}
 
 #### 6. Where Is My Download ID [Pro] {#options-downloadid}
 
@@ -213,22 +205,19 @@ To find your **Download ID** log into **coalaweb.com** and from the top
 menu select **Members → My Subscriptions** scroll down and under **My
 Subscriptions** there is a Module called **Download ID** now copy the
 code and paste it back in your component configuration making sure not
-to include any spaces. *[Figure 11]*
+to include any spaces. *[Figure-11]*
 
-![Figure
-11](images/docs/joomla/extensions/contact/coalaweb-download-id.png){.coalaweb-docs}
+![Figure-11](images/docs/joomla/extensions/contact/coalaweb-download-id.png "Figure-11"){.coalaweb-docs}
 
 #### 7. Component Permissions {#options-permissions}
 
 The last tab contains the permission settings for the CoalaWeb Contact
-component. *[Figure 12]*
+component. *[Figure-12]*
 
-![Figure
-12](images/docs/joomla/extensions/contact/cw-contact-config-permissions.png){.coalaweb-docs}
+![Figure-12](images/docs/joomla/extensions/contact/cw-contact-config-permissions.png "Figure-12"){.coalaweb-docs}
 
 ## Contact Module {#module}
-![Module
-Demo](images/docs/joomla/extensions/contact/cw-contact-module-themes.png){.coalaweb-docs}
+![Module-Demo](images/docs/joomla/extensions/contact/cw-contact-module-themes.png "Module-Demo"){.coalaweb-docs}
 
 ### General Display Options {#mod-general}
 
@@ -245,10 +234,9 @@ have purchased a Pro subscription you will also have two more fields
 avaliable a CC Email and a BCC email option fill these in as necessary.
 Next you have a **Default Subject** option this will display in the
 email subject followed by the submitters subject if you have chosen to
-display this option. *[Figure 13]*
+display this option. *[Figure-13]*
 
-![Figure
-13](images/docs/joomla/extensions/contact/cw-contact-mod-config-general1.png){.coalaweb-docs}
+![Figure-13](images/docs/joomla/extensions/contact/cw-contact-mod-config-general1.png "Figure-13"){.coalaweb-docs}
 
 #### Part 2
 
@@ -259,10 +247,9 @@ chose to have it as a required field. Next you can chose to display a
 Copy Me field allowing users to receive a copy of the form when they
 submit it. The last two option are for the **Pro** subscribers and they
 allow you to set and display the Character Limit for the message field
-of the form. *[Figure 14]*
+of the form. *[Figure-14]*
 
-![Figure
-14](images/docs/joomla/extensions/contact/cw-contact-mod-config-general2.png){.coalaweb-docs}
+![Figure-14](images/docs/joomla/extensions/contact/cw-contact-mod-config-general2.png "Figure-14"){.coalaweb-docs}
 
 #### Part 3
 
@@ -286,10 +273,9 @@ subscribers get 6 color options as well. The last two options allow you
 to choose the text to be displayed on the **Submit** button at the
 bottom of the contact form and for the **Pro** users the button
 displayed at the bottom of the editor window allowing you to insert a
-form into your content. *[Figure 15]*
+form into your content. *[Figure-15]*
 
-![Figure
-15](images/docs/joomla/extensions/contact/cw-contact-mod-config-general3.png){.coalaweb-docs}
+![Figure-15](images/docs/joomla/extensions/contact/cw-contact-mod-config-general3.png "Figure-15"){.coalaweb-docs}
 
 ### Captcha {#mod-captcha}
 
@@ -315,10 +301,9 @@ The default question is:
 Feel free to chose a question and answer but try to aim for a good
 balance between difficult to answer for a spam bot while not too
 annoying for a real user. Note: If your site is multilingual leave blank
-and use the language files. *[Figure 8]*
+and use the language files. *[Figure-16]*
 
-![Figure
-16](images/docs/joomla/extensions/contact/cw-contact-mod-config-captcha1.png){.coalaweb-docs}
+![Figure-16](images/docs/joomla/extensions/contact/cw-contact-mod-config-captcha1.png "Figure-16"){.coalaweb-docs}
 
 For the Pro subscribers you get two additional Captcha options.
 
@@ -327,10 +312,9 @@ For the Pro subscribers you get two additional Captcha options.
 This is a math question and answer type Captcha here you have the option
 to chose some custom text both before and after the question. Note: If
 your site is multilingual leave blank and use the language files.
-*[Figure 17]*
+*[Figure-17]*
 
-![Figure
-17](images/docs/joomla/extensions/contact/cw-contact-mod-config-captcha2.png){.coalaweb-docs}
+![Figure-17](images/docs/joomla/extensions/contact/cw-contact-mod-config-captcha2.png "Figure-17"){.coalaweb-docs}
 
 #### ReCaptcha
 
@@ -351,11 +335,9 @@ conflicts, a **Module Class Suffix** and whether to use **Cache**
 including the **Cache Time**. The last option is whether to display a
 **Link Back to CoalaWeb** as always it's appreciated but its up to you
 plus you can choose what text to display next to the link. Note: If your
-site is multilingual leave blank and use the language files. *[Figure
-18]*
+site is multilingual leave blank and use the language files. *[Figure-18]*
 
-![Figure
-18](images/docs/joomla/extensions/contact/cw-contact-mod-config-advanced.png){.coalaweb-docs}
+![Figure-18](images/docs/joomla/extensions/contact/cw-contact-mod-config-advanced.png "Figure-18"){.coalaweb-docs}
 
 ##Plugins [PRO Version Only] {#plg}
 ### Content Plugin - Contact {#plg-content}
@@ -377,12 +359,9 @@ content a one click process. Just place the cursor where you want the
 form to be displayed and then click the **Insert Contact** button
 displayed at the bottom of the editor.
 
-![Content PLG
-Button](images/docs/joomla/extensions/contact/cw-contact-plg-btn.png){.coalaweb-docs}
+![XTD-PLG-Button](images/docs/joomla/extensions/contact/cw-contact-plg-btn.png "XTD-PLG-Button"){.coalaweb-docs}
 
 ### Need more help? - [Back to Top](#toc){#more-help}
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the
-[FAQ](/support-menu/documentation/item/coalaweb-social-links-faq).</span>
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](forum/coalaweb-social-links) I'm sure we can
-help.<span>
+<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](/support-menu/documentation/item/coalaweb-social-links-faq).</span>
+<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](forum/coalaweb-social-links) I'm sure we can help.<span>
