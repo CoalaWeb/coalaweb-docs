@@ -30,7 +30,7 @@ carrying out tasks you can easily jump from the **Control Panel** to the
 different sections and then return before moving onto the next one.
 *[Figure 1]*
 
-![Figure 1](images/docs/joomla/extensions/contact/cw-contact-cpanel.png){.coalaweb-docs}
+![Figure 1](images/docs/joomla/extensions/contact/cw-contact-cpanel.png "Figure 1"){.coalaweb-docs}
 
 ### Inbuilt Help {#help}
 
