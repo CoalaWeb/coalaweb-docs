@@ -339,6 +339,13 @@ site is multilingual leave blank and use the language files. *[Figure-18]*
 
 ![Figure-18](images/docs/joomla/extensions/contact/cw-contact-mod-config-advanced.png "Figure-18"){.coalaweb-docs}
 
+### Release Information {#mod-release}
+
+In this section you can find out information about the currently installed extension
+such as **Type**, **Version** and **Release Date**. *[Figure-19]*
+
+![Figure-19](images/docs/joomla/extensions/contact/cw-contact-mod-config-r-info.png "Figure-19"){.coalaweb-docs}
+
 ##Plugins [PRO Version Only] {#plg}
 ### Content Plugin - Contact {#plg-content}
 
@@ -350,7 +357,7 @@ the contact form displayed in your content make sure you have the plugin
 installed and published and that you have selected the appropriate
 configuration options.
 
-![Content PLG Demo](images/docs/joomla/extensions/contact/cw-contact-plg-content.png){.coalaweb-docs}
+![Content-PLG-Demo](images/docs/joomla/extensions/contact/cw-contact-plg-content.png "Content-PLG-Demo"){.coalaweb-docs}
 
 ### Editor XTD Plugin - Contact {#plg-xtd}
 

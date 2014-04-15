@@ -14,8 +14,7 @@ plugin and module.
 
 ### The Modules
 
-<span class="tip" markdown="1">The module configuration options override the component settings to give
-you more flexibility.</span>
+<span class="tip" markdown="1">The module configuration options override the component settings to give you more flexibility.</span>
 
 #### Module - Contact
 
@@ -40,6 +39,5 @@ content a one click process just place the cursor where you want the
 form and then click the Insert Contact button displayed at the bottom of
 the editor.
 
-<span class="tip" markdown="1">This guide will help you set up this CoalaWeb extension quickly and
-easily taking full advantage of its features.</span>
+<span class="tip" markdown="1">This guide will help you set up this CoalaWeb extension quickly and easily taking full advantage of its features.</span>
 <span class="tip" markdown="1">When you install a CoalaWeb extenstion all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</span>
