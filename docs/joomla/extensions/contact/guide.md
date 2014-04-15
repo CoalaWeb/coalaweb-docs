@@ -114,7 +114,7 @@ you to insert a form into your content. *[Figure-5]*
 
 ![Figure-5](images/docs/joomla/extensions/contact/cw-contact-config-general3.png "Figure-5"){.coalaweb-docs}
 
-#### 2. Messages and Warnings {#messages}
+#### 2. Messages and Warnings {#options-messages}
 
 The next tab allows you to customize the **Messages and Warnings**
 displayed by the CoalaWeb Contact extension. Note: If your site is
