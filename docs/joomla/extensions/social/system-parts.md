@@ -15,7 +15,7 @@ The Facebook Like Box module is a social module that enables Facebook Page
 owners to attract and gain likes. The like box enables people using your website
 to see how many people like the Page, read recent posts from the Page and like 
 the Page with one click, without needing to visit the Page.
-### Google Plus *\[Pro\]*
+### Google Plus \[Pro\]
 The Google Plus module is a social module that helps you link your Google+
 page to your site. Get more recommendations for your site in Google search and 
 grow your audience on Google+.
