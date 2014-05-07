@@ -15,24 +15,24 @@ The Facebook Like Box module is a social module that enables Facebook Page
 owners to attract and gain likes. The like box enables people using your website
 to see how many people like the Page, read recent posts from the Page and like 
 the Page with one click, without needing to visit the Page.
-### Google Plus \[Pro\]
+### Google Plus \[Pro Version\]
 The Google Plus module is a social module that helps you link your Google+
 page to your site. Get more recommendations for your site in Google search and 
 grow your audience on Google+.
 ## Plugins
-### Content - Social Likes \[Pro\]
+### Content - Social Likes \[Pro Version\]
 The Content - Social Likes plugin will display a variety of social network vote 
 buttons in your Joomla and K2 content. It's packed full of configuration options 
 to make integrating it into your website a breeze.
-### Content - Social Panel \[Pro\]
+### Content - Social Panel \[Pro Version\]
 The Content - Social Panel plugin will display a variety of social network vote 
 buttons in your Joomla and K2 content. They will be displayed in a 
 vertical collapsible bar to the side of the article content.
-### Content - Open Graph \[Pro\]
+### Content - Open Graph \[Pro Version\]
 The Content - Open Graph plugin will help add Open Graph meta information 
 to your Joomla web pages this will in turn help your social buttons get the 
 right information when used.
-### System - Zoo Elements \[Pro\]
+### System - Zoo Elements \[Pro Version\]
 The System - Zoo Elements plugin automatically includes CoalaWeb custom elements 
 into ZOO expanding this already powerfully system. In this case adds the 
 CoalaWeb Social Likes element that will allow you to display a variety of social 

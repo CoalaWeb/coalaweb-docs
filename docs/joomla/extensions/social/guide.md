@@ -4,13 +4,13 @@
     -   [One Click Updates](#updates)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
-        - [1. Extra Options \[Pro\]](#options-extra)
-        - [2. Content Plugin Options \[Pro\]](#options-content)
-        - [3. Panel Plugin Options \[Pro\]](#options-panel)
-        - [4. Open Graph Plugin Options \[Pro\]](#options-og)
+        - [1. Extra Options \[Pro Version\]](#options-extra)
+        - [2. Content Plugin Options \[Pro Version\]](#options-content)
+        - [3. Panel Plugin Options \[Pro Version\]](#options-panel)
+        - [4. Open Graph Plugin Options \[Pro Version\]](#options-og)
         - [5. Quickicon Plugin Options](#options-quick)
         - [6. Live Update Options](#options-updates)
-        - [7. Where Is My Download ID \[Pro\]](#options-downloadid)
+        - [7. Where Is My Download ID \[Pro Version\]](#options-downloadid)
         - [8. Component Permissions](#options-permissions)
 
 2.  [Social Module Guide](#module)
@@ -27,12 +27,12 @@
     -   [Extra Options](#mod-lb-extra)
     -   [Advanced Options](#mod-lb-advanced)
 
-4.  [Google Plus Module Guide \[Pro\]](#module-gplus)
+4.  [Google Plus Module Guide \[Pro Version\]](#module-gplus)
     -   [General Options](#mod-gplus-general)
     -   [Layout Options](#mod-gplus-layout)
     -   [Advanced Options](#mod-gplus-advanced)
 
-5.  [Plugin Guide \[Pro\]](#plg)
+5.  [Plugin Guide \[Pro Version\]](#plg)
     -   [Content Plugin - Social Likes](#plg-content)
     -   [Content Plugin - Social Panel](#plg-panel)
     -   [Content Plugin - Open Graph](#plg-og)
@@ -46,18 +46,18 @@
 The **Control Panel** as seen below it is designed to be an easy
 starting point, think of it as the components head quarters. While
 carrying out tasks you can easily jump from the **Control Panel** to the
-different sections and then return before moving onto the next one. *[Figure-1]*
+different sections and then return before moving onto the next one. *\[Figure-1\]*
 
-![Figure 1](images/docs/joomla/extensions/social-links/cw-slinks-cpanel.png "Figure-1"){.coalaweb-docs}
+![Figure-1](images/docs/joomla/extensions/social-links/cw-slinks-cpanel.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="help"></a>Inbuilt Help
 
 In the control panel or the tool menu you have a help icon that when
 clicked will open a pop up wrapper of this specific guide. This gives
 you an easy way of checking the functionality of a particular item with
-out leaving the control panel. *[Figure 2]*
+out leaving the control panel. *\[Figure-2\]*
 
-![Figure 2](images/docs/joomla/extensions/social-links/cw-slinks-help.png "Figure-2"){.coalaweb-docs}
+![Figure-2](images/docs/joomla/extensions/social-links/cw-slinks-help.png "Figure-2"){.coalaweb-docs}
 
 ### <a name="updates"></a>One Click Updates
 
@@ -67,11 +67,11 @@ out leaving the control panel. *[Figure 2]*
 
 <span class="info" markdown="1">In the control panel or the tool menu you have a options icon that when clicked will open a pop up containing the various extension options.</span>
 
-### 1. <a name="options-extra"></a>Extra Options [Pro]
+### 1. <a name="options-extra"></a>Extra Options \[Pro Version\]
 
 #### URL Shortener
 
-<span class="info">Note: cURL is necessary for the system to function correctly.</span>
+<span class="info" markdown="1">Note: cURL is necessary for the system to function correctly.</span>
 
 To check if you have cURL installed open up your **PHP Information** page found under
 
@@ -79,22 +79,23 @@ To check if you have cURL installed open up your **PHP Information** page found 
 
 and scroll down or search the page looking for something similar to *\[Figure-24\]*
 
-![Figure 24](images/docs/joomla/extensions/social-links/cw-slinks-config-extra1.png "Figure-24"){.coalaweb-docs}
+![Figure-24](images/docs/joomla/extensions/social-links/cw-slinks-config-extra1.png "Figure-24"){.coalaweb-docs}
 
 Now that we have made sure cURL is installed lets move onto the configuration options. The first option 
 is whether to turn on the shortening system and which service you wish to use (Currently only Google is available).
 
 Next enter the **API Key** your received from your shortening service provider making sure to not leave any extra spaces.
 
-<span class="tip">For more info on how to get an API key scroll down to How do I get an API Key?</span>
+<span class="tip" markdown="1">For more info on how to get an API key scroll down to How do I get an API Key?</span>
 
 Next you can choose which URL's you wish to have shortened keeping in mind that the system will alter URLs so in some cases 
 the current votes will disappear. Don't worry they aren't lost you can turn off the system and they will return but it works
-both ways votes counted while using the shortening service in some cases will disappear when changing back. The decision to turn on URL shortening and where will ultimately depend on your circumstances. *\[Figure 24a\]*
+both ways votes counted while using the shortening service in some cases will disappear when changing back. The decision to 
+turn on URL shortening and where will ultimately depend on your circumstances. *\[Figure-24a\]*
 
-<span class="tip">I recommend at least turning it for the Social Links module as there aren't any visible counts.</span>
+<span class="tip" markdown="1">I recommend at least turning it for the Social Links module as there aren't any visible counts.</span>
 
-![Figure 24a](images/docs/joomla/extensions/social-links/cw-slinks-config-extra2.png){.coalaweb-docs}
+![Figure-24a](images/docs/joomla/extensions/social-links/cw-slinks-config-extra2.png "Figure-24a"){.coalaweb-docs}
 
 #### How do I get an API Key? (Google)
 
@@ -103,15 +104,15 @@ Firstly log into your Google account and then go to the **API Console** using th
 `APIs and auth → APIs`
 
 Scroll down until you find **URL Shortener API** and turn it on. Once it is turned on it should move to the top of your list of APIs 
-with **On** in green. *\[Figure 24b\]*
+with **On** in green. *\[Figure-24b\]*
 
-![Figure 24b](images/docs/joomla/extensions/social-links/cw-slinks-config-extra3.png){.coalaweb-docs}
+![Figure-24b](images/docs/joomla/extensions/social-links/cw-slinks-config-extra3.png "Figure-24b"){.coalaweb-docs}
 
-Next select **Credentials** from the left menu and your API Key should be listed to the right under **Public API access**.  *\[Figure 24c\]*
+Next select **Credentials** from the left menu and your API Key should be listed to the right under **Public API access**.  *\[Figure-24c\]*
 
-![Figure 24c](images/docs/joomla/extensions/social-links/cw-slinks-config-extra4.png){.coalaweb-docs}
+![Figure-24c](images/docs/joomla/extensions/social-links/cw-slinks-config-extra4.png "Figure-24c"){.coalaweb-docs}
 
-### 2. <a name="options-content"></a>Content Plugin Options \[Pro\]
+### 2. <a name="options-content"></a>Content Plugin Options \[Pro Version\]
 
 <span class="tip" markdown="1">Some of the options selected here will affect the display of the buttons in Joomla, K2 and Zoo.</span>
 
@@ -127,28 +128,28 @@ affect the display of the buttons in both Joomla and K2.
 The next two options give you an opportunity to select which categories
 you wish the buttons to be displayed in for both Joomla and K2. If you
 wish to select more than one just hold down **Shift** on your keyboard
-and select the categories with your mouse. *\[Figure 3\]*
+and select the categories with your mouse. *\[Figure-3\]*
 
-![Figure 3](images/docs/joomla/extensions/social-links/cw-slinks-config-content1.png){.coalaweb-docs}
+![Figure-3](images/docs/joomla/extensions/social-links/cw-slinks-config-content1.png "Figure-3"){.coalaweb-docs}
 
 #### Part 2 - Layout
 
 Next are the **Layout Options** here you can choose to display the
 buttons above or below the content and also the button style either
-**Vertical** \[Bubble\] or **Horizontal**. *\[Figure 3a\]*
+**Vertical** \[Bubble\] or **Horizontal**. *\[Figure-3a\]*
 
-![Figure 3a](images/docs/joomla/extensions/social-links/cw-slinks-config-content2.png){.coalaweb-docs}
+![Figure-3a](images/docs/joomla/extensions/social-links/cw-slinks-config-content2.png "Figure-3a"){.coalaweb-docs}
 
 #### Part 3 - Social
 Next are the **Social Options** here you can chose which social networks
 you wish to display. These options will affect the display of both the
-buttons in Joomla and K2. *\[Figure 3b\]*
+buttons in Joomla and K2. *\[Figure-3b\]*
 
-![Figure 3b](images/docs/joomla/extensions/social-links/cw-slinks-config-content3.png){.coalaweb-docs}
+![Figure-3b](images/docs/joomla/extensions/social-links/cw-slinks-config-content3.png "Figure-3b"){.coalaweb-docs}
 
-### 3. <a name="options-panel"></a>Panel Plugin Options \[Pro\]
+### 3. <a name="options-panel"></a>Panel Plugin Options \[Pro Version\]
 
-![Figure 23](images/docs/joomla/extensions/social-links/cw-slinks-config-panel1.png){.coalaweb-docs}
+![Figure-23](images/docs/joomla/extensions/social-links/cw-slinks-config-panel1.png "Figure-23"){.coalaweb-docs}
 
 <span class="info" markdown="1">To make it easier to follow I have broken up the **Social Panel Plugin Options** into five parts.</span>
 
@@ -160,9 +161,9 @@ the plugin manager to disable it. The next two options give you an
 opportunity to select which categories you wish the panel to be
 displayed in for both Joomla and K2. If you wish to select more than one
 just hold down **Shift** on your keyboard and select the categories with
-your mouse. *\[Figure23a\]*
+your mouse. *\[Figure-23a\]*
 
-![Figure 23a](images/docs/joomla/extensions/social-links/cw-slinks-config-panel2.png){.coalaweb-docs}
+![Figure-23a](images/docs/joomla/extensions/social-links/cw-slinks-config-panel2.png "Figure-23a"){.coalaweb-docs}
 
 #### Part 2 - Layout & Style
 
@@ -189,11 +190,11 @@ the **Form Theme** select list.
 The last option listed under Layout and Style is Top Space this is the
 amount of space above the panel and will affect both panel styles. The
 top space is measure in % so just enter a number, 15 is the default and
-works well in most situations. *\[Figure 23b\]*
+works well in most situations. *\[Figure-23b\]*
 
 <span class="tip" markdown="1">The Fixed Style will automatically convert to Collapse when the page reaches a certain size.</span>
 
-![Figure 23b](images/docs/joomla/extensions/social-links/cw-slinks-config-panel3.png){.coalaweb-docs}
+![Figure-23b](images/docs/joomla/extensions/social-links/cw-slinks-config-panel3.png "Figure-23b"){.coalaweb-docs}
 
 #### Part 3 - Fixed Style
 
@@ -202,9 +203,9 @@ can choose the Convert Width if the page is reduced smaller than the
 width entered here it will automatically convert to the Collapse style.
 The last option in this section is the side space this is the amount of
 space between the side of the page and the panel it is measured in % so
-just enter a number, 5 is the default and works well in most situations. *\[Figure 23c\]*
+just enter a number, 5 is the default and works well in most situations. *\[Figure-23c\]*
 
-![Figure 23c](images/docs/joomla/extensions/social-links/cw-slinks-config-panel4.png){.coalaweb-docs}
+![Figure-23c](images/docs/joomla/extensions/social-links/cw-slinks-config-panel4.png "Figure-23c"){.coalaweb-docs}
 
 #### Part 4 - Collapse Style
 
@@ -226,19 +227,19 @@ close. Durations are given in milliseconds; higher values indicate
 slower animations, not faster ones. The default duration is 400
 milliseconds. The last two options affect the animation style, you have
 a lot to choose from so experiment until you find the ones you
-like. *\[Figure 23d\]*
+like. *\[Figure-23d\]*
 
-![Figure 23d](images/docs/joomla/extensions/social-links/cw-slinks-config-panel5.png){.coalaweb-docs}
+![Figure-23d](images/docs/joomla/extensions/social-links/cw-slinks-config-panel5.png "Figure-23d"){.coalaweb-docs}
 
 #### Part 5 - Social Options
 
 Next are the **Social Options** here you can chose which social networks
 you wish to display. These options will affect the display of both the
-buttons in Joomla and K2. *\[Figure 23e\]*
+buttons in Joomla and K2. *\[Figure-23e\]*
 
-![Figure 23e](images/docs/joomla/extensions/social-links/cw-slinks-config-panel6.png){.coalaweb-docs}
+![Figure-23e](images/docs/joomla/extensions/social-links/cw-slinks-config-panel6.png "Figure-23e"){.coalaweb-docs}
 
-### 4. <a name="options-og"></a>Open Graph Plugin Options \[Pro\]
+### 4. <a name="options-og"></a>Open Graph Plugin Options \[Pro Version\]
 
 The **CoalaWeb Open Graph** plugin will help generate meta data in the
 Open Graph format and then place it in the head of your web pages. This
@@ -252,16 +253,16 @@ or voted on.
 
 The first option **Only Articles** allows you to choose if you want to
 add Open Graph information to only the article views or to **Category
-Blog** and **Featured** views as well. *\[Figure 4\]*
+Blog** and **Featured** views as well. *\[Figure-4\]*
 
-![Figure 4](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph1.png){.coalaweb-docs}
+![Figure-4](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph1.png "Figure-4"){.coalaweb-docs}
 
 #### Part 2 - Default
 
 ##### Title
 
 If you have chosen a **Default Title** this will always display next to
-**og:title** meta tag.  *\[Figure 4a\]* 
+**og:title** meta tag.  *\[Figure-4a\]* 
 
 **\[It's recommended to leave this parameter blank\]**
 
@@ -277,7 +278,7 @@ will be populated like this:
 If you have chosen a **Default URL** this will always displayed next to
 **og:url** meta tag. **Note:It's recommended to leave this parameter
 blank.** If you haven’t chosen a default URL the plugin will use the
-current URL of the page being viewed. *\[Figure 4a\]*
+current URL of the page being viewed. *\[Figure-4a\]*
 
 ##### Site Name
 
@@ -285,7 +286,7 @@ If you have chosen a **Default Site Name** this will always displayed
 next to **og:site\_name** meta tag. **Note:It's recommended to leave this
 parameter blank.** If you haven’t chosen a default Site Name the
 plugin will use the Site Name set in your websites **Global
-Configuration**. *\[Figure 4a\]*
+Configuration**. *\[Figure-4a\]*
 
 ##### Description
 
@@ -309,12 +310,12 @@ fewer. *\[Figure 4a\]*
 ##### Type
 
 Choose one of the option from the drop down list. Article is the default
-choice. *\[Figure 4b\]*
+choice. *\[Figure-4b\]*
 
 ##### Image
 
 Let's face it the image is very important so I have put a bit more time
-into how it will be found. *\[Figure 4a\]*
+into how it will be found. *\[Figure-4a\]*
 
 -   **1st attempt:** If you have chosen a **Default Image** this will
     always be displayed next to **og:image** meta tag. **Note:It's
@@ -334,15 +335,15 @@ into how it will be found. *\[Figure 4a\]*
 
 <span class="tip" markdown="1">Note: FB will only use images that are at least 200x200 px. FB prefers images that are measured in multiples of 100 and square format.</span>
 
-![Figure 4a](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph2.png){.coalaweb-docs}
+![Figure-4a](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph2.png "Figure-4a"){.coalaweb-docs}
 
 #### Part 3 - Advanced
 
 ##### Application ID
 
-Here you can enter your Facebook Application ID. *\[Figure 4b\]*
+Here you can enter your Facebook Application ID. *\[Figure-4b\]*
 
-![Figure 4b](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph3.png){.coalaweb-docs}
+![Figure-4b](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph3.png "Figure-4b"){.coalaweb-docs}
 
 ### 5. Quickicon Plugin Options {#options-quick}
 
@@ -351,9 +352,9 @@ and plugin to help you know if you have the most up to date version of
 the extension. They work together to display an update icon in the
 **Joomla Control Panel** under the title **CoalaWeb Quick Icons** but if
 you prefer to have the icon display within the default Joomla Quick
-Icons module use *mod\_quickicon* in this field. *\[Figure 5\]*
+Icons module use *mod\_quickicon* in this field. *\[Figure-5\]*
 
-![Figure 5](images/docs/joomla/extensions/social-links/cw-slinks-config-qicon.png){.coalaweb-docs}
+![Figure-5](images/docs/joomla/extensions/social-links/cw-slinks-config-qicon.png "Figure-5"){.coalaweb-docs}
 
 ### 6. <a name="options-updates"></a>Live Update Options
 
@@ -363,26 +364,26 @@ extension up to date. For the **Pro** users you will have to copy and
 paste your **Download ID** into this field to allow the update system to
 work. Once you have added your **Download ID** the message displayed in
 the **Control Panel** will disappear. If you try to update and it fails
-make sure you still have a valid subscription and the **ID** is correct. *\[Figure 6\]*
+make sure you still have a valid subscription and the **ID** is correct. *\[Figure-6\]*
 
-![Figure 6](images/docs/joomla/extensions/social-links/cw-slinks-config-updates.png){.coalaweb-docs}
+![Figure-6](images/docs/joomla/extensions/social-links/cw-slinks-config-updates.png "Figure-6"){.coalaweb-docs}
 
-### 7. <a name="options-downloadid"></a>Where Is My Download ID \[Pro\]
+### 7. <a name="options-downloadid"></a>Where Is My Download ID \[Pro Version\]
 
 To find your **Download ID** log into **coalaweb.com** and from the top
 menu select **Members \> My Subscriptions** scroll down and under **My
 Subscriptions** there is a Module called **Download ID** copy the
 code and paste in your component configuration making sure not
-to include any spaces. *\[Figure 7\]*
+to include any spaces. *\[Figure-7\]*
 
-![Figure 7](images/docs/joomla/extensions/social-links/coalaweb-download-id.png){.coalaweb-docs}
+![Figure-7](images/docs/joomla/extensions/social-links/coalaweb-download-id.png "Figure-7"){.coalaweb-docs}
 
 ### 8. <a name="options-permissions"></a>Component Permissions
 
 The last tab contains the permission settings for the CoalaWeb Social
-Links component. *\[Figure 8\]*
+Links component. *\[Figure-8\]*
 
-![Figure 8](images/docs/joomla/extensions/social-links/cw-slinks-config-permissions.png){.coalaweb-docs}
+![Figure-8](images/docs/joomla/extensions/social-links/cw-slinks-config-permissions.png "Figure-8"){.coalaweb-docs}
 
 ## <a name="module"></a>Social Links Module
 
@@ -393,11 +394,11 @@ Links component. *\[Figure 8\]*
 #### Part 1
 
 In this section you can choose the icon style, size and alignment, title
-alignment as well as the title format. *\[Figure 9\]*
+alignment as well as the title format. *\[Figure-9\]*
 
 <span class="tip" markdown="1">Want to create a custom theme? Have a look at [Creating a Custom Theme](#mod-custom-theme)</span>
 
-![Figure 9](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general1.png){.coalaweb-docs}
+![Figure-9](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general1.png "Figure-9"){.coalaweb-docs}
 
 #### Part 2
 
