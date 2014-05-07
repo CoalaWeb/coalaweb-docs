@@ -46,18 +46,18 @@
 The **Control Panel** as seen below it is designed to be an easy
 starting point, think of it as the components head quarters. While
 carrying out tasks you can easily jump from the **Control Panel** to the
-different sections and then return before moving onto the next one. *\[Figure 1\]*
+different sections and then return before moving onto the next one. *[Figure-1]*
 
-![Figure 1](images/docs/joomla/extensions/social-links/cw-slinks-cpanel.png){.coalaweb-docs}
+![Figure 1](images/docs/joomla/extensions/social-links/cw-slinks-cpanel.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="help"></a>Inbuilt Help
 
 In the control panel or the tool menu you have a help icon that when
 clicked will open a pop up wrapper of this specific guide. This gives
 you an easy way of checking the functionality of a particular item with
-out leaving the control panel. *\[Figure 2\]*
+out leaving the control panel. *[Figure 2]*
 
-![Figure 2](images/docs/joomla/extensions/social-links/cw-slinks-help.png){.coalaweb-docs}
+![Figure 2](images/docs/joomla/extensions/social-links/cw-slinks-help.png "Figure-2"){.coalaweb-docs}
 
 ### <a name="updates"></a>One Click Updates
 
@@ -67,7 +67,7 @@ out leaving the control panel. *\[Figure 2\]*
 
 <span class="info" markdown="1">In the control panel or the tool menu you have a options icon that when clicked will open a pop up containing the various extension options.</span>
 
-### 1. <a name="options-extra"></a>Extra Options \[Pro\]
+### 1. <a name="options-extra"></a>Extra Options [Pro]
 
 #### URL Shortener
 
@@ -77,9 +77,9 @@ To check if you have cURL installed open up your **PHP Information** page found 
 
 `System → System Information → PHP Information`
 
-and scroll down or search the page looking for something similar to *\[Figure 24\]*
+and scroll down or search the page looking for something similar to *\[Figure-24\]*
 
-![Figure 24](images/docs/joomla/extensions/social-links/cw-slinks-config-extra1.png){.coalaweb-docs}
+![Figure 24](images/docs/joomla/extensions/social-links/cw-slinks-config-extra1.png "Figure-24"){.coalaweb-docs}
 
 Now that we have made sure cURL is installed lets move onto the configuration options. The first option 
 is whether to turn on the shortening system and which service you wish to use (Currently only Google is available).

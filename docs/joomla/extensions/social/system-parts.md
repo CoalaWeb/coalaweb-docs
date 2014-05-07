@@ -1,11 +1,11 @@
-# Social Links - Overview
+# Overview
 CoalaWeb Social Links is a complete social media package to help your site 
 visitors bookmark content, follow you through a variety of social networks and 
 vote for particular content with social buttons.
-## System Parts - Component
+## Component
 The Component makes setting up the content plugins a breeze as well as making 
 updating to a new version a one click procedure.
-## System Parts - Modules
+## Modules
 ### Social Links
 The Social Links module gives you the option to choose which bookmarks and 
 follow us links to display including the ability to create custom ones plus it's
@@ -19,7 +19,7 @@ the Page with one click, without needing to visit the Page.
 The Google Plus module is a social module that helps you link your Google+
 page to your site. Get more recommendations for your site in Google search and 
 grow your audience on Google+.
-## System Parts - Plugins
+## Plugins
 ### Content - Social Likes \[Pro\]
 The Content - Social Likes plugin will display a variety of social network vote 
 buttons in your Joomla and K2 content. It's packed full of configuration options 
