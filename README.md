@@ -1,7 +1,7 @@
 Coalaweb Documentation
 =============
 
-This is the official documentation for CoalaWeb projects, written by the [Steven Palmer](http://coalaweb.com).
+This is the official documentation for CoalaWeb projects, written by [Steven Palmer](http://coalaweb.com).
 
 ## Contributions
 
@@ -17,4 +17,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 ![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-**CoalaWeb Documentation** by the [Steven Palmer](http://coalaweb.com) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+**CoalaWeb Documentation** by [Steven Palmer](http://coalaweb.com) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
