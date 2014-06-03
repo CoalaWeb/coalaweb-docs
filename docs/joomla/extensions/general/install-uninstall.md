@@ -10,11 +10,11 @@
 3.  [Extra Info](#extra-info)
 4.  [Need More Help?](#more-help)
 
-##Install Guide {#install-guide}
+## <a name="install-guide"></a>Install Guide
 
 <span class="info" markdown="1">Note: CoalaWeb guides refer to a Joomla 3.+ installation but the steps are very similar for a Joomla 2.5.</span>
 
-### Upload Package File {#upload}
+### <a name="upload"></a>Upload Package File
 
 The first method of installing a CoalaWeb extension we are going to cover is the 
 **Upload Package File** method. This is the most common method for installing Joomla 
@@ -51,7 +51,7 @@ finished you will receive conformation. *[Figure-3]*
 
 ![Figure-4](images/docs/joomla/extensions/general/install-confirm.png "Figure-4"){.coalaweb-docs}
 
-### Install from Directory {#directory}
+### <a name="directory"></a>Install from Directory
 
 The second method of installing a CoalaWeb extension we are going to cover is the 
 **Install from Directory** method. This is a great way to install larger 
@@ -108,7 +108,7 @@ finished you will receive conformation. *[Figure-5]*
 
 ![Figure-5](images/docs/joomla/extensions/general/install-confirm.png "Figure-5"){.coalaweb-docs}
 
-### Install From URL {#url}
+### <a name="url"></a>Install From URL
 This option is a great way to install a CoalaWeb extension without needing to 
 download it first.
 
@@ -141,7 +141,7 @@ finished you will receive conformation. *[Figure-3]*
 
 ![Figure-3](images/docs/joomla/extensions/general/install-confirm.png "Figure-3"){.coalaweb-docs}
 
-### Install from Web J3.+ {#web}
+### <a name="web"></a>Install from Web J3.+
 
 The last way to install a CoalaWeb extension we are going to cover is the new Joomla 3.+
 **Install from Web** option which is a quick and easy way to try out our **Core**
