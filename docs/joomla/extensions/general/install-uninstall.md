@@ -5,7 +5,7 @@
     -   [Install From URL](#url)
     -   [Install From Web \[J3.+\]](#web)
 2.  Uninstallation Guides
-    -   [Uninstall All Parts](#uninstall-all)
+    -   [Uninstall](#uninstall-all)
 4.  [Need More Help?](#more-help)
 
 ***
@@ -181,7 +181,7 @@ finished you will receive conformation. *[Figure-4]*
 
 ![Figure-4](images/docs/joomla/extensions/general/install-confirm.png "Figure-4"){.coalaweb-docs}
 
-## <a name="uninstall-all"></a>Uninstall All
+## <a name="uninstall-all"></a>Uninstall
 
 Coalaweb extensions come with an install script that takes care of installing all 
 the parts system in one go such as a components, modules and plugins. The same 
@@ -198,14 +198,14 @@ It can be found in this location.
 
 ![Figure-1](images/docs/joomla/extensions/general/uninstall-all-1.png "Figure-1"){.coalaweb-docs}
 
-Next to make sure we only have component listed check the filter **Type** to 
+Next to make sure we only have components listed change the filter **Type** to 
 **Components** now you should only have components listed to the right. *[Figure-2]*
 
 ![Figure-2](images/docs/joomla/extensions/general/uninstall-all-2.png "Figure-2"){.coalaweb-docs}
 
-Next let use the search box to look for **coalaweb** to filter down the extensions
-even more. In the case of this guide we will be uninstalling the CoalaWeb Social
-Links extension. *[Figure-3]*
+Next to filter down the extensions even more lets use the search box and search 
+for **coalaweb** In the case of this guide we will be uninstalling the 
+CoalaWeb Social Links extension. *[Figure-3]*
 
 ![Figure-3](images/docs/joomla/extensions/general/uninstall-all-3.png "Figure-3"){.coalaweb-docs}
 
@@ -214,7 +214,7 @@ used by CoalaWeb extensions will take care of uninstalling all the related parts
 the system such as **Modules** and **Plugins** and when it has 
 finished you will receive conformation. *[Figure-4]*
 
-<span class="info" markdown="1">Note: Uninstalling an extension can take some time due to having to uninstall several smaller extensions so please be patient.</span>
+<span class="info" markdown="1">Note: Uninstalling an extension can take some time due to having to uninstall several smaller extensions at the same time so please be patient.</span>
 
 ![Figure-4](images/docs/joomla/extensions/general/uninstall-all-4.png "Figure-4"){.coalaweb-docs}
 
@@ -229,8 +229,8 @@ Let make it easy to find by doing some filtering, select **Plugin** from the
 
 ![Figure-5](images/docs/joomla/extensions/general/uninstall-all-5.png "Figure-5"){.coalaweb-docs}
 
-Select the CW Gears plugin and then click uninstall from the top menu. When it 
-has finished you will receive confirmation and thats you are finished. *[Figure-6]*
+Select the **CW Gears** plugin and then click **Uninstall** from the top menu. When it 
+has finished you will receive confirmation and you are done. *[Figure-6]*
 
 ![Figure-6](images/docs/joomla/extensions/general/uninstall-all-6.png "Figure-6"){.coalaweb-docs}
 
