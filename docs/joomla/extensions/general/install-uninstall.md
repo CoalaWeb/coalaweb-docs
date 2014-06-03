@@ -24,7 +24,7 @@ The first thing we need is a zipped up extension package ready to install so
 drop by the **Downloads** section of [CoalaWeb](http://coalaweb.com) and grab a copy of the 
 extension you want to install. *[Figure-1]*
 
-<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure you system meets the minium requirements.</span>
+<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</span>
 
 ![Figure-1](images/docs/joomla/extensions/general/download-pack.png "Figure-1"){.coalaweb-docs}
 
@@ -63,7 +63,7 @@ drop by the **Downloads** section of [CoalaWeb](http://coalaweb.com) and grab
 a copy of the extension you want to install. The difference with this method of 
 installing an extension is that we need it unzipped so you may as well do it now. *[Figure-1]*
 
-<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure you system meets the minium requirements.</span>
+<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure you system meets the minimum requirements.</span>
 
 ![Figure-1](images/docs/joomla/extensions/general/download-pack.png "Figure-1"){.coalaweb-docs}
 
@@ -112,6 +112,8 @@ finished you will receive conformation. *[Figure-5]*
 This option is a great way to install a CoalaWeb extension without needing to 
 download it first.
 
+<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure you system meets the minimum requirements.</span>
+
 <span class="alert" markdown="1">Note: To use this method you will need to be a registered and logged in user to access the link.</span>
 
 Once you have logged in over at [CoalaWeb](http://coalaweb.com) proceed to the 
@@ -146,6 +148,8 @@ finished you will receive conformation. *[Figure-3]*
 The last way to install a CoalaWeb extension we are going to cover is the new Joomla 3.+
 **Install from Web** option which is a quick and easy way to try out our **Core**
 extensions.
+
+<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure you system meets the minimum requirements.</span>
 
 First log into the backend of your Joomla installation and open up the 
 **Extension Manager** then select the **Install from Web** option.
