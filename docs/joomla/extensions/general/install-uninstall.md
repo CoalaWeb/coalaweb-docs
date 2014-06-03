@@ -70,7 +70,7 @@ installing an extension is that we need it unzipped so you may as well do it now
 Next we need to get the freshly downloaded package onto our server and into the
 **tmp** directory so lets start by checking its location. Log into the backend 
 of your Joomla installation and then head over to your **Server Settings** and check the
-**Path to Temp Folder**. This is where we will be putting the package.
+**Path to Temp Folder** as this is where we will be putting the package.
 
 It can be found in this location. *[Figure-2]*
 
@@ -78,7 +78,7 @@ It can be found in this location. *[Figure-2]*
 
 ![Figure-2](images/docs/joomla/extensions/general/directory-2.png "Figure-2"){.coalaweb-docs}
 
-Now we know where we want the package so it's time to fire up your FTP client 
+Now that we know where we want the package to go it's time to fire up your FTP client 
 and navigate to the directory we just checked. Once we have found it upload the 
 package we download in the first step into the **tmp** directory. *[Figure-3]*
 
@@ -86,16 +86,16 @@ package we download in the first step into the **tmp** directory. *[Figure-3]*
 
 ![Figure-3](images/docs/joomla/extensions/general/directory-3.png "Figure-3"){.coalaweb-docs}
 
-Now back to your Joomla installation and open up the 
+Now back to your Joomla administration area and open up the 
 **Extension Manager** and then select the **Install from Directory** option.
 
 It can be found in this location.
 
 `Extensions → Extension Manager → Install from Directory`
 
-The tmp directory location should already be filled in for you and it should be the
+The **tmp** directory location should already be filled in for you and it should be the
 same as the directory we check in a previous step. Next add the the package name 
-to the end. *[Figure-4]*
+to the end making sure it's exactly same as the folder you uploaded with FTP. *[Figure-4]*
 
 ![Figure-4](images/docs/joomla/extensions/general/directory-4.png "Figure-4"){.coalaweb-docs}
 
@@ -107,3 +107,74 @@ finished you will receive conformation. *[Figure-5]*
 <span class="info" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</span>
 
 ![Figure-5](images/docs/joomla/extensions/general/install-confirm.png "Figure-5"){.coalaweb-docs}
+
+### Install From URL {#url}
+This option is a great way to install a CoalaWeb extension without needing to 
+download it first.
+
+<span class="alert" markdown="1">Note: To use this method you will need to be a registered and logged in user to access the link.</span>
+
+Once you have logged in over at [CoalaWeb](http://coalaweb.com) proceed to the 
+**Downloads** area the same as for the previous two methods of installing 
+extensions and you will notice a new **Direct Link** option. *[Figure-1]*
+
+![Figure-1](images/docs/joomla/extensions/general/url-1.png "Figure-1"){.coalaweb-docs}
+
+Now copy this link and head back over to your Joomla administration area and open up the 
+**Extension Manager** and then select the **Install from URL** option.
+
+It can be found in this location.
+
+`Extensions → Extension Manager → Install from URL`
+
+Next copy and paste the link from the previous step into the **Install URL** 
+field. *[Figure-2]*
+
+![Figure-2](images/docs/joomla/extensions/general/url-2.png "Figure-2"){.coalaweb-docs}
+
+Lastly select **Install** to start the process. The install script
+used by CoalaWeb extensions will take care of installing all the related parts of 
+the system such as **Modules** and **Plugins** and when it has 
+finished you will receive conformation. *[Figure-3]*
+
+<span class="info" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</span>
+
+![Figure-3](images/docs/joomla/extensions/general/install-confirm.png "Figure-3"){.coalaweb-docs}
+
+### Install from Web J3.+ {#web}
+
+The last way to install a CoalaWeb extension we are going to cover is the new Joomla 3.+
+**Install from Web** option which is a quick and easy way to try out our **Core**
+extensions.
+
+First log into the backend of your Joomla installation and open up the 
+**Extension Manager** then select the **Install from Web** option.
+
+It can be found in this location.
+
+`Extensions → Extension Manager → Install from Web`
+
+Next in the **Search** box type **coalaweb** and click the magnifying glass. 
+You should now see a list of our extensions. *[Figure-1]*
+
+![Figure-1](images/docs/joomla/extensions/general/web-1.png "Figure-1"){.coalaweb-docs}
+
+For this example we will install the **CoalaWeb Social Links** extension so 
+click the title of the extension you want to install. You should now see a 
+description page along with some links included an **Install** link. *[Figure-2]*
+
+![Figure-2](images/docs/joomla/extensions/general/web-2.png "Figure-2"){.coalaweb-docs}
+
+Next click **Install** and you will be taken to a confirmation page with basic
+details about the extension and its download link. *[Figure-3]*
+
+![Figure-3](images/docs/joomla/extensions/general/web-3.png "Figure-3"){.coalaweb-docs}
+
+If you are happy select **Install** again to start the process. The install script
+used by CoalaWeb extensions will take care of installing all the related parts of 
+the system such as **Modules** and **Plugins** and when it has 
+finished you will receive conformation. *[Figure-4]*
+
+<span class="info" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</span>
+
+![Figure-4](images/docs/joomla/extensions/general/install-confirm.png "Figure-4"){.coalaweb-docs}
