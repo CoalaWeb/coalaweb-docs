@@ -1,5 +1,5 @@
-Overview
-========
+# Overview
+
 CoalaWeb Contact is a complete contact form package designed to give
 users a quick and easy way to place contact forms anywhere within their
 Joomla website.
