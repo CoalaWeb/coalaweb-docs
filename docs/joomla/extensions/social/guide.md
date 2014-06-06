@@ -8,10 +8,9 @@
         - [2. Content Plugin Options \[Pro Version\]](#options-content)
         - [3. Panel Plugin Options \[Pro Version\]](#options-panel)
         - [4. Open Graph Plugin Options \[Pro Version\]](#options-og)
-        - [5. Quickicon Plugin Options](#options-quick)
-        - [6. Live Update Options](#options-updates)
-        - [7. Where Is My Download ID \[Pro Version\]](#options-downloadid)
-        - [8. Component Permissions](#options-permissions)
+        - [5. Update Options](#options-updates)
+        - [6. Where Is My Download ID \[Pro Version\]](#options-downloadid)
+        - [7. Component Permissions](#options-permissions)
 
 2.  [Social Module Guide](#module)
     -   [General Display Options](#mod-general)
@@ -20,25 +19,31 @@
     -   [Follow Us Options](#mod-follow)
     -   [Advanced Options](#mod-advanced)
 
-3.  [Like box Module Guide](#module-lbox)
+3.  [Social Tabs Guide](#module-tabs)
+    -   [First Thing](#mod-tabs-first)
+    -   [General Display Options](#mod-tabs-general)
+    -   [Share Options](#mod-tabs-share)
+    -   [Advanced Options](#mod-tabs-advanced)
+
+4.  [Like box Module Guide](#module-lbox)
     -   [General Options](#mod-lb-general)
     -   [Layout Options](#mod-lb-layout)
     -   [Style Options](#mod-lb-style)
     -   [Extra Options](#mod-lb-extra)
     -   [Advanced Options](#mod-lb-advanced)
 
-4.  [Google Plus Module Guide \[Pro Version\]](#module-gplus)
+5.  [Google Plus Module Guide \[Pro Version\]](#module-gplus)
     -   [General Options](#mod-gplus-general)
     -   [Layout Options](#mod-gplus-layout)
     -   [Advanced Options](#mod-gplus-advanced)
 
-5.  [Plugin Guide \[Pro Version\]](#plg)
+6.  [Plugin Guide \[Pro Version\]](#plg)
     -   [Content Plugin - Social Likes](#plg-content)
     -   [Content Plugin - Social Panel](#plg-panel)
     -   [Content Plugin - Open Graph](#plg-og)
     -   [System Plugin - Zoo Elements](#plg-zoo)
 
-6.  [Need More Help?](#more-help)
+7.  [Need More Help?](#more-help)
 
 ## <a name="component-guide"></a>Component
 ### <a name="control-panel"></a>Control Panel
@@ -58,10 +63,6 @@ you an easy way of checking the functionality of a particular item with
 out leaving the control panel. *\[Figure-2\]*
 
 ![Figure-2](images/docs/joomla/extensions/social-links/cw-slinks-help.png "Figure-2"){.coalaweb-docs}
-
-### <a name="updates"></a>One Click Updates
-
-#### Coming Soon!
 
 ### <a name="options"></a>Extension Options
 
@@ -345,21 +346,10 @@ Here you can enter your Facebook Application ID. *\[Figure-4b\]*
 
 ![Figure-4b](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph3.png "Figure-4b"){.coalaweb-docs}
 
-### 5. Quickicon Plugin Options {#options-quick}
+### 5. <a name="options-updates"></a>Update Options
 
-The CoalaWeb Social Links extension comes with a **Quick Icon** module
-and plugin to help you know if you have the most up to date version of
-the extension. They work together to display an update icon in the
-**Joomla Control Panel** under the title **CoalaWeb Quick Icons** but if
-you prefer to have the icon display within the default Joomla Quick
-Icons module use *mod\_quickicon* in this field. *\[Figure-5\]*
-
-![Figure-5](images/docs/joomla/extensions/social-links/cw-slinks-config-qicon.png "Figure-5"){.coalaweb-docs}
-
-### 6. <a name="options-updates"></a>Live Update Options
-
-The CoalaWeb Social Links extension comes with a built in one click
-**Live Update** system so both **Core** and **Pro** users can keep their
+The CoalaWeb Social Links extension integrates with the inbuilt
+**Joomla Update** system so both **Core** and **Pro** users can keep their
 extension up to date. For the **Pro** users you will have to copy and
 paste your **Download ID** into this field to allow the update system to
 work. Once you have added your **Download ID** the message displayed in
@@ -368,7 +358,7 @@ make sure you still have a valid subscription and the **ID** is correct. *\[Figu
 
 ![Figure-6](images/docs/joomla/extensions/social-links/cw-slinks-config-updates.png "Figure-6"){.coalaweb-docs}
 
-### 7. <a name="options-downloadid"></a>Where Is My Download ID \[Pro Version\]
+### 6. <a name="options-downloadid"></a>Where Is My Download ID \[Pro Version\]
 
 To find your **Download ID** log into **coalaweb.com** and from the top
 menu select **Members \> My Subscriptions** scroll down and under **My
@@ -378,7 +368,7 @@ to include any spaces. *\[Figure-7\]*
 
 ![Figure-7](images/docs/joomla/extensions/social-links/coalaweb-download-id.png "Figure-7"){.coalaweb-docs}
 
-### 8. <a name="options-permissions"></a>Component Permissions
+### 7. <a name="options-permissions"></a>Component Permissions
 
 The last tab contains the permission settings for the CoalaWeb Social
 Links component. *\[Figure-8\]*
@@ -523,6 +513,77 @@ to display next to the link. *Note: If your site is multilingual leave
 blank and use the language files. \[Figure-12a\]*
 
 ![Figure-12a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-advanced2.png "Figure-12a"){.coalaweb-docs}
+
+## <a name="module-tabs"></a>Social Tabs Module
+
+### <a name="mod-tabs-first"></a>First Thing
+
+The first thing you will need to do to ensure that the Social Tabs module functions
+correctly is to publish it to the right position. I recommend using **debug**
+as it won't affect anything on your system and it's an avaliable module position
+in all templates. *\[Figure-25\]*
+
+![Figure-25](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-first.png "Figure-25"){.coalaweb-docs}
+
+### <a name="mod-tabs-general"></a>General Display Options
+
+<span class="info" markdown="1">To make it easier to follow I have broken up the **General Display Options** into two parts.</span>
+
+#### Part 1
+
+In this section you can choose which **Side** you want the module to display on, the 
+**Offset** (the amount of space from the top or bottom of the page) and either **Top** or **Bottom**. \[Figure-25a\]*
+
+![Figure-25a](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-general1.png "Figure-25a"){.coalaweb-docs}
+
+#### Part 2
+
+In this section you can choose to disable the module on either **Mobiles** or **Mobiles and Tablets**
+or **Never** which leads into the next two setting. The next two options allow you to define
+the width of each of these types of devices which act as the trigger to disable the module. 
+The default settings would be fine in most situations. \[Figure-25b\]*
+
+![Figure-25b](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-general2.png "Figure-25b"){.coalaweb-docs}
+
+<span class="info" markdown="1">If Social Tabs using jQuery is loaded on a device with a screen size smaller than **1024** the slide out effect is disabled.</span>
+
+### <a name="mod-tabs-share"></a>Share Options
+
+For each of the **Share** options contained in the Social Tabs module you have 
+three associated options. The first is to turn on the off the display of the particular
+share tab. The next two are for the colors of the tab and when it is hovered over. \[Figure-25c\]*
+
+![Figure-25c](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-share1.png "Figure-25c"){.coalaweb-docs}
+
+### <a name="mod-tabs-advanced"></a>Advanced Options
+
+<span class="info" markdown="1">To make it easier to follow I have broken up the **Advanced Options** into two parts.</span>
+
+#### Part 1
+
+First you get the choice to use **CSS** for the rendering of the module or **jQuery**.
+
+<span class="info" markdown="1">jQuery is loaded by default on Joomla 3.x but if you don't have it loaded on your system and you would like to use the jQuery option turn it on in the included System - CW Gears plugin.</span>
+
+If you want the same title to be used for all of the **Share** tabs
+all of the time add it here. If have chosen a default link I recommend
+you add a default title as well. If left blank the current title will be
+used. If you want the same link to be used for all of the **Share** tabs all 
+of the time add it here. If left blank the current URL will be
+used. - Note: When adding your link use the domain minus the http://
+only add the link in the following format www.socialmedia.com. *\[Figure-25d\]*
+
+![Figure-25d](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-advanced1.png "Figure-25d"){.coalaweb-docs}
+
+#### Part 2
+
+In this section you have the option to assign a **Unique Module ID**
+to stop conflicts. You can also give the it a **Module Class Suffix** or
+choose whether to use **Cache** including the **Cache Time**. Next is the 
+**NoFollow** option that provides a way to tell
+search engines not to follow a particular link. *\[Figure-25e\]*
+
+![Figure-25e](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-advanced2.png "Figure-25e"){.coalaweb-docs}
 
 ## <a name="module-lbox"></a>Facebook Likebox Module
 
