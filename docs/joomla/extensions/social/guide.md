@@ -532,20 +532,20 @@ in all templates. *\[Figure-25\]*
 #### Part 1
 
 In this section you can choose which **Side** you want the module to display on, the 
-**Offset** (the amount of space from the top or bottom of the page) and either **Top** or **Bottom**. \[Figure-25a\]*
+**Offset** (the amount of space from the top or bottom of the page) and either **Top** or **Bottom**. *\[Figure-25a\]*
 
 ![Figure-25a](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-general1.png "Figure-25a"){.coalaweb-docs}
 
 #### Part 2
 
-In this section you can choose to disable the module on either **Mobiles** or **Mobiles and Tablets**
-or **Never** which leads into the next two setting. The next two options allow you to define
+In this section you can choose to disable the module on either **Mobiles** or **Mobiles and Tablets** 
+which leads into the next two settings. The next two options allow you to define
 the width of each of these types of devices which act as the trigger to disable the module. 
-The default settings would be fine in most situations. \[Figure-25b\]*
+The default settings will be sufficient in most situations. *\[Figure-25b\]*
 
 ![Figure-25b](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-general2.png "Figure-25b"){.coalaweb-docs}
 
-<span class="info" markdown="1">If Social Tabs using jQuery is loaded on a device with a screen size smaller than **1024** the slide out effect is disabled.</span>
+<span class="info" markdown="1">Note: If Social Tabs using jQuery is loaded on a device with a screen size smaller than **1024** the slide out effect is disabled.</span>
 
 ### <a name="mod-tabs-share"></a>Share Options
 
@@ -563,7 +563,7 @@ share tab. The next two are for the colors of the tab and when it is hovered ove
 
 First you get the choice to use **CSS** for the rendering of the module or **jQuery**.
 
-<span class="info" markdown="1">jQuery is loaded by default on Joomla 3.x but if you don't have it loaded on your system and you would like to use the jQuery option turn it on in the included System - CW Gears plugin.</span>
+<span class="info" markdown="1">Note: jQuery is loaded by default on Joomla 3.x but if you don't have it loaded on your system and you would like to use the jQuery option turn it on in the included **System - CW Gears plugin**.</span>
 
 If you want the same title to be used for all of the **Share** tabs
 all of the time add it here. If have chosen a default link I recommend
