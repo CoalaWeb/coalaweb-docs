@@ -1,7 +1,12 @@
-Coalaweb Documentation
-=============
+# Coalaweb Documentation
 
 This is the official documentation for CoalaWeb projects, written by [Steven Palmer](http://coalaweb.com).
+
+## Table of Contents
+1.  [CoalaWeb Docs](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs)
+    -   [Joomla](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla)
+        - [Extensions](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions)
+        - [Contact](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/contact)
 
 ## Contributions
 
