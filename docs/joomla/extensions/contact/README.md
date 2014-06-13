@@ -1,4 +1,4 @@
-# Coalaweb Documentation
+# Coalaweb Contact Documentation
 
 This is the official documentation for the CoalaWeb Contact Joomla extension, written by [Steven Palmer](http://coalaweb.com).
 
