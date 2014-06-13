@@ -1,7 +1,6 @@
 ## Table of Contents
 1.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
-    -   [One Click Updates](#updates)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
         - [1. Extra Options \[Pro Version\]](#options-extra)
@@ -669,8 +668,10 @@ layouts and should only be loaded once so if you are using other
 Facebook widgets only select yes in one of them. There is also an option
 to turn off the **Module css** if you want to add your own styling. Next
 is the **NoFollow** option this provides a way to tell search engines
-don't follow a particular link. The last option is whether to display a
-**Link Back to CoalaWeb** as always it's appreciated but its up to you
+don't follow a particular link. 
+
+The last option is whether to display a
+**Link Back to CoalaWeb** which is always appreciated but its up to you
 plus you can choose what text to display next to the link. *Note: If
 your site is multilingual leave blank and use the language files. \[Figure-17\]*
 
