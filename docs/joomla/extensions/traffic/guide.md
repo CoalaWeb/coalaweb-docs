@@ -7,7 +7,7 @@
         - [1. IP Formats](#ki-ips)
         - [2. Scenarios](#ki-scenarios)
     -   [GEO Location](#geo)
-    -   [CSV Export Option](#export)
+    -   [CSV Export Option](#export-csv)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
 2.  [Module Guide](#module)
@@ -104,14 +104,14 @@ can see your visits easily by look down the **IP Owner** column. *\[Figure-3\]*.
 If you want to stop an IP from being counted by **Traffic** create a new entry
 give it a **Name** and **Description** add the **IP** and set **Count** to 
 no. Now that particular IP will not appear in the visitors list as it is not 
-counted by the system anymore.
+counted by the system any more.
 
 **Block by Name:**
 
 If you want to stop a robot from being counted by **Traffic** based on it's **Name** 
 create a new entry give it a **Name** and **Description** add the **Robot Name** and 
 set **Count** to no. Now that particular robot will not appear in the visitors 
-list as it is not counted by the system anymore.
+list as it is not counted by the system any more.
 
 <span class="info" markdown="1">Note: The most reliable way to identify visitors is by their IP the name information comes from their **user agent string** which isn't always supplied.</span>
 
@@ -129,7 +129,7 @@ CoalaWeb Traffic uses the free
 for determining the country and city information of your visitors. This
 file is updated very frequently, about once every month. Why so often?
 IP assignments to countries change all the time in fact by the time we
-release our extension, the database file is most likely already slighty
+release our extension, the database file is most likely already slightly
 out of date.
 
 #### What Will This Affect
@@ -193,7 +193,7 @@ regular intervals.
 <span class="info" markdown="1">Note: Please be patient when **Uploading** and **Unzipping** the database it may take
 some time due to the size of the file.</span>
 
-### Export CSV Report
+### <a name="export-csv"></a>Export CSV Report
 
 If you want to export the visitors currently stored in your database
 start by selecting **Visitors** from the menu bar or from the **Control
@@ -237,7 +237,7 @@ You can now format, filter and save the data as you wish.
 
 <span class="info" markdown="1">Note: Don't forget what you see is what you get! The exported file will contain what is displayed on the screen.</span>
 
-### Inbuilt Help
+### <a name="help"></a>Inbuilt Help
 
 In the control panel or the tool menu you have a help icon that when
 clicked will open a pop up wrapper of this specific guide. This gives
@@ -246,7 +246,7 @@ out leaving the control panel. *\[Figure-7\]*
 
 ![Figure-7](images/docs/joomla/extensions/traffic/cw-traffic-help.png "Figure-7"){.coalaweb-docs}
 
-### Extension Options
+### <a name="options"></a>Extension Options
 
 In the control panel or the tool menu you have a **Options** icon that when
 clicked will open a series of extension options.
@@ -354,7 +354,7 @@ them up into several sections which are explained in detail below.
 
 ### <a name="mod-general"></a>General Display Options
 
-To make it easy to explain I have broken this section up inot two parts.
+To make it easy to explain I have broken this section up into two parts.
 
 **Part 1 Digital Counter**
 
@@ -377,7 +377,7 @@ today, yesterday, this week, this month and total it's up to you which ones you
 want to display. Under each of these options is a text box here you can
 assign a word to be displayed next to the item but if your site is
 multilingual leave these blank and use the language files to control
-whats displayed. *\[Figure-9a\]*
+what is displayed. *\[Figure-9a\]*
 
 ![Figure-9a](images/docs/joomla/extensions/traffic/cw-traffic-mod-general-2.png "Figure-9a"){.coalaweb-docs}
 
@@ -406,7 +406,7 @@ the **Traffic** module.
 
 To make it easier to explain I have broken this section into two parts.
 
-**Part1 **
+**Part 1**
 
 First you can choose if you want to display the visitor information section at all.
 Next are the **Title** configuration options, you can to choose to display one 
@@ -447,7 +447,7 @@ The CoalaWeb Traffic module also has a few of what I consider
 **Advanced Options** such as the option to assign a **Unique Module ID**
 to stop conflicts, a **Module Class Suffix** or whether to use **Cache**
 including the **Cache Time**. This next option allows you to display the 
-**Date and Time** at the bottom of the module aswell as choosing its **Format**. 
+**Date and Time** at the bottom of the module as well as choosing its **Format**. 
 
 The last option is whether to display a **Link Back to CoalaWeb** which is always appreciated but its up to you
 plus you can choose what text to display next to the link. *Note: If
@@ -476,7 +476,7 @@ plugin is installed and publish.</span>
 
 ### <a name="plg-clean"></a>System Plugin - Clean
 
-This plugin carry’s out the automatic database clean up but only if you
+This plugin carries out the automatic database clean up but only if you
 have it turned on in the **Component Options**. It will run in the
 background keeping the current data but delete out the old entries and
 then add them to a running total. It is recommended to turn this feature
