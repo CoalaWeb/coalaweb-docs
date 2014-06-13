@@ -3,9 +3,12 @@
 This is the official documentation for CoalaWeb projects, written by [Steven Palmer](http://coalaweb.com).
 
 ## Table of Contents
--   [Joomla](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla)
+1.   [Joomla](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla)
     - [Extensions](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions)
         - [Contact](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/contact)
+        - [General](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/general)
+        - [Social](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/social)
+        - [Traffic](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/traffic)
 
 ## Contributions
 
