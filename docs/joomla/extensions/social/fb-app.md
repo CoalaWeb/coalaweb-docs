@@ -3,9 +3,9 @@
 2.  [Need More Help?](#more-help)
 
 ## <a name="guide"></a>Guide to creating a Facebook Application
-As you know, CoalaWeb Social Links allows you to share content through many social networks, including Facebook. Up until version 0.1.8 the Facebook share options of the CoalaWeb Social Links and Tabs modules has been carried out using the Facebook **sharer** code. But recently, Facebook announced that they have deprecated this code in preference of their new **Share Dialog** system, which requires a Facebook App ID.
+As you know, CoalaWeb Social Links allows you to share content through many social networks, including Facebook. Up until version 0.1.8 the Facebook share options of the **Social Links** and **Tabs** modules had been carried out using the Facebook **Sharer** code. But recently, Facebook announced that they have deprecated this code in preference of their new **Share Dialog** system, which requires a Facebook **App ID**.
 
-To get a Facebook App ID requires first creating a Facebook Application but don’t worry it’s an easy process which we will walk your through in this guide.
+To get a Facebook App ID requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in the following guide.
 
 ### <a name="step-1"></a>Step 1
 To get started lets head over to the Facebook developer's [website](https://developers.facebook.com) You will need to log into your Facebook account using your normal credentials before being able to access this page. *\[Figure-1\]*
@@ -32,13 +32,13 @@ You can leave the **Namespace** blank and **No** for the test version question. 
 
 ![Figure-5](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure5.png "Figure-5"){.coalaweb-docs}
 
-When you have finished and click **Create App** you will be confronted with a Captcha Fill it in and click **Submit**. *\[Figure-6\]*
+When you click **Create App** you will be confronted with a Captcha so fill it in and click **Submit**. *\[Figure-6\]*
 
 ![Figure-6](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure6.png "Figure-6"){.coalaweb-docs}
 
 ###Congratulations! You’ve just created a Facebook App!
 
-You should now be looking at your newly created application and you might note that under your **Application's Name** there is the sentence:
+You should now be looking at your newly created application, you will note that under your **Application's Name** there is the sentence:
 
 **This app is in development mode**
 
@@ -46,13 +46,13 @@ We still have a couple more steps before we are ready to use the **App ID**. *\[
 
 ![Figure-7](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure7.png "Figure-7"){.coalaweb-docs}
 
-On the left side of your **Dashboard**, click the **Settings** menu item and make sure you looking at the **Basic** tab. In this window you will need to enter the **App Domains** and **Contact Email** for your app.  *\[Figure-8\]*
+On the left side of your **Dashboard**, click **Settings** from the menu and make sure you looking at the **Basic** tab. In this window you will need to enter the **App Domains** and **Contact Email** for your app. *\[Figure-8\]*
 
-<span class="tip" markdown="1">Do not put in the **http** part of the domain.</span>
+<span class="tip" markdown="1">Do not include the **http** part of the domain.</span>
 
 ![Figure-8](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure8.png "Figure-8"){.coalaweb-docs}
 
-Before clicking **Save Changes** we need to add a platform so as you would suspect we will now use the **Add Platform** button. *\[Figure-9\]*
+Before clicking **Save Changes** we need to add a platform so yes you guessed it we will now use the **Add Platform** button. *\[Figure-9\]*
 
 ![Figure-9](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure9.png "Figure-9"){.coalaweb-docs}
 
@@ -66,7 +66,7 @@ In the next window enter your website address into the **Site URL** field and th
 
 ![Figure-11](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure11.png "Figure-11"){.coalaweb-docs}
 
-Lets now make your App live and available to all users. To do this click the **Status & Review** tab in the vertical menu to the left and then toggle the button at the top that says **Do you want to make this app and all its live features available to the general public?**. *\[Figure-12\]*
+Lets now make your App live and available to all users. To do this click the **Status & Review** option from menu to the left and then toggle the button at the top that says **Do you want to make this app and all its live features available to the general public?**. *\[Figure-12\]*
 
 ![Figure-12](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure12.png "Figure-12"){.coalaweb-docs}
 
@@ -80,7 +80,7 @@ Now when you are returned to the **Dashboard** you will see a solid green circle
 
 ![Figure-14](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure14.png "Figure-14"){.coalaweb-docs}
 
-Now you are ready to copy your application ID and use it in your CoalaWeb extension.
+###Your new Application ID is ready for use in CoalaWeb Social Links!
 
 ## <a name="more-help"></a>Need More Help
 
