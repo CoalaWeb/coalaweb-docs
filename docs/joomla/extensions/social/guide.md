@@ -3,7 +3,7 @@
     -   [Control Panel](#control-panel)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
-        - [1. Extra Options \[Pro Version\]](#options-extra)
+        - [1. General Options \[Pro Version\]](#options-general)
         - [2. Content Plugin Options \[Pro Version\]](#options-content)
         - [3. Panel Plugin Options \[Pro Version\]](#options-panel)
         - [4. Open Graph Plugin Options \[Pro Version\]](#options-og)
@@ -14,7 +14,9 @@
 2.  [Social Module Guide](#module)
     -   [General Display Options](#mod-general)
     -   [Create Custom Theme](#mod-custom-theme)
-    -   [Bookmark This Options](#mod-bookmark)
+    -   [Bookmark This General](#mod-bookmark-gen)
+    -   [Bookmark This Social](#mod-bookmark-soc)
+        - [1. Create Facebook Application](#mod-bookmark-fbapp)
     -   [Follow Us Options](#mod-follow)
     -   [Advanced Options](#mod-advanced)
 
@@ -67,7 +69,7 @@ out leaving the control panel. *\[Figure-2\]*
 
 <span class="info" markdown="1">In the control panel or the tool menu you have a options icon that when clicked will open a pop up containing the various extension options.</span>
 
-### 1. <a name="options-extra"></a>Extra Options \[Pro Version\]
+### 1. <a name="options-general"></a>General Options \[Pro Version\]
 
 #### URL Shortener
 
@@ -120,7 +122,9 @@ Next select **Credentials** from the left menu and your API Key should be listed
 
 #### Part 1 - Display Where
 
-The first option allows you to choose if you want the social buttons to
+The first option is to turn on or off the display of the content social buttons. This option does in essence the same thing as unpublishing the associated plugin with out the hassle of searching through the plugins.
+
+The next option allows you to choose if you want the social buttons to
 be displayed everywhere for example in all items displayed in a blog
 layout or only when you have selected a particular article. This will
 affect the display of the buttons in both Joomla and K2.
@@ -134,9 +138,7 @@ and select the categories with your mouse. *\[Figure-3\]*
 
 #### Part 2 - Layout
 
-Next are the **Layout Options** here you can choose to display the
-buttons above or below the content and also the button style either
-**Vertical** \[Bubble\] or **Horizontal**. *\[Figure-3a\]*
+Next are the **Layout Options** here you can choose to display the buttons above the content, below the content or both. The buttons also have style options associated with them, you can display them in **Vertical** \[Bubble\], **Horizontal** or with **No Count**. The only exception is the **Mail Count** button that can only be displayed in **Vertical**. . *\[Figure-3a\]*
 
 ![Figure-3a](images/docs/joomla/extensions/social-links/cw-slinks-config-content2.png "Figure-3a"){.coalaweb-docs}
 
@@ -155,27 +157,19 @@ buttons in Joomla and K2. *\[Figure-3b\]*
 
 #### Part 1 - Display Where
 
-To make it easy to turn on or off the Social Panel plugin completely I
-have included a Load Panel option this will save you having to open up
-the plugin manager to disable it. The next two options give you an
-opportunity to select which categories you wish the panel to be
-displayed in for both Joomla and K2. If you wish to select more than one
-just hold down **Shift** on your keyboard and select the categories with
-your mouse. *\[Figure-23a\]*
+To make it easy to turn on or off the Social Panel plugin completely I have included a Load Panel option this will save you having to open up the plugin manager to disable it. The next two options give you an opportunity to select which categories you wish the panel to be displayed in for both Joomla and K2. If you wish to select more than one just hold down **Shift** on your keyboard and select the categories with your mouse. *\[Figure-23a\]*
 
 ![Figure-23a](images/docs/joomla/extensions/social-links/cw-slinks-config-panel2.png "Figure-23a"){.coalaweb-docs}
 
 #### Part 2 - Layout & Style
 
-Next are the **Layout & Style Options** these options will affect both
-the Fixed and Collapse style layouts. First you can choose if you want
-the panel to be visible all the time displayed to the side of the
-article content or Collapse which will hide the panel off the side of
-the page. The Collapse option becomes visible by clicking a tab that
-extends from the side of the page. The next option allows you to choose
-which side you want the panel displayed on.The next option allows you to
-choose a **Theme** for the panel. I have included a few and will expand
-it over time but if you want to create your own have a look below.
+Next are the **Layout & Style Options** these options will affect both the Fixed and Collapse style layouts. First you can choose if you want the panel to be visible all the time displayed to the side of the article content or Collapse which will hide the panel off the side of the page. The Collapse option becomes visible by clicking a tab that extends from the side of the page. 
+
+The next option allows you to choose which side you want the panel displayed on.
+
+The next option allows you to choose a **Theme** for the panel. I have included a few and will expand it over time but if you want to create your own have a look below.
+
+The buttons also have style options associated with them, you can display them in **Vertical** \[Bubble\], or with **No Count**. The only exception is the **Mail Count** button that can only be displayed in **Vertical**.
 
 #### Creating your own theme
 
@@ -211,7 +205,7 @@ just enter a number, 5 is the default and works well in most situations. *\[Figu
 
 The next couple of option only affect the Collapse panel style. First
 you can choose the type of button(tab) to want to use to trigger the
-display of the panel. If you choose Icon you will have to fill in three
+display of the panel. If you choose **Text** in the next option you can decide to have the text/button displayed vertically or horizontal. If you choose **Icon** you will have to fill in three
 of the next four options. First choose the icon you wish to use it can
 be stored locally or you can use an external URL for the image. Next set
 the width and height of the icon in pixels. Note: Just enter a number
@@ -239,30 +233,28 @@ buttons in Joomla and K2. *\[Figure-23e\]*
 
 ![Figure-23e](images/docs/joomla/extensions/social-links/cw-slinks-config-panel6.png "Figure-23e"){.coalaweb-docs}
 
-### 4. <a name="options-og"></a>Open Graph Plugin Options \[Pro Version\]
+### 4. <a name="options-og"></a>Metadata Plugin Options \[Pro Version\]
 
-The **CoalaWeb Open Graph** plugin will help generate meta data in the
-Open Graph format and then place it in the head of your web pages. This
-information will then be used by elements such as the Facebook vote and
+The **CoalaWeb Metadata** plugin will help generate meta data in the
+**Open Graph** and **Twitter Card** formats and then place it in the head of your web pages. This
+information will then be used by elements such as the Facebook and Twitter vote and
 share buttons to get the best representation of the content being shared
 or voted on.
 
-<span class="info" markdown="1">To make it easier to follow I have broken up the **Open Graph Options** into three parts.</span>
+<span class="info" markdown="1">To make it easier to follow I have broken up the **Metadata Options** into four parts.</span>
 
 #### Part 1 - Display Where
 
-The first option **Only Articles** allows you to choose if you want to
-add Open Graph information to only the article views or to **Category
-Blog** and **Featured** views as well. *\[Figure-4\]*
+The first option **Only Articles** allows you to choose if you want to add **Metadata** information to only the article views or to **Category Blog** and **Featured** views as well. *\[Figure-4\]*
 
-![Figure-4](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph1.png "Figure-4"){.coalaweb-docs}
+![Figure-4](images/docs/joomla/extensions/social-links/cw-slinks-config-metadata1.png "Figure-4"){.coalaweb-docs}
 
 #### Part 2 - Default
 
 ##### Title
 
 If you have chosen a **Default Title** this will always display next to
-**og:title** meta tag.  *\[Figure-4a\]* 
+**og:title** and **twitter:title** meta tags.  *\[Figure-4a\]* 
 
 **\[It's recommended to leave this parameter blank\]**
 
@@ -276,7 +268,7 @@ will be populated like this:
 ##### URL
 
 If you have chosen a **Default URL** this will always displayed next to
-**og:url** meta tag. **Note:It's recommended to leave this parameter
+**og:url** and **twitter:url** meta tags. **Note:It's recommended to leave this parameter
 blank.** If you haven’t chosen a default URL the plugin will use the
 current URL of the page being viewed. *\[Figure-4a\]*
 
@@ -296,8 +288,7 @@ provide a concise summary of the page in approximately 200 characters or
 fewer. *\[Figure 4a\]*
 
 -   **1st attempt:** If you have chosen a **Default Description** this
-    will always displayed next to **og:description** meta tag. **Note:It's
-    recommended to leave this parameter blank**
+    will always displayed next to **og:description** and **twitter:description** meta tags. **Note:It's recommended to leave this parameter blank**
 -   **2nd Attempt:** If you haven’t chosen a default description the
     plugin will move onto the meta description of the article being
     viewed or of the first one displayed in Blog or Featured view.
@@ -307,19 +298,13 @@ fewer. *\[Figure 4a\]*
     extract the first 300 words of the intro text and use those as your
     description.
 
-##### Type
-
-Choose one of the option from the drop down list. Article is the default
-choice. *\[Figure-4b\]*
-
 ##### Image
 
 Let's face it the image is very important so I have put a bit more time
 into how it will be found. *\[Figure-4a\]*
 
 -   **1st attempt:** If you have chosen a **Default Image** this will
-    always be displayed next to **og:image** meta tag. **Note:It's
-    recommended to leave this parameter blank**
+    always be displayed next to **og:image** and **twitter:image** meta tags. **Note:It's recommended to leave this parameter blank**
 -   **2nd attempt:** If you haven’t chosen a default image the plugin
     will move onto searching the cwopengraph folder
     **\[images/cwopengraph\]** for an image that matches the id of the
@@ -327,23 +312,56 @@ into how it will be found. *\[Figure-4a\]*
     latest article which has an ID of 1 then rename the image you want
     to use to 1.jpg and upload it to the image/cwopengraph folder. The
     plugin will search in this folder for matching images and if it
-    finds one it will be add to the og:image meta tag. Supported image
+    finds one it will be add to the **og:image** and **twitter:image** meta tags. Supported image
     types are jpg, png and gif.
 -   **Last attempt:** The last thing the plugin will do is search
     through the article content to find an image and if it does that
-    image will be add to the og:image meta tag.
+    image will be add to the **og:image** and **twitter:image** meta tags.
 
 <span class="tip" markdown="1">Note: FB will only use images that are at least 200x200 px. FB prefers images that are measured in multiples of 100 and square format.</span>
 
-![Figure-4a](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph2.png "Figure-4a"){.coalaweb-docs}
+<span class="tip" markdown="1">Note: Twitter will only use images that are at least 280x150 px.</span>
 
-#### Part 3 - Advanced
+![Figure-4a](images/docs/joomla/extensions/social-links/cw-slinks-config-metadata2.png "Figure-4a"){.coalaweb-docs}
 
-##### Application ID
+#### Part 3 - Facebook Only
 
-Here you can enter your Facebook Application ID. *\[Figure-4b\]*
+##### Add Open Graph
 
-![Figure-4b](images/docs/joomla/extensions/social-links/cw-slinks-config-opengraph3.png "Figure-4b"){.coalaweb-docs}
+Turn on or off the inclusion of **Open Graph** meta tags. *\[Figure-4b\]*
+
+##### Type
+
+Choose one of the option from the drop down list. Article is the default choice. *\[Figure-4b\]*
+
+##### Application ID and Administrators
+
+Here you can enter your Facebook Application ID (optional) and or Administrators (optional). *\[Figure-4b\]*
+
+##### Add Namespace
+
+This option allows you to add the Open Graph protocol **namespaces** to our `<head>` tag.  *\[Figure-4b\]*
+
+`xmlns:og="http://ogp.me/ns#"` 
+`xmlns:fb="http://ogp.me/ns/fb#"`
+
+![Figure-4b](images/docs/joomla/extensions/social-links/cw-slinks-config-metadata3.png "Figure-4b"){.coalaweb-docs}
+
+#### Part 4 - Twitter Only
+
+##### Add Twitter Card
+
+Turn on or off the inclusion of **Twitter Card** meta tags. *\[Figure-4c\]*
+
+##### Website @username
+
+Here you can enter the Twitter **@username** for the website used in the card footer.*\[Figure-4c\]*
+
+##### Content @username
+
+Here you can enter the Twitter **@username** for the content author. *\[Figure-4c\]*
+
+![Figure-4c](images/docs/joomla/extensions/social-links/cw-slinks-config-metadata4.png "Figure-4c"){.coalaweb-docs}
 
 ### 5. <a name="options-updates"></a>Update Options
 
@@ -409,9 +427,9 @@ Creating a theme is easy, just copy the custom-example folder found in:
 Give the theme a different name, edit the files as needed and of course add your custom icons. 
 All the folders located in the themes-icon directory will automatically be listed in the **Icon Styles** select list.
 
-### <a name="mod-bookmark"></a>Bookmark This Options
+### <a name="mod-bookmark-gen"></a>Bookmark This General
 
-<span class="info" markdown="1">To make it easier to follow I have broken up the **Bookmark This Options** into two parts.</span>
+<span class="info" markdown="1">To make it easier to follow I have broken up the **Bookmark This General** into two parts.</span>
 
 #### Part 1 - Default
 
@@ -435,11 +453,28 @@ border color but only if you selected yes to **Display Borders** in the
 **General Display Options** section. This border will surround the
 **Bookmark This** part of the module. You can enter a \# followed by a
 color reference code such as \#000000 for black or you can use the color
-chooser box to the right of the input field. For the social bookmark
-options themselves, scroll down the list ticking the ones you want to
-display and that's it for the **Bookmark This** section. *\[Figure-10a\]*
+chooser box to the right of the input field. The last option is used to display some text above the **Bookmark This** section of the module.*\[Figure-10a\]*
 
 ![Figure-10a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark2.png "Figure-10a"){.coalaweb-docs}
+
+### <a name="mod-bookmark-soc"></a>Bookmark This Social
+
+#### Part 1 - Facebook
+
+*\[Figure-10b\]*
+
+![Figure-10b](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark3.png "Figure-10b"){.coalaweb-docs}
+
+
+### 1. <a name="mod-bookmark-fbapp"></a>Create Facebook Application
+
+To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this ![GUIDE](http://coalaweb.com/support-menu/documentation/item/create-facebook-application "Facebook App Guide").
+
+#### Part 2 - Social Options
+
+For the social bookmark options themselves, scroll down the list ticking the ones you want to display and that's it for the **Bookmark This** section.*\[Figure-10c\]*
+
+![Figure-10c](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark4.png "Figure-10c"){.coalaweb-docs}
 
 ### <a name="mod-follow"></a>Follow Us Options
 

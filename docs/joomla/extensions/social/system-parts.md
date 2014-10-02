@@ -6,8 +6,7 @@ vote for particular content with social buttons.
 
 ## Component
 
-The Component makes setting up the content plugins a breeze as well as making 
-updating to a new version a one click procedure.
+The Component makes setting up the content plugins a breeze by having a centralized location for all their associated configuration options. It also provides quick access to help and support plus current version information. The other great thing the component does is take care of the installing, updating and uninstalling of all the associated parts of the system which makes the process much more streamlined.
 
 ## Modules
 
@@ -23,6 +22,10 @@ The Facebook Like Box module is a social module that enables Facebook Page
 owners to attract and gain likes. The like box enables people using your website
 to see how many people like the Page, read recent posts from the Page and like 
 the Page with one click, without needing to visit the Page.
+
+### Tabs  \[Pro Version\]
+
+The Tabs module displays a series of tabs on either side of the page that slide in and out when hovered over. It gives you the option to display share, follow us or both types including the ability to create custom follow us tabs. It's packed full of other configuration options including the ability to reorder the tabs and choose their colors which help make it as flexible as possible.
 
 ### Google Plus \[Pro Version\]
 
