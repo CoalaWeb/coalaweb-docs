@@ -453,7 +453,7 @@ border color but only if you selected yes to **Display Borders** in the
 **General Display Options** section. This border will surround the
 **Bookmark This** part of the module. You can enter a \# followed by a
 color reference code such as \#000000 for black or you can use the color
-chooser box to the right of the input field. The last option is used to display some text above the **Bookmark This** section of the module.*\[Figure-10a\]*
+chooser box to the right of the input field. The last option is used to display some text above the **Bookmark This** section of the module. *\[Figure-10a\]*
 
 ![Figure-10a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark2.png "Figure-10a"){.coalaweb-docs}
 
@@ -461,12 +461,11 @@ chooser box to the right of the input field. The last option is used to display 
 
 #### Part 1 - Facebook
 
-*\[Figure-10b\]*
+Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to display the Facebook button you will need to create an application **first** and then copy and paste the **ID** into the field provided. For more info on how this is done read below.*\[Figure-10b\]*
 
 ![Figure-10b](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark3.png "Figure-10b"){.coalaweb-docs}
 
-
-### 1. <a name="mod-bookmark-fbapp"></a>Create Facebook Application
+### <a name="mod-bookmark-fbapp"></a>Create Facebook Application
 
 To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this ![GUIDE](http://coalaweb.com/support-menu/documentation/item/create-facebook-application "Facebook App Guide").
 
@@ -490,7 +489,7 @@ border color but only if you selected yes to **Display Borders** in the
 **General Display Options** section. This border will surround the
 **Follow Us** part of the module. You can enter a \# followed by a color
 reference code such as \#000000 for black or you can use the color
-chooser box to the right of the input field. *\[Figure-11\]*
+chooser box to the right of the input field. The last option is used to display some text above the **Bookmark This** section of the module. *\[Figure-11\]*
 
 ![Figure-11](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-follow1.png "Figure-11"){.coalaweb-docs}
 
@@ -535,7 +534,7 @@ to stop conflicts. You can also give the it a **Module Class Suffix** or
 choose whether to use **Cache** including the **Cache Time**. There is
 also an option to turn off the **Module css** if you want to add your
 own styling. Next is the **NoFollow** option that provides a way to tell
-search engines not to follow a particular link. *\[Figure-12\]*
+search engines not to follow a particular link. In the last option you can choose to have the links open a new browser tab when clicked or open in a small popup window. *\[Figure-12\]*
 
 ![Figure-12](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-advanced1.png "Figure-12"){.coalaweb-docs}
 
