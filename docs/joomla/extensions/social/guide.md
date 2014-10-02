@@ -489,7 +489,7 @@ border color but only if you selected yes to **Display Borders** in the
 **General Display Options** section. This border will surround the
 **Follow Us** part of the module. You can enter a \# followed by a color
 reference code such as \#000000 for black or you can use the color
-chooser box to the right of the input field. The last option is used to display some text above the **Bookmark This** section of the module. *\[Figure-11\]*
+chooser box to the right of the input field. The last option is used to display some text above the **Follow Us** section of the module. *\[Figure-11\]*
 
 ![Figure-11](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-follow1.png "Figure-11"){.coalaweb-docs}
 
