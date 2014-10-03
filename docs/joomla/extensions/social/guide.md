@@ -22,7 +22,7 @@
     -   [Follow Us Custom](#mod-follow-cus)
     -   [Advanced Options](#mod-advanced)
 
-3.  [Social Tabs Guide](#module-tabs)
+3.  [Social Tabs Guide \[Pro Version\]](#module-tabs)
     -   [First Thing](#mod-tabs-first)
     -   [General Display Options](#mod-tabs-general)
     -   [Share General](#mod-tabs-share-gen)
@@ -30,6 +30,8 @@
         - [1. Create Facebook Application](#mod-tabs-fbapp)
     -   [Follow Us A-Z](#mod-tabs-follow-az)
     -   [Follow Us Custom](#mod-tabs-follow-cus)
+    -   [Tab Colors](#mod-tabs-colors)
+    -   [Tab Order](#mod-tabs-order)
     -   [Advanced Options](#mod-tabs-advanced)
 
 4.  [Like box Module Guide](#module-lbox)
@@ -45,10 +47,10 @@
     -   [Advanced Options](#mod-gplus-advanced)
 
 6.  [Plugin Guide \[Pro Version\]](#plg)
-    -   [Content Plugin - Social Likes](#plg-content)
-    -   [Content Plugin - Social Panel](#plg-panel)
-    -   [Content Plugin - Open Graph](#plg-og)
-    -   [System Plugin - Zoo Elements](#plg-zoo)
+    -   [Content Plugin - Social Likes \[Pro Version\]](#plg-content)
+    -   [Content Plugin - Social Panel \[Pro Version\]](#plg-panel)
+    -   [Content Plugin - Open Graph \[Pro Version\]](#plg-og)
+    -   [System Plugin - Zoo Elements \[Pro Version\]](#plg-zoo)
 
 7.  [Need More Help?](#more-help)
 
@@ -551,7 +553,7 @@ blank and use the language files. \[Figure-12a\]*
 
 ![Figure-12a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-advanced2.png "Figure-12a"){.coalaweb-docs}
 
-## <a name="module-tabs"></a>Social Tabs Module
+## <a name="module-tabs"></a>Social Tabs Module \[Pro Version\]
 
 ### <a name="mod-tabs-first"></a>First Thing
 
@@ -620,7 +622,7 @@ For the social share options themselves, scroll down the list ticking the ones y
 
 To make finding the social media icons easier I have broken them up into
 groups of 5 letters organized alphabetically. For example if you are
-look for Facebook just select the F -J group. Just work your way through
+look for Facebook just select the F - J group. Just work your way through
 the groups ticking the ones you want to display and adding their
 corresponding links. *\[Figure-25f\]*
 
@@ -644,6 +646,25 @@ url for example http://coalaweb.com/images/example.png. *\[Figure-25g\]*
 
 ![Figure-25g](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-follow2.png "Figure-25g"){.coalaweb-docs}
 
+### <a name="mod-tabs-colors"></a>Tab Colors
+
+In this section you have two option to choose for each of the tabs including the custom ones. The first one is the default background color of a particular tab and the second one is the hover color that the tab will change to when hovered over. You can click the input to use a popup color selector or enter the colors ***Hex** code minus the **#**. *\[Figure-25h\]*
+
+![Figure-25h](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-colors.png "Figure-25h"){.coalaweb-docs}
+
+### <a name="mod-tabs-order"></a>Tab Order
+
+In this section you can choose the order you want the tabs to be displayed in. To reorder the tabs just drag and drop them to the location you want them displayed its that simple. *\[Figure-25i\]*
+
+To make it easy to identify which tab is which I have added a key letter to the end of each of their names for more details see below.
+
+#### Tab Key:
+* [S]=Share
+* [F]=Follow
+* [C]=Custom
+
+![Figure-25i](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-order.png "Figure-25i"){.coalaweb-docs}
+
 ### <a name="mod-tabs-advanced"></a>Advanced Options
 
 <span class="info" markdown="1">To make it easier to follow I have broken up the **Advanced Options** into two parts.</span>
@@ -664,7 +685,7 @@ In this section you have the option to assign a **Unique Module ID**
 to stop conflicts. You can also give the it a **Module Class Suffix** or
 choose whether to use **Cache** including the **Cache Time**. Next is the 
 **NoFollow** option that provides a way to tell
-search engines not to follow a particular link. *\[Figure-25e\]*
+search engines not to follow a particular link. In the last option you can choose to have the links open in a new browser tab when clicked or open in a small **Popup** window.  *\[Figure-25e\]*
 
 ![Figure-25e](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-advanced2.png "Figure-25e"){.coalaweb-docs}
 
@@ -761,7 +782,7 @@ your site is multilingual leave blank and use the language files. \[Figure-17\]*
 
 ![Figure-17](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-advanced.png "Figure-17"){.coalaweb-docs}
 
-## <a name="module-gplus"></a>Google Plus Module
+## <a name="module-gplus"></a>Google Plus Module \[Pro Version\]
 
 CoalaWeb G Plus is a social module that helps you link your Google+ page
 to your site. Get more recommendations for your site in Google search
@@ -838,7 +859,7 @@ blank and use the language files. \[Figure-18d\]*
 
 ## <a name="plg"></a>Plugins \[PRO Version Only\]
 
-### <a name="plg-content"></a>Social Likes
+### <a name="plg-content"></a>Social Likes \[Pro Version\]
 
 The **CoalaWeb Social Likes** plugin is a content plugin designed to
 display all of the popular social networking vote buttons in several
@@ -850,7 +871,7 @@ you have selected the appropriate configuration options. *\[Figure-19\]*
 
 ![Figure-19](images/docs/joomla/extensions/social-links/cw-slinks-plg-content.png "Figure-19"){.coalaweb-docs}
 
-### <a name="plg-panel"></a>Social Panel
+### <a name="plg-panel"></a>Social Panel \[Pro Version\]
 
 <span class="tip" markdown="1">Social Panel needs jQuery to function correctly. If you don't already have it loaded use the System - CW Gears plugin.</span>
 
@@ -864,7 +885,7 @@ you have selected the appropriate configuration options. *\[Figure-20\]*
 
 ![Figure-20](images/docs/joomla/extensions/social-links/cw-slinks-plg-panel.png "Figure-20"){.coalaweb-docs}
 
-### <a name="plg-og"></a>Open Graph
+### <a name="plg-og"></a>Open Graph \[Pro Version\]
 
 #### What is Open Graph?
 
@@ -897,7 +918,7 @@ more details. *\[Figure-21\]*
 
 ![Figure-21](images/docs/joomla/extensions/social-links/cw-slinks-plg-opengraph.png "Figure-21"){.coalaweb-docs}
 
-### <a name="plg-zoo"></a>Zoo Elements - Social Likes
+### <a name="plg-zoo"></a>Zoo Elements - Social Likes \[Pro Version\]
 
 The **CoalaWeb Zoo Elements** plugin is a system plugin designed to
 integrate custom elements and in this case a variety of popular social
