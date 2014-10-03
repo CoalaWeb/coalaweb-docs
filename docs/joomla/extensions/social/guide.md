@@ -885,13 +885,13 @@ you have selected the appropriate configuration options. *\[Figure-20\]*
 
 ![Figure-20](images/docs/joomla/extensions/social-links/cw-slinks-plg-panel.png "Figure-20"){.coalaweb-docs}
 
-### <a name="plg-og"></a>Social Metadata\[Pro Version\]
+### <a name="plg-og"></a>Social Metadata \[Pro Version\]
 
-This plugin takes care of adding Social metadata to your website for Joomla content. It includes the option to add Open Graph tags and Twitter Card tags to make sharing and voting much more accurate and professional.
+This plugin takes care of adding **Social Metadata** to your website for Joomla content. It includes the option to add **Open Graph** tags and **Twitter Card** tags to make sharing and voting much more accurate and professional.
 
-<span class="info" markdown="1">To make it easier to follow I have broken up the **Social Metadata** into two parts.</span>
+<span class="info" markdown="1">To make it easier to follow I have broken up **Social Metadata** into two parts.</span>
 
-#### Open Graph
+#### Part 1 - Open Graph
 
 **What is Open Graph?**
 
@@ -925,7 +925,7 @@ more details. *\[Figure-21\]*
 
 ![Figure-21](images/docs/joomla/extensions/social-links/cw-slinks-plg-opengraph.png "Figure-21"){.coalaweb-docs}
 
-#### Twitter Card
+#### Part 2 - Twitter Card
 
 **What is a Twitter Card?**
 
@@ -951,49 +951,59 @@ more details. *\[Figure-21a\]*
 
 ### <a name="plg-zoo"></a>Zoo Elements - Social Likes \[Pro Version\]
 
-The **CoalaWeb Zoo Elements** plugin is a system plugin designed to
-integrate custom elements and in this case a variety of popular social
-vote buttons into your zoo applications. Once the plugin is installed
-and publish you will be able to carry out the following steps and
-display them where ever you want through out your Zoo content.
+The **CoalaWeb Zoo Elements** plugin is a system plugin designed to integrate **custom elements** into your Zoo applications. Currently there are two custom elements created by this plugin and they are explained in detail below.
 
-The first step is to open up **Zoo** and click the small **Gear Icon**. *\[Figure-22\]*
+#### <a name="plg-zoo-social"></a>Custom Element - Social Likes
+
+This custom element integrates a variety of popular social
+vote and or share buttons into your zoo applications. Once the plugin is installed
+and publish you will be able to carry out the following steps to get them
+displaying through out your Zoo content.
+
+##### Step 1
+Open up **Zoo** and click the small **Gear Icon**. *\[Figure-22\]*
 
 ![Figure-22](images/docs/joomla/extensions/social-links/cw-zoo-plg-config1.png "Figure-22"){.coalaweb-docs}
 
+##### Step 2
 Now select the **App** you want to add the CoalaWeb Social Likes button
 too for this example we will choose Blog so click **Blog** and then
 select **Article \> Edit Elements**. *\[Figure-22a\]*
 
 ![Figure-22a](images/docs/joomla/extensions/social-links/cw-zoo-plg-config2.png "Figure-22a"){.coalaweb-docs}
 
+##### Step 3
 If the plugin was installed and published properly you should now have a
 new element available under **Social** called **CoalaWeb Social Likes**
 click it once to add it to your **Article** layout. *\[Figure-22b\]*
 
 ![Figure-22b](images/docs/joomla/extensions/social-links/cw-zoo-plg-config3.png "Figure-22b"){.coalaweb-docs}
 
+##### Step 4
 Now give your new element a **Name**, **Description** and choose the
-appropriate settings for the other options and when you are ready click
+appropriate settings for the other options, when you are ready click
 **Save & Close**. *\[Figure-22c\]*
 
 ![Figure-22c](images/docs/joomla/extensions/social-links/cw-zoo-plg-config4.png "Figure-22c"){.coalaweb-docs}
 
+##### Step 5
 Now we need to add the newly available element to our **Template** for
 this example we are using the **Default template** and the **Full
 Layout**. *\[Figure-22d\]*
 
 ![Figure-22d](images/docs/joomla/extensions/social-links/cw-zoo-plg-config5.png "Figure-22d"){.coalaweb-docs}
 
+##### Step 6
 Once the new window has opened you can drag and drop the **CoalaWeb
-Social** Custom element over to your desired location I have chosen
+Social** Custom element over to your desired location in this example I have chosen
 **Bottom**. Feel free to turn on or off the **Label** or even give it an
-**Alternative Label** when you are happy click **Save & Close**. *\[Figure-22e\]*
+**Alternative Label**. When you are happy click **Save & Close**. *\[Figure-22e\]*
 
 ![Figure-22e](images/docs/joomla/extensions/social-links/cw-zoo-plg-config6.png "Figure-22e"){.coalaweb-docs}
 
-Now in each of your Articles you will have a new option named what you
-chose back at the start in our case CoalaWeb Social. Just set it to Yes
+##### Step 7
+Now in each of your **Articles** you will have a new option named what you
+chose back at the start in our case **CoalaWeb Social**. Just set it to **Yes**
 and the buttons will magically appear. *\[Figure-22f\]*
 
 ![Figure-22f](images/docs/joomla/extensions/social-links/cw-zoo-plg-config7.png "Figure-22f"){.coalaweb-docs}
