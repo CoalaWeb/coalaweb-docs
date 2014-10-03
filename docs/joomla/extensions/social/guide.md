@@ -6,7 +6,7 @@
         - [1. General Options \[Pro Version\]](#options-general)
         - [2. Content Plugin Options \[Pro Version\]](#options-content)
         - [3. Panel Plugin Options \[Pro Version\]](#options-panel)
-        - [4. Open Graph Plugin Options \[Pro Version\]](#options-og)
+        - [4. Social Metadata Plugin Options \[Pro Version\]](#options-og)
         - [5. Update Options](#options-updates)
         - [6. Where Is My Download ID \[Pro Version\]](#options-downloadid)
         - [7. Component Permissions](#options-permissions)
@@ -49,7 +49,7 @@
 6.  [Plugin Guide \[Pro Version\]](#plg)
     -   [Content Plugin - Social Likes \[Pro Version\]](#plg-content)
     -   [Content Plugin - Social Panel \[Pro Version\]](#plg-panel)
-    -   [Content Plugin - Open Graph \[Pro Version\]](#plg-og)
+    -   [Content Plugin - Social Metadata \[Pro Version\]](#plg-og)
     -   [System Plugin - Zoo Elements \[Pro Version\]](#plg-zoo)
 
 7.  [Need More Help?](#more-help)
@@ -467,7 +467,7 @@ chooser box to the right of the input field. The last option is used to display 
 
 ### <a name="mod-bookmark-soc"></a>Bookmark This Social
 
-<span class="info" markdown="1">To make it easier to follow I have broken up the Bookmark This Social Options into two parts.</span>
+<span class="info" markdown="1">To make it easier to follow I have broken up the **Bookmark This Social Options** into two parts.</span>
 
 #### Part 1 - Facebook
 
@@ -600,7 +600,7 @@ only add the link in the following format www.socialmedia.com. *\[Figure-25c\]*
 
 ### <a name="mod-tabs-share-az"></a>Share A-Z
 
-<span class="info" markdown="1">To make it easier to follow I have broken up the Share Options into two parts.</span>
+<span class="info" markdown="1">To make it easier to follow I have broken up the **Share Options** into two parts.</span>
 
 #### Part 1 - Facebook
 
@@ -685,7 +685,7 @@ In this section you have the option to assign a **Unique Module ID**
 to stop conflicts. You can also give the it a **Module Class Suffix** or
 choose whether to use **Cache** including the **Cache Time**. Next is the 
 **NoFollow** option that provides a way to tell
-search engines not to follow a particular link. In the last option you can choose to have the links open in a new browser tab when clicked or open in a small **Popup** window.  *\[Figure-25e\]*
+search engines not to follow a particular link. In the last option you can choose to have the links open in a new browser tab when clicked or open in a small **Popup** window. *\[Figure-25e\]*
 
 ![Figure-25e](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-advanced2.png "Figure-25e"){.coalaweb-docs}
 
@@ -885,9 +885,15 @@ you have selected the appropriate configuration options. *\[Figure-20\]*
 
 ![Figure-20](images/docs/joomla/extensions/social-links/cw-slinks-plg-panel.png "Figure-20"){.coalaweb-docs}
 
-### <a name="plg-og"></a>Open Graph \[Pro Version\]
+### <a name="plg-og"></a>Social Metadata\[Pro Version\]
 
-#### What is Open Graph?
+This plugin takes care of adding Social metadata to your website for Joomla content. It includes the option to add Open Graph tags and Twitter Card tags to make sharing and voting much more accurate and professional.
+
+<span class="info" markdown="1">To make it easier to follow I have broken up the **Social Metadata** into two parts.</span>
+
+#### Open Graph
+
+**What is Open Graph?**
 
 > An Open Graph object is a regular web page with additional structured
 > data marked up using RDFa Core 1.1 syntax placed in your HTML
@@ -901,12 +907,12 @@ Facebook Open Graph objects are marked up using Open Graph protocol,
 properties specific to Facebook, and properties specific to your
 Facebook application.
 
-The CoalaWeb Open Graph plugin allows you to add default values for the
+The CoalaWeb Social Metadata plugin allows you to add default values for the
 parameters outlined below or dynamically populates them in a variety of
-different ways see [Open Graph Plugin Options](#options-og) for
+different ways see [Social Metadata Options](#options-og) for
 more details. *\[Figure-21\]*
 
-##### Open graph Parameters
+##### Open Graph Parameters
 
 -   og:url
 -   og:type
@@ -915,8 +921,33 @@ more details. *\[Figure-21\]*
 -   og:description
 -   og:site\_name
 -   fb:app\_id
+-   fb:admins
 
 ![Figure-21](images/docs/joomla/extensions/social-links/cw-slinks-plg-opengraph.png "Figure-21"){.coalaweb-docs}
+
+#### Twitter Card
+
+**What is a Twitter Card?**
+
+>With Twitter Cards, you can attach rich photos, videos and media experience to Tweets that drive traffic to your website. Simply add a >few lines of HTML to your webpage, and users who Tweet links to your content will have a “Card” added to the Tweet that's visible to >all of their followers.
+
+The CoalaWeb Social Metadata plugin allows you to add default values for the
+parameters outlined below or dynamically populates them in a variety of
+different ways see [Social Metadata Options](#options-og) for
+more details. *\[Figure-21a\]*
+
+##### Twitter Card Parameters
+
+-   twitter:url
+-   twitter:title
+-   twitter:image
+-   twitter:description
+-   twitter:creator
+-   twitter:site
+-   twitter:card
+
+
+![Figure-21a](images/docs/joomla/extensions/social-links/cw-slinks-plg-twittercard.png "Figure-21a"){.coalaweb-docs}
 
 ### <a name="plg-zoo"></a>Zoo Elements - Social Likes \[Pro Version\]
 
