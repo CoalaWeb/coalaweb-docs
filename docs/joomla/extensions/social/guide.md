@@ -17,13 +17,19 @@
     -   [Bookmark This General](#mod-bookmark-gen)
     -   [Bookmark This Social](#mod-bookmark-soc)
         - [1. Create Facebook Application](#mod-bookmark-fbapp)
-    -   [Follow Us Options](#mod-follow)
+    -   [Follow Us General](#mod-follow-gen)
+    -   [Follow Us A-Z](#mod-follow-az)
+    -   [Follow Us Custom](#mod-follow-cus)
     -   [Advanced Options](#mod-advanced)
 
 3.  [Social Tabs Guide](#module-tabs)
     -   [First Thing](#mod-tabs-first)
     -   [General Display Options](#mod-tabs-general)
-    -   [Share Options](#mod-tabs-share)
+    -   [Share General](#mod-tabs-share-gen)
+    -   [Share A-Z](#mod-tabs-share-az)
+        - [1. Create Facebook Application](#mod-tabs-fbapp)
+    -   [Follow Us A-Z](#mod-tabs-follow-az)
+    -   [Follow Us Custom](#mod-tabs-follow-cus)
     -   [Advanced Options](#mod-tabs-advanced)
 
 4.  [Like box Module Guide](#module-lbox)
@@ -459,6 +465,8 @@ chooser box to the right of the input field. The last option is used to display 
 
 ### <a name="mod-bookmark-soc"></a>Bookmark This Social
 
+<span class="info" markdown="1">To make it easier to follow I have broken up the Bookmark This Social Options into two parts.</span>
+
 #### Part 1 - Facebook
 
 Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to display the Facebook button you will need to create an application **first** and then copy and paste the **ID** into the field provided. For more info on how this is done read below.*\[Figure-10b\]*
@@ -469,17 +477,13 @@ Facebook has announced that they have deprecated the **Sharer** code in preferen
 
 To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this ![GUIDE](http://coalaweb.com/support-menu/documentation/item/create-facebook-application "Facebook App Guide").
 
-#### Part 2 - Social Options
+#### Part 2 - Social A - Z
 
 For the social bookmark options themselves, scroll down the list ticking the ones you want to display and that's it for the **Bookmark This** section.*\[Figure-10c\]*
 
 ![Figure-10c](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark4.png "Figure-10c"){.coalaweb-docs}
 
-### <a name="mod-follow"></a>Follow Us Options
-
-<span class="info" markdown="1">To make it easier to follow I have broken up the Follow Us Options into three parts.</span>
-
-#### Part 1 - General
+### <a name="mod-follow-gen"></a>Follow Us General
 
 This section controls what is displayed in the **Follow Us** part of the
 module. You can choose to display a title including what text will be
@@ -493,7 +497,7 @@ chooser box to the right of the input field. The last option is used to display 
 
 ![Figure-11](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-follow1.png "Figure-11"){.coalaweb-docs}
 
-#### Part 2 - Follow US A - Z
+### <a name="mod-follow-az"></a>Follow Us A-Z
 
 To make finding the social media icons easier I have broken them up into
 groups of 5 letters organized alphabetically. For example if you are
@@ -505,7 +509,7 @@ corresponding links. *\[Figure-11a\]*
 
 <span class="tip" markdown="1">When adding links use the domain without the http:// for example **www.facebook.com** or for **Mail Us** email@social.com </span>
 
-#### Part 3 - Custom
+### <a name="mod-follow-cus"></a>Follow Us Custom
 
 Due to popular demand there is now a **Custom Option** and for *PRO*
 users **Three Custom Options** to help with those situation where only a
@@ -534,7 +538,7 @@ to stop conflicts. You can also give the it a **Module Class Suffix** or
 choose whether to use **Cache** including the **Cache Time**. There is
 also an option to turn off the **Module css** if you want to add your
 own styling. Next is the **NoFollow** option that provides a way to tell
-search engines not to follow a particular link. In the last option you can choose to have the links open a new browser tab when clicked or open in a small popup window. *\[Figure-12\]*
+search engines not to follow a particular link. In the last option you can choose to have the links open in a new browser tab when clicked or open in a small **Popup** window. *\[Figure-12\]*
 
 ![Figure-12](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-advanced1.png "Figure-12"){.coalaweb-docs}
 
@@ -580,13 +584,65 @@ The default settings will be sufficient in most situations. *\[Figure-25b\]*
 
 <span class="info" markdown="1">Note: If Social Tabs using jQuery is loaded on a device with a screen size smaller than **1024** the slide out effect is disabled.</span>
 
-### <a name="mod-tabs-share"></a>Share Options
+### <a name="mod-tabs-share-gen"></a>General Share
 
-For each of the **Share** options contained in the Social Tabs module you have 
-three associated options. The first is to turn on the off the display of the particular
-share tab. The next two are for the colors of the tab and when it is hovered over. \[Figure-25c\]*
+If you want the same **Title** to be used for all of the **Share** tabs
+all of the time add it here. If have chosen a **default link** I recommend
+you add a **default title** as well. If left blank the current title will be
+used. If you want the same link to be used for all of the **Share** tabs all 
+of the time add it here. If left blank the current URL will be
+used. - Note: When adding your link use the domain minus the http://
+only add the link in the following format www.socialmedia.com. *\[Figure-25c\]*
 
 ![Figure-25c](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-share1.png "Figure-25c"){.coalaweb-docs}
+
+### <a name="mod-tabs-share-az"></a>Share A-Z
+
+<span class="info" markdown="1">To make it easier to follow I have broken up the Share Options into two parts.</span>
+
+#### Part 1 - Facebook
+
+Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to display the Facebook tab you will need to create an application **first** and then copy and paste the **ID** into the field provided. For more info on how this is done read below. *\[Figure-25d\]*
+
+![Figure-25d](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-share2.png "Figure-25d"){.coalaweb-docs}
+
+### <a name="mod-tabs-fbapp"></a>Create Facebook Application
+
+To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this ![GUIDE](http://coalaweb.com/support-menu/documentation/item/create-facebook-application "Facebook App Guide").
+
+#### Part 2 - Social A - Z
+
+For the social share options themselves, scroll down the list ticking the ones you want to display and that's it for the **Share** section.*\[Figure-25e\]*
+
+![Figure-25e](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-share3.png "Figure-25e"){.coalaweb-docs}
+
+### <a name="mod-tabs-follow-az"></a>Follow Us A-Z
+
+To make finding the social media icons easier I have broken them up into
+groups of 5 letters organized alphabetically. For example if you are
+look for Facebook just select the F -J group. Just work your way through
+the groups ticking the ones you want to display and adding their
+corresponding links. *\[Figure-25f\]*
+
+![Figure-25f](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-follow1.png "Figure-25f"){.coalaweb-docs}
+
+<span class="tip" markdown="1">When adding links use the domain without the http:// for example **www.facebook.com** or for **Mail Us** email@social.com </span>
+
+### <a name="mod-tabs-follow-cus"></a>Follow Us Custom
+
+Due to popular demand there is now a **Custom Option** to help with those situation where only a
+custom icon will do. To add a custom icon is very similar to a standard
+**Follow Us** option you have to chose to display it, add a link and
+then two more options. First is the **Hover Text** this displays when
+the icon is hovered over by a mouse. Secondly and more importantly is
+the ability to select the **Custom Icon** you want to display keeping in
+mind what size you selected in the **General Options**. The last option
+allows you to link to an externally located icon just enter the complete
+url for example http://coalaweb.com/images/example.png. *\[Figure-25g\]*
+
+<span class="tip" markdown="1">When adding links use the domain without the http:// for example **www.facebook.com**.</span>
+
+![Figure-25g](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-follow2.png "Figure-25g"){.coalaweb-docs}
 
 ### <a name="mod-tabs-advanced"></a>Advanced Options
 
@@ -598,13 +654,7 @@ First you get the choice to use **CSS** for the rendering of the module or **jQu
 
 <span class="info" markdown="1">Note: jQuery is loaded by default on Joomla 3.x but if you don't have it loaded on your system and you would like to use the jQuery option turn it on in the included **System - CW Gears plugin**.</span>
 
-If you want the same title to be used for all of the **Share** tabs
-all of the time add it here. If have chosen a default link I recommend
-you add a default title as well. If left blank the current title will be
-used. If you want the same link to be used for all of the **Share** tabs all 
-of the time add it here. If left blank the current URL will be
-used. - Note: When adding your link use the domain minus the http://
-only add the link in the following format www.socialmedia.com. *\[Figure-25d\]*
+ *\[Figure-25d\]*
 
 ![Figure-25d](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-advanced1.png "Figure-25d"){.coalaweb-docs}
 
