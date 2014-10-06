@@ -50,7 +50,9 @@
     -   [Content Plugin - Social Likes \[Pro Version\]](#plg-content)
     -   [Content Plugin - Social Panel \[Pro Version\]](#plg-panel)
     -   [Content Plugin - Social Metadata \[Pro Version\]](#plg-og)
-    -   [System Plugin - Zoo Elements \[Pro Version\]](#plg-zoo)
+    -   [System Plugin - Zoo \[Pro Version\]](#plg-zoo)
+        - [1. Element - Social Likes](#plg-zoo-social)
+        - [2. Layout - Open Graph](#plg-zoo-og)
 
 7.  [Need More Help?](#more-help)
 
@@ -949,9 +951,9 @@ more details. *\[Figure-21a\]*
 
 ![Figure-21a](images/docs/joomla/extensions/social-links/cw-slinks-plg-twittercard.png "Figure-21a"){.coalaweb-docs}
 
-### <a name="plg-zoo"></a>Zoo Elements - Social Likes \[Pro Version\]
+### <a name="plg-zoo"></a>Zoo \[Pro Version\]
 
-The **CoalaWeb Zoo Elements** plugin is a system plugin designed to integrate **custom elements** into your Zoo applications. Currently there are two custom elements created by this plugin and they are explained in detail below.
+The **CoalaWeb Zoo** plugin is a system plugin designed to integrate **custom elements & layouts** into your Zoo applications. Currently there are two custom elements created by this plugin and they are explained in detail below.
 
 #### <a name="plg-zoo-social"></a>Custom Element - Social Likes
 
@@ -1007,6 +1009,27 @@ chose back at the start in our case **CoalaWeb Social**. Just set it to **Yes**
 and the buttons will magically appear. *\[Figure-22f\]*
 
 ![Figure-22f](images/docs/joomla/extensions/social-links/cw-zoo-plg-config7.png "Figure-22f"){.coalaweb-docs}
+
+#### <a name="plg-zoo-og"></a>Custom Layout - Open Graph
+
+This custom layout integrates **Open Graph** metadata into your Zoo content which makes sharing and voting much more accurate and professional.
+
+<span class="info" markdown="1">Note: Some of the Open Graph tags will be generated based on the component configuration option you have selected for example the **fb:app_id**.</span>
+
+#### Step 1
+Open up **Zoo** and click the small **Gear Icon**. *\[Figure-22g\]*
+
+![Figure-22g](images/docs/joomla/extensions/social-links/cw-zoo-plg-config1.png "Figure-22g"){.coalaweb-docs}
+
+#### Step 2
+Now select the **App** you want to add the **Open Graph** tags too for this example we will be using **Blog**. In the next screen you should now see a new **Article Extension Layout** called **CW Open Graph** select it to move onto the next step. *\[Figure-22h\]*
+
+![Figure-22h](images/docs/joomla/extensions/social-links/cw-zoo-plg-config8.png "Figure-22h"){.coalaweb-docs}
+
+#### Step 3
+In this step you will need to **Drag and Drop** the relevant **Core** and **Custom** items over to their **Open Graph Positions**. If you are not sure what to place where use the image below as a guide. *\[Figure-22i\]*
+
+![Figure-22i](images/docs/joomla/extensions/social-links/cw-zoo-plg-config9.png "Figure-22i"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 
