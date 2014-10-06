@@ -1053,7 +1053,7 @@ In this step you will need to **Drag and Drop** the relevant **Core** and **Cust
 
 Now if you check the source code of one of your **Zoo Content Items** you should now see Open Graph tags. *\[Figure-22j\]*
 
-![Figure-22j](images/docs/joomla/extensions/social-links/cw-zoo-plg-confi10.png "Figure-22j"){.coalaweb-docs}
+![Figure-22j](images/docs/joomla/extensions/social-links/cw-zoo-plg-config10.png "Figure-22j"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 
