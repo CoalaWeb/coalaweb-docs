@@ -1014,7 +1014,27 @@ and the buttons will magically appear. *\[Figure-22f\]*
 
 This custom layout integrates **Open Graph** metadata into your Zoo content which makes sharing and voting much more accurate and professional.
 
-<span class="info" markdown="1">Note: Some of the Open Graph tags will be generated based on the component configuration option you have selected for example the **fb:app_id**.</span>
+The **Open Graph** tags added to your **Zoo** content will come from two sources which are explained in detail below.
+
+#### Source 1
+
+The first source is the **Component Configuration Options** and they cover the follow **Open Graph** tags.
+-   og:type
+-   fb:app\_id
+-   fb:admins
+
+#### Source 2 
+
+The second source is the **CW Open Graph Extension Layout** which covers the following **Open Graph** tags.
+
+-   og:url
+-   og:title
+-   og:image
+-   og:image:width
+-   og:image:height
+-   og:description
+
+Setting up the **CW Open Graph Extension Layout** is easy just follow the steps outlined below.
 
 #### Step 1
 Open up **Zoo** and click the small **Gear Icon**. *\[Figure-22g\]*
@@ -1030,6 +1050,10 @@ Now select the **App** you want to add the **Open Graph** tags too for this exam
 In this step you will need to **Drag and Drop** the relevant **Core** and **Custom** items over to their **Open Graph Positions**. If you are not sure what to place where use the image below as a guide. *\[Figure-22i\]*
 
 ![Figure-22i](images/docs/joomla/extensions/social-links/cw-zoo-plg-config9.png "Figure-22i"){.coalaweb-docs}
+
+Now if you check the source code of one of your **Zoo Content Items** you should now see Open Graph tags. *\[Figure-22j\]*
+
+![Figure-22j](images/docs/joomla/extensions/social-links/cw-zoo-plg-confi10.png "Figure-22j"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 
