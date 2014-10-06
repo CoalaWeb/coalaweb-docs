@@ -922,8 +922,8 @@ more details. *\[Figure-21\]*
 -   og:image
 -   og:description
 -   og:site\_name
--   fb:app\_id
--   fb:admins
+-   fb:app\_id (Optional)
+-   fb:admins (Optional)
 
 ![Figure-21](images/docs/joomla/extensions/social-links/cw-slinks-plg-opengraph.png "Figure-21"){.coalaweb-docs}
 
@@ -1020,8 +1020,8 @@ The **Open Graph** tags added to your **Zoo** content will come from two sources
 
 The first source is the **Component Configuration Options** and they cover the follow **Open Graph** tags.
 -   og:type
--   fb:app\_id
--   fb:admins
+-   fb:app\_id (Optional)
+-   fb:admins (Optional)
 
 #### Source 2 
 
