@@ -7,6 +7,8 @@ This is the official documentation for CoalaWeb projects, written by [Steven Pal
     - [Extensions](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions)
         - [Contact](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/contact)
         - [General](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/general)
+            - [Install - Uninstall Extension](https://github.com/CoalaWeb/coalaweb-docs/blob/master/docs/joomla/extensions/general/install-uninstall.md)
+            - [Disable Plugin](https://github.com/CoalaWeb/coalaweb-docs/blob/master/docs/joomla/extensions/general/disable-plugin.md)
         - [Social](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/social)
         - [Traffic](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/traffic)
 
