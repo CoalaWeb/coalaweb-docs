@@ -1,6 +1,6 @@
 # How to disable a Joomla plugin
 
-There are lots of reason why you might want to disable a plugin from not needing it anymore to stopping a plugin from producing a website crashing error. In some cases just a missing variable that a plugin is looking for is enough to halt an entire website until its rectified and in these cases the quickest fix is to disable the offending plugin.
+There are lots of reasons why you might want to disable a plugin ranging from not needing it anymore to stopping a plugin from producing a website crash. In some cases just a missing variable that a plugin is looking for is enough to halt an entire website and in these cases the quickest fix is to disable the offending plugin.
 
 ## Table of Contents
 1.  [Plugin Manager](#opt-1)
