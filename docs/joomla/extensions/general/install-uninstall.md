@@ -9,7 +9,6 @@
 4.  [Need More Help?](#more-help)
 
 ***
-
 <span class="info" markdown="1">Note: CoalaWeb guides refer to a Joomla 3.+ installation but the steps are very similar for a Joomla 2.5.</span>
 
 ## <a name="upload"></a>Upload Package File
