@@ -10,6 +10,9 @@ There are lots of reasons why you might want to disable a plugin ranging from no
     -   [Use Error to identify plugin](#tip-1)
 4.  [Need More Help?](#more-help)
 
+***
+<span class="info" markdown="1">Note: CoalaWeb guides refer to a Joomla 3.+ installation but the steps are very similar for a Joomla 2.5.</span>
+
 ## <a name="opt-1"></a>1. Plugin Manager
 
 The first way we are going to discuss is the method you will use in most cases and it involves using the **Plugin Manager**. *[Figure-1]*
@@ -58,7 +61,7 @@ The main two plugin files will be the **php** and **xml** files with the same na
 
 ![Figure-2a](images/docs/joomla/extensions/general/disable-plugin/opt2-2.png "Figure-2a"){.coalaweb-docs}
 
-To disable it we want to rename or remove the php file. In my opinion its better to rename it and once you get access to your site again you can always uninstall it through the Plugin Manager. For this example we will rename it to **cwgears.php-off**. *[Figure-2b]*
+To disable it we want to rename or remove the php file. In my opinion its better to rename it and once you get access to your site again you can always uninstall it through the **Plugin Manager**. For this example we will rename it to **cwgears.php-off**. *[Figure-2b]*
 
 ![Figure-2b](images/docs/joomla/extensions/general/disable-plugin/opt2-3.png "Figure-2b"){.coalaweb-docs}
 
@@ -66,19 +69,19 @@ Now you should be able to gain access your website and take the appropriate acti
 
 ## <a name="opt-3"></a>3. Editing the Database
 
-This is the option that will require you to have access to your webiste's database, the most amount of knowledge and **inherent risk** due to editing a database table so it should be your last resort. The second option covered in this guide should be all you ever need but if not read on.
+This is the option that will require you to have access to your website's database, the most amount of knowledge and also has **inherent risk** due to editing a database table so it should be your last resort. The second option covered in this guide should be all you ever need but if not read on.
 
 In this example we will be using **phpMyAdmin** to access the database as it is the most widely used tool and normally comes packaged with your administration portal such as **Cpanel**. If you are using another tool to administer your database the principals will be the same.
 
-Once you have logged into to **phpMyAdmin** select the database associated with your website from the left. You should now be looking a list of all your website's tables and the one we are interested in is the **Extensions** table so once you have found it click on it.  *[Figure-3]*
+Once you have logged into to **phpMyAdmin** select the database associated with your website from the left. You should now be looking at a list of all your website's tables but the one we are interested in is the **Extensions** table so once you have found it click on it.  *[Figure-3]*
 
 ![Figure-3](images/docs/joomla/extensions/general/disable-plugin/opt3-1.png "Figure-3"){.coalaweb-docs}
 
-In the next window you will see a list of all the extension installed on your website including the components, modules and plugins so to get to the one we are looking for lets use the **Search** tab from the top. *[Figure-3a]*
+In the next window you will see a list of all the extension installed on your website including the components, modules and plugins so to make it easier to find the one we are looking for we are going to use the **Search** tab from the top. *[Figure-3a]*
 
 ![Figure-3a](images/docs/joomla/extensions/general/disable-plugin/opt3-2.png "Figure-3a"){.coalaweb-docs}
 
-In the next window you have several ways to filter the extensions I prefer to use the **Element** field as its the same as the directory the plugin is stored in but you could use type(plugin) and folder(system) for example to help find the one you are looking for. When you are ready click the **Go** button in the bottom right to start the search which in my case returned the plugin I was looking for with the field I used to search highlighted. You may also notice that it has a **1** in the **Enabled** column telling us that it is currently enabled. *[Figure-3b]*
+In the next window you have several ways to filter the extensions I prefer to use the **Element** field as its the same as the directory the plugin is stored in but you could use type(plugin) and or folder(system) for example to help find the one you are looking for. When you are ready click the **Go** button in the bottom right to start the search which in my case returned the plugin I was looking for with the search field I used highlighted. You may also notice that it has a **1** in the **Enabled** column telling us that it is currently enabled. *[Figure-3b]*
 
 ![Figure-3b](images/docs/joomla/extensions/general/disable-plugin/opt3-3.png "Figure-3b"){.coalaweb-docs}
 
@@ -86,11 +89,11 @@ Now to disable the plugin in question just click the **Inline Edit** button to t
 
 ![Figure-3c](images/docs/joomla/extensions/general/disable-plugin/opt3-4.png "Figure-3c"){.coalaweb-docs}
 
-In the next window look for the column titled **enabled** and change the **1** to a **0** and click **Save** from the left menu. Thats it the plugin is now disabled and you should have gained access again to your website. If you need to disable more plugins just repeats these steps.
+In the next window look for the column titled **enabled** and change the **1** to a **0** and click **Save**. Thats it the plugin is now disabled and you should have gained access again to your website. If you need to disable more plugins just repeats these steps.
 
 ## <a name="tips"></a>Tips
 
-#### <a name="tip-1"></a>Identify a troublesome plugin from error
+#### <a name="tip-1"></a>Use Error to identify plugin
 
 If you see an **Error Message** take note of the **File** that is causing the problem as there is a good chance it will tell you which plugin is to blame. *[Figure-4]*
 
