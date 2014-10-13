@@ -479,7 +479,7 @@ Facebook has announced that they have deprecated the **Sharer** code in preferen
 
 ### <a name="mod-bookmark-fbapp"></a>Create Facebook Application
 
-To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this ![GUIDE](http://coalaweb.com/support-menu/documentation/item/create-facebook-application "Facebook App Guide").
+To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this [GUIDE](http://coalaweb.com/support-menu/documentation/item/create-facebook-application "Facebook App Guide").
 
 #### Part 2 - Social A - Z
 
@@ -612,7 +612,7 @@ Facebook has announced that they have deprecated the **Sharer** code in preferen
 
 ### <a name="mod-tabs-fbapp"></a>Create Facebook Application
 
-To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this ![GUIDE](http://coalaweb.com/support-menu/documentation/item/create-facebook-application "Facebook App Guide").
+To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this [GUIDE](http://coalaweb.com/support-menu/documentation/item/create-facebook-application "Facebook App Guide").
 
 #### Part 2 - Social A - Z
 

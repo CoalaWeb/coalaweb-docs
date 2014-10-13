@@ -69,7 +69,7 @@ Now you should be able to gain access your website and take the appropriate acti
 
 ## <a name="opt-3"></a>3. Editing the Database
 
-This is the option that will require you to have access to your website's database, the most amount of knowledge and also comes with an **inherent risk** due to editing a database table so it should be your last resort. The second option covered in this guide should be all you ever need but if not read on.
+This option is by far the most **risky** due to editing a database table so it should be your last resort. The second option covered in this guide should be all you ever need but if not read on.
 
 In this example we will be using **phpMyAdmin** to access the database as it is the most widely used tool and normally comes packaged with your administration portal such as **Cpanel**. If you are using another tool to administer your database the principals will be the same.
 
@@ -102,16 +102,3 @@ If you see an **Error Message** take note of the **File** that is causing the pr
 ## <a name="more-help"></a>Need More Help
 
 <span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</span>
-
-
-
-
-
-
-
-
-
-
-
-
-
