@@ -8,9 +8,10 @@
         - [2. Custom Fields](#options-custom)
         - [3. Messages and Warnings](#options-messages)
         - [4. Labels](#options-labels)
-        - [5. Captcha Options](#options-captcha)
-        - [6. Where Is My Download ID \[Pro\]](#options-downloadid)
-        - [7. Component Permissions](#options-permissions)
+        - [5. Captcha](#options-captcha)
+        - [6. Advanced](#options-advanced)
+        - [7. Where Is My Download ID \[Pro\]](#options-downloadid)
+        - [8. Component Permissions](#options-permissions)
 2.  [Contact Module Guide](#module)
     -   [General Display Options](#mod-general)
     -   [Capctha Options](#mod-captcha)
@@ -47,16 +48,9 @@ To make it easier to follow I have broken up the General settings into three par
 
 #### Part 1
 
-The first thing that will need to be filled in is the **Recipient
-Email** without this the system will display an error message. If you
-have purchased a Pro subscription you will also have two additional fields
-a CC Email and a BCC email. Next you have a **Default
-Subject** option this will display in the email subject followed by the
-submitters subject if you have chosen to display this option. Next is the **Mail From** option where you can choose to have the email sent by the **Contact Form User** or by the **Joomla Mail Settings**. In some cases you have will have to use the **Joomla Mail Settings** for the system to work correctly due to hosting or service provider restrictions. Next you
-have an option to chose the format you wish the emails to be sent in. If
-you are using the core version you will only have the **No HTML** option
-but for Pro users you will have two additional options of **Basic HTML**
-and **Rich HTML**. The last option in Part1 is **Redirection** after the mail has been successfully sent. The **Core** version gives you two options the first one is to return to the **Same Page** that the form was submitted on while the second one will return the user to the **Home Page** of your website. The **Pro** version has an additional **Cutom URL** option that if chosen will redirect the user to the URL entered in the following **Custom URL** field. *\[Figure-3\]*
+The first thing that will need to be filled in is the **Recipient Email** without this the system will display an error message. If you have purchased a Pro subscription you will also have two additional fields a CC Email and a BCC email. Next you have a **Default Subject** option this will display in the email subject followed by the submitters subject if you have chosen to display this option. Next is the **Mail From** option where you can choose to have the email sent by the **Contact Form User** or by the **Joomla Mail Settings**. In some cases you have will have to use the **Joomla Mail Settings** for the system to work correctly due to hosting or service provider restrictions.
+
+Next youhave an option to chose the format you wish the emails to be sent in. If you are using the core version you will only have the **No HTML** optionbut for Pro users you will have two additional options of **Basic HTML** and **Rich HTML**. The last option in Part1 is **Redirection** after the mail has been successfully sent. The **Core** version gives you two options the first one is to return to the **Same Page** that the form was submitted on while the second one will return the user to the **Home Page** of your website. The **Pro** version has an additional **Cutom URL** option that if chosen will redirect the user to the URL entered in the following **Custom URL** field. *\[Figure-3\]*
 
 ![Figure-3](images/docs/joomla/extensions/contact/cw-contact-config-general1.png "Figure-3"){.coalaweb-docs}
 
@@ -174,7 +168,13 @@ you with your ReCaptcha keys. *\[Figure-9\]*
 
 ![Figure-9](images/docs/joomla/extensions/contact/cw-contact-config-captcha2.png "Figure-9"){.coalaweb-docs}
 
-### 6.<a name="options-updates"></a>Update Options
+### 6.<a name="options-advanced"></a>Advanced
+
+In this section there is only one option to turn on or off the **Email Cloak** let me explain when to use this option. If you have disabled the native Joomla email cloak plugin or you are using a third party extension to cloak your emails please set the option below to No. *\[Figure-9b\]*
+
+![Figure-9b](images/docs/joomla/extensions/contact/cw-contact-config-advanced1.png "Figure-9b"){.coalaweb-docs}
+
+### 7.<a name="options-updates"></a>Update Options
 
 The CoalaWeb Social Links extension integrates with the inbuilt
 **Joomla Update** system so both **Core** and **Pro** users can keep their
@@ -186,7 +186,7 @@ make sure you still have a valid subscription and the **ID** is correct. *\[Figu
 
 ![Figure-10](images/docs/joomla/extensions/contact/cw-contact-config-updates.png "Figure-10"){.coalaweb-docs}
 
-### 7.<a name="options-downloadid"></a>Where Is My Download ID \[Pro Version\]
+### 8.<a name="options-downloadid"></a>Where Is My Download ID \[Pro Version\]
 
 To find your **Download ID** log into **coalaweb.com** and from the top
 menu select **Members → My Subscriptions** scroll down and under **My
@@ -196,7 +196,7 @@ to include any spaces. *\[Figure-11\]*
 
 ![Figure-11](images/docs/joomla/extensions/contact/coalaweb-download-id.png "Figure-11"){.coalaweb-docs}
 
-### 8.<a name="options-permissions"></a>Component Permissions
+### 9.<a name="options-permissions"></a>Component Permissions
 
 The last tab contains the permission settings for the CoalaWeb Contact
 component. *\[Figure-12\]*
