@@ -77,7 +77,7 @@ out leaving the control panel. *\[Figure-2\]*
 
 ### <a name="options"></a>Extension Options
 
-<span class="info" markdown="1">In the control panel or the tool menu you have a options icon that when clicked will open a pop up containing the various extension options.</span>
+<span class="info" markdown="1">In the control panel or the tool menu you have an options icon that when clicked will open a new window containing the various extension options.</span>
 
 ### 1. <a name="options-general"></a>General Options \[Pro Version\]
 
