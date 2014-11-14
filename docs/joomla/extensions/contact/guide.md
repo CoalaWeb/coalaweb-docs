@@ -1,7 +1,6 @@
 ## Table of Contents
 1.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
-    -   [One Click Updates](#updates)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
         - [1. General Contact Options](#options-general)
@@ -14,8 +13,9 @@
         - [8. Component Permissions](#options-permissions)
 2.  [Contact Module Guide](#module)
     -   [General Display Options](#mod-general)
-    -   [Capctha Options](#mod-captcha)
-    -   [Advanced Options](#mod-advanced)
+    -   [Custom Fields](#mod-general)
+    -   [Captcha](#mod-captcha)
+    -   [Advanced](#mod-advanced)
     -   [Release Information](#mod-release)
 3.  [Plugin Guide \[Pro\]](#plg)
     -   [Content Plugin - Contact](#plg-content)
@@ -50,16 +50,15 @@ To make it easier to follow I have broken up the General settings into three par
 
 The first thing that will need to be filled in is the **Recipient Email** without this the system will display an error message. If you have purchased a Pro subscription you will also have two additional fields a CC Email and a BCC email. Next you have a **Default Subject** option this will display in the email subject followed by the submitters subject if you have chosen to display this option. Next is the **Mail From** option where you can choose to have the email sent by the **Contact Form User** or by the **Joomla Mail Settings**. In some cases you have will have to use the **Joomla Mail Settings** for the system to work correctly due to hosting or service provider restrictions.
 
-Next youhave an option to chose the format you wish the emails to be sent in. If you are using the core version you will only have the **No HTML** optionbut for Pro users you will have two additional options of **Basic HTML** and **Rich HTML**. The last option in Part1 is **Redirection** after the mail has been successfully sent. The **Core** version gives you two options the first one is to return to the **Same Page** that the form was submitted on while the second one will return the user to the **Home Page** of your website. The **Pro** version has an additional **Cutom URL** option that if chosen will redirect the user to the URL entered in the following **Custom URL** field. *\[Figure-3\]*
+Next youhave an option to chose the format you wish the emails to be sent in. If you are using the core version you will only have the **No HTML** optionbut for Pro users you will have two additional options of **Basic HTML** and **Rich HTML**. The last option in Part1 is **Redirection** after the mail has been successfully sent. The **Core** version gives you two options the first one is to return to the **Same Page** that the form was submitted on while the second one will return the user to the **Home Page** of your website. The **Pro** version has an additional **Custom URL** option that if chosen will redirect the user to the URL entered in the following **Custom URL** field. *\[Figure-3\]*
 
 ![Figure-3](images/docs/joomla/extensions/contact/cw-contact-config-general1.png "Figure-3"){.coalaweb-docs}
 
 #### Part 2
 
-Next we have some **Field Display** options that will affect what and how items are displayed within the contact form. Firstly you have the option to turn on or off the display of the following fields **Name**, **Subject** and **Message** and also if they are required. If you are using the **Pro** version you will also have two more options a **Date From** and **Date To** these will display **Calendar** input fields in the form. If you have chosen to display either of date input fields you can also chose the date format to be used. The avaliable options coincide with Joomla's standard types such as **LC3**. The **Display Format** option will display an example of the currently acceptable format under the date fields which is handy when JavaScript is turned off on the users computer so they can still input the date manually using the correct format. 
+Next we have some **Field Display** options that will affect what and how items are displayed within the contact form. Firstly you have the option to turn on or off the display of the following fields **Name**, **Subject** and **Message** and also if they are required. If you are using the **Pro** version you will also have two more options **Date From** and **Date To** these will display with a **Calendar** selector next to these fields. If you have chosen to display either of date input fields you can also chose the date format to be used. The avaliable options coincide with Joomla's standard types such as **LC3**. The **Display Format** option will display an example of the currently acceptable format under the date fields which is handy when JavaScript is turned off on the users computer so they can still input the date manually using the correct format. 
 
-The next option gives **Pro** users the ability to display a **Terms of Service** input field that can also be set to required. If you want to display the **TOS**  you will also need to enter an article **ID** in the **TOS Article ID** this is the article that will be displayed in a popup window so users can read before agreeing. Next you can chose to display a **Copy Me** field allowing users to receive a copy of the form when they submit it. The last two options are for the **Pro** subscribers and they allow you
-to set and display the **Character Limit** for the message field of the form. If displayed the **Character Limit** will count down as text is entered into the message field. *\[Figure-4\]*
+The next option gives **Pro** users the ability to display a **Terms of Service** input field that can also be set to required. If you want to display the **TOS**  you will also need to enter an article **ID** in the **TOS Article ID** this is the article that will be displayed in a popup window so users can read before agreeing. Next you can chose to display a **Copy Me** field allowing users to receive a copy of the form when they submit it. The last two options are for the **Pro** subscribers and they allow you to set and display the **Character Limit** for the message field of the form. If displayed the **Character Limit** will count down as text is entered into the message field. *\[Figure-4\]*
 
 ![Figure-4](images/docs/joomla/extensions/contact/cw-contact-config-general2.png "Figure-4"){.coalaweb-docs}
 
@@ -131,7 +130,7 @@ answer type Captcha [The Default Captcha]. They allow you to chose a
 question to be displayed and the answer to be check against before
 allowing the form to be submitted. The default question is:
 
-`Question = How wheels does a bicycle have?`
+`Question = How many wheels does a bicycle have?`
 
 `Answer = 2`
 
@@ -176,7 +175,7 @@ In this section there is only one option to turn on or off the **Email Cloak** l
 
 ### 7.<a name="options-updates"></a>Update Options
 
-The CoalaWeb Social Links extension integrates with the inbuilt
+The CoalaWeb Contact extension integrates with the inbuilt
 **Joomla Update** system so both **Core** and **Pro** users can keep their
 extension up to date. For the **Pro** users you will have to copy and
 paste your **Download ID** into this field to allow the update system to
@@ -208,10 +207,10 @@ component. *\[Figure-12\]*
 
 ### <a name="mod-general"></a>General Display Options
 
-The options below will overridden the component configuration.
-
 To make it easier to follow I have broken up the General settings into
-three parts.
+four parts.
+
+**Note:** The options below will override the component configuration.
 
 #### Part 1
 
@@ -227,18 +226,19 @@ display this option. *\[Figure-13\]*
 
 #### Part 2
 
-Next we have some **Field Display** options that will affect what and
-how items are displayed with in the contact form. Firstly you have the
-option to display or not a Name or Subject input field you can also
-chose to have it as a required field. Next you can chose to display a
-Copy Me field allowing users to receive a copy of the form when they
-submit it. The last two option are for the **Pro** subscribers and they
-allow you to set and display the Character Limit for the message field
-of the form. *\[Figure-14\]*
+Next we have some **Field Display** options that will affect what and how items are displayed within the contact form. Firstly you have the option to turn on or off the display of the following fields **Name**, **Subject** and **Message** and also if they are required. If you are using the **Pro** version you will also have two more options **Date From** and **Date To** these will display with a **Calendar** selector next to these fields. 
+
+The next option gives **Pro** users the ability to display a **Terms of Service** input field that can also be set to required. Note: If you want to display the **TOS**  you will also need to enter an article **ID** in the **Component** configuration options. Next you can chose to display a **Copy Me** field allowing users to receive a copy of the form when they submit it. The last two options are for the **Pro** subscribers and they allow you to set and display the **Character Limit** for the message field of the form. If displayed the **Character Limit** will count down as text is entered into the message field. *\[Figure-14\]*
 
 ![Figure-14](images/docs/joomla/extensions/contact/cw-contact-mod-config-general2.png "Figure-14"){.coalaweb-docs}
 
 #### Part 3
+
+In this section you can set the **Redirection** after the mail has been successfully sent. The **Core** version gives you two options the first one is to return to the **Same Page** that the form was submitted on while the second one will return the user to the **Home Page** of your website. The **Pro** version has an additional **Custom URL** option that if chosen will redirect the user to the URL entered in the following **Custom URL** field. *\[Figure-14b\]*
+
+![Figure-14b](images/docs/joomla/extensions/contact/cw-contact-mod-config-general2b.png "Figure-14b"){.coalaweb-docs}
+
+#### Part 4
 
 Lastly we have some **Layout & Style** options that will affect the look
 and feel of the contact form. The first option allows you to choose a
@@ -264,6 +264,12 @@ form into your content. *\[Figure-15\]*
 
 ![Figure-15](images/docs/joomla/extensions/contact/cw-contact-mod-config-general3.png "Figure-15"){.coalaweb-docs}
 
+### <a name="mod-custom"></a>Custom Fields
+
+In this section you can choose to display one custom field for **Core** users or up to three for **Pro** users. The specifics for each custom fields can be found in the component configuration options. *\[Figure-15b\]*
+
+![Figure-15b](images/docs/joomla/extensions/contact/cw-contact-mod-config-custom1.png "Figure-15b"){.coalaweb-docs}
+
 ### <a name="mod-captcha"></a>Captcha
 
 The next options group allows you to display a **Captcha** to attempt to
@@ -281,7 +287,7 @@ answer Captcha they allow you to chose a question to be displayed and
 the answer to be check against before allowing the form to be submitted.
 The default question is:
 
-`Question = How wheels does a bicycle have?`
+`Question = How many wheels does a bicycle have?`
 
 `Answer = 2`
 
