@@ -14,9 +14,7 @@
 
 ## <a name="overview"></a>Overview
 
-CoalaWeb Social Links is a complete social media package to help your site 
-visitors bookmark content, follow you through a variety of social networks and 
-vote for particular content with social buttons.
+CoalaWeb Traffic is a Joomla 2.5 & 3.+ extension to help you keep track of the visitors to your site. You can choose to display the module and let visitors see and be amazed by your traffic or unpublish the module and view your website statistics in the admin area its up to you.
 
 <span class="tip" markdown="1">When you install CoalaWeb Social Links all the 
 parts of the system will be installed at the same time making installing, 
