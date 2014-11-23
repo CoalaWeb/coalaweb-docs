@@ -3,7 +3,7 @@
 2.  [Component](#component)
 3.  [Modules](#modules)
     -   [Traffic](#mod-traffic)
-4.  [Plugins \[Pro\]](#plugins)
+4.  [Plugins](#plugins)
     -   [System - Traffic Count](#plg-count)
     -   [System - Traffic Clean](#plg-clean)
     -   [System - Traffic Online](#plg-online)
