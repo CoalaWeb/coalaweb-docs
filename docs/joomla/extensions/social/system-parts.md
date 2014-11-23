@@ -7,10 +7,10 @@
     -   [Google + \[Pro\]](#mod-google)
     -   [Social Tabs \[Pro\]](#mod-tabs)
 4.  [Plugins \[Pro\]](#plugins)
-    -   [Content- Social Likes \[Pro\]](#plg-likes)
-    -   [Content- Social Panel \[Pro\]](#plg-panel)
-    -   [Content- Open Graph \[Pro\]](#plg-og)
-    -   [System- Zoo Elements \[Pro\]](#plg-zoo)
+    -   [Content - Social Likes \[Pro\]](#plg-likes)
+    -   [Content - Social Panel \[Pro\]](#plg-panel)
+    -   [Content - Open Graph \[Pro\]](#plg-og)
+    -   [System - Zoo Elements \[Pro\]](#plg-zoo)
 
 ## <a name="overview"></a>Overview
 
@@ -28,24 +28,24 @@ The Component makes setting up the content plugins a breeze by having a centrali
 
 ## <a name="modules"></a>Modules
 
-### <a name="social"></a>Social Links
+### <a name="mod-social"></a>Social Links
 
 The Social Links module gives you the option to choose which bookmarks and 
 follow us links to display including the ability to create custom ones plus it's
 packed full of other configuration options to make it as flexible as possible.
 
-### <a name="likebox"></a>Facebook Likebox
+### <a name="mod-likebox"></a>Facebook Likebox
 
 The Facebook Like Box module is a social module that enables Facebook Page 
 owners to attract and gain likes. The like box enables people using your website
 to see how many people like the Page, read recent posts from the Page and like 
 the Page with one click, without needing to visit the Page.
 
-### <a name="tabs"></a>Tabs  \[Pro Version\]
+### <a name="mod-tabs"></a>Tabs  \[Pro Version\]
 
 The Tabs module displays a series of tabs on either side of the page that slide in and out when hovered over. It gives you the option to display share, follow us or both types including the ability to create custom follow us tabs. It's packed full of other configuration options including the ability to reorder the tabs and choose their colors which help make it as flexible as possible.
 
-### <a name="google"></a>Google Plus \[Pro Version\]
+### <a name="mod-google"></a>Google Plus \[Pro Version\]
 
 The Google Plus module is a social module that helps you link your Google+
 page to your site. Get more recommendations for your site in Google search and 
