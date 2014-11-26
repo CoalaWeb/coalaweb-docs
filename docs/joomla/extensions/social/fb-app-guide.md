@@ -1,6 +1,22 @@
 ## Table of Contents
-1.  [Guide](#guide)
-2.  [Need More Help?](#more-help)
+1.  [Register](#register)
+2.  [Guide](#guide)
+3.  [Need More Help?](#more-help)
+
+## <a name="register"></a>Register as a Developer
+You need to have your personal Facebook profile registered as a **Developer** before you can create and manage a **Facebook App**. If you already have a Facebook account and are registered as a developer jump down to the [Guide](#guide) if not read on.
+
+First navigate to Facebook.com and login with your personal Facebook account. If you don't already have one you’ll need to create one now. 
+
+Note: If you are only using Facebook to manage pages, these instructions will not work you will need a personal Facebook account to continue.
+
+Next go to https://developers.facebook.com/apps and click on the green **Register as a Developer** button in the upper right. You will more than likely have to verify your Facebook account via phone. Once you have finished verifying your account click the **Register as a Developer** button and you will be confronted with a popup. *\[Figure-1\]*
+
+![Figure-1](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure1.png "Figure-1"){.coalaweb-docs}
+
+Check the **Accept Terms** box and click **Continue** in the next step you can either skip or complete all the information but keep in mind the answer aren'y super important. I recommend unchecking the box at the bottom to not receive emails but its up to you.
+
+Click **Done** and you are now an official Facebook Developer!
 
 ## <a name="guide"></a>Guide to creating a Facebook Application
 As you know, CoalaWeb Social Links allows you to share content through many social networks, including Facebook. Up until version 0.1.8 the Facebook share options of the **Social Links** and **Tabs** modules had been carried out using the Facebook **Sharer** code. But recently, Facebook announced that they have deprecated this code in preference of their new **Share Dialog** system, which requires a Facebook **App ID**.
@@ -8,9 +24,9 @@ As you know, CoalaWeb Social Links allows you to share content through many soci
 To get a Facebook App ID requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in the following guide.
 
 ### <a name="step-1"></a>Step 1
-To get started lets head over to the Facebook developer's [website](https://developers.facebook.com) You will need to log into your Facebook account using your normal credentials before being able to access this page. *\[Figure-1\]*
+To get started lets head over to the Facebook developer's [website](https://developers.facebook.com) You will need to log into your Facebook account using your normal credentials before being able to access this page. *\[Figure-1a\]*
 
-![Figure-1](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure1.png "Figure-1"){.coalaweb-docs}
+![Figure-1a](images/docs/joomla/extensions/social-links/fb/cw-fbapp-figure1a.png "Figure-1a"){.coalaweb-docs}
 
 ### <a name="step-2"></a>Step 2
 Now that we are in the **Developers** section of Facebook we can start creating out new App. First select the **Apps** dropdown menu from the top and choose **Add a New App**. *\[Figure-2\]*
