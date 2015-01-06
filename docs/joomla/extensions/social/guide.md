@@ -15,8 +15,8 @@
 2.  [Social Module Guide](#module)
     -   [General Display Options](#mod-general)
     -   [Create Custom Theme](#mod-custom-theme)
-    -   [Bookmark This General](#mod-bookmark-gen)
-    -   [Bookmark This Social](#mod-bookmark-soc)
+    -   [Share This General](#mod-bookmark-gen)
+    -   [Share This Social](#mod-bookmark-soc)
         - [1. Create Facebook Application](#mod-bookmark-fbapp)
     -   [Follow Us General](#mod-follow-gen)
     -   [Follow Us A-Z](#mod-follow-az)
@@ -47,10 +47,12 @@
     -   [Layout Options](#mod-gplus-layout)
     -   [Advanced Options](#mod-gplus-advanced)
 
-6.  [Plugin Guide \[Pro Version\]](#plg)
+6.  [Plugin Guide](#plg)
     -   [Content Plugin - Social Likes \[Pro Version\]](#plg-content)
+    -   [Content Plugin - Social Share \[Pro Version\]](#plg-share)
     -   [Content Plugin - Social Panel \[Pro Version\]](#plg-panel)
     -   [Content Plugin - Social Metadata \[Pro Version\]](#plg-og)
+    -   [System Plugin - Facebook JS](#plg-fbjs)
     -   [System Plugin - Zoo \[Pro Version\]](#plg-zoo)
         - [1. Element - Social Likes](#plg-zoo-social)
         - [2. Layout - Open Graph](#plg-zoo-og)
@@ -198,9 +200,13 @@ Next are the **General Options** here you can choose to display the buttons abov
 
 #### Part 3 - Social
 Next are the **Social Options** here you can chose which social networks you wish to display. These options will affect the display of both the
-buttons in Joomla and K2. *\[Figure-27c\]*
+buttons in Joomla and K2. If you plan to display the Facebook button you will need to create a Facebook application **first** and then copy and paste the **ID** into the **Component** options under the **General** tab. *\[Figure-27c\]*
 
 ![Figure-27c](images/docs/joomla/extensions/social-links/cw-slinks-config-share4.png "Figure-27c"){.coalaweb-docs}
+
+#### Create Facebook Application
+
+To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this [GUIDE](http://coalaweb.com/support/documentation/item/create-facebook-application "Facebook App Guide").
 
 ### 4. <a name="options-panel"></a>Panel Plugin Options \[Pro Version\]
 
@@ -449,12 +455,11 @@ Links component. *\[Figure-8\]*
 
 ### <a name="mod-general"></a>General Display Options
 
-<span class="info" markdown="1">To make it easier to follow I have broken up the **General Display Options** into two parts.</span>
+<span class="info" markdown="1">To make it easier to follow I have broken up the **General Display Options** into three parts.</span>
 
 #### Part 1
 
-In this section you can choose the icon style, size and alignment, title
-alignment as well as the title format. *\[Figure-9\]*
+In this section you can choose the icon style, size and alignment, title alignment as well as the title format. *\[Figure-9\]*
 
 <span class="tip" markdown="1">Want to create a custom theme? Have a look at [Creating a Custom Theme](#mod-custom-theme)</span>
 
@@ -462,12 +467,7 @@ alignment as well as the title format. *\[Figure-9\]*
 
 #### Part 2
 
-You also have the option to turn on or off the display of the **Bookmark
-This** or **Follow Us** sections. *Note: individual items are controlled
-in later sections.* You can also choose if you want borders around the
-different sections of the module as well as their width, the modules
-overall width as a percentage and for the *PRO* users you can also
-select the module layout. *\[Figure-9a\]*
+You also have the option to turn on or off the display of the **Share This** or **Follow Us** sections. *Note: individual items are controlled in later sections.* You can also choose if you want borders around the different sections of the module as well as their width, the modules overall width as a percentage and for the *PRO* users you can also select the module layout. *\[Figure-9a\]*
 
 ![Figure-9a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general2.png "Figure-9a"){.coalaweb-docs}
 
@@ -480,9 +480,15 @@ Creating a theme is easy, just copy the custom-example folder found in:
 Give the theme a different name, edit the files as needed and of course add your custom icons. 
 All the folders located in the themes-icon directory will automatically be listed in the **Icon Styles** select list.
 
-### <a name="mod-bookmark-gen"></a>Bookmark This General
+#### Part 3
 
-<span class="info" markdown="1">To make it easier to follow I have broken up the **Bookmark This General** into two parts.</span>
+The last General Display options control if the buttons should be opened in a **Popup Window**. I recommend having it on for the Share buttons and off for the Follow Us buttons. *\[Figure-9b\]*
+
+![Figure-9b](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-general3.png "Figure-9b"){.coalaweb-docs}
+
+### <a name="mod-bookmark-gen"></a>Share This General
+
+<span class="info" markdown="1">To make it easier to follow I have broken up the **Share This General** into two parts.</span>
 
 #### Part 1 - Default
 
@@ -498,25 +504,25 @@ only add the link in the following format www.socialmedia.com. *\[Figure-10\]*
 
 #### Part 2 - Display
 
-This section controls what is displayed in the **Bookmark This** part of
+This section controls what is displayed in the **Share This** part of
 the module. You can choose to display a title including what text will
 be displayed. *Note: If your site is multilingual leave blank and use
 the language files.* You can also choose the color of the title and the
 border color but only if you selected yes to **Display Borders** in the
 **General Display Options** section. This border will surround the
-**Bookmark This** part of the module. You can enter a \# followed by a
+**Share This** part of the module. You can enter a \# followed by a
 color reference code such as \#000000 for black or you can use the color
-chooser box to the right of the input field. The last option is used to display some text above the **Bookmark This** section of the module. *\[Figure-10a\]*
+chooser box to the right of the input field. The last option is used to display some text above the **Share This** section of the module. *\[Figure-10a\]*
 
 ![Figure-10a](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark2.png "Figure-10a"){.coalaweb-docs}
 
-### <a name="mod-bookmark-soc"></a>Bookmark This Social
+### <a name="mod-bookmark-soc"></a>Share This Social
 
-<span class="info" markdown="1">To make it easier to follow I have broken up the **Bookmark This Social Options** into two parts.</span>
+<span class="info" markdown="1">To make it easier to follow I have broken up the **Share This Social Options** into two parts.</span>
 
 #### Part 1 - Facebook
 
-Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to display the Facebook button you will need to create an application **first** and then copy and paste the **ID** into the field provided. For more info on how this is done read below.*\[Figure-10b\]*
+Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to display the Facebook button you will need to create a Facebook application **first** and then copy and paste the **ID** into the **Component** options under the **General** tab. The option below will override the component if needed. For more info on how this is done read below.*\[Figure-10b\]*
 
 ![Figure-10b](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark3.png "Figure-10b"){.coalaweb-docs}
 
@@ -526,7 +532,7 @@ To get a **Facebook App ID** requires you to first create a Facebook Application
 
 #### Part 2 - Social A - Z
 
-For the social bookmark options themselves, scroll down the list ticking the ones you want to display and that's it for the **Bookmark This** section.*\[Figure-10c\]*
+For the social bookmark options themselves, scroll down the list ticking the ones you want to display and that's it for the **Share This** section.*\[Figure-10c\]*
 
 ![Figure-10c](images/docs/joomla/extensions/social-links/cw-slinks-mod-config-bookmark4.png "Figure-10c"){.coalaweb-docs}
 
@@ -611,7 +617,7 @@ in all templates. *\[Figure-25\]*
 
 ### <a name="mod-tabs-general"></a>General Display Options
 
-<span class="info" markdown="1">To make it easier to follow I have broken up the **General Display Options** into two parts.</span>
+<span class="info" markdown="1">To make it easier to follow I have broken up the **General Display Options** into three parts.</span>
 
 #### Part 1
 
@@ -631,6 +637,12 @@ The default settings will be sufficient in most situations. *\[Figure-25b\]*
 
 <span class="info" markdown="1">Note: If Social Tabs using jQuery is loaded on a device with a screen size smaller than **1024** the slide out effect is disabled.</span>
 
+#### Part 3
+
+The last General Display options control if the buttons should be opened in a **Popup Window**. I recommend having it on for the Share buttons and off for the Follow Us buttons. *\[Figure-25c\]*
+
+![Figure-25c](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-general3.png "Figure-25c"){.coalaweb-docs}
+
 ### <a name="mod-tabs-share-gen"></a>General Share
 
 If you want the same **Title** to be used for all of the **Share** tabs
@@ -649,7 +661,7 @@ only add the link in the following format www.socialmedia.com. *\[Figure-25c\]*
 
 #### Part 1 - Facebook
 
-Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to display the Facebook tab you will need to create an application **first** and then copy and paste the **ID** into the field provided. For more info on how this is done read below. *\[Figure-25d\]*
+Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to display the Facebook tab you will need to create a Facebook application **first** and then copy and paste the **ID** into the **Component** options under the **General** tab. The option below will override the component if needed. For more info on how this is done read below. *\[Figure-25d\]*
 
 ![Figure-25d](images/docs/joomla/extensions/social-links/cw-tabs-mod-config-share2.png "Figure-25d"){.coalaweb-docs}
 
@@ -752,8 +764,7 @@ people using your website to do the following:
 The first option in this section allows you to add your Facebook page.
 The easiest way to do that is open up your page and copy and paste the
 link in the box. Note: The URL should be in the following format
-https://www.facebook.com/CoalaWeb. The next option is for you to add
-your Facebook Application ID if you have created one. The last option is
+https://www.facebook.com/CoalaWeb. The last option is
 to select what format you want the widget to display in you have a
 choice of HTML5, XFBML and IFRAME. *\[Figure-13\]*
 
@@ -764,7 +775,7 @@ choice of HTML5, XFBML and IFRAME. *\[Figure-13\]*
 A word on **Responsiveness** I have tried to make the CoalaWeb Like Box
 Module as responsive as possible with in the limitations enforced by
 Facebook. To get the best results I recommend leaving the **Widget Min
-Width** small, no **FB Root Div** and just adjust the height to get the
+Width** small and just adjust the height to get the
 best result possible.
 
 This brings me to the actual options available in this section the first
@@ -778,10 +789,7 @@ faces, please set a bigger height (e.g. 630). The next option is the
 **Module Width** not to be confused with the **Widget Width** this is
 the surrounding Joomla module. You might want to reduce this width if
 for example you only have two modules displayed at the bottom of your
-page and you want the Like Box to be a bit more compact. The last option
-in this section is the **FB Root Div** I recommend leaving this option
-set to **No** unless you have a very specific reason and especially if
-you are look for the best responsive results. *\[Figure 14\]*
+page and you want the Like Box to be a bit more compact. *\[Figure 14\]*
 
 ![Figure-14](images/docs/joomla/extensions/social-links/cw-lbox-mod-config-layout.png "Figure-14"){.coalaweb-docs}
 
@@ -902,7 +910,7 @@ blank and use the language files. \[Figure-18d\]*
 
 ![Figure-18d](images/docs/joomla/extensions/social-links/cw-gplus-mod-config-advanced2.png "Figure-18d"){.coalaweb-docs}
 
-## <a name="plg"></a>Plugins \[PRO Version Only\]
+## <a name="plg"></a>Plugins
 
 ### <a name="plg-content"></a>Social Likes \[Pro Version\]
 
@@ -915,6 +923,14 @@ buttons make sure you have the plugin installed and published and that
 you have selected the appropriate configuration options. *\[Figure-19\]*
 
 ![Figure-19](images/docs/joomla/extensions/social-links/cw-slinks-plg-content.png "Figure-19"){.coalaweb-docs}
+
+### <a name="plg-share"></a>Social Share \[Pro Version\]
+
+The **CoalaWeb Social Share** plugin is a content plugin designed to display all of the popular social networking share buttons with several icon themes and locations within your **Joomla** and **K2 content**. All of
+the configuration options for this particular plugin can be found in the accompanying component under **Extension Options**. If you can't see the buttons make sure you have the plugin installed and published and that
+you have selected the appropriate configuration options. *\[Figure-19a\]*
+
+![Figure-19a](images/docs/joomla/extensions/social-links/cw-slinks-plg-share.png "Figure-19a"){.coalaweb-docs}
 
 ### <a name="plg-panel"></a>Social Panel \[Pro Version\]
 
@@ -993,6 +1009,12 @@ more details. *\[Figure-21a\]*
 
 
 ![Figure-21a](images/docs/joomla/extensions/social-links/cw-slinks-plg-twittercard.png "Figure-21a"){.coalaweb-docs}
+
+### <a name="plg-fbjs"></a>Facebook JS
+
+This plugin has been specifically designed to load the Facebook JavaScript library making it avaliable to all the parts of the **Social Links** system while ensuring it is only loaded once. It also incorporates the Facebook **Application ID** entered in the component configuration options. *\[Figure-21b\]*
+
+![Figure-21b](images/docs/joomla/extensions/social-links/cw-slinks-plg-fbjs.png "Figure-21b"){.coalaweb-docs}
 
 ### <a name="plg-zoo"></a>Zoo \[Pro Version\]
 
