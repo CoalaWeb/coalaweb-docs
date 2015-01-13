@@ -1012,7 +1012,7 @@ more details. *\[Figure-21a\]*
 
 ### <a name="plg-fbjs"></a>Facebook JS
 
-This plugin has been specifically designed to load the Facebook JavaScript library making it avaliable to all the parts of the **Social Links** system while ensuring it is only loaded once. It also incorporates the Facebook **Application ID** entered in the component configuration options. *\[Figure-21b\]*
+This plugin has been specifically designed to load the Facebook JavaScript library making it available to all the parts of the **Social Links** system while ensuring it is only loaded once. It also incorporates the Facebook **Application ID** entered in the component configuration options. *\[Figure-21b\]*
 
 ![Figure-21b](images/docs/joomla/extensions/social-links/cw-slinks-plg-fbjs.png "Figure-21b"){.coalaweb-docs}
 
