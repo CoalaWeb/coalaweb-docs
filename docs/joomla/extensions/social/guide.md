@@ -57,7 +57,7 @@
         - [1. Element - Social Likes](#plg-zoo-social)
         - [2. Layout - Open Graph](#plg-zoo-og)
 
-7.  [Need More Help?](#more-help
+7.  [Need More Help?](#more-help)
 
 ## <a name="component-guide"></a>Component
 ### <a name="control-panel"></a>Control Panel
