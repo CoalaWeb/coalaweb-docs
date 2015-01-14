@@ -67,7 +67,7 @@ starting point, think of it as the components head quarters. While
 carrying out tasks you can easily jump from the **Control Panel** to the
 different sections and then return before moving onto the next one. *\[Figure-1\]*
 
-![Figure-1](https://raw.githubusercontent.com/CoalaWeb/coalaweb-docs/master/docs/joomla/extensions/social/images/cw-slinks-cpanel.png "Figure-1"){.coalaweb-docs}
+![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-cpanel.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="help"></a>Inbuilt Help
 
