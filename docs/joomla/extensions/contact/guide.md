@@ -22,7 +22,7 @@
     -   [Editor XTD Plugin - Contact](#plg-xtd)
 4.  [Need More Help?](#more-help)
 
-## <a name="component-guide"></a>Component
+# <a name="component-guide"></a>Component
 ### <a name="control-panel"></a>Control Panel
 
 The **Control Panel** as seen below is designed to be an easy starting point, think of it as the head quarters for the extension. While carrying out tasks you can easily jump from the **Control Panel** to the different sections and then return before moving onto the next one. *\[Figure-1\]*
@@ -202,7 +202,7 @@ component. *\[Figure-12\]*
 
 ![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-permissions.png "Figure-12"){.coalaweb-docs}
 
-## <a name="module"></a>Contact Module
+# <a name="module"></a>Contact Module
 ![Module-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-module-themes.png "Module-Demo"){.coalaweb-docs}
 
 ### <a name="mod-general"></a>General Display Options
@@ -338,8 +338,8 @@ such as **Type**, **Version** and **Release Date**. *\[Figure-19\]*
 
 ![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-r-info.png "Figure-19"){.coalaweb-docs}
 
-## <a name="plg"></a>Plugins \[PRO Version Only\]
-### <a name="plg-content"></a>Content Plugin - Contact
+# <a name="plg"></a>Plugins \[PRO Version Only\]
+## <a name="plg-content"></a>Content Plugin - Contact
 
 The CoalaWeb Contact plugin gives you even more flexibility by allowing
 you to place one or more contact forms anywhere within your content. All
@@ -351,7 +351,7 @@ configuration options.
 
 ![Content-PLG-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-plg-content.png "Content-PLG-Demo"){.coalaweb-docs}
 
-### <a name="plg-xtd"></a>Editor XTD Plugin - Contact
+## <a name="plg-xtd"></a>Editor XTD Plugin - Contact
 
 The **Editor XTD** plugin makes adding a contact form to your Joomla
 content a one click process. Just place the cursor where you want the
@@ -360,7 +360,7 @@ displayed at the bottom of the editor.
 
 ![XTD-PLG-Button](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-plg-btn.png "XTD-PLG-Button"){.coalaweb-docs}
 
-### <a name="more-help"></a>Need more help?
+## <a name="more-help"></a>Need more help?
 
 <span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](/support/documentation/category/joomla).</span>
 <span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](/forum/index) I'm sure we can help.<span>
