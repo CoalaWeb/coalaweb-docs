@@ -59,7 +59,7 @@
 
 7.  [Need More Help?](#more-help)
 
-## <a name="component-guide"></a>Component
+# <a name="component-guide"></a>Component
 ### <a name="control-panel"></a>Control Panel
 
 The **Control Panel** as seen below it is designed to be an easy
@@ -130,7 +130,9 @@ turn on URL shortening and where will ultimately depend on your circumstances. *
 
 #### How do I get an API Key? (Google)
 
-Firstly log into your Google account and then go to the **API Console** using this [link](https://code.google.com/apis/console) you should end up in the **Google Developers Console**  *\[Figure 24c\]*now from the left menu select:
+Firstly log into your Google account and then go to the **API Console** using this [link](https://code.google.com/apis/console) you should end up in the **Google Developers Console**. *\[Figure 24c\]*
+
+Now from the left menu select:
 
 `APIs and auth → APIs`
 
@@ -451,7 +453,7 @@ Links component. *\[Figure-8\]*
 
 ![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-permissions.png "Figure-8"){.coalaweb-docs}
 
-## <a name="module"></a>Social Links Module
+# <a name="module"></a>Social Links Module
 
 ### <a name="mod-general"></a>General Display Options
 
@@ -599,12 +601,12 @@ search engines not to follow a particular link. In the last option you can choos
 
 The last option is whether to display a **Link Back to CoalaWeb** as
 always it's appreciated but its up to you plus you can choose what text
-to display next to the link. *Note: If your site is multilingual leave
-blank and use the language files. \[Figure-12a\]*
+to display next to the link. Note: If your site is multilingual leave
+blank and use the language files. *\[Figure-12a\]*
 
 ![Figure-12a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-advanced2.png "Figure-12a"){.coalaweb-docs}
 
-## <a name="module-tabs"></a>Social Tabs Module \[Pro Version\]
+# <a name="module-tabs"></a>Social Tabs Module \[Pro Version\]
 
 ### <a name="mod-tabs-first"></a>First Thing
 
@@ -705,7 +707,7 @@ url for example http://coalaweb.com/images/example.png. *\[Figure-25g\]*
 
 ### <a name="mod-tabs-colors"></a>Tab Colors
 
-In this section you have two option to choose for each of the tabs including the custom ones. The first one is the default background color of a particular tab and the second one is the hover color that the tab will change to when hovered over. You can click the input to use a popup color selector or enter the colors ***Hex** code minus the **#**. *\[Figure-25h\]*
+In this section you have two option to choose for each of the tabs including the custom ones. The first one is the default background color of a particular tab and the second one is the hover color that the tab will change to when hovered over. You can click the input to use a popup color selector or enter the colors **Hex** code minus the **#**. *\[Figure-25h\]*
 
 ![Figure-25h](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-colors.png "Figure-25h"){.coalaweb-docs}
 
@@ -728,11 +730,9 @@ To make it easy to identify which tab is which I have added a key letter to the 
 
 #### Part 1
 
-First you get the choice to use **CSS** for the rendering of the module or **jQuery**.
+First you get the choice to use **CSS** for the rendering of the module or **jQuery**. *\[Figure-25d\]*
 
 <span class="info" markdown="1">Note: jQuery is loaded by default on Joomla 3.x but if you don't have it loaded on your system and you would like to use the jQuery option turn it on in the included **System - CW Gears plugin**.</span>
-
- *\[Figure-25d\]*
 
 ![Figure-25d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-advanced1.png "Figure-25d"){.coalaweb-docs}
 
@@ -746,7 +746,7 @@ search engines not to follow a particular link. In the last option you can choos
 
 ![Figure-25e](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-advanced2.png "Figure-25e"){.coalaweb-docs}
 
-## <a name="module-lbox"></a>Facebook Likebox Module
+# <a name="module-lbox"></a>Facebook Likebox Module
 
 The like box is a social module that enables Facebook Page owners to
 attract and gain likes from their own website. The like box enables
@@ -796,8 +796,8 @@ page and you want the Like Box to be a bit more compact. *\[Figure 14\]*
 ### <a name="mod-lb-style"></a>Style Options
 
 This section contains some style options the first one is the **Color
-Style** you have a choice of Light or Dark. *Note: These widget color
-styles are controlled by Facebook.* The next option allows you to turn
+Style** you have a choice of Light or Dark. Note: These widget color
+styles are controlled by Facebook. The next option allows you to turn
 on or off a **Border** around the widget. The next one allows to chose
 if you want the small **Face** boxes to be displayed in the module. The
 last one gives you the option to turn on or off the Facebook **Header**
@@ -830,12 +830,12 @@ don't follow a particular link.
 
 The last option is whether to display a
 **Link Back to CoalaWeb** which is always appreciated but its up to you
-plus you can choose what text to display next to the link. *Note: If
-your site is multilingual leave blank and use the language files. \[Figure-17\]*
+plus you can choose what text to display next to the link. Note: If
+your site is multilingual leave blank and use the language files. *\[Figure-17\]*
 
 ![Figure-17](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-advanced.png "Figure-17"){.coalaweb-docs}
 
-## <a name="module-gplus"></a>Google Plus Module \[Pro Version\]
+# <a name="module-gplus"></a>Google Plus Module \[Pro Version\]
 
 CoalaWeb G Plus is a social module that helps you link your Google+ page
 to your site. Get more recommendations for your site in Google search
@@ -905,14 +905,14 @@ want. *\[Figure-18c\]*
 
 The last option is whether to display a **Link Back to CoalaWeb** as
 always it's appreciated but its up to you plus you can choose what text
-to display next to the link. *Note: If your site is multilingual leave
-blank and use the language files. \[Figure-18d\]*
+to display next to the link. Note: If your site is multilingual leave
+blank and use the language files. *\[Figure-18d\]*
 
 ![Figure-18d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-advanced2.png "Figure-18d"){.coalaweb-docs}
 
-## <a name="plg"></a>Plugins
+# <a name="plg"></a>Plugins
 
-### <a name="plg-content"></a>Social Likes \[Pro Version\]
+## <a name="plg-content"></a>Social Likes \[Pro Version\]
 
 The **CoalaWeb Social Likes** plugin is a content plugin designed to
 display all of the popular social networking vote buttons in several
@@ -924,7 +924,7 @@ you have selected the appropriate configuration options. *\[Figure-19\]*
 
 ![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-content.png "Figure-19"){.coalaweb-docs}
 
-### <a name="plg-share"></a>Social Share \[Pro Version\]
+## <a name="plg-share"></a>Social Share \[Pro Version\]
 
 The **CoalaWeb Social Share** plugin is a content plugin designed to display all of the popular social networking share buttons with several icon themes and locations within your **Joomla** and **K2 content**. All of
 the configuration options for this particular plugin can be found in the accompanying component under **Extension Options**. If you can't see the buttons make sure you have the plugin installed and published and that
@@ -932,7 +932,7 @@ you have selected the appropriate configuration options. *\[Figure-19a\]*
 
 ![Figure-19a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-share.png "Figure-19a"){.coalaweb-docs}
 
-### <a name="plg-panel"></a>Social Panel \[Pro Version\]
+## <a name="plg-panel"></a>Social Panel \[Pro Version\]
 
 <span class="tip" markdown="1">Social Panel needs jQuery to function correctly. If you don't already have it loaded use the System - CW Gears plugin.</span>
 
@@ -946,7 +946,7 @@ you have selected the appropriate configuration options. *\[Figure-20\]*
 
 ![Figure-20](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-panel.png "Figure-20"){.coalaweb-docs}
 
-### <a name="plg-og"></a>Social Metadata \[Pro Version\]
+## <a name="plg-og"></a>Social Metadata \[Pro Version\]
 
 This plugin takes care of adding **Social Metadata** to your website for Joomla content. It includes the option to add **Open Graph** tags and **Twitter Card** tags to make sharing and voting much more accurate and professional.
 
@@ -1016,7 +1016,7 @@ This plugin has been specifically designed to load the Facebook JavaScript libra
 
 ![Figure-21b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-fbjs.png "Figure-21b"){.coalaweb-docs}
 
-### <a name="plg-zoo"></a>Zoo \[Pro Version\]
+## <a name="plg-zoo"></a>Zoo \[Pro Version\]
 
 The **CoalaWeb Zoo** plugin is a system plugin designed to integrate **custom elements & layouts** into your Zoo applications. Currently there are two custom elements created by this plugin and they are explained in detail below.
 
