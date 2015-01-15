@@ -1,6 +1,6 @@
 ##Change Log
 
-### Version 0.1.9
+### Version 0.1.9 January 2015
 
 #### Component - Social Links
 - **(N)** New Facebook App ID centralized location.

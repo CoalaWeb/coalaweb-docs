@@ -338,7 +338,7 @@ such as **Type**, **Version** and **Release Date**. *\[Figure-19\]*
 
 ![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-r-info.png "Figure-19"){.coalaweb-docs}
 
-# <a name="plg"></a>Plugins \[PRO Version Only\]
+# <a name="plg"></a>Plugins \[PRO\]
 ## <a name="plg-content"></a>Content Plugin - Contact
 
 The CoalaWeb Contact plugin gives you even more flexibility by allowing
