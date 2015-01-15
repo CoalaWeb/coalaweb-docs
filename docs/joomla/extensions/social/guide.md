@@ -946,9 +946,9 @@ you have selected the appropriate configuration options. *\[Figure-20\]*
 
 ![Figure-20](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-panel.png "Figure-20"){.coalaweb-docs}
 
-## <a name="plg-og"></a>Social Metadata \[Pro Version\]
+## <a name="plg-og"></a>Open Graph \[Pro Version\]
 
-This plugin takes care of adding **Social Metadata** to your website for Joomla content. It includes the option to add **Open Graph** tags and **Twitter Card** tags to make sharing and voting much more accurate and professional.
+The **Coalaweb Open Graph** content plugin takes care of adding **Social Metadata** to your website for Joomla content. It includes the option to add **Open Graph** tags and **Twitter Card** tags to make sharing and voting much more accurate and professional.
 
 <span class="info" markdown="1">To make it easier to follow I have broken up **Social Metadata** into two parts.</span>
 
