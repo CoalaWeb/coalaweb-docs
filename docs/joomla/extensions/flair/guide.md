@@ -54,7 +54,7 @@ You will find your **ID** directly after **users** in the **currentprofile.com**
 
 <span class="alert" markdown="1">Please note that the StackExchange flair system feeds in a pre created image with a width 208px and a height of 58px so your module position will need sufficient space to accommodate images of this size.</span>
 
-### <a name="mod-general"></a>General Display Options
+### <a name="mod-gen"></a>General Display Options
 
 In this section you can choose whether you want the module to display your combined flair or your individual accounts separately. If you choose the combined option you will need to enter your combined profile ID and your combined profile name in this section. *\[Figure 7\]*
 
