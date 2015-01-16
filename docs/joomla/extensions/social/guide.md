@@ -11,7 +11,6 @@
         - [6. Update Options](#options-updates)
         - [7. Where Is My Download ID \[Pro Version\]](#options-downloadid)
         - [8. Component Permissions](#options-permissions)
-
 2.  [Social Module Guide](#module)
     -   [General Display Options](#mod-general)
     -   [Create Custom Theme](#mod-custom-theme)
@@ -22,7 +21,6 @@
     -   [Follow Us A-Z](#mod-follow-az)
     -   [Follow Us Custom](#mod-follow-cus)
     -   [Advanced Options](#mod-advanced)
-
 3.  [Social Tabs Guide \[Pro Version\]](#module-tabs)
     -   [First Thing](#mod-tabs-first)
     -   [General Display Options](#mod-tabs-general)
@@ -34,19 +32,16 @@
     -   [Tab Colors](#mod-tabs-colors)
     -   [Tab Order](#mod-tabs-order)
     -   [Advanced Options](#mod-tabs-advanced)
-
 4.  [Like box Module Guide](#module-lbox)
     -   [General Options](#mod-lb-general)
     -   [Layout Options](#mod-lb-layout)
     -   [Style Options](#mod-lb-style)
     -   [Extra Options](#mod-lb-extra)
     -   [Advanced Options](#mod-lb-advanced)
-
 5.  [Google Plus Module Guide \[Pro Version\]](#module-gplus)
     -   [General Options](#mod-gplus-general)
     -   [Layout Options](#mod-gplus-layout)
     -   [Advanced Options](#mod-gplus-advanced)
-
 6.  [Plugin Guide](#plg)
     -   [Content Plugin - Social Likes \[Pro Version\]](#plg-content)
     -   [Content Plugin - Social Share \[Pro Version\]](#plg-share)
@@ -56,7 +51,6 @@
     -   [System Plugin - Zoo \[Pro Version\]](#plg-zoo)
         - [1. Element - Social Likes](#plg-zoo-social)
         - [2. Layout - Open Graph](#plg-zoo-og)
-
 7.  [Need More Help?](#more-help)
 
 # <a name="component-guide"></a>Component
