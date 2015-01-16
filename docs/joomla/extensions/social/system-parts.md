@@ -18,9 +18,7 @@
 
 CoalaWeb Social Links is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons.
 
-<span class="tip" markdown="1">When you install CoalaWeb Social Links all the 
-parts of the system will be installed at the same time making installing, 
-upgrading and uninstalling a breeze.</span>
+<span class="tip" markdown="1">When you install CoalaWeb Social Links all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</span>
 
 ## <a name="component"></a>Component
 
