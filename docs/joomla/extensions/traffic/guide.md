@@ -25,7 +25,7 @@
     -   [System Plugin Online](#plg-online)
 4.  [Need More Help?](#more-help)
 
-## <a name="component-guide"></a>Component
+# <a name="component-guide"></a>Component
 ### <a name="control-panel"></a>Control Panel
 
 The **Control Panel** as seen below it is designed to be an easy
@@ -33,8 +33,7 @@ starting point, think of it as the components head quarters. While
 carrying out tasks you can easily jump from the **Control Panel** to the
 different sections and then return before moving onto the next one. *\[Figure-1\]*
 
-![Figure-1](images/docs/joomla/extensions/traffic/cw-traffic-cpanel.png "Figure-1"){.coalaweb-docs}
-
+![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-cpanel.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="visitors"></a>Visitors
 
@@ -67,7 +66,7 @@ You also have a search box where you can choose to enter
 an IP, Date, IP Owner or location to search for specific visitor
 information. *\[Figure-2\]*
 
-![Figure-2](images/docs/joomla/extensions/traffic/cw-traffic-visitors.png "Figure-2"){.coalaweb-docs}
+![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-visitors.png "Figure-2"){.coalaweb-docs}
 
 ### <a name="ip-cats"></a>IP Categories
 
@@ -75,14 +74,14 @@ To make it easier to organise your know IPs you can create categories to
 associated them with. For example you could create a category called **Bots**
 and then add all the known robots in your **Knownips** list to this category. *\[Figure-3\]*
 
-![Figure-3](images/docs/joomla/extensions/traffic/cw-traffic-ip-cats.png "Figure-3"){.coalaweb-docs}
+![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-ip-cats.png "Figure-3"){.coalaweb-docs}
 
 ### <a name="knownips"></a>Known IPs
 
 The next section is the **Known IPs** section which contains some powerful tools
 for controlling what is counted by **Traffic**.  *\[Figure-4\]*.
 
-![Figure-4](images/docs/joomla/extensions/traffic/cw-traffic-knownips-1.png "Figure-4"){.coalaweb-docs}
+![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-knownips-1.png "Figure-4"){.coalaweb-docs}
 
 ### <a name="ki-ips"></a>IP Formats
 
@@ -123,7 +122,7 @@ list as it is not counted by the system any more.
 CoalaWeb Traffic gives you the option to identify your visitors **Countries** 
 and **Cities** of origin based on their IP addresses. *\[Figure-5\]*.
 
-![Figure-5](images/docs/joomla/extensions/traffic/cw-traffic-geo-1.png "Figure-5"){.coalaweb-docs}
+![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-1.png "Figure-5"){.coalaweb-docs}
 
 #### How Geo Location Works
 
@@ -161,12 +160,12 @@ notice message. To take advantage of CoalaWeb
 Traffics inbuilt ability to tell you a visitors country and sometimes
 their city follow the steps below. *\[Figure-5a\]*.
 
-![Figure-5a](images/docs/joomla/extensions/traffic/cw-traffic-geo-2.png "Figure-5a"){.coalaweb-docs}
+![Figure-5a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-2.png "Figure-5a"){.coalaweb-docs}
 
 To make it easier to know if you will need to upload the database manually I have added a
 **Upload Minimum Requirements** check list that will display in the Geo Location view. *\[Figure-5b\]*.
 
-![Figure-5b](images/docs/joomla/extensions/traffic/cw-traffic-geo-3.png "Figure-5b"){.coalaweb-docs}
+![Figure-5b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-3.png "Figure-5b"){.coalaweb-docs}
 
 If your system doesn't meet the minimum requirements but its close I recommend 
 trying the easy way first and then moving on the the manual install.
@@ -177,26 +176,26 @@ First click the **Upload GeoLiteCity Database** blue button this will retrieve t
 database from the **Maximind** website and upload it to your website's **tmp**
 directory. *\[Figure-5c\]*.
 
-![Figure-5c](images/docs/joomla/extensions/traffic/cw-traffic-geo-4.png "Figure-5c"){.coalaweb-docs}
+![Figure-5c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-4.png "Figure-5c"){.coalaweb-docs}
 
 If everything went according to plan you will receive a
 conformation message that it uploaded correctly. *\[Figure-5d\]*.
 
-![Figure-5d](images/docs/joomla/extensions/traffic/cw-traffic-geo-5.png "Figure-5d"){.coalaweb-docs}
+![Figure-5d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-5.png "Figure-5d"){.coalaweb-docs}
 
 The next step is to **Unzip** the file to the CoalaWeb Traffic geoip
 directory where it can be accessed and used to determine your visitors
 locations. If the database uploaded correctly in the last step you will
 now have a **Unzip** icon in the top tool bar click this to start the unzip process. *\[Figure-5e\]*.
 
-![Figure-5e](images/docs/joomla/extensions/traffic/cw-traffic-geo-6.png "Figure-5e"){.coalaweb-docs}
+![Figure-5e](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-6.png "Figure-5e"){.coalaweb-docs}
 
 Once again if everything goes according to plan you receive a
 conformation message that the file was unzipped correctly and also the
 message at the top of the page will turn green with today's
 date. *\[Figure-5f\]*.
 
-![Figure-5f](images/docs/joomla/extensions/traffic/cw-traffic-geo-7.png "Figure-5f"){.coalaweb-docs}
+![Figure-5f](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-7.png "Figure-5f"){.coalaweb-docs}
 
 Now CoalaWeb Traffic will automatically add country and city information
 to your visitor records as they are collected. To keep the location
@@ -216,20 +215,20 @@ way by following these steps. The sizes I mentions in the following steps may di
 Download the latest MaxMind GeoLiteCity database 
 [HERE](http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz). *\[Figure-5g\]*.
 
-![Figure-5g](images/docs/joomla/extensions/traffic/cw-traffic-geo-8.png "Figure-5g"){.coalaweb-docs}
+![Figure-5g](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-8.png "Figure-5g"){.coalaweb-docs}
 
 As you can see it should be at least 10.8MB in my case once using Linux when it was
 downloaded the system saw it as 11.3MB. *\[Figure-5h\]*.
 
-![Figure-5h](images/docs/joomla/extensions/traffic/cw-traffic-geo-9.png "Figure-5h"){.coalaweb-docs}
+![Figure-5h](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-9.png "Figure-5h"){.coalaweb-docs}
 
 When extracted my system reports it as 17.6MB *\[Figure-5i\]*.
 
-![Figure-5i](images/docs/joomla/extensions/traffic/cw-traffic-geo-10.png "Figure-5i"){.coalaweb-docs}
+![Figure-5i](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-10.png "Figure-5i"){.coalaweb-docs}
 
 Now all we are doing is convert the name to lowercase. *\[Figure-5j\]*.
 
-![Figure-5j](images/docs/joomla/extensions/traffic/cw-traffic-geo-11.png "Figure-5j"){.coalaweb-docs}
+![Figure-5j](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-11.png "Figure-5j"){.coalaweb-docs}
 
 Now don't rezip the file just uploaded it to:
 
@@ -237,7 +236,7 @@ Now don't rezip the file just uploaded it to:
 
 Now you should have a file 17.7MB in size with 644 permissions in the directory. *\[Figure-5k\]*.
 
-![Figure-5k](images/docs/joomla/extensions/traffic/cw-traffic-geo-12.png "Figure-5k"){.coalaweb-docs}
+![Figure-5k](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-12.png "Figure-5k"){.coalaweb-docs}
 
 Now if everything went according to plan you should now start to see **Country 
 and City** data in the **Visitors** view.
@@ -253,22 +252,22 @@ I would do the following.
 
 First Type CoalaWeb into the search box and press enter. *\[Figure-6\]*
 
-![Figure-6](images/docs/joomla/extensions/traffic/cw-traffic-export-1.png "Figure-6"){.coalaweb-docs}
+![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-1.png "Figure-6"){.coalaweb-docs}
 
 Now only records with CoalaWeb are listed next choose **All** from the
 bottom pagination select box. *\[Figure-6a\]*
 
-![Figure-6a](images/docs/joomla/extensions/traffic/cw-traffic-export-2.png "Figure-6a"){.coalaweb-docs}
+![Figure-6a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-2.png "Figure-6a"){.coalaweb-docs}
 
 Now we have all the records with CoalaWeb as the IP owner listed on one
 page next click **CSV Report** from the top right menu. *\[Figure-6b\]*
 
-![Figure-6b](images/docs/joomla/extensions/traffic/cw-traffic-export-3.png "Figure-6b"){.coalaweb-docs}
+![Figure-6b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-3.png "Figure-6b"){.coalaweb-docs}
 
 You should get a pop up that similar to the image below if not make sure
 it's not being blocked by something such as your browser settings. *\[Figure-6c\]*
 
-![Figure-6c](images/docs/joomla/extensions/traffic/cw-traffic-export-4.png "Figure-6c"){.coalaweb-docs}
+![Figure-6c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-4.png "Figure-6c"){.coalaweb-docs}
 
 Next save the file to your local computer and then open it with your
 application of choice. In this example I will be using LibreOffice but
@@ -276,12 +275,12 @@ the procedure will be similar with other applications. First I have to
 import it before I can work with the data so after a double click I'm
 confronted with the window below. *\[Figure-6d\]*
 
-![Figure-6d](images/docs/joomla/extensions/traffic/cw-traffic-export-5.png "Figure-6d"){.coalaweb-docs}
+![Figure-6d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-5.png "Figure-6d"){.coalaweb-docs}
 
 I have chosen to import it with the default settings which results in
 the data being laid out in a sheet.  *\[Figure-6e\]*
 
-![Figure-6e](images/docs/joomla/extensions/traffic/cw-traffic-export-6.png "Figure-6e"){.coalaweb-docs}
+![Figure-6e](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-6.png "Figure-6e"){.coalaweb-docs}
 
 You can now format, filter and save the data as you wish.
 
@@ -294,7 +293,7 @@ clicked will open a pop up wrapper of this specific guide. This gives
 you an easy way of checking the functionality of a particular item with
 out leaving the control panel. *\[Figure-7\]*
 
-![Figure-7](images/docs/joomla/extensions/traffic/cw-traffic-help.png "Figure-7"){.coalaweb-docs}
+![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-help.png "Figure-7"){.coalaweb-docs}
 
 ### <a name="options"></a>Extension Options
 
@@ -318,7 +317,7 @@ added to the current **Total** so its good for when you move a site or to bump
 up the visitors. This only affects the total count in the front end module and 
 the back end statistics area of the control panel. *\[Figure-8\]*
 
-![Figure-8](images/docs/joomla/extensions/traffic/cw-traffic-options-1.png "Figure-8"){.coalaweb-docs}
+![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-1.png "Figure-8"){.coalaweb-docs}
 
 #### Cleanup
 
@@ -326,7 +325,7 @@ In this section you can control the automatic clean up of the database to stop
 the tables filling up with data. I recommend having this set to on and the second
 option of how many **Records to Keep** will depend on your circumstances. *\[Figure-8a\]*
 
-![Figure-8a](images/docs/joomla/extensions/traffic/cw-traffic-options-2.png "Figure-8a"){.coalaweb-docs}
+![Figure-8a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-2.png "Figure-8a"){.coalaweb-docs}
 
 #### Project Honeypot
 
@@ -336,7 +335,7 @@ of their visitors and figure out if it is a malicious user behind it. If you
 enable this feature, CoalaWeb Traffic will check the IP address of each visitor 
 and, if it is a malicious user, it will not count them. *\[Figure-8b\]*
 
-![Figure-8b](images/docs/joomla/extensions/traffic/cw-traffic-options-3.png "Figure-8b"){.coalaweb-docs}
+![Figure-8b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-3.png "Figure-8b"){.coalaweb-docs}
 
 <span class="info" markdown="1">Note: CoalaWeb Traffic does not block visitors from your site only from being counted by the Traffic system.</span>
 
@@ -385,17 +384,17 @@ IPs which have submitted a spam message in the last 30 days will be blocked.
 The options in this section are obsolete and have been included to allow users 
 an opportunity to transfer them to the new system. *\[Figure-8c\]*
 
-![Figure-8c](images/docs/joomla/extensions/traffic/cw-traffic-options-4.png "Figure-8c"){.coalaweb-docs}
+![Figure-8c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-4.png "Figure-8c"){.coalaweb-docs}
 
 #### Permissions
 
 Lastly you have the permissions used to control access to
 the CoalaWeb Traffic component. *\[Figure-8d\]*
 
-![Figure-8d](images/docs/joomla/extensions/traffic/cw-traffic-options-5.png "Figure-8d"){.coalaweb-docs}
+![Figure-8d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-5.png "Figure-8d"){.coalaweb-docs}
 
 
-### <a name="module"></a>CoalaWeb Traffic Module
+# <a name="module"></a>CoalaWeb Traffic Module
 
 The CoalaWeb Traffic module has a huge list of options so we have broken
 them up into several sections which are explained in detail below.
@@ -413,7 +412,7 @@ maybe you only want to display individual counters. Next you can choose how many
 digits you want to be displayed. The last option in this section is to choose a theme
 for your digital counter. *\[Figure-9\]*
 
-![Figure-9](images/docs/joomla/extensions/traffic/cw-traffic-mod-general-1.png "Figure-9"){.coalaweb-docs}
+![Figure-9](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-1.png "Figure-9"){.coalaweb-docs}
 
 **Part 2 Individual Counters**
 
@@ -429,7 +428,7 @@ assign a word to be displayed next to the item but if your site is
 multilingual leave these blank and use the language files to control
 what is displayed. *\[Figure-9a\]*
 
-![Figure-9a](images/docs/joomla/extensions/traffic/cw-traffic-mod-general-2.png "Figure-9a"){.coalaweb-docs}
+![Figure-9a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-2.png "Figure-9a"){.coalaweb-docs}
 
 ### <a name="mod-layout"></a>Module Layout Options
 
@@ -447,7 +446,7 @@ both the horizontal and compact layouts. The last option is the
 separator this will display between items in both the horizontal and
 compact layouts. *\[Figure-10\]*
 
-![Figure-10](images/docs/joomla/extensions/traffic/cw-traffic-mod-layout-1.png "Figure-10"){.coalaweb-docs}
+![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-layout-1.png "Figure-10"){.coalaweb-docs}
 
 ### <a name="mod-visitor"></a>Visitor Display Options
 
@@ -464,7 +463,7 @@ including the title text, it's format and it's alignment.The next option turns
 on or off a horizontal line to separate the counter items from the visitor 
 information. *\[Figure-11\]*
 
-![Figure-11](images/docs/joomla/extensions/traffic/cw-traffic-mod-visitor-1.png "Figure-11"){.coalaweb-docs}
+![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-visitor-1.png "Figure-11"){.coalaweb-docs}
 
 **Part 2**
 
@@ -475,7 +474,7 @@ as choosing their label text.  *\[Figure-11a\]*
 -   Browser
 -   Operating System
 
-![Figure-11a](images/docs/joomla/extensions/traffic/cw-traffic-mod-visitor-2.png "Figure-11a"){.coalaweb-docs}
+![Figure-11a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-visitor-2.png "Figure-11a"){.coalaweb-docs}
 
 ### <a name="mod-who"></a>Who is Online Options
 
@@ -489,7 +488,7 @@ including the title text, subtitle text, it's format and it's alignment.The next
 on or off a horizontal line to separate the counter items from the visitor 
 information. *\[Figure-12\]*
 
-![Figure-12](images/docs/joomla/extensions/traffic/cw-traffic-mod-who-1.png "Figure-12"){.coalaweb-docs}
+![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-who-1.png "Figure-12"){.coalaweb-docs}
 
 ### <a name="mod-advanced"></a>Advanced Options
 
@@ -503,14 +502,14 @@ The last option is whether to display a **Link Back to CoalaWeb** which is alway
 plus you can choose what text to display next to the link. *Note: If
 your site is multilingual leave blank and use the language files. *\[Figure-13\]*
 
-![Figure-13](images/docs/joomla/extensions/traffic/cw-traffic-mod-advanced-1.png "Figure-13"){.coalaweb-docs}
+![Figure-13](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-advanced-1.png "Figure-13"){.coalaweb-docs}
 
-## <a name="plg"></a>Plugins
+# <a name="plg"></a>Plugins
 
 There are several plugins crucial to the proper functioning of the CoalaWeb 
 Traffic system. They are explain in detail below.
 
-### <a name="plg-count"></a>System Plugin - Count
+## <a name="plg-count"></a>System Plugin - Count
 
 This plugin is crucial to functionality of the system it quietly counts
 the visits to your site and then records them in the database. It allows
@@ -524,7 +523,7 @@ setting in the CoalaWeb Traffic component.
 <span class="info" markdown="1">Note: To ensure proper functionality of CoalaWeb Traffic please make sure this
 plugin is installed and publish.</span>
 
-### <a name="plg-clean"></a>System Plugin - Clean
+## <a name="plg-clean"></a>System Plugin - Clean
 
 This plugin carries out the automatic database clean up but only if you
 have it turned on in the **Component Options**. It will run in the
@@ -535,7 +534,7 @@ on.
 <span class="info" markdown="1">Have you chosen automatic database clean up? Then this plugin needs to
 be installed and published.</span>
 
-### <a name="plg-online"></a>System Plugin - Online
+## <a name="plg-online"></a>System Plugin - Online
 
 This plugin will count and then supply the information so the **Traffic** 
 module can display the currently online visitors. It uses it own database table 
