@@ -8,6 +8,8 @@ Anyone with issue please check your Joomla version under Site/System Information
 
 `Joomla! 2.5.9 Stable [ Ember ] 4-February-2013 14:00 GMT Joomla Platform 11.4.0 Stable [ Brian Kernighan ] 03-Jan-2012 00:00 GMT`
 
+***
+
 ### Question 2 \[J3.+\]
 
 > Fatal error: Class CoalawebtrafficViewControlpanel cannot extend from interface JView
@@ -15,6 +17,8 @@ Anyone with issue please check your Joomla version under Site/System Information
 I think you might have installed the 2.5 version instead of the 3.0 version try uninstalling your current installation (Note: Just uninstall the component and it will take care of the other parts of the extension). Then download and install the version with J30 in the name for example
 
 `com_coalawebtraffic-j30-0.1.5-core.zip`
+
+***
 
 ### Question 3 \[J2.5/J3.+\]
 
@@ -31,6 +35,8 @@ The time zone is based on your Joomla installation's "Server Time Zone" which ca
 3.  Next select "Server" from the toolbar menu.
 4.  Now under "Location Settings" choose your "Server Time Zone" from the drop down menu.
 5.  Lastly click "Save".
+
+***
 
 ### Question 4 \[J2.5/J3.+\]
 
@@ -51,6 +57,8 @@ Once you have found the right location it should have files similar to this incl
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/faq/cw-traffic-faq-geo-1.png "Figure-1"){.coalaweb-docs}
 
 Then I recommend using the updated [Guide](/support/documentation/category/extensions) and follow the steps exactly.
+
+***
 
 ### Question 5 \[J2.5/J3.+\]
 
