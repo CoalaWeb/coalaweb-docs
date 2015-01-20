@@ -1,9 +1,11 @@
-## Table of Contents
+## List of Questions
 1.  [Can I install CoalaWeb Social Links on multiple domains?](#q1)
 2.  [Can I keep using CoalaWeb Social Links when my subscription runs out?](#q2)
 3.  [Can I remove the Powered by CoalaWeb from the module?](#q3)
 4.  [Can I change the images used in module?](#q4)
 5.  [I'm having problems validating my webiste with W3C what can I do?](#q5)
+
+***
 
 ### <a name="q1"></a>Can I install CoalaWeb Social Links on multiple domains?
 
