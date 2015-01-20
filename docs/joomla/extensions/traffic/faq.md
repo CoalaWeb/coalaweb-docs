@@ -31,7 +31,7 @@ The time zone is based on your Joomla installation's "Server Time Zone" which ca
 
 `Site -> Global Configuration -> Server or User settings`
 
-### Instructions
+#### Instructions
 
 1.  Login to your Joomla back-end (yoursite.com/administrator).
 2.  Select "Site" then go to "Global Configuration" from the top menu.
