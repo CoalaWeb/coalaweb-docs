@@ -1,30 +1,29 @@
-### Question 1
+## Table of Contents
+1.  [Can I install CoalaWeb Social Links on multiple domains?](#q1)
+2.  [Can I keep using CoalaWeb Social Links when my subscription runs out?](#q2)
+3.  [Can I remove the Powered by CoalaWeb from the module?](#q3)
+4.  [Can I change the images used in module?](#q4)
+5.  [I'm having problems validating my webiste with W3C what can I do?](#q5)
 
-> Can I install CoalaWeb Social Links on multiple domains?
+> <a name="q1"></a>Can I install CoalaWeb Social Links on multiple domains?
 
 **YES** - You can install Social Links on as many domains as you want. There is no domain check or restriction.
 
 ***
 
-### Question 2
-
-> Can I keep using CoalaWeb Social Links when my subscription runs out?
+> <a name="q2"></a>Can I keep using CoalaWeb Social Links when my subscription runs out?
 
 **YES** - If you have purchased a CoalaWeb PRO subscription, you have access to PRO downloads, updates and support for the length of the subscription. After it has run out you can keep using the version you have installed. However, you will no longer be able to update to a newer versions or receive support. Of course you can renew your subscription to gain access again or you can choose to downgrade to the FREE version its up to you.
 
 ***
 
-### Question 3
-
-> Can I remove the Powered by CoalaWeb from the module?
+> <a name="q3"></a>Can I remove the Powered by CoalaWeb from the module?
 
 **YES** - You can turn the link off in the Free or Pro versions by opening up the module configuration and its under **Advanced Options -> Display link to author**.
 
 ***
 
-### Question 4
-
-> Can I change the images used in module?
+> <a name="q4"></a>Can I change the images used in module?
 
 **YES** - Creating a theme is easy, just copy the custom-example folder found in:
 
@@ -34,9 +33,7 @@ Give the theme a different name, edit the files as needed and of course add your
 
 ***
 
-### Question 5
-
-> I'm having problems validating my webiste with W3C what can I do?
+> <a name="q5"></a>I'm having problems validating my webiste with W3C what can I do?
 
 Each social network handles there formatting differently but the majority of them are now pushing towards HTML5 but below I have included some exceptions and know issues.
 
