@@ -17,7 +17,7 @@ So now that you have created a Transifex account the next step is [requesting to
 
 If you completely translate all the language files for a CoalaWeb extension that includes a **Pro** version I'll send you a copy of the Pro version for free. When I release an update if you translate the newly added language strings I will also send you a copy of the Pro version.
 
-For the CoalaWeb Core extensions you obviously get to use it in your chosen language and you will also get a warm fuzzy feeling for helping out the community.
+For the CoalaWeb Core extensions you obviously get to use it in your chosen language and on top of that you will get a warm fuzzy feeling for helping out the community.
 
 ### Need more help?
 
