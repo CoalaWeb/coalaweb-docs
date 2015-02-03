@@ -13,7 +13,7 @@ The OpenTranslators takes care of the translation teams which are grouped by lan
 
 So now that you have created a Transifex account the next step is [requesting to join](https://opentranslators.transifex.com/organization/opentranslators/dashboard/coalaweb-contact) a language team. The process of joining a team can take some time so please be patient but if you don't get an answer for an extend period of time just let me know and I will make some inquires for you.
 
-### Whats in it for me?
+### What's in it for me?
 
 If you completely translate all the language files for a CoalaWeb extension that includes a **Pro** version I'll send you a copy of the Pro version for free. When I release an update if you translate the newly added language strings I will also send you a copy of the Pro version.
 
