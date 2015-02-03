@@ -1,15 +1,15 @@
 
-##The Official Way to Translate a CoalaWeb extension
+##The Official Way to translate a CoalaWeb extension
 
 ### Where are the language files stored?
 
-All our language packs are created through the powerful online translation environment [Transifex](https://www.transifex.com). The first thing you will have to do if you want contribute is create a free account over at Transifex. If you haven't already got one, head over to the [Transifex Signup](https://www.transifex.com/signup) page and get started.
+All our language packs are created through the powerful online translation environment [Transifex](https://www.transifex.com). So the first thing you will need to do if you want contribute is create a free account over at Transifex. If you haven't already got one, head over to the [Transifex Signup](https://www.transifex.com/signup) page and get started.
 
 ### Who manages the translation process?
 
 The management of our language packs has been handed over to the fantastic Joomla translation group known as the [OpenTranslators](http://opentranslators.org/).
 
-OpenTranslators takes care of the translation teams which are grouped by language and that ultimately do the translations. By joining an OpenTranslators managed team you not only get access to CoalaWeb extensions but a huge list of Joomla extensions entrusted to the OpenTranslators and the list is growing everyday.
+The OpenTranslators takes care of the translation teams which are grouped by language and which ultimately do the translations. By joining a team managed by the OpenTranslators you will not only get access to CoalaWeb extensions but a huge list of Joomla extensions entrusted to the OpenTranslators and the list is growing everyday.
 
 So now that you have created a Transifex account the next step is [requesting to join](https://opentranslators.transifex.com/organization/opentranslators/dashboard/coalaweb-contact) a language team. The process of joining a team can take some time so please be patient but if you don't get an answer for an extend period of time just let me know and I will make some inquires for you.
 
