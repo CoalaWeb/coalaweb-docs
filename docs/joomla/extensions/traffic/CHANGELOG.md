@@ -1,5 +1,32 @@
 ## Change Log
 
+### Version 0.1.9 February 2015
+
+#### Component - Traffic
+- **(C)** Combined all the change logs into one.
+- **(C)** Updated install script.
+- **(A)** Added new export all report option.
+- **(B)** Fixed honey pot blocking bug.
+- **(B)** Fixed display of Known IP info in visitors view.
+- **(L)** Added new language strings.
+- **(L)** Updated some language strings.
+- **(C)** Change Browser class name to stop potential conflicts.
+
+#### Module - Traffic
+- **(B)** Fixed doubled advanced tab in module configuration.
+- **(C)** Overhauled horizontal and compact layouts.
+- **(A)** Added digital counter to all layouts.
+- **(A)** Horizontal and Compact digital display option.
+- **(C)** Expanded horizontal text option.
+- **(A)** 3 new digital counter sizes for each theme.
+- **(L)** Added new language strings.
+- **(L)** Updated some language strings.
+- **(C)** Change Browser class name to stop potential conflicts.
+
+#### Plugin(S) - Traffic Count
+- **(B)** Fixed honey pot blocking bug.
+- **(C)** Change Browser class name to stop potential conflicts.
+
 ### Version 0.1.8 May 2014
 
 #### Component - Traffic
