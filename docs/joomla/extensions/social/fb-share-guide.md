@@ -8,14 +8,14 @@
     - [Check Open Graph](#og-check)
     - [Not Using Open Graph](#og-not)
 4.  [Facebook Debug Tool](#debug)
-5.  [Tips Quick Reference](#tips)
+5.  [Quick Tips](#tips)
 2.  [Need More Help?](#more-help)
 
 **Having problems trying to get Facebook to share the correct information?**
 
 ## <a name="intro"></a>Intro
 
-I get a lot of questions about what gets shared when a button gets clicked so I thought I would put together a check list to make sure you are getting the most out of your share buttons.
+I get a lot of questions about how and what gets shared when a Facebook button gets clicked so I thought I would put together a check list to make sure you are getting the most out of your share buttons.
 
 **Is your website online and accessible to the public?**
 
@@ -23,7 +23,7 @@ I get a lot of questions about what gets shared when a button gets clicked so I 
 
 The first thing you need to understand is if Facebook can't reach your page then it has no way of retrieving and storing the information needed. This leads me to the very important question is your website live and is it reachable by the public? If your site is offline for development or maintenance then the Facebook bots can't reach your site thus have no way of creating a record of your page.
 
-**Are you using the Joomla GZip option?**
+**Are you using the Joomla Gzip option?**
 
 ### <a name="gzip"></a>Using Gzip
 
@@ -41,7 +41,7 @@ Then under the **General** tab turn on the **Gzip Help** option and save and clo
 
 ## <a name="og"></a>Open Graph
 
-**Tip:** Facebook stores page information for up to 24 hours so any changes you make or if you have just brought your site online can take up to 24 hours to catch up.
+**Tip:** Facebook stores page information for up to 24 hours so any changes you make or if you have just brought your site back online can take up to 24 hours to catch up.
 
 To make sure what Facebook shares is as accurate as possible you will need to include Open Graph meta tags in the head of each of your pages you have a share button published on. They tipically included the follow tags:
 
@@ -62,7 +62,7 @@ The main thing you will need to ensure is that it is turned on so open up the Co
 
 There are loads of free Open Graph plugins over in JED so have a look around to see if one fits your needs.
 
-### <a name="og-check"></a>Lets Check out Open Graph
+### <a name="og-check"></a>Check Open Graph Tags
 
 To check that the Open Graph tags are being included start by opening up one of your articles then right click the page and finally select **View Page Source** If all has gone according to plan you should see something like this in the head of the page. *\[Figure-3\]*
 
@@ -76,7 +76,7 @@ Can I see what Facebook sees when looking at my website?
 
 ## <a name="debug"></a>Facebook Debug Tool
 
-Facebook provides a great tool to fault find sharing issues called the [Debugger](https://developers.facebook.com/tools/debug/) it allows you to quickly and easily identify issues. To get started enter in the URL of a page you want to check and click **Debug**. *\[Figure-4\]*
+Facebook provides a great tool for fault find sharing issues called the [Debugger](https://developers.facebook.com/tools/debug/) it allows you to quickly and easily identify issues. To get started enter in the URL of a page you want to check and click **Debug**. *\[Figure-4\]*
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure4.png "Figure-4"){.coalaweb-docs}
 
@@ -98,15 +98,15 @@ Next is a great way to actually see what will be shared when a button is clicked
 
 **How do I update what Facebook has stored?**
 
-If your site doesn't have any errors and Facebook can see and retrieved your page information you can wait up to 24 hours for the your pages to automatically catch up.
+1. If your site doesn't have any errors and Facebook can see and retrieved your page information you can wait up to 24 hours for the your pages to automatically catch up.
 
-You can also force a page to catch up using the **Fetch new scrape information** button at the top which will instructed Facebook to recheck the page now. If you see all the information is being displayed correctly when you scroll down to the  **When shared, this is what will be included** then the share button on that page should now share the correct information.
+2. You can also force a page to catch up using the **Fetch new scrape information** button at the top which will instructed Facebook to recheck the page now. If you see all the information is being displayed correctly when you scroll down to the  **When shared, this is what will be included** then the share button on that page should now share the correct information.
 
-**Tip:** Stubborn pages, if you find the majority of your pages are displaying correctly but a particular page isn't drop by the Debug tool and try the **Fetch new scrape information** to force it to catch up. If everything is displaying correctly head back to your site and test your button again. 
+**Tip:** If you find the majority of your pages are displaying correctly but a particular page is being stubborn open up the **Debug Tool** and try the **Fetch new scrape information** button from the top to force it to catch up. If after fetching your page information everything is displaying correctly head back to your site and test your button again. 
 
-## <a name="tips"></a>Tips Quick Reference
+## <a name="tips"></a>Quick Tips
 
-1. If the image referenced by the Open Graph tags is too small Facebook will move onto another image that it finds on the page that meets the minimum size restrictions.
+1. If the image referenced by the Open Graph tags is too small Facebook will move onto another image that it finds on the page that meets the minimum size restrictions. FB will only use images that are at least 200x200 px and prefers images that are measured in multiples of 100 and are in a square format.
 
 2. Facebook stores page information for up to 24 hours so any changes you make or if you have just brought your site online can take up to 24 hours to catch up.
 
