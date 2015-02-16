@@ -11,19 +11,17 @@
 5.  [Quick Tips](#tips)
 2.  [Need More Help?](#more-help)
 
-**Having problems trying to get Facebook to share the correct information?**
-
 ## <a name="intro"></a>Intro
+
+**Having problems trying to get Facebook to share the correct information?**
 
 I get a lot of questions about how and what gets shared when a Facebook button gets clicked so I thought I would put together a check list to make sure you are getting the most out of your share buttons.
 
-**Is your website online and accessible to the public?**
-
 ## <a name="reachable"></a>Reachable by Facebook
 
-The first thing you need to understand is if Facebook can't reach your page then it has no way of retrieving and storing the information needed. This leads me to the very important question is your website live and is it reachable by the public? If your site is offline for development or maintenance then the Facebook bots can't reach your site thus have no way of creating a record of your page.
+**Is your website online and accessible to the public?**
 
-**Are you using the Joomla Gzip option?**
+The first thing you need to understand is if Facebook can't reach your page then it has no way of retrieving and storing the information needed. This leads me to the very important question is your website live and is it reachable by the public? If your site is offline for development or maintenance then the Facebook bots can't reach your site thus have no way of creating a record of your page.
 
 ### <a name="gzip"></a>Using Gzip
 
@@ -36,8 +34,6 @@ To use this option open up your plugin manager and search for **gears**. *\[Figu
 Then under the **General** tab turn on the **Gzip Help** option and save and close the plugin options. Its always a good idea to clear your Joomla cache after making changes to make sure they catch up. *\[Figure-2\]*
 
 ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure2.png "Figure-2"){.coalaweb-docs}
-
-**Facebook should be able to reach my site now what?**
 
 ## <a name="og"></a>Open Graph
 
