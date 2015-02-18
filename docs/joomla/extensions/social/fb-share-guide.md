@@ -3,11 +3,11 @@
 2.  [Reachable by Facebook](#reachable)
     - [Using Gzip](#gzip)
 3.  [Open Graph](#og)
-    - [Pro Users](#og-pro)
+    - [Pro Subscribers](#og-pro)
     - [Core Users](#og-core)
     - [Check Open Graph](#og-check)
     - [Not Using Open Graph](#og-not)
-4.  [Facebook Debug Tool](#debug)
+4.  [Open Graph Debug Tool](#debug)
 5.  [Quick Tips](#tips)
 2.  [Need More Help?](#more-help)
 
@@ -21,11 +21,11 @@ I get a lot of questions about how and what gets shared when a Facebook button g
 
 **Is your website online and accessible to the public?**
 
-The first thing you need to understand is if Facebook can't reach your page then it has no way of retrieving and storing the information needed. This leads me to the very important question is your website live and is it reachable by the public? If your site is offline for development or maintenance then the Facebook bots can't reach your site thus have no way of creating a record of your page.
+The first thing you need to understand is if Facebook can't reach your page then it has no way of retrieving and storing the information needed. This leads me to the very important question, is your website live and is it reachable by the public? If your site is offline for development or maintenance then the Facebook bots can't reach your site thus have no way of creating a record of your page.
 
 ### <a name="gzip"></a>Using Gzip
 
-There is a know issue with Joomla 3.+, Gzip and Facebook it is basically due to Facebook interpreting some pages as being too large when this options is being used and as a consequence returns an error. If you are using a CoalaWeb extension I have added an option to the **System CW Gears** framework plugin (that comes packaged with all my extensions) to fix this issue it basically turns off GZip compression when the Facebook or Linkedin bots visits your page.
+There is a known issue with Joomla 3.+, Gzip and Facebook. It is basically due to Facebook interpreting some pages as being too large when this options is being used and as a consequence returns an error. If you are using a CoalaWeb extension I have added an option to the **System CW Gears** framework plugin (that comes packaged with all my extensions) to fix this issue it basically turns off GZip compression when the Facebook or Linkedin bots visits your page.
 
 To use this option open up your plugin manager and search for **gears**. *\[Figure-1\]*
 
@@ -70,9 +70,11 @@ If you aren't using OPen Graph tags and your site is reachable by Facebook they 
 
 Can I see what Facebook sees when looking at my website?
 
-## <a name="debug"></a>Facebook Debug Tool
+## <a name="debug"></a>Open Graph Debug Tool
 
-Facebook provides a great tool for fault find sharing issues called the [Debugger](https://developers.facebook.com/tools/debug/) it allows you to quickly and easily identify issues. To get started enter in the URL of a page you want to check and click **Debug**. *\[Figure-4\]*
+**Tip:** To use the Debugger Tool you will need to have a Facebook account and be logged in.
+
+Facebook provides a great tool for fault finding issues called the [Debugger](https://developers.facebook.com/tools/debug/) it allows you to quickly and easily identify any issues with a particular web page. To get started enter in the URL of a page you want to check and click **Debug**. *\[Figure-4\]*
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure4.png "Figure-4"){.coalaweb-docs}
 
@@ -94,7 +96,7 @@ Next is a great way to actually see what will be shared when a button is clicked
 
 **How do I update what Facebook has stored?**
 
-1. If your site doesn't have any errors and Facebook can see and retrieved your page information you can wait up to 24 hours for the your pages to automatically catch up.
+1. If your site doesn't have any errors and Facebook can see and retrieved your page information you can wait up to 24 hours for your pages to automatically catch up.
 
 2. You can also force a page to catch up using the **Fetch new scrape information** button at the top which will instructed Facebook to recheck the page now. If you see all the information is being displayed correctly when you scroll down to the  **When shared, this is what will be included** then the share button on that page should now share the correct information.
 
@@ -108,10 +110,10 @@ Next is a great way to actually see what will be shared when a button is clicked
 
 3. Joomla 3.+ sites using Gzip compression will need to use the Gzip Help option in the System CW Gears plugin.
 
-4. Stubborn pages, if you find the majority of your pages are displaying correctly but a particular page isn't drop by the Debug tool and try the **Fetch new scrape information** to force it to catch up. If everything is displaying correctly head back to your site and test your button again. 
+4. To use the Debugger Tool you will need to have a Facebook account and be logged in.
+
+5. Stubborn pages, if you find the majority of your pages are displaying correctly but a particular page isn't drop by the Debug tool and try the **Fetch new scrape information** to force it to catch up. If everything is displaying correctly head back to your site and test your button again. 
 
 ## <a name="more-help"></a>Need More Help
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](http://coalaweb.com/support/documentation/category/joomla).</span>
-
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</span>
+<span class="tip" markdown="1">Do you have a question that wasn't covered by this GUIDE? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</span>
