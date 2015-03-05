@@ -80,10 +80,10 @@ Thats it! Now you have perfectly styled pagination that matches your template!
 
 ## <a name="notes"></a>Things to note
 
--   The Joomla version used for the guide was: 3.4
--   The K2 version used for this guide was: 2.6.9
--   The YooTheme template I was using was :Nano 3 Jommla 3.3
--   The YooTheme template versionI was using for this guide was :1.0.15
+-   Joomla version: 3.4
+-   K2 version: 2.6.9
+-   YooTheme template: Nano 3 Jommla 3.3
+-   YooTheme template version: 1.0.15
 
 ## <a name="more-help"></a>Need More Help
 
