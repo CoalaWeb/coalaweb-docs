@@ -82,7 +82,7 @@ Thats it! Now you have perfectly styled pagination that matches your template!
 
 -   Joomla version: 3.4
 -   K2 version: 2.6.9
--   YooTheme template: Nano 3 Jommla 3.3
+-   YooTheme template: Nano 3 Joomla 3.3
 -   YooTheme template version: 1.0.15
 
 ## <a name="more-help"></a>Need More Help
