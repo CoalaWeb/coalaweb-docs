@@ -1,14 +1,15 @@
-# How to disable a Joomla plugin
+## Table of Contents
+1.  [Intro](#intro)
+2.  [Plugin Manager](#opt-1)
+3.  [Edit Extension Files](#opt-2)
+4.  [Edit Database](#opt-3)
+5.  [Tips](#tips)
+    -   [Use Error to identify plugin](#tip-1)
+6.  [Need More Help?](#more-help)
+
+## <a name="intro"></a>Intro
 
 There are lots of reasons why you might want to disable a plugin ranging from not needing it anymore to stopping a plugin from producing a website crash. In some cases just a missing variable that a plugin is looking for is enough to halt an entire website and in these cases the quickest fix is to disable the offending plugin.
-
-## Table of Contents
-1.  [Plugin Manager](#opt-1)
-2.  [Edit Extension Files](#opt-2)
-2.  [Edit Database](#opt-3)
-2.  [Tips](#tips)
-    -   [Use Error to identify plugin](#tip-1)
-4.  [Need More Help?](#more-help)
 
 <span class="info" markdown="1">Note: CoalaWeb guides refer to a Joomla 3.+ installation but the steps are very similar for a Joomla 2.5.</span>
 
