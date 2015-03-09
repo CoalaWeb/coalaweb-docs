@@ -4,6 +4,7 @@
 3.  [Can I remove the Powered by CoalaWeb from the module?](#q3)
 4.  [Can I change the images used in module?](#q4)
 5.  [I'm having problems validating my webiste with W3C what can I do?](#q5)
+6.  [Facebook error - Given URL is not allowed by the Application](#q6)
 
 ***
 
@@ -71,3 +72,17 @@ These won’t affect the functionality of the button but I have yet to find a so
 <span class="info" markdown="1">I will continue to implement changes with each new release as solutions become available.</span>
 
 ***
+
+#### <a name="q6"></a>Facebook error - Given URL is not allowed by the Application
+
+The problem is that whatever **URL** you are currently hosting your Application on is not setup in your Application configuration.
+
+**Steps**
+
+1.  Go to **Basic** settings for your app
+2.  Select **Add Platform**
+3.  Select **Website**
+4.  Put your website URL under **Site URL**
+
+You can see more details in Step 9 of this [Guide](http://coalaweb.com/support/documentation/item/create-facebook-application)
+
