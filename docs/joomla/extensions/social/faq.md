@@ -86,3 +86,4 @@ The problem is that whatever **URL** you are currently hosting your Application 
 
 You can see more details in Step 9 of this [Guide](http://coalaweb.com/support/documentation/item/create-facebook-application)
 
+***
