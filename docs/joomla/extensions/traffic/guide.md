@@ -115,7 +115,7 @@ create a new entry give it a **Name** and **Description** add the **Robot Name**
 set **Count** to no. Now that particular robot will not appear in the visitors 
 list as it is not counted by the system any more.
 
-<span class="info" markdown="1">Note: The most reliable way to identify visitors is by their IP the name information comes from their **user agent string** which isn't always supplied.</span>
+<div class="uk-alert" markdown="1">Note: The most reliable way to identify visitors is by their IP the name information comes from their **user agent string** which isn't always supplied.</div>
 
 ### <a name="geo"></a>GEO Location
 
@@ -150,8 +150,8 @@ website traffic with out the database installed the only difference is
 that you won't see *Country* or *City* information associated with their
 IP addresses.
 
-<span class="info" markdown="1">Note: It's a good idea to inform visitors in your privacy policy or TOS that
-you are collecting their information.</span>
+<div class="uk-alert" markdown="1">Note: It's a good idea to inform visitors in your privacy policy or TOS that
+you are collecting their information.</div>
 
 #### <a name="geo-install"></a>Installing the Geo Database
 
@@ -202,15 +202,15 @@ to your visitor records as they are collected. To keep the location
 information as accurate as possible just carry out this procedure at
 regular intervals.
 
-<span class="info" markdown="1">Note: Please be patient when **Uploading** and **Unzipping** the database it may take
-some time due to the size of the file.</span>
+<div class="uk-alert" markdown="1">Note: Please be patient when **Uploading** and **Unzipping** the database it may take
+some time due to the size of the file.</div>
 
 #### <a name="geo-manual"></a>Manual Install
 
 If you couldn't install the database the easy way no problem lets just do it the manual
 way by following these steps. The sizes I mentions in the following steps may differ but you get the idea.
 
-<span class="info" markdown="1">Note: To avoid issues please follow these steps exactly as they are written.</span>
+<div class="uk-alert" markdown="1">Note: To avoid issues please follow these steps exactly as they are written.</div>
 
 Download the latest MaxMind GeoLiteCity database 
 [HERE](http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz). *\[Figure-5g\]*.
@@ -232,7 +232,7 @@ Now all we are doing is convert the name to lowercase. *\[Figure-5j\]*.
 
 Now don't rezip the file just uploaded it to:
 
-`administrator/components/com_coalawebtraffic/assets/geoip`
+    administrator/components/com_coalawebtraffic/assets/geoip
 
 Now you should have a file 17.7MB in size with 644 permissions in the directory. *\[Figure-5k\]*.
 
@@ -284,7 +284,7 @@ the data being laid out in a sheet.  *\[Figure-6e\]*
 
 You can now format, filter and save the data as you wish.
 
-<span class="info" markdown="1">Note: Don't forget what you see is what you get! The exported file will contain what is displayed on the screen.</span>
+<div class="uk-alert" markdown="1">Note: Don't forget what you see is what you get! The exported file will contain what is displayed on the screen.</div>
 
 ### <a name="help"></a>Inbuilt Help
 
@@ -337,7 +337,7 @@ and, if it is a malicious user, it will not count them. *\[Figure-8b\]*
 
 ![Figure-8b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-3.png "Figure-8b"){.coalaweb-docs}
 
-<span class="info" markdown="1">Note: CoalaWeb Traffic does not block visitors from your site only from being counted by the Traffic system.</span>
+<div class="uk-alert" markdown="1">Note: CoalaWeb Traffic does not block visitors from your site only from being counted by the Traffic system.</div>
 
 **Use Project Honeypot**
 
@@ -399,7 +399,7 @@ the CoalaWeb Traffic component. *\[Figure-8d\]*
 The CoalaWeb Traffic module has a huge list of options so we have broken
 them up into several sections which are explained in detail below.
 
-<span class="info" markdown="1">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text.</span>
+<div class="uk-alert" markdown="1">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text.</div>
 
 ### <a name="mod-general"></a>General Display Options
 
@@ -520,8 +520,8 @@ site that they visit.
 This plugin also takes care of blocking visitors from being counted based on your 
 setting in the CoalaWeb Traffic component.
 
-<span class="info" markdown="1">Note: To ensure proper functionality of CoalaWeb Traffic please make sure this
-plugin is installed and publish.</span>
+<div class="uk-alert" markdown="1">Note: To ensure proper functionality of CoalaWeb Traffic please make sure this
+plugin is installed and publish.</div>
 
 ## <a name="plg-clean"></a>System Plugin - Clean
 
@@ -531,8 +531,8 @@ background keeping the current data but delete out the old entries and
 then add them to a running total. It is recommended to turn this feature
 on.
 
-<span class="info" markdown="1">Have you chosen automatic database clean up? Then this plugin needs to
-be installed and published.</span>
+<div class="uk-alert" markdown="1">Have you chosen automatic database clean up? Then this plugin needs to
+be installed and published.</div>
 
 ## <a name="plg-online"></a>System Plugin - Online
 
@@ -540,11 +540,11 @@ This plugin will count and then supply the information so the **Traffic**
 module can display the currently online visitors. It uses it own database table 
 along with cookies to keep track of visitors.
 
-<span class="info" markdown="1">Have you chosen to display **Who is Online**? Then this plugin needs to
-be installed and published.</span>
+<div class="uk-alert" markdown="1">Have you chosen to display **Who is Online**? Then this plugin needs to
+be installed and published.</div>
 
 ## <a name="more-help"></a>Need More Help
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](http://coalaweb.com/support/documentation/category/joomla).</span>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="http://coalaweb.com/support/documentation/category/traffic" target="_self">FAQ</a></div>
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</span>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>

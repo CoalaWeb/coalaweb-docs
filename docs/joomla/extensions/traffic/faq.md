@@ -13,7 +13,7 @@ Updating Joomla to the latest version will fix this issue. Legacy is a new conce
 
 Anyone with issue please check your Joomla version under Site/System Information and make sure it's the version below or newer.
 
-`Joomla! 2.5.9 Stable [ Ember ] 4-February-2013 14:00 GMT Joomla Platform 11.4.0 Stable [ Brian Kernighan ] 03-Jan-2012 00:00 GMT`
+    Joomla! 2.5.9 Stable [ Ember ] 4-February-2013 14:00 GMT Joomla Platform 11.4.0 Stable [ Brian Kernighan ] 03-Jan-2012 00:00 GMT
 
 ***
 
@@ -21,7 +21,7 @@ Anyone with issue please check your Joomla version under Site/System Information
 
 I think you might have installed the 2.5 version instead of the 3.0 version try uninstalling your current installation (Note: Just uninstall the component and it will take care of the other parts of the extension). Then download and install the version with J30 in the name for example
 
-`com_coalawebtraffic-j30-0.1.5-core.zip`
+    com_coalawebtraffic-j30-0.1.5-core.zip
 
 ***
 
@@ -29,7 +29,7 @@ I think you might have installed the 2.5 version instead of the 3.0 version try 
 
 The time zone is based on your Joomla installation's "Server Time Zone" which can be found under:
 
-`Site -> Global Configuration -> Server or User settings`
+    Site -> Global Configuration -> Server or User settings
 
 #### Instructions
 
@@ -45,13 +45,13 @@ The time zone is based on your Joomla installation's "Server Time Zone" which ca
 
 I think you might be looking in the wrong location can you check again because if the directory:
 
-`administrator/components/com_coalawebtraffic`
+    administrator/components/com_coalawebtraffic
 
 If this directory is empty then the component wouldn't be functioning at all. I'm 99% sure you are looking in the front end location which is:
 
-`components/com_coalawebtraffic` 
+    components/com_coalawebtraffic
 
-<span class="info" markdown="1">Note: This directory will be empty as there are no front end views for CoalaWeb Traffic.</span>
+<div class="uk-alert" markdown="1">Note: This directory will be empty as there are no front end views for CoalaWeb Traffic.</div>
 
 Once you have found the right location it should have files similar to this including the assets directory. *\[Figure-1\]*
 
