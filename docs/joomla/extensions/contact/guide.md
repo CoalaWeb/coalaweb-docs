@@ -39,7 +39,7 @@ In the control panel or the tool menu you have a help icon that when clicked wil
 
 In the control panel or the tool menu you have an options icon that when clicked will open a new window containing the various extension options.
 
-### 1.<a name="options-general"></a>General Options
+### <a name="options-general"></a>1. General Options
 
 <div class="uk-alert" markdown="1">The options below will influence the Content Plugin [Pro] and the
 Contact Module unless overridden in the module configuration.</div>
@@ -90,13 +90,13 @@ you to insert a form into your content. *\[Figure-5\]*
 
 ![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-general3.png "Figure-5"){.coalaweb-docs}
 
-### 2.<a name="options-custom"></a>Custom Fields
+### <a name="options-custom"></a>2. Custom Fields
 
 In this section you can setup one custom field for **Core** users or up to three for **Pro** users. For each filed you have several options the first one is if you want to display it at all. The next option is what text you want used as the form field **Label**. Next you can chose the **Hint** that will be displayed in the form field when empty. The last option is the message that will be displayed if you have set the custom field to **Required** and the user doesn't fill it in. *\[Figure-5b\]*
 
 ![Figure-5b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-custom1.png "Figure-5b"){.coalaweb-docs}
 
-### 3.<a name="options-messages"></a>Messages and Warnings
+### <a name="options-messages"></a>3. Messages and Warnings
 
 The next tab allows you to customize the **Messages and Warnings**
 displayed by the CoalaWeb Contact extension. Note: If your site is
@@ -104,7 +104,7 @@ multilingual leave blank and use the language files. *\[Figure-6\]*
 
 ![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-messages.png "Figure-6"){.coalaweb-docs}
 
-### 4.<a name="options-labels"></a>Labels
+### <a name="options-labels"></a>4. Labels
 
 The next tab allows you to customize the **Labels** displayed by the
 CoalaWeb Contact extension both in the forms and the sent e-mail. Note:
@@ -113,7 +113,7 @@ If your site is multilingual leave blank and use the language files.
 
 ![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-labels.png "Figure-7"){.coalaweb-docs}
 
-### 5.<a name="options-captcha"></a>Captcha
+### <a name="options-captcha"></a>5. Captcha
 
 The next tab allows you to display a **Captcha** to attempt to reduce
 pesky spam. Lets start with the options that apply to both the **Core**
@@ -167,13 +167,13 @@ you with your ReCaptcha keys. *\[Figure-9\]*
 
 ![Figure-9](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-captcha2.png "Figure-9"){.coalaweb-docs}
 
-### 6.<a name="options-advanced"></a>Advanced
+### <a name="options-advanced"></a>6. Advanced
 
 In this section there is only one option to turn on or off the **Email Cloak** let me explain when to use this option. If you have disabled the native Joomla email cloak plugin or you are using a third party extension to cloak your emails please set the option below to No. *\[Figure-9b\]*
 
 ![Figure-9b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-advanced1.png "Figure-9b"){.coalaweb-docs}
 
-### 7.<a name="options-updates"></a>Update Options
+### <a name="options-updates"></a>7. Update Options
 
 The CoalaWeb Contact extension integrates with the inbuilt
 **Joomla Update** system so both **Core** and **Pro** users can keep their
@@ -185,7 +185,7 @@ make sure you still have a valid subscription and the **ID** is correct. *\[Figu
 
 ![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates.png "Figure-10"){.coalaweb-docs}
 
-### 8.<a name="options-downloadid"></a>Where Is My Download ID \[Pro Version\]
+### <a name="options-downloadid"></a>8. Where Is My Download ID \[Pro Version\]
 
 To find your **Download ID** log into **coalaweb.com** and from the top
 menu select **Members → My Subscriptions** scroll down and under **My
@@ -195,7 +195,7 @@ to include any spaces. *\[Figure-11\]*
 
 ![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/coalaweb-download-id.png "Figure-11"){.coalaweb-docs}
 
-### 9.<a name="options-permissions"></a>Component Permissions
+### <a name="options-permissions"></a>9.Component Permissions
 
 The last tab contains the permission settings for the CoalaWeb Contact
 component. *\[Figure-12\]*
