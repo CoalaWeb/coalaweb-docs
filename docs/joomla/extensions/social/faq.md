@@ -30,7 +30,7 @@
 
 **YES** - Creating a theme is easy, just copy the custom-example folder found in:
 
-`media → coalawebsocial → components → sociallinks → themes-icon`
+    media → coalawebsocial → components → sociallinks → themes-icon
 
 Give the theme a different name, edit the files as needed and of course add your custom icons. All the folders located in the themes-icon directory will automatically be listed in the Icon Styles select list.
 
