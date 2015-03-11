@@ -41,8 +41,8 @@ In the control panel or the tool menu you have an options icon that when clicked
 
 ### 1.<a name="options-general"></a>General Options
 
-<span class="tip" markdown="1">The options below will influence the Content Plugin [Pro] and the
-Contact Module unless overridden in the module configuration.</span>
+<div class="uk-alert" markdown="1">The options below will influence the Content Plugin [Pro] and the
+Contact Module unless overridden in the module configuration.</div>
 
 To make it easier to follow I have broken up the General settings into three parts.
 
@@ -75,7 +75,7 @@ two.
 
 Creating a theme is easy, just copy the light folder found in:
 
-`media → coalawebcontact → components → contact → themes`
+    media → coalawebcontact → components → contact → themes
 
 Give the theme a differnt name and edit the files as needed. All the
 folders located in the themes directory will automatically be listed in
@@ -130,9 +130,9 @@ answer type Captcha [The Default Captcha]. They allow you to chose a
 question to be displayed and the answer to be check against before
 allowing the form to be submitted. The default question is:
 
-`Question = How many wheels does a bicycle have?`
+    Question = How many wheels does a bicycle have?
 
-`Answer = 2`
+    Answer = 2
 
 Feel free to choose a question and answer but try to aim for a good
 balance between difficult to answer for a spam bot while not too
@@ -153,7 +153,7 @@ your site is multilingual leave blank and use the language files. *\[Figure 9\]*
 
 <span class="alert" markdown="1">Please note Recaptcha can only be displayed once on a page. I'm
 currently looking into a reliable work around for this issue and I will
-implement it if one becomes avaliable.</span>
+implement it if one becomes avaliable.</div>
 
 You also get the option to use ReCaptcha which will require you to Copy
 and paste your Public and Private keys in fields provided and theme you
@@ -249,7 +249,7 @@ while the **Pro** subscribers get two.
 
 Creating a theme is easy just copy the light folder found in:
 
-`media → coalawebcontact → components → contact → themes`
+    media → coalawebcontact → components → contact → themes
 
 Give it a different name and edit as needed all the folders in the
 themes folder will automatically be listed in the **Form Theme** select
@@ -287,9 +287,9 @@ answer Captcha they allow you to chose a question to be displayed and
 the answer to be check against before allowing the form to be submitted.
 The default question is:
 
-`Question = How many wheels does a bicycle have?`
+    Question = How many wheels does a bicycle have?
 
-`Answer = 2`
+    Answer = 2
 
 Feel free to chose a question and answer but try to aim for a good
 balance between difficult to answer for a spam bot while not too
@@ -312,7 +312,7 @@ your site is multilingual leave blank and use the language files. *\[Figure-17\]
 
 <span class="alert" markdown="1">Please note Recaptcha can only be displayed once on a page. I'm
 currently looking into a reliable work around for this issue and I will
-implement it if one becomes avaliable.</span>
+implement it if one becomes avaliable.</div>
 
 You also get the option to use ReCaptcha which will require you to Copy
 and paste your Public and Private keys into the component configuration
@@ -362,5 +362,6 @@ displayed at the bottom of the editor.
 
 ## <a name="more-help"></a>Need more help?
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](/support/documentation/category/joomla).</span>
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](/forum/index) I'm sure we can help.<span>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="http://coalaweb.com/support/documentation/category/contact" target="_self">FAQ</a></div>
+
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>

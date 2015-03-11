@@ -8,7 +8,7 @@
     -   [Uninstall](#uninstall-all)
 4.  [Need More Help?](#more-help)
 
-<span class="info" markdown="1">Note: CoalaWeb guides refer to a Joomla 3.+ installation but the steps are very similar for a Joomla 2.5.</span>
+<div class="uk-alert" markdown="1">Note: CoalaWeb guides refer to a Joomla 3.+ installation but the steps are very similar for a Joomla 2.5.</div>
 
 # <a name="install"></a>Installation Guides
 
@@ -22,7 +22,7 @@ The first thing we need is a zipped up extension package ready to install so
 drop by the **Downloads** section of [CoalaWeb](http://coalaweb.com) and grab a copy of the 
 extension you want to install. *\[Figure-1\]*
 
-<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</span>
+<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/download-pack.png "Figure-1"){.coalaweb-docs}
 
@@ -31,7 +31,7 @@ Next log into the backend of your Joomla installation and open up the
 
 It can be found in this location. *\[Figure-2\]*
 
-`Extensions → Extension Manager → Upload Package File`
+    Extensions → Extension Manager → Upload Package File
 
 ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/upload-2.png "Figure-2"){.coalaweb-docs}
 
@@ -45,7 +45,7 @@ used by CoalaWeb extensions will take care of installing all the related parts o
 the system such as **Modules** and **Plugins** and when it has 
 finished you will receive conformation. *\[Figure-3\]*
 
-<span class="info" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</span>
+<div class="uk-alert" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-4"){.coalaweb-docs}
 
@@ -61,7 +61,7 @@ drop by the **Downloads** section of [CoalaWeb](http://coalaweb.com) and grab
 a copy of the extension you want to install. The difference with this method of 
 installing an extension is that we need it unzipped so you may as well do it now. *\[Figure-1\]*
 
-<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</span>
+<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/download-pack.png "Figure-1"){.coalaweb-docs}
 
@@ -72,7 +72,7 @@ of your Joomla installation and then head over to your **Server Settings** and c
 
 It can be found in this location. *\[Figure-2\]*
 
-`System → Global Configuration → Server → Path to Temp Folder`
+    System → Global Configuration → Server → Path to Temp Folder
 
 ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/directory-2.png "Figure-2"){.coalaweb-docs}
 
@@ -80,7 +80,7 @@ Now that we know where we want the package to go it's time to fire up your FTP c
 and navigate to the directory we just checked. Once we have found it upload the 
 package we download in the first step into the **tmp** directory. *\[Figure-3\]*
 
-<span class="alert" markdown="1">Note: Make sure the package is unzipped/extracted.</span>
+<span class="alert" markdown="1">Note: Make sure the package is unzipped/extracted.</div>
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/directory-3.png "Figure-3"){.coalaweb-docs}
 
@@ -89,7 +89,7 @@ Now back to your Joomla administration area and open up the
 
 It can be found in this location.
 
-`Extensions → Extension Manager → Install from Directory`
+    Extensions → Extension Manager → Install from Directory
 
 The **tmp** directory location should already be filled in for you and it should be the
 same as the directory we check in a previous step. Next add the the package name 
@@ -102,7 +102,7 @@ used by CoalaWeb extensions will take care of installing all the related parts o
 the system such as **Modules** and **Plugins** and when it has 
 finished you will receive conformation. *\[Figure-5\]*
 
-<span class="info" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</span>
+<div class="uk-alert" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
 ![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-5"){.coalaweb-docs}
 
@@ -110,9 +110,9 @@ finished you will receive conformation. *\[Figure-5\]*
 This option is a great way to install a CoalaWeb extension without needing to 
 download it first.
 
-<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</span>
+<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
 
-<span class="alert" markdown="1">Note: To use this method you will need to be a registered and logged in user to access the link.</span>
+<span class="alert" markdown="1">Note: To use this method you will need to be a registered and logged in user to access the link.</div>
 
 Once you have logged in over at [CoalaWeb](http://coalaweb.com) proceed to the 
 **Downloads** area the same as for the previous two methods of installing 
@@ -125,7 +125,7 @@ Now copy this link and head back over to your Joomla administration area and ope
 
 It can be found in this location.
 
-`Extensions → Extension Manager → Install from URL`
+    Extensions → Extension Manager → Install from URL
 
 Next copy and paste the link from the previous step into the **Install URL** 
 field. *\[Figure-2\]*
@@ -137,7 +137,7 @@ used by CoalaWeb extensions will take care of installing all the related parts o
 the system such as **Modules** and **Plugins** and when it has 
 finished you will receive conformation. *\[Figure-3\]*
 
-<span class="info" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</span>
+<div class="uk-alert" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-3"){.coalaweb-docs}
 
@@ -147,14 +147,14 @@ The last way to install a CoalaWeb extension we are going to cover is the new Jo
 **Install from Web** option which is a quick and easy way to try out our **Core**
 extensions.
 
-<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</span>
+<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
 
 First log into the backend of your Joomla installation and open up the 
 **Extension Manager** then select the **Install from Web** option.
 
 It can be found in this location.
 
-`Extensions → Extension Manager → Install from Web`
+    Extensions → Extension Manager → Install from Web
 
 Next in the **Search** box type **coalaweb** and click the magnifying glass. 
 You should now see a list of our extensions. *\[Figure-1\]*
@@ -177,7 +177,7 @@ used by CoalaWeb extensions will take care of installing all the related parts o
 the system such as **Modules** and **Plugins** and when it has 
 finished you will receive conformation. *\[Figure-4\]*
 
-<span class="info" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</span>
+<div class="uk-alert" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-4"){.coalaweb-docs}
 
@@ -196,7 +196,7 @@ First log into the backend of your Joomla installation and open up the
 
 It can be found in this location.
 
-`Extensions → Extension Manager → Manage`
+    Extensions → Extension Manager → Manage
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/uninstall-all-1.png "Figure-1"){.coalaweb-docs}
 
@@ -216,7 +216,7 @@ used by CoalaWeb extensions will take care of uninstalling all the related parts
 the system such as **Modules** and **Plugins** and when it has 
 finished you will receive conformation. *\[Figure-4\]*
 
-<span class="info" markdown="1">Note: Uninstalling an extension can take some time due to having to uninstall several smaller extensions at the same time so please be patient.</span>
+<div class="uk-alert" markdown="1">Note: Uninstalling an extension can take some time due to having to uninstall several smaller extensions at the same time so please be patient.</div>
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/uninstall-all-4.png "Figure-4"){.coalaweb-docs}
 
@@ -238,4 +238,4 @@ has finished you will receive confirmation and you are done. *\[Figure-6\]*
 
 ## <a name="more-help"></a>Need More Help
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</span>
+<div class="uk-alert" markdown="1">Do you have a question that wasn't covered by the GUIDE? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</div>

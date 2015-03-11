@@ -14,7 +14,7 @@ The CoalaWeb Flair module has a long list of options so we have broken them up i
 
 ## <a name="account-com"></a>Combined
 
-<span class="alert" markdown="1">Please note that only sites where you have more than 200 reputation will appear in the combined layout, and that flair is only updated once every 24-36 hours.</span>
+<span class="alert" markdown="1">Please note that only sites where you have more than 200 reputation will appear in the combined layout, and that flair is only updated once every 24-36 hours.</div>
 
 To use the combined option you will need your **Combined Account ID** so log into one of your **StackExchange** accounts and in your profile area click the **Network Profile** link in the top right. *\[Figure 1\]*
 
@@ -52,7 +52,7 @@ You will find your **ID** directly after **users** in the **currentprofile.com**
 
 ## <a name="mod"></a>Module Settings
 
-<span class="alert" markdown="1">Please note that the StackExchange flair system feeds in a pre created image with a width 208px and a height of 58px so your module position will need sufficient space to accommodate images of this size.</span>
+<span class="alert" markdown="1">Please note that the StackExchange flair system feeds in a pre created image with a width 208px and a height of 58px so your module position will need sufficient space to accommodate images of this size.</div>
 
 ### <a name="mod-gen"></a>General Display Options
 
@@ -85,4 +85,4 @@ The last option is to on or off the display of a link back to CoalaWeb as always
 
 ## <a name="more-help"></a>Need More Help
 
-<span class="tip" markdown="1">Do you have a questions that aren't covered by this GUIDE? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</span>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
