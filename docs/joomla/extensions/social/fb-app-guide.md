@@ -113,6 +113,6 @@ Now when you are returned to the **Dashboard** you will see a solid green circle
 
 ## <a name="more-help"></a>Need More Help
 
-<div class="uk-alert" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](http://coalaweb.com/support/documentation/category/joomla).</div>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="http://coalaweb.com/support/documentation/category/joomla" target="_self">FAQ</a></div>
 
-<div class="uk-alert" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</div>
+<div class="uk-alert">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
