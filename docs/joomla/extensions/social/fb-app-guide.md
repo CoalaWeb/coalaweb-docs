@@ -46,7 +46,7 @@ In the next window select **Skip Quickstart** from the top right. *\[Figure-4\]*
 ### <a name="step-5"></a>Step 5
 In the **Create a New App** window give your new application a **Display Name**.
 
-<span class="info" markdown="1">This will be seen in the bottom of the pop up **Share** dialog so something related to your website is best.</span>
+<div class="uk-alert" markdown="1">This will be seen in the bottom of the pop up **Share** dialog so something related to your website is best.</div>
 
 You can leave the **Namespace** blank and **No** for the test version question. Lastly on this page you need to choose a **Category** for the App in this example I have chosen **Utilities** but for more info on categories try this [Link](https://developers.facebook.com/docs/games/appcenter/categories) *\[Figure-5\]* 
 
@@ -71,7 +71,7 @@ We still have a couple more steps before we are ready to use the **App ID**. *\[
 ### <a name="step-8"></a>Step 8
 On the left side of your **Dashboard**, click **Settings** from the menu and make sure you looking at the **Basic** tab. In this window you will need to enter the **App Domains** and **Contact Email** for your app. *\[Figure-8\]*
 
-<span class="tip" markdown="1">Do not include the **http** part of the domain.</span>
+<div class="uk-alert" markdown="1">Do not include the **http** part of the domain.</div>
 
 ![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb/cw-fbapp-figure8.png "Figure-8"){.coalaweb-docs}
 
@@ -88,7 +88,7 @@ From the next window choose **Website** for your platform. *\[Figure-10\]*
 ### <a name="step-11"></a>Step 11
 In the next window enter your website address into the **Site URL** field and then choose **Save Changes**. *\[Figure-11\]*
 
-<span class="tip" markdown="1">You **DO** want to include the full URL, including the http:// </span>
+<div class="uk-alert" markdown="1">You **DO** want to include the full URL, including the http:// </div>
 
 ![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb/cw-fbapp-figure11.png "Figure-11"){.coalaweb-docs}
 
@@ -113,6 +113,6 @@ Now when you are returned to the **Dashboard** you will see a solid green circle
 
 ## <a name="more-help"></a>Need More Help
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](http://coalaweb.com/support/documentation/category/joomla).</span>
+<div class="uk-alert" markdown="1">Do you have a question that wasn't covered by the GUIDE? Try the [FAQ](http://coalaweb.com/support/documentation/category/joomla).</div>
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</span>
+<div class="uk-alert" markdown="1">Do you have a question that wasn't covered by the GUIDE or the FAQ? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</div>
