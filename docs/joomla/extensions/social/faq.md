@@ -5,6 +5,7 @@
 4.  [Can I change the images used in module?](#q4)
 5.  [I'm having problems validating my webiste with W3C what can I do?](#q5)
 6.  [Facebook error - Given URL is not allowed by the Application](#q6)
+7.  [My custom Follow Us image doesn't display?](#q7)
 
 ***
 
@@ -85,5 +86,15 @@ The problem is that whatever **URL** you are currently hosting your Application 
 4.  Put your website URL under **Site URL**
 
 You can see more details in Step 9 of this [Guide](http://coalaweb.com/support/documentation/item/create-facebook-application)
+
+***
+
+#### <a name="q7"></a>My custom Follow Us image doesn't display?
+
+This will normally be for one of two reasons:
+
+1. You have **Spaces** in the **Name** of the image you have selected which is an easy fix just rename your image and then reselect it from the module configuration.
+
+2. You have some strange server configuration so Joomla is miss interpreting the URL of the image. To fix this one just use the **External** image option but make sure to leave the image selector option blank as this overrides the external image option.
 
 ***
