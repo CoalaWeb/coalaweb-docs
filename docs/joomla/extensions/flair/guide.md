@@ -10,9 +10,9 @@
 
 The CoalaWeb Flair module has a long list of options so we have broken them up into 3 sections which are explained in detail below but first we will explain how to retrieve your profile ID numbers.
 
-# <a name="account"></a>StackExchange Account Details
+## <a name="account"></a>StackExchange Account Details
 
-## <a name="account-com"></a>Combined
+### <a name="account-com"></a>Combined
 
 <span class="alert" markdown="1">Please note that only sites where you have more than 200 reputation will appear in the combined layout, and that flair is only updated once every 24-36 hours.</div>
 
@@ -32,7 +32,7 @@ You will find your ID directly after **users** in the **stackexchange.com** link
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/flair/cw-flair-f3.png "Figure-3"){.coalaweb-docs}
 
-## <a name="account-ind"></a>Individual
+### <a name="account-ind"></a>Individual
 
 You need the user ID for each of the individual accounts that you want to list in CoalaWeb Flair. To find out what these are log into StackExchange then go to the profile page of the account you wish to add and the user ID can be found in the top right hand corner. *\[Figure 4\]*
 
