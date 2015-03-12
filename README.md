@@ -6,12 +6,17 @@ This is the official documentation for CoalaWeb projects, written by [Steven Pal
 1.   [Joomla](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla)
     - [Extensions](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions)
         - [Contact](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/contact)
+        - [Flair](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/flair)
         - [General](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/general)
             - [Install - Uninstall Extension](https://github.com/CoalaWeb/coalaweb-docs/blob/master/docs/joomla/extensions/general/install-uninstall.md)
         - [Social](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/social)
         - [Traffic](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/traffic)
+        - [Zones](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/zones)
+	 - [Subscriptions](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/subscriptions)
+		  - [Pre-sales Questions](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/subscriptions/pre-sales-faq.md)
     - [Tips](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/tips)
         - [Disable Plugin](https://github.com/CoalaWeb/coalaweb-docs/blob/master/docs/joomla/tips/disable-plugin.md)
+        - [Warp Pagination in K2](https://github.com/CoalaWeb/coalaweb-docs/blob/master/docs/joomla/tips/warp-k2-pagination.md)
 
 ## Contributions
 
