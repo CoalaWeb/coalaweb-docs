@@ -5,7 +5,7 @@
 4.  [Can I change the images used in module?](#q4)
 5.  [I'm having problems validating my webiste with W3C what can I do?](#q5)
 6.  [Facebook error - Given URL is not allowed by the Application](#q6)
-7.  [My custom Follow Us image doesn't display?](#q7)
+7.  [My custom Follow Us image isn't displaying correctly?](#q7)
 
 ***
 
@@ -89,7 +89,7 @@ You can see more details in Step 9 of this [Guide](http://coalaweb.com/support/d
 
 ***
 
-#### <a name="q7"></a>My custom Follow Us image doesn't display?
+#### <a name="q7"></a>My custom Follow Us image isn't displaying correctly?
 
 This will normally be for one of two reasons:
 
