@@ -7,7 +7,7 @@
 
 ## <a name="overview"></a>Overview
 
-<div><hr></hr></div>
+<hr></hr>
 
 CoalaWeb Flair is a Joomla extension that lets you display your flair from several StackExchange sites individually or combined into one.
 
@@ -15,7 +15,7 @@ CoalaWeb Flair is a Joomla extension that lets you display your flair from sever
 
 ## <a name="modules"></a>Modules
 
-<div markdown="1"><hr></hr></div>
+<hr></hr>
 
 ### <a name="mod-flair"></a>Flair
 
@@ -25,7 +25,7 @@ CoalaWeb Flair is a module that lets you display your flair from several StackEx
 
 ## <a name="plugins"></a>Plugins
 
-<div><hr></hr></div>
+<hr></hr>
 
 ### <a name="plg-likes"></a>System - Gears
 
