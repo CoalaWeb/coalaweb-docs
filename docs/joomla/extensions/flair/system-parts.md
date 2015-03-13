@@ -15,7 +15,7 @@ CoalaWeb Flair is a Joomla extension that lets you display your flair from sever
 
 ## <a name="modules"></a>Modules
 
-<div><hr></hr></div>
+<div markdown="1"><hr></hr></div>
 
 ### <a name="mod-flair"></a>Flair
 
