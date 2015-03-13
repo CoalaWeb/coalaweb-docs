@@ -3,7 +3,7 @@
 1.  [Intro](#intro)
 2.  [Guide](#guide)
     -   [Per Project](#project)
-    -   [Global](#global)
+    -   [Globally](#global)
 5.  [Things to note](#notes)
 6.  [Need More Help?](#more-help)
 
@@ -47,7 +47,7 @@ Below is an example of a  typical project config file which you might note is mi
 
 Now if you open your project and attempt a commit the Author and Committer should be automatically populated with the info you just added to the config file. If you are looking for a solution that will affect all your projects in one go continue reading.
 
-### <a name="global"></a>Global
+### <a name="global"></a>Globally
 
 The second is the **global user-wide** config file that affects all your repositories. This is the place where you set your primary name and email. 
 
