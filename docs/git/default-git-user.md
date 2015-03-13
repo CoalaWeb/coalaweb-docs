@@ -1,3 +1,5 @@
+## Table of Contents
+
 1.  [Intro](#intro)
 2.  [Guide](#guide)
         -[Per Project](#project)
@@ -7,13 +9,9 @@
 
 ## <a name="intro"></a>Intro
 
-***
-
 Git has two kinds of config files that affect what is set for the default author/committer.
 
 ## <a name="guide"></a>Guide
-
-***
 
 ### <a name="project"></a>Per Project
 
@@ -81,15 +79,11 @@ That should be it, now when you click to commit both the **Author** and **Comitt
 
 ## Things to note
 
-***
-
 -   Git version 1.9.1
 -   Linux version: Ubuntu 14.04.2 LTS
 -   Netbeans version: 8.0.2
 -   Nano version: 2.2.6
 
 ## <a name="more-help"></a>Need More Help
-
-***
 
 <div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
