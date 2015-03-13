@@ -37,7 +37,7 @@ Below is an example of a  typical project config file which you might note is mi
     [pack]
         buildbitmaps = false
 
-If we want to set the default **Author** and **Commiter** for this particular project we could just amend this to the end:
+If we wanted to set the default **Author** and **Commiter** for this particular project all we need to do is amend this to the end:
 
     [user]
         name = Your Name
