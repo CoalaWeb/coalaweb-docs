@@ -19,8 +19,7 @@ The first is the local **.git/config** file which can be found in each of the pr
 
     ~/NetBeansProjects/example-project/.git
 
-<div class="uk-alert">The **~/** is the short form of your **home/username** directory</div>
-
+<div class="uk-alert">Note: The **~/** is the short form of your **home/username** directory</div>
 
 Below is an example of a  typical project config file which you might note is missing a reference to a user which means the system will look elsewhere for this info.
 
@@ -44,8 +43,7 @@ Below is an example of a  typical project config file which you might note is mi
         name = Your Name
         email = your@email.com
 
-<div class="uk-alert">Remember this file only affects the repository it is stored in.</div>
-
+<div class="uk-alert">Note: Remember this file only affects the repository it is stored in.</div>
 
 Now if you open your project and attempt a commit the Author and Committer should be automatically populated with the info you just added to the config file. If you are looking for a solution that will affect all your projects in one go continue reading.
 
