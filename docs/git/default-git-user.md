@@ -2,8 +2,8 @@
 
 1.  [Intro](#intro)
 2.  [Guide](#guide)
-        -[Per Project](#project)
-        -[Global](#global)
+    -   [Per Project](#project)
+    -   [Global](#global)
 5.  [Things to note](#notes)
 6.  [Need More Help?](#more-help)
 
