@@ -5,15 +5,13 @@
 3.  [Plugins \[Pro\]](#plugins)
     -   [System - Gears](#plg-gears)
 
-## <a name="overview"></a>Overview
-
-<hr class="uk-article-divider" markdown="1"></hr>
+## <a name="overview"></a><span class="tm-underline" markdown="1">Overview</span>
 
 CoalaWeb Flair is a Joomla extension that lets you display your flair from several StackExchange sites individually or combined into one.
 
 <div class="uk-alert">When you install CoalaWeb Flair all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
-## <a name="modules"></a><span class="tm-underline">Modules</span>
+## <a name="modules"></a><span class="tm-underline" markdown="1">Modules</span>
 
 ### <a name="mod-flair"></a>Flair
 
@@ -21,9 +19,7 @@ CoalaWeb Flair is a module that lets you display your flair from several StackEx
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/flair/cw-flair.png "Figure-1"){.coalaweb-docs}
 
-## <a name="plugins"></a>Plugins
-
-<hr markdown="1"></hr>
+## <a name="plugins"></a><span class="tm-underline" markdown="1">Plugins</span>
 
 ### <a name="plg-likes"></a>System - Gears
 
