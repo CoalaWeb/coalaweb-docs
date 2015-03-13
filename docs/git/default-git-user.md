@@ -19,7 +19,7 @@ The first is the local **.git/config** file which can be found in each of the pr
 
     ~/NetBeansProjects/example-project/.git
 
-<div class="uk-alert">Note: The <em>~/</em> is the short form of your <em>home/username</em> directory</div>
+<div class="uk-alert">Note: The <em>~/</em> is the short form for your <em>home/username</em> directory</div>
 
 Below is an example of a  typical project config file which you might note is missing a reference to a user which means the system will look elsewhere for this info.
 
@@ -74,7 +74,9 @@ For the last question just hit **enter** *\[Figure 3\]*
 
 If you want you can check the file was created with the right content by just using Nano. Open the file again as we did in the first step and once you are happy you can use **ctrl x**. If leave without making any changes it will drop out of the editor window.
 
-<div class="uk-alert">That should be it, now when committing both the <em>Author</em> and <em>Comitter</em> should be auto populated with your chosen details.</div>
+### All Done
+
+That should be it, now when committing both the **Author** and **Comitter** should be auto populated with your chosen details.
 
 ## Things to note
 
