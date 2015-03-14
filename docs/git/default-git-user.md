@@ -9,13 +9,13 @@
 
 ## <a name="intro"></a>Intro
 
-Git has two kinds of config files that affect what is set for the default **author/committer**.
+Git has two kinds of config files that affect what is set for the default **author/commiter**.
 
 ## <a name="guide"></a>Guide
 
 ### <a name="project"></a>Per Project
 
-The first is the local **.git/config** file which can be found in each of the projects that you have set up with git. The default location for a **Netbeans** project would be something like this:
+The first is the local **config** file which can be found in each of the projects that you have set up with git. The default location for a **Netbeans** project would be something like this:
 
     ~/NetBeansProjects/example-project/.git
 
@@ -45,7 +45,7 @@ If we wanted to set the default **Author** and **Commiter** for this particular 
 
 <div class="uk-alert">Note: Remember this file only affects the repository it is stored in.</div>
 
-Now if you open your project and attempt a commit the Author and Committer should be automatically populated with the info you just added to the config file. If you are looking for a solution that will affect all your projects in one go continue reading.
+Now if you open your project and attempt a commit the Author and Commiter should be automatically populated with the info you just added to the config file. If you are looking for a solution that will affect all your projects in one go continue reading.
 
 ### <a name="global"></a>Globally
 
@@ -53,7 +53,7 @@ The second is the **global user-wide** config file that affects all your reposit
 
 The default location for the global Git config file should be here:
 
-     ~/.gitconfig. 
+     ~/.gitconfig
 
 If it does not exist feel free to create it in my case I will create it with the terminal. I find the easiest way to do this is to ask the terminal editor **Nano** to open the file and if it exists is will open it if it doesn't it will still open a editor window and when I save it will create it for me. To get started open a terminal window and type:
 
@@ -72,11 +72,11 @@ For the last question just hit **enter** *\[Figure 3\]*
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/git/default-git-user/default-git-user-4.png "Figure-3"){.coalaweb-docs}
 
-If you want you can check the file was created with the right content by just using Nano. Open the file again as we did in the first step and once you are happy you can use **ctrl x**. If leave without making any changes it will drop out of the editor window.
+If you want you can check the file was created with the right content by just using Nano. Open the file again as we did in the first step and once you are happy hit **ctrl x**. If you leave without making any changes it will automatically drop out of the editor window.
 
 ### All Done
 
-That should be it, now when committing both the **Author** and **Comitter** should be auto populated with your chosen details.
+That should be it, now when committing both the **Author** and **Commiter** should be auto populated with your chosen details.
 
 ## Things to note
 
