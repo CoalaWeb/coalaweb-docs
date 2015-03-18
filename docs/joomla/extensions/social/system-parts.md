@@ -3,7 +3,7 @@
 2.  [Component](#component)
 3.  [Modules](#modules)
     -   [Social Links](#mod-social)
-    -   [Facebook Likebox](#mod-likebox)
+    -   [Like Box](#mod-likebox)
     -   [Google + \[Pro\]](#mod-google)
     -   [Social Tabs \[Pro\]](#mod-tabs)
 4.  [Plugins \[Pro\]](#plugins)
@@ -36,15 +36,15 @@ The **CoalaWeb Social Links** module gives you the option to choose which share 
 
 ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/social-links.png "Figure-2"){.coalaweb-docs}
 
-### <a name="mod-likebox"></a>Likebox
+### <a name="mod-likebox"></a>Like Box
 
 The **CoalaWeb Like Box** module is a social module that enables Facebook Page owners to attract and gain likes. The like box enables people using your website to see how many people like the Page, read recent posts from the Page and like the Page with one click, without needing to visit the Page. *\[Figure-3\]*
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/likebox.png "Figure-3"){.coalaweb-docs}
 
-### <a name="mod-tabs"></a>Tabs \[Pro Version\]
+### <a name="mod-tabs"></a>Social Tabs \[Pro Version\]
 
-The **CoalaWeb Tabs** module displays a series of tabs on either side of the page that slide in and out when hovered over. It gives you the option to display share, follow us or both types including the ability to create custom follow us tabs. It's packed full of other configuration options including the ability to reorder the tabs and choose their colors which help make it as flexible as possible. *\[Figure-4\]*
+The **CoalaWeb Social Tabs** module displays a series of tabs on either side of the page that slide in and out when hovered over. It gives you the option to display share, follow us or both types including the ability to create custom follow us tabs. It's packed full of other configuration options including the ability to reorder the tabs and choose their colors which help make it as flexible as possible. *\[Figure-4\]*
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/social-tabs.png "Figure-4"){.coalaweb-docs}
 
@@ -68,7 +68,7 @@ The **CoalaWeb Social Panel** content plugin will display a variety of social ne
 
 ![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/social-panel.png "Figure-7"){.coalaweb-docs}
 
-### <a name="plg-share"></a>Social Share \[Pro Version\]
+### <a name="plg-share"></a>Content - Social Share \[Pro Version\]
 
 The **CoalaWeb Social Share** plugin is a content plugin designed to display all of the popular social networking share buttons with several icon themes and locations within your **Joomla** and **K2 content**. *\[Figure-8\]*
 
@@ -80,7 +80,7 @@ The **CoalaWeb Open Graph** content plugin takes care of adding **Social Metadat
 
 ![Figure-9](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/meta-data.png "Figure-9"){.coalaweb-docs}
 
-### <a name="plg-meta"></a>Content - Meta Fields \[Pro Version\]\[J3.+]
+### <a name="plg-meta"></a>Content - Meta Fields \[Pro Version & J3.+]
 
 The **CoalaWeb Meta Fields** content plugin will help add **Open Graph** and **Twitter** meta information to your Joomla content while using the **Article** and or **Category** editors. It will override all other setting you have chosen. *\[Figure-10\]*
 
