@@ -18,9 +18,9 @@
 
 ## <a name="overview"></a>Overview
 
-CoalaWeb Social Links is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons. There are two options avaliable a Core(Free)version and Pro(Paid Subscription)version with extend functionality.
+CoalaWeb Social Links is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons. There are two options avaliable a Core (Free) version and Pro (Paid Subscription) version with extend functionality.
 
-<div class="uk-alert">When you install CoalaWeb Social Links all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
+<div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
 ## <a name="component"></a>Component
 
