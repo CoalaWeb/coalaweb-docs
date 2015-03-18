@@ -11,14 +11,14 @@
     -   [Content - Social Panel \[Pro\]](#plg-panel)
     -   [Content - Social Share \[Pro\]](#plg-share)
     -   [Content - Open Graph \[Pro\]](#plg-og)
-    -   [Content - Meta Fields \[Pro\]\[J3.+\]](#plg-meta)
+    -   [Content - Meta Fields \[Pro & J3.+\]](#plg-meta)
     -   [System - Zoo Elements \[Pro\]](#plg-zoo)
     -   [System - Facebook JS](#plg-fbjs)
     -   [System - Gears](#plg-gears)
 
 ## <a name="overview"></a>Overview
 
-CoalaWeb Social Links is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons.
+CoalaWeb Social Links is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons. There are two options avaliable a Core(Free)version and Pro(Paid Subscription)version with extend functionality.
 
 <div class="uk-alert">When you install CoalaWeb Social Links all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
@@ -52,7 +52,7 @@ The **CoalaWeb Tabs** module displays a series of tabs on either side of the pag
 
 The **CoalaWeb Google Plus** module is a social module that helps you link your Google+page to your site. Get more recommendations for your site in Google search and grow your audience on Google+. *\[Figure-5\]*
 
-![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/google+.png "Figure-5"){.coalaweb-docs}
+![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/google.png "Figure-5"){.coalaweb-docs}
 
 ## <a name="plugins"></a>Plugins
 
