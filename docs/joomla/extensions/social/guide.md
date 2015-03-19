@@ -1009,7 +1009,7 @@ more details. *\[Figure-21a\]*
 
 ## <a name="plg-mf"></a>Meta Fields \[Pro Version & J3.+\]
 
-The **CoalaWeb Meta Fields** content plugin helps add **Open Graph** and **Twitter** meta information to your Joomla content while using the **Article** and or **Category** editors. It will override all other setting you have chosen.
+The **CoalaWeb Meta Fields** content plugin helps add **Open Graph** and **Twitter** meta information to your Joomla content while using the **Article** and or **Category** editors.
 
 <div class="uk-alert">To make it easier to follow I have broken up <em>Meta Fields</em> into two parts.</div>
 
@@ -1027,7 +1027,7 @@ Keep in mind that all these settings are optional and you can feel free to leave
 
 The second section gives you the opportunity to add Open Graph **Video** tags to your articles. If you want to add video tags please fill in all the options which included **Type**, **URL**, **Secure URL**, **Width** and **Height**. *\[Figure-28a\]*
 
-![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-mf-article2.png "Figure-28a"){.coalaweb-docs}
+![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mf-plg-article2.png "Figure-28a"){.coalaweb-docs}
 
 Typical video settings would look something like this:
 
