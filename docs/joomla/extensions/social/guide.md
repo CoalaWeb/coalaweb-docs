@@ -564,7 +564,9 @@ Due to popular demand there is now a **Custom Option** and for *PRO*
 users **Three Custom Options** to help with those situation where only a
 custom icon will do. To add a custom icon is very similar to a standard
 **Follow Us** option you have to chose to display it, add a link and
-then two more options. First is the **Hover Text** this displays when
+then two more options. 
+
+First is the **Hover Text** this displays when
 the icon is hovered over by a mouse. Secondly and more importantly is
 the ability to select the **Custom Icon** you want to display keeping in
 mind what size you selected in the **General Options**. The last option
@@ -577,28 +579,12 @@ url for example http://coalaweb.com/images/example.png. *\[Figure-11b\]*
 
 ### <a name="mod-advanced"></a>Advanced Options
 
-<div class="uk-alert" markdown="1">To make it easier to follow I have broken up the **Advanced Options** into two parts.</div>
+The CoalaWeb Social Links module also has a few of what I consider **Advanced Options** such as the option to assign a **Unique Module ID** to stop conflicts. You can also give the it a **Module Class Suffix** or choose whether to use **Cache** including the **Cache Time**. 
 
-#### Part 1
-
-The CoalaWeb Social Links module also has a few of what I consider
-**Advanced Options** such as the option to assign a **Unique Module ID**
-to stop conflicts. You can also give the it a **Module Class Suffix** or
-choose whether to use **Cache** including the **Cache Time**. There is
-also an option to turn off the **Module css** if you want to add your
-own styling. Next is the **NoFollow** option that provides a way to tell
-search engines not to follow a particular link. In the last option you can choose to have the links open in a new browser tab when clicked or open in a small **Popup** window. *\[Figure-12\]*
+There is also an option to turn off the **Module CSS** if you want to add your own styling. Next you can choose to include CSS to support**IE7** and if you want to have **Link Text** appear on screen readers or system that don't load CSS. Lastly is the **NoFollow** option that provides a way to tell
+search engines not to follow a particular link. *\[Figure-12\]*
 
 ![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-advanced1.png "Figure-12"){.coalaweb-docs}
-
-#### Part 2 - Show Support
-
-The last option is whether to display a **Link Back to CoalaWeb** as
-always it's appreciated but its up to you plus you can choose what text
-to display next to the link. Note: If your site is multilingual leave
-blank and use the language files. *\[Figure-12a\]*
-
-![Figure-12a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-advanced2.png "Figure-12a"){.coalaweb-docs}
 
 # <a name="module-tabs"></a>Social Tabs Module \[Pro Version\]
 
@@ -688,7 +674,9 @@ corresponding links. *\[Figure-25f\]*
 Due to popular demand there is now a **Custom Option** to help with those situation where only a
 custom icon will do. To add a custom icon is very similar to a standard
 **Follow Us** option you have to chose to display it, add a link and
-then two more options. First is the **Hover Text** this displays when
+then two more options. 
+
+First is the **Hover Text** this displays when
 the icon is hovered over by a mouse. Secondly and more importantly is
 the ability to select the **Custom Icon** you want to display keeping in
 mind what size you selected in the **General Options**. The last option
@@ -751,7 +739,7 @@ people using your website to do the following:
 -   Read recent posts from the Page.
 -   Like the Page with one click, without needing to visit the Page.
 
-<div class="uk-alert" markdown="1">Quote: The minimum supported widget width is 292 pixels.<span>
+<div class="uk-alert" markdown="1">Quote: The minimum supported widget width is 292 pixels.</div>
 
 ### <a name="mod-lb-general"></a>General Options
 
