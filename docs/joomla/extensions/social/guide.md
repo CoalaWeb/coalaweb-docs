@@ -1023,7 +1023,7 @@ Keep in mind that all these settings are optional and you can feel free to leave
 
 <div class="uk-alert">Note: This is really handy for articles that don't have any images but you still want one in your OG tags.</div>
 
-![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mf-plg-article1.png "Figure-28"){.coalaweb-docs}
+![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mf-plg-article.png "Figure-28"){.coalaweb-docs}
 
 The second section gives you the opportunity to add Open Graph **Video** tags to your articles. If you want to add video tags please fill in all the options which included **Type**, **URL**, **Secure URL**, **Width** and **Height**. *\[Figure-28a\]*
 
@@ -1045,7 +1045,7 @@ You will have the opportunity to add a specific **Type**, **Title**, **Descripti
 
 Keep in mind that all these settings are optional and you can feel free to leave one or all of them blank to let the system decide for you. Example use would be setting the **Type** in the component or your categories options to **Blog** and for your articles to **Article**. *\[Figure-28b\]*
 
-![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mf-plg-category.png "Figure-28b"){.coalaweb-docs}
+![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mf-plg-article.png "Figure-28b"){.coalaweb-docs}
 
 ### <a name="plg-fbjs"></a>Facebook JS
 
