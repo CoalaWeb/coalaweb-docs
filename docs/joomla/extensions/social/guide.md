@@ -843,7 +843,7 @@ You have a choice of the following badge types:
 -   Profile
 -   Community
 
-<div class="uk-alert">Valid Ranges: Portrait 180-450 px Landscape 273-450px </div>
+<div class="uk-alert">Note: Valid Ranges: Portrait 180-450 px Landscape 273-450px </div>
 
 ### <a name="mod-gplus-general"></a>General Options
 
@@ -852,7 +852,7 @@ to display. You have the option to display a Profile, Page or Community
 depending on your needs. You will only need to fill in one of the next
 three options based on your type choice. *\[Figure-18\]*
 
-<div class="uk-alert">If you need more than one type of badge just create another module.</div>
+<div class="uk-alert">Note: If you need more than one type of badge just create another module.</div>
 
 ![Figure-18](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-general.png "Figure-18"){.coalaweb-docs}
 
@@ -891,7 +891,9 @@ can choose one of three options Left, Right or Center. *\[Figure-18b\]*
 
 The CoalaWeb G Plus module also has a few of what I consider **Advanced
 Options** such as the option to assign a **Unique Module ID** to stop
-conflicts. You can also give the it a **Module Class Suffix** or choose
+conflicts. 
+
+You can also give the it a **Module Class Suffix** or choose
 whether to use **Cache** including the **Cache Time**. There is also
 options to turn on or off the **Module CSS** and **Google JS**if you
 want. *\[Figure-18c\]*
@@ -904,8 +906,9 @@ want. *\[Figure-18c\]*
 
 The **CoalaWeb Social Likes** plugin is a content plugin designed to
 display all of the popular social networking vote buttons in several
-formats and locations within your **Joomla** and **K2 content**. All of
-the configuration options for this particular plugin can be found in the
+formats and locations within your **Joomla** and **K2 content**. 
+
+All of the configuration options for this particular plugin can be found in the
 accompanying component under **Extension Options**. If you can't see the
 buttons make sure you have the plugin installed and published and that
 you have selected the appropriate configuration options. *\[Figure-19\]*
@@ -914,9 +917,9 @@ you have selected the appropriate configuration options. *\[Figure-19\]*
 
 ## <a name="plg-share"></a>Social Share \[Pro Version\]
 
-The **CoalaWeb Social Share** plugin is a content plugin designed to display all of the popular social networking share buttons with several icon themes and locations within your **Joomla** and **K2 content**. All of
-the configuration options for this particular plugin can be found in the accompanying component under **Extension Options**. If you can't see the buttons make sure you have the plugin installed and published and that
-you have selected the appropriate configuration options. *\[Figure-19a\]*
+The **CoalaWeb Social Share** plugin is a content plugin designed to display all of the popular social networking share buttons with several icon themes and locations within your **Joomla** and **K2 content**.
+
+All of the configuration options for this particular plugin can be found in the accompanying component under **Extension Options**. If you can't see the buttons make sure you have the plugin installed and published and that you have selected the appropriate configuration options. *\[Figure-19a\]*
 
 ![Figure-19a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-share.png "Figure-19a"){.coalaweb-docs}
 
@@ -927,7 +930,9 @@ you have selected the appropriate configuration options. *\[Figure-19a\]*
 The **CoalaWeb Social Panel** is a content plugin designed to display a 
 variety of social network vote buttons in your Joomla and K2 article views. 
 They will be displayed in a vertical collapsible bar to the side of the article 
-content. All of the configuration options for this particular plugin can be found in the
+content. 
+
+All of the configuration options for this particular plugin can be found in the
 accompanying component under **Extension Options**. If you can't see the
 buttons make sure you have the plugin installed and published and that
 you have selected the appropriate configuration options. *\[Figure-20\]*
@@ -1010,10 +1015,7 @@ The **CoalaWeb Zoo** plugin is a system plugin designed to integrate **custom el
 
 #### <a name="plg-zoo-social"></a>Custom Element - Social Likes
 
-This custom element integrates a variety of popular social
-vote and or share buttons into your zoo applications. Once the plugin is installed
-and publish you will be able to carry out the following steps to get them
-displaying through out your Zoo content.
+This custom element integrates a variety of popular social vote and or share buttons into your zoo applications. Once the plugin is installed and publish you will be able to carry out the following steps to get them displaying through out your Zoo content.
 
 #### Step 1
 Open up **Zoo** and click the small **Gear Icon**. *\[Figure-22\]*
