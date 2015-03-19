@@ -508,8 +508,11 @@ only add the link in the following format www.socialmedia.com. *\[Figure-10\]*
 
 This section controls what is displayed in the **Share This** part of
 the module. You can choose to display a title including what text will
-be displayed. *Note: If your site is multilingual leave blank and use
-the language files.* You can also choose the color of the title and the
+be displayed. 
+
+<div class="uk-alert">Note: If your site is multilingual leave blank and use the language files.</div>
+
+You can also choose the color of the title and the
 border color but only if you selected yes to **Display Borders** in the
 **General Display Options** section. This border will surround the
 **Share This** part of the module. You can enter a \# followed by a
@@ -542,8 +545,11 @@ For the social bookmark options themselves, scroll down the list ticking the one
 
 This section controls what is displayed in the **Follow Us** part of the
 module. You can choose to display a title including what text will be
-displayed. *Note: If your site is multilingual leave blank and use the
-language files.* You can also choose the color of the title and the
+displayed.
+
+<div class="uk-alert">Note: If your site is multilingual leave blank and use the language files.</div>
+
+You can also choose the color of the title and the
 border color but only if you selected yes to **Display Borders** in the
 **General Display Options** section. This border will surround the
 **Follow Us** part of the module. You can enter a \# followed by a color
@@ -814,12 +820,7 @@ layouts and should only be loaded once so if you are using other
 Facebook widgets only select yes in one of them. There is also an option
 to turn off the **Module css** if you want to add your own styling. Next
 is the **NoFollow** option this provides a way to tell search engines
-don't follow a particular link. 
-
-The last option is whether to display a
-**Link Back to CoalaWeb** which is always appreciated but its up to you
-plus you can choose what text to display next to the link. Note: If
-your site is multilingual leave blank and use the language files. *\[Figure-17\]*
+don't follow a particular link.
 
 ![Figure-17](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-advanced.png "Figure-17"){.coalaweb-docs}
 
@@ -876,10 +877,6 @@ can choose one of three options Left, Right or Center. *\[Figure-18b\]*
 
 ### <a name="mod-gplus-advanced"></a>Advanced Options
 
-<div class="uk-alert">To make it easier to follow I have broken up the <em>Advanced Options</em> into two parts.</div>
-
-#### Part 1
-
 The CoalaWeb G Plus module also has a few of what I consider **Advanced
 Options** such as the option to assign a **Unique Module ID** to stop
 conflicts. You can also give the it a **Module Class Suffix** or choose
@@ -888,15 +885,6 @@ options to turn on or off the **Module CSS** and **Google JS**if you
 want. *\[Figure-18c\]*
 
 ![Figure-18c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-advanced1.png "Figure-18c"){.coalaweb-docs}
-
-#### Part 2 - Show Support
-
-The last option is whether to display a **Link Back to CoalaWeb** as
-always it's appreciated but its up to you plus you can choose what text
-to display next to the link. Note: If your site is multilingual leave
-blank and use the language files. *\[Figure-18d\]*
-
-![Figure-18d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-advanced2.png "Figure-18d"){.coalaweb-docs}
 
 # <a name="plg"></a>Plugins
 
