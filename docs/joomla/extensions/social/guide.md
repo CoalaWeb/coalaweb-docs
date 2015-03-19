@@ -47,6 +47,7 @@
     -   [Content Plugin - Social Share \[Pro Version\]](#plg-share)
     -   [Content Plugin - Social Panel \[Pro Version\]](#plg-panel)
     -   [Content Plugin - Social Metadata \[Pro Version\]](#plg-og)
+    -   [Content Plugin - Meta Fields \[Pro Version & J3.+\]](#plg-mf)
     -   [System Plugin - Facebook JS](#plg-fbjs)
     -   [System Plugin - Zoo \[Pro Version\]](#plg-zoo)
         - [1. Element - Social Likes](#plg-zoo-social)
@@ -164,6 +165,7 @@ Next are the **Layout Options** here you can choose to display the buttons above
 ![Figure-3b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-like3.png "Figure-3b"){.coalaweb-docs}
 
 #### Part 3 - Social
+
 Next are the **Social Options** here you can chose which social networks
 you wish to display. These options will affect the display of the
 buttons in Joomla, K2 and Zoo. *\[Figure-3c\]*
@@ -195,6 +197,7 @@ Next are the **General Options** here you can choose to display the buttons abov
 ![Figure-27b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-share3.png "Figure-27b"){.coalaweb-docs}
 
 #### Part 3 - Social
+
 Next are the **Social Options** here you can chose which social networks you wish to display. These options will affect the display of both the
 buttons in Joomla and K2. If you plan to display the Facebook button you will need to create a Facebook application **first** and then copy and paste the **ID** into the **Component** options under the **General** tab. *\[Figure-27c\]*
 
@@ -712,6 +715,7 @@ In this section you can choose the order you want the tabs to be displayed in. T
 To make it easy to identify which tab is which I have added a key letter to the end of each of their names for more details see below.
 
 #### Tab Key:
+
 * [S]=Share
 * [F]=Follow
 * [C]=Custom
@@ -1002,6 +1006,46 @@ more details. *\[Figure-21a\]*
 
 
 ![Figure-21a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-twittercard.png "Figure-21a"){.coalaweb-docs}
+
+## <a name="plg-mf"></a>Meta Fields \[Pro Version & J3.+\]
+
+The **CoalaWeb Meta Fields** content plugin helps add **Open Graph** and **Twitter** meta information to your Joomla content while using the **Article** and or **Category** editors. It will override all other setting you have chosen.
+
+<div class="uk-alert">To make it easier to follow I have broken up <em>Meta Fields</em> into two parts.</div>
+
+#### Part 1 - Article Editor
+
+When using your article editor you will now have a new tab avaliable called **CoalaWeb**. This new tab contains **Metadata** input fields that will override all other settings you have chosen and are specific to the article currently being edited.
+
+The first section gives you the opportunity to add a specific **Type**, **Title**, **Description** and or **Image** for the article being edited. Depending on what you have chosen in the **Component** options these setting will potential affect the display of both **Open Graph** and **Twitter** meta tags.
+
+Keep in mind that all these settings are optional and you can feel free to leave one or all of them blank to let the system decide for you. Example use would be setting the **Type** in the component or your categories options to **Blog** and for your articles to **Article**. *\[Figure-28\]*
+
+<div class="uk-alert">Note: This is really handy for articles that don't have any images but you still want one in your OG tags.</div>
+
+![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mf-plg-article1.png "Figure-28"){.coalaweb-docs}
+
+The second section gives you the opportunity to add Open Graph **Video** tags to your articles. If you want to add video tags please fill in all the options which included **Type**, **URL**, **Secure URL**, **Width** and **Height**. *\[Figure-28a\]*
+
+![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-mf-article2.png "Figure-28a"){.coalaweb-docs}
+
+Typical video settings would look something like this:
+
+-   Type: Flash
+-   URL: http://www.youtube.com/example
+-   Secure URL: https://www.youtube.com/example
+-   Width: 1280
+-   Height: 720
+
+#### Part 2 - Category Editor
+
+When using your category editor you will now have a new tab avaliable called **CoalaWeb**. This new tab contains **Metadata** input fields that will override all other settings you have chosen and are specific to the category currently being edited.
+
+You will have the opportunity to add a specific **Type**, **Title**, **Description** and or **Image** for the category being edited. Depending on what you have chosen in the **Component** options these setting will potential affect the display of both **Open Graph** and **Twitter** meta tags.
+
+Keep in mind that all these settings are optional and you can feel free to leave one or all of them blank to let the system decide for you. Example use would be setting the **Type** in the component or your categories options to **Blog** and for your articles to **Article**. *\[Figure-28b\]*
+
+![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mf-plg-category.png "Figure-28b"){.coalaweb-docs}
 
 ### <a name="plg-fbjs"></a>Facebook JS
 
