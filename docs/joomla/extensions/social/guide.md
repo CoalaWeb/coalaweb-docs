@@ -739,16 +739,16 @@ people using your website to do the following:
 -   Read recent posts from the Page.
 -   Like the Page with one click, without needing to visit the Page.
 
-<div class="uk-alert" markdown="1">Quote: The minimum supported widget width is 292 pixels.</div>
+<div class="uk-alert">Quote: The minimum supported widget width is 292 pixels.</div>
 
 ### <a name="mod-lb-general"></a>General Options
 
-The first option in this section allows you to add your Facebook page.
-The easiest way to do that is open up your page and copy and paste the
-link in the box. Note: The URL should be in the following format
-https://www.facebook.com/CoalaWeb. The last option is
-to select what format you want the widget to display in you have a
-choice of HTML5, XFBML and IFRAME. *\[Figure-13\]*
+The first option in this section allows you to add your Facebook page. The easiest way to do that is open up your page and copy and paste the
+link in the box.
+
+<div class="uk-alert">Note: The URL should be in the following format https://www.facebook.com/CoalaWeb.</div>
+
+The last option is to select what format you want the widget to display in you have a choice of HTML5, XFBML and IFRAME. *\[Figure-13\]*
 
 ![Figure-13](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-general.png "Figure-13"){.coalaweb-docs}
 
