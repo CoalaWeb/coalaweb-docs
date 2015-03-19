@@ -1018,11 +1018,13 @@ The **CoalaWeb Zoo** plugin is a system plugin designed to integrate **custom el
 This custom element integrates a variety of popular social vote and or share buttons into your zoo applications. Once the plugin is installed and publish you will be able to carry out the following steps to get them displaying through out your Zoo content.
 
 #### Step 1
+
 Open up **Zoo** and click the small **Gear Icon**. *\[Figure-22\]*
 
 ![Figure-22](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config1.png "Figure-22"){.coalaweb-docs}
 
 #### Step 2
+
 Now select the **App** you want to add the CoalaWeb Social Likes button
 too for this example we will choose Blog so click **Blog** and then
 select **Article \> Edit Elements**. *\[Figure-22a\]*
@@ -1030,6 +1032,7 @@ select **Article \> Edit Elements**. *\[Figure-22a\]*
 ![Figure-22a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config2.png "Figure-22a"){.coalaweb-docs}
 
 #### Step 3
+
 If the plugin was installed and published properly you should now have a
 new element available under **Social** called **CoalaWeb Social Likes**
 click it once to add it to your **Article** layout. *\[Figure-22b\]*
@@ -1037,6 +1040,7 @@ click it once to add it to your **Article** layout. *\[Figure-22b\]*
 ![Figure-22b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config3.png "Figure-22b"){.coalaweb-docs}
 
 #### Step 4
+
 Now give your new element a **Name**, **Description** and choose the
 appropriate settings for the other options, when you are ready click
 **Save & Close**. *\[Figure-22c\]*
@@ -1044,6 +1048,7 @@ appropriate settings for the other options, when you are ready click
 ![Figure-22c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config4.png "Figure-22c"){.coalaweb-docs}
 
 #### Step 5
+
 Now we need to add the newly available element to our **Template** for
 this example we are using the **Default template** and the **Full
 Layout**. *\[Figure-22d\]*
@@ -1051,6 +1056,7 @@ Layout**. *\[Figure-22d\]*
 ![Figure-22d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config5.png "Figure-22d"){.coalaweb-docs}
 
 #### Step 6
+
 Once the new window has opened you can drag and drop the **CoalaWeb
 Social** Custom element over to your desired location in this example I have chosen
 **Bottom**. Feel free to turn on or off the **Label** or even give it an
@@ -1059,6 +1065,7 @@ Social** Custom element over to your desired location in this example I have cho
 ![Figure-22e](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config6.png "Figure-22e"){.coalaweb-docs}
 
 #### Step 7
+
 Now in each of your **Articles** you will have a new option named what you
 chose back at the start in our case **CoalaWeb Social**. Just set it to **Yes**
 and the buttons will magically appear. *\[Figure-22f\]*
@@ -1092,16 +1099,19 @@ The second source is the **CW Open Graph Extension Layout** which covers the fol
 Setting up the **CW Open Graph Extension Layout** is easy just follow the steps outlined below.
 
 #### Step 1
+
 Open up **Zoo** and click the small **Gear Icon**. *\[Figure-22g\]*
 
 ![Figure-22g](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config1.png "Figure-22g"){.coalaweb-docs}
 
 #### Step 2
+
 Now select the **App** you want to add the **Open Graph** tags too for this example we will be using **Blog**. In the next screen you should now see a new **Article Extension Layout** called **CW Open Graph** select it to move onto the next step. *\[Figure-22h\]*
 
 ![Figure-22h](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config8.png "Figure-22h"){.coalaweb-docs}
 
 #### Step 3
+
 In this step you will need to **Drag and Drop** the relevant **Core** and **Custom** items over to their **Open Graph Positions**. If you are not sure what to place where use the image below as a guide. *\[Figure-22i\]*
 
 ![Figure-22i](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config9.png "Figure-22i"){.coalaweb-docs}
