@@ -438,14 +438,14 @@ Subscriptions** there is a Module called **Download ID** copy the
 code and paste in your component configuration making sure not
 to include any spaces. *\[Figure-7\]*
 
-![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/coalaweb-download-id.png "Figure-7"){.coalaweb-docs}
+![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/generic/coalaweb-download-id.png "Figure-7"){.coalaweb-docs}
 
 ### 8. <a name="options-permissions"></a>Component Permissions
 
 The last tab contains the permission settings for the CoalaWeb Social
 Links component. *\[Figure-8\]*
 
-![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-permissions.png "Figure-8"){.coalaweb-docs}
+![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/generic/coalaweb-permissions.png "Figure-8"){.coalaweb-docs}
 
 # <a name="module"></a>Social Links Module
 
