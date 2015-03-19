@@ -778,9 +778,11 @@ responsive template frameworks will try to shrink down a module before
 moving it entirely as the page width decreases. Next is the **Widget
 Height** here I recommend testing a few different heights with the other
 setting you have chosen I find 500 quite good if for example you are
-**Displaying Faces** and the **Stream**. Note: If you do not see the
-faces, please set a bigger height (e.g. 630). The next option is the
-**Module Width** not to be confused with the **Widget Width** this is
+**Displaying Faces** and the **Stream**. 
+
+<div class="uk-alert">Note: If you do not see the faces, please set a bigger height (e.g. 630).</div>
+
+The next option is the **Module Width** not to be confused with the **Widget Width** this is
 the surrounding Joomla module. You might want to reduce this width if
 for example you only have two modules displayed at the bottom of your
 page and you want the Like Box to be a bit more compact. *\[Figure 14\]*
@@ -790,8 +792,11 @@ page and you want the Like Box to be a bit more compact. *\[Figure 14\]*
 ### <a name="mod-lb-style"></a>Style Options
 
 This section contains some style options the first one is the **Color
-Style** you have a choice of Light or Dark. Note: These widget color
-styles are controlled by Facebook. The next option allows you to turn
+Style** you have a choice of Light or Dark. 
+
+<div class="uk-alert">Note: These widget color styles are controlled by Facebook.</div>
+
+The next option allows you to turn
 on or off a **Border** around the widget. The next one allows to chose
 if you want the small **Face** boxes to be displayed in the module. The
 last one gives you the option to turn on or off the Facebook **Header**
@@ -815,7 +820,9 @@ The CoalaWeb Social Links module also has a few of what I consider
 **Advanced Options** such as the option to assign a **Unique Module ID**
 to stop conflicts, a **Module Class Suffix** or whether to use **Cache**
 including the **Cache Time**. This next option allows you to load the
-**Facebook JavaScript library**. It works with the XFBML and HTML5
+**Facebook JavaScript library**. 
+
+It works with the XFBML and HTML5
 layouts and should only be loaded once so if you are using other
 Facebook widgets only select yes in one of them. There is also an option
 to turn off the **Module css** if you want to add your own styling. Next
@@ -857,11 +864,16 @@ three options based on your type choice. *\[Figure-18\]*
 
 The options found here will affect all the badge types. The first one is
 **Layout**, you can choose to display the badge in Portrait \[Vertical\]
-or Landscape \[Horizontal\]. Next you have the option to choose the width
+or Landscape \[Horizontal\]. 
+
+Next you have the option to choose the width
 of the badge in pixels. The following ranges are valid: Portrait layout
 180-450 pixels Landscape layout 273-450 pixels. Next you have a choice
-of Light or Dark. Note: These badge color styles are controlled by
-Google. The next option specifies whether or not to show the tag line
+of Light or Dark. 
+
+<div class="uk-alert">Note: These badge color styles are controlled by Google.</div>
+
+The next option specifies whether or not to show the tag line
 and the last option is whether or not to display the cover photo in the
 badge. Note: Only if the photo exists. *\[Figure-18a\]*
 
