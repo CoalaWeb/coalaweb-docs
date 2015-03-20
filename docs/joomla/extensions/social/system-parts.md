@@ -82,7 +82,7 @@ The **CoalaWeb Open Graph** content plugin takes care of adding **Social Metadat
 
 ### <a name="plg-meta"></a>Content - Meta Fields \[Pro Version & J3.+]
 
-The **CoalaWeb Meta Fields** content plugin will help add **Open Graph** and **Twitter** meta information to your Joomla content while using the **Article** and or **Category** editors. It will override all other setting you have chosen. *\[Figure-10\]*
+The **CoalaWeb Meta Fields** content plugin helps add **Open Graph** and **Twitter** meta information to your Joomla content while using the **Article** and or **Category** editors. It will override all other setting you have chosen. *\[Figure-10\]*
 
 ![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/meta-fields.png "Figure-10"){.coalaweb-docs}
 
