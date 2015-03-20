@@ -1,5 +1,72 @@
 ##Change Log
 
+### Version 0.2.0 March 2015
+
+#### Component - Social Links
+- **(C)** Updated install script.
+- **(C)** Merged all media files into component.
+- **(C)** Changed Download ID message to info type from alert.
+- **(N)** New database table to hold article and category meta data.
+- **(N)** Integrated new Meta Field plugin.
+- **(L)** New and updated language strings.
+- **(R)** Removed Open Graph default URL option.
+
+#### Module - Social Links
+- **(C)** Updated Facebook's popup option so when used the cancel and redirect work correctly.
+- **(C)** Merged all media files into component.
+- **(B)** Fixed mail conflict in IE when using email cloak
+- **(B)** Fixed CSS conflicts with Artisteer templates
+- **(B)** Fixed CSS displaying link text in Chrome
+- **(A)** Option to turn off link text for screen readers
+- **(R)** Removed option to support developer with a link
+
+#### Module - Likebox
+- **(C)** Merged all media files into component.
+- **(B)** Fixed cache stopping the count of when to load Facebook JS
+- **(R)** Removed option to support developer with a link
+
+#### Module - Google +
+- **(C)** Merged all media files into component.
+- **(R)** Removed option to support developer with a link
+
+#### Module - Social Tabs
+- **(C)** Updated Facebook's popup option so when used the cancel and redirect work correctly.
+- **(C)** Merged all media files into component.
+- **(C)** Small CSS change
+
+#### Plugin(S) - Facebook JS
+- **(L)** Language ref was wrong
+- **(A)** Added Help file URL
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(N)** Integrated new meta field plugin data from database.
+- **(C)** Complete rewrite
+- **(C)** Changed a language string
+- **(A)** Added Help file URL
+
+#### Plugin(C) - Social Share\[Pro\]
+- **(C)** Updated Facebook's popup option so when used the cancel and redirect work correctly.
+- **(C)** Merged all media files into component.
+- **(A)** Added Help file URL
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(C)** Merged all media files into component.
+- **(B)** Fixed cache stopping the count of when to load Facebook JS
+- **(A)** Added Help file URL
+
+#### Plugin(C) - Social Panel \[Pro\]
+- **(C)** Merged all media files into component.
+- **(B)** Fixed cache stopping the count of when to load Facebook JS
+- **(A)** Added Help file URL
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(N)** Integrated into the CoalaWeb Social Links extension.
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Merged all media files into component.
+- **(B)** Fixed cache stopping the count of when to load Facebook JS
+- **(A)** Added Help file URL
+
 ### Version 0.1.9 January 2015
 
 #### Component - Social Links
