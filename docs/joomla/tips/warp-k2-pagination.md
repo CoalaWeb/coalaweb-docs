@@ -1,4 +1,5 @@
 ## Table of Contents
+
 1.  [Intro](#intro)
 2.  [Guide](#guide)
 5.  [Things to note](#notes)
@@ -87,4 +88,6 @@ Thats it! Now you have perfectly styled pagination that matches your template!
 
 ## <a name="more-help"></a>Need More Help
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</span>
+***
+
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
