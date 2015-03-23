@@ -43,7 +43,7 @@ In this section you can decided if you want to add **Asnyc** and or **Defer** to
 
 In this section you have the option to turn on a CoalaWeb specific version of Uikit by YooTheme including an option to choose which of the default themes to use. *\[Figure 4\]*
 
-<div class="uk-alert">This option is only going to apply to a select group of CoalaWeb extensions. Unless otherwise asked to I recommend leaving this option set to **Yes** to ensure certain CoalaWeb extensions function correctly.</div>
+<div class="uk-alert">This option is only going to apply to a select group of CoalaWeb extensions. Unless otherwise asked to I recommend leaving this option set to <em>Yes</em> to ensure certain CoalaWeb extensions function correctly.</div>
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f4.png "Figure-4"){.coalaweb-docs}
 
@@ -62,9 +62,9 @@ will become
     http://www.example.com/templates/protostar/images/background.jpg
 
 
-<div class="uk-alert"> Note: If turned on make sure to use paths starting from your Joomla root for example /images/backgrounds/my-background.jpg</div>
+<div class="uk-alert"> Note: If turned on make sure to use paths starting from your Joomla root for example <em>/images/backgrounds/my-background.jpg</em></div>
 
-You can also include a **Custom File** if needed, just enter the location of the file you wish to include in the input field in the following format.
+You can also include a **Custom File** if needed, just enter the location of the file you wish to include in the following format.
 
     /media/mycss/custom.css
 
