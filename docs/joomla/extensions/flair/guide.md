@@ -6,11 +6,11 @@
     -   [General](#mod-gen)
     -   [Individual](#mod-ind)
     -   [Advanced](#mod-adv)
-4.  [Need More Help?](#more-help)
+3.  [Need More Help?](#more-help)
 
 The CoalaWeb Flair module has a long list of options so we have broken them up into 3 sections which are explained in detail below but first we will explain how to retrieve your profile ID numbers.
 
-## <a name="account"></a>StackExchange Account Details
+## <a class="doc-top" name="account"></a>StackExchange Account Details
 
 ### <a name="account-com"></a>Combined
 

@@ -8,12 +8,11 @@
     -   [System - Traffic Clean](#plg-clean)
     -   [System - Traffic Online](#plg-online)
 
-## <a name="overview"></a>Overview
+## <a class="doc-top"  name="overview"></a>Overview
 
 CoalaWeb Traffic is a Joomla 2.5 & 3.+ extension to help you keep track of the visitors to your site. You can choose to display the module and let visitors see and be amazed by your traffic or unpublish the module and view your website statistics in the **Admin** area its up to you.
 
-<div class="uk-alert" markdown="1">When you install a CoalaWeb extension all the parts of the system will be installed at the same time making installing, 
-upgrading and uninstalling a breeze.</div>
+<div class="uk-alert">When you install a CoalaWeb extension all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
 ## <a name="component"></a>Component
 

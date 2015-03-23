@@ -54,7 +54,8 @@
         - [2. Layout - Open Graph](#plg-zoo-og)
 7.  [Need More Help?](#more-help)
 
-# <a class="doc-top" name="component-guide"></a>Component
+## <a class="doc-top" name="component-guide"></a>Component
+
 ### <a name="control-panel"></a>Control Panel
 
 The **Control Panel** as seen below it is designed to be an easy

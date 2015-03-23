@@ -22,7 +22,7 @@
     -   [Editor XTD Plugin - Contact](#plg-xtd)
 4.  [Need More Help?](#more-help)
 
-# <a name="component-guide"></a>Component
+## <a class="doc-top" name="component-guide"></a>Component
 ### <a name="control-panel"></a>Control Panel
 
 The **Control Panel** as seen below is designed to be an easy starting point, think of it as the head quarters for the extension. While carrying out tasks you can easily jump from the **Control Panel** to the different sections and then return before moving onto the next one. *\[Figure-1\]*
@@ -41,8 +41,7 @@ In the control panel or the tool menu you have an options icon that when clicked
 
 ### <a name="options-general"></a>1. General Options
 
-<div class="uk-alert" markdown="1">The options below will influence the Content Plugin [Pro] and the
-Contact Module unless overridden in the module configuration.</div>
+<div class="uk-alert" markdown="1">The options below will influence the Content Plugin [Pro] and the Contact Module unless overridden in the module configuration.</div>
 
 To make it easier to follow I have broken up the General settings into three parts.
 
@@ -50,7 +49,7 @@ To make it easier to follow I have broken up the General settings into three par
 
 The first thing that will need to be filled in is the **Recipient Email** without this the system will display an error message. If you have purchased a Pro subscription you will also have two additional fields a CC Email and a BCC email. Next you have a **Default Subject** option this will display in the email subject followed by the submitters subject if you have chosen to display this option. Next is the **Mail From** option where you can choose to have the email sent by the **Contact Form User** or by the **Joomla Mail Settings**. In some cases you have will have to use the **Joomla Mail Settings** for the system to work correctly due to hosting or service provider restrictions.
 
-Next youhave an option to chose the format you wish the emails to be sent in. If you are using the core version you will only have the **No HTML** optionbut for Pro users you will have two additional options of **Basic HTML** and **Rich HTML**. The last option in Part1 is **Redirection** after the mail has been successfully sent. The **Core** version gives you two options the first one is to return to the **Same Page** that the form was submitted on while the second one will return the user to the **Home Page** of your website. The **Pro** version has an additional **Custom URL** option that if chosen will redirect the user to the URL entered in the following **Custom URL** field. *\[Figure-3\]*
+Next you have an option to chose the format you wish the emails to be sent in. If you are using the core version you will only have the **No HTML** optionbut for Pro users you will have two additional options of **Basic HTML** and **Rich HTML**. The last option in Part1 is **Redirection** after the mail has been successfully sent. The **Core** version gives you two options the first one is to return to the **Same Page** that the form was submitted on while the second one will return the user to the **Home Page** of your website. The **Pro** version has an additional **Custom URL** option that if chosen will redirect the user to the URL entered in the following **Custom URL** field. *\[Figure-3\]*
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-general1.png "Figure-3"){.coalaweb-docs}
 
@@ -151,9 +150,7 @@ your site is multilingual leave blank and use the language files. *\[Figure 9\]*
 
 #### ReCaptcha
 
-<span class="alert" markdown="1">Please note Recaptcha can only be displayed once on a page. I'm
-currently looking into a reliable work around for this issue and I will
-implement it if one becomes avaliable.</div>
+<div class="alert">Note: Recaptcha can only be displayed once on a page. I'm currently looking into a reliable work around for this issue and I will implement it if one becomes avaliable.</div>
 
 You also get the option to use ReCaptcha which will require you to Copy
 and paste your Public and Private keys in fields provided and theme you
@@ -203,6 +200,7 @@ component. *\[Figure-12\]*
 ![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-permissions.png "Figure-12"){.coalaweb-docs}
 
 # <a name="module"></a>Contact Module
+
 ![Module-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-module-themes.png "Module-Demo"){.coalaweb-docs}
 
 ### <a name="mod-general"></a>General Display Options
@@ -298,7 +296,7 @@ and use the language files. *\[Figure-16\]*
 
 ![Figure-16](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-captcha1.png "Figure-16"){.coalaweb-docs}
 
-For the Pro subscribers you get two additional Captcha options.
+<div class="alert">For the <em>Pro</em> subscribers you get two additional Captcha options.</div>
 
 #### Math Captcha
 
@@ -338,8 +336,9 @@ such as **Type**, **Version** and **Release Date**. *\[Figure-19\]*
 
 ![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-r-info.png "Figure-19"){.coalaweb-docs}
 
-# <a name="plg"></a>Plugins \[PRO\]
-## <a name="plg-content"></a>Content Plugin - Contact
+## <a name="plg"></a>Plugins \[PRO\]
+
+### <a name="plg-content"></a>Content Plugin - Contact
 
 The CoalaWeb Contact plugin gives you even more flexibility by allowing
 you to place one or more contact forms anywhere within your content. All
@@ -351,7 +350,7 @@ configuration options.
 
 ![Content-PLG-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-plg-content.png "Content-PLG-Demo"){.coalaweb-docs}
 
-## <a name="plg-xtd"></a>Editor XTD Plugin - Contact
+### <a name="plg-xtd"></a>Editor XTD Plugin - Contact
 
 The **Editor XTD** plugin makes adding a contact form to your Joomla
 content a one click process. Just place the cursor where you want the
@@ -360,7 +359,7 @@ displayed at the bottom of the editor.
 
 ![XTD-PLG-Button](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-plg-btn.png "XTD-PLG-Button"){.coalaweb-docs}
 
-## <a name="more-help"></a>Need more help?
+### <a name="more-help"></a>Need more help?
 
 <div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="http://coalaweb.com/support/documentation/category/contact" target="_self">FAQ</a></div>
 

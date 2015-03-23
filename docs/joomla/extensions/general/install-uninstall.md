@@ -6,13 +6,13 @@
     -   [Install From Web \[J3.+\]](#web)
 2.  [Uninstallation Guides](#uninstall)
     -   [Uninstall](#uninstall-all)
-4.  [Need More Help?](#more-help)
+3.  [Need More Help?](#more-help)
 
-<div class="uk-alert" markdown="1">Note: CoalaWeb guides refer to a Joomla 3.+ installation but the steps are very similar for a Joomla 2.5.</div>
+<div class="uk-alert">Note: CoalaWeb guides refer to a Joomla 3.+ installation but the steps are very similar for a Joomla 2.5.</div>
 
-# <a name="install"></a>Installation Guides
+## <a class="doc-top" name="install"></a>Installation Guides
 
-## <a name="upload"></a>Upload Package File
+### <a name="upload"></a>Upload Package File
 
 The first method of installing a CoalaWeb extension we are going to cover is the 
 **Upload Package File** method. This is the most common method for installing Joomla 
@@ -45,11 +45,11 @@ used by CoalaWeb extensions will take care of installing all the related parts o
 the system such as **Modules** and **Plugins** and when it has 
 finished you will receive conformation. *\[Figure-3\]*
 
-<div class="uk-alert" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
+<div class="uk-alert">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-4"){.coalaweb-docs}
 
-## <a name="directory"></a>Install from Directory
+### <a name="directory"></a>Install from Directory
 
 The second method of installing a CoalaWeb extension we are going to cover is the 
 **Install from Directory** method. This is a great way to install larger 
@@ -61,7 +61,7 @@ drop by the **Downloads** section of [CoalaWeb](http://coalaweb.com) and grab
 a copy of the extension you want to install. The difference with this method of 
 installing an extension is that we need it unzipped so you may as well do it now. *\[Figure-1\]*
 
-<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
+<div class="alert">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/download-pack.png "Figure-1"){.coalaweb-docs}
 
@@ -102,17 +102,18 @@ used by CoalaWeb extensions will take care of installing all the related parts o
 the system such as **Modules** and **Plugins** and when it has 
 finished you will receive conformation. *\[Figure-5\]*
 
-<div class="uk-alert" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
+<div class="uk-alert">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
 ![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-5"){.coalaweb-docs}
 
-## <a name="url"></a>Install From URL
+### <a name="url"></a>Install From URL
+
 This option is a great way to install a CoalaWeb extension without needing to 
 download it first.
 
-<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
+<div class="alert">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
 
-<span class="alert" markdown="1">Note: To use this method you will need to be a registered and logged in user to access the link.</div>
+<div class="alert">Note: To use this method you will need to be a registered and logged in user to access the link.</div>
 
 Once you have logged in over at [CoalaWeb](http://coalaweb.com) proceed to the 
 **Downloads** area the same as for the previous two methods of installing 
@@ -141,13 +142,13 @@ finished you will receive conformation. *\[Figure-3\]*
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-3"){.coalaweb-docs}
 
-## <a name="web"></a>Install from Web J3.+
+### <a name="web"></a>Install from Web J3.+
 
 The last way to install a CoalaWeb extension we are going to cover is the new Joomla 3.+
 **Install from Web** option which is a quick and easy way to try out our **Core**
 extensions.
 
-<span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
+<div class="alert">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
 
 First log into the backend of your Joomla installation and open up the 
 **Extension Manager** then select the **Install from Web** option.
@@ -177,13 +178,13 @@ used by CoalaWeb extensions will take care of installing all the related parts o
 the system such as **Modules** and **Plugins** and when it has 
 finished you will receive conformation. *\[Figure-4\]*
 
-<div class="uk-alert" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
+<div class="uk-alert">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-4"){.coalaweb-docs}
 
-# <a name="uninstall"></a>Uninstallation Guides
+## <a name="uninstall"></a>Uninstallation Guides
 
-## <a name="uninstall-all"></a>Uninstall
+### <a name="uninstall-all"></a>Uninstall
 
 Coalaweb extensions come with an install script that takes care of installing all 
 the parts system in one go such as a components, modules and plugins. The same 
@@ -216,7 +217,7 @@ used by CoalaWeb extensions will take care of uninstalling all the related parts
 the system such as **Modules** and **Plugins** and when it has 
 finished you will receive conformation. *\[Figure-4\]*
 
-<div class="uk-alert" markdown="1">Note: Uninstalling an extension can take some time due to having to uninstall several smaller extensions at the same time so please be patient.</div>
+<div class="uk-alert">Note: Uninstalling an extension can take some time due to having to uninstall several smaller extensions at the same time so please be patient.</div>
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/uninstall-all-4.png "Figure-4"){.coalaweb-docs}
 
@@ -238,4 +239,4 @@ has finished you will receive confirmation and you are done. *\[Figure-6\]*
 
 ## <a name="more-help"></a>Need More Help
 
-<div class="uk-alert" markdown="1">Do you have a question that wasn't covered by the GUIDE? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</div>
+<div class="uk-alert">Do you have a question that wasn't covered by the GUIDE? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index)</div>

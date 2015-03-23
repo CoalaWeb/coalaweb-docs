@@ -1,9 +1,9 @@
 ## Table of Contents
 1.  [Overview](#overview)
-3.  [Plugins](#plugins)
+2.  [Plugins](#plugins)
     -   [System - Gears](#plg-gears)
 
-## <a name="overview"></a>Overview
+## <a class="doc-top" name="overview"></a>Overview
 
 CoalaWeb Gears is a Swiss army knife full of great little tools that you can use with or without a CoalaWeb extension.
 

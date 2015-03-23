@@ -1,12 +1,11 @@
 ## Table of Contents
-
 1.  [Overview](#overview)
 2.  [Modules](#modules)
     -   [Social Links](#mod-flair)
 3.  [Plugins](#plugins)
     -   [System - Gears](#plg-gears)
 
-## <a name="overview"></a>Overview
+## <a class="doc-top" name="overview"></a>Overview
 
 CoalaWeb Flair is a Joomla extension that lets you display your flair from several StackExchange sites individually or combined into one.
 

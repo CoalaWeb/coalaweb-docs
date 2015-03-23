@@ -9,7 +9,7 @@
     - [Not Using Open Graph](#og-not)
 4.  [Open Graph Debug Tool](#debug)
 5.  [Quick Tips](#tips)
-2.  [Need More Help?](#more-help)
+6.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="intro"></a>Intro
 

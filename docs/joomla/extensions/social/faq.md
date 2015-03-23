@@ -70,7 +70,7 @@ Now StumbleUpon will cause the following errors:
 
 These won’t affect the functionality of the button but I have yet to find a solid solution but I will keep looking.
 
-<div class="uk-alert" markdown="1">I will continue to implement changes with each new release as solutions become available.</div>
+<div class="uk-alert">I will continue to implement changes with each new release as solutions become available.</div>
 
 ***
 

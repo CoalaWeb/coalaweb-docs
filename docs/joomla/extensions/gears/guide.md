@@ -7,7 +7,7 @@
     -   [Custom CSS](#opt-css)
     -   [Custom JS](#opt-js)
     -   [Cache Control](#opt-cache)
-4.  [Need More Help?](#more-help)
+2.  [Need More Help?](#more-help)
 
 The CoalaWeb Gears module has a long list of options so we have broken them up into 7 sections which are explained in detail below.
 

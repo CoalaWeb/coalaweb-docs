@@ -1,9 +1,9 @@
 ## List of Questions
-1.  [How can I update the text starting **Do you have any idea in mind?**](#q1)
+1.  [How can I update the text starting: Do you have any idea in mind?](#q1)
 
 ***
 
-#### <a name="q1"></a>How can I update the text starting **Do you have any idea in mind?**
+#### <a class="doc-top" name="q1"></a>How can I update the text starting **Do you have any idea in mind?**
 
 The complete text will look something like:
 

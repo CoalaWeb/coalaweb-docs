@@ -7,11 +7,11 @@
     -   [Content - Contact\[Pro\]](#plg-contact)
     -   [Editor XTD - BTN Contact \[Pro\]](#plg-button)
 
-## <a name="overview"></a>Overview
+## <a class="doc-top"  name="overview"></a>Overview
 
 CoalaWeb Contact is a complete contact form package designed to give users a quick and easy way to place contact forms anywhere within their Joomla website.
 
-<span class="tip" markdown="1">When you install CoalaWeb Social Links all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</span>
+<div class="alert">When you install CoalaWeb Social Links all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
 ## <a name="component"></a>The Component
 
@@ -19,7 +19,7 @@ The component is the control center for the extension allowing you to choose you
 
 ## <a name="modules"></a>Modules
 
-<span class="tip" markdown="1">The module configuration options override the component settings to give you more flexibility.</span>
+<div class="alert">The module configuration options override the component settings to give you more flexibility.</div>
 
 ### <a name="mod-contact"></a>Contact
 

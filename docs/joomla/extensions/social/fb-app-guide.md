@@ -8,7 +8,7 @@ You need to have your personal Facebook profile registered as a **Developer** be
 
 First navigate to Facebook.com and login with your personal Facebook account. If you don't already have one you’ll need to create one now. 
 
-Note: If you are only using Facebook to manage pages, these instructions will not work you will need a personal Facebook account to continue.
+<div class="uk-alert">Note: If you are only using Facebook to manage pages, these instructions will not work you will need a personal Facebook account to continue.</div>
 
 Next go to https://developers.facebook.com/apps and click on the green **Register as a Developer** button in the upper right. You will more than likely have to verify your Facebook account via phone. Once you have finished verifying your account click the **Register as a Developer** button and you will be confronted with a popup. *\[Figure-1\]*
 

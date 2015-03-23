@@ -1,11 +1,20 @@
+## Table of Contents
+1.  [Where are the language files stored?](#stored)
+2.  [Who manages the translation process?](#process)
+3.  [What's in it for me?](#returns)
+4.  [Need More Help?](#more-help)
 
-##The Official Way to translate a CoalaWeb extension
+## <a class="doc-top" name="official"></a> The Official Way to translate a CoalaWeb extension
 
-### Where are the language files stored?
+### <a name="stored"></a>Where are the language files stored?
 
 All our language packs are created through the powerful online translation environment [Transifex](https://www.transifex.com). So the first thing you will need to do if you want contribute is create a free account over at Transifex. If you haven't already got one, head over to the [Transifex Signup](https://www.transifex.com/signup) page and get started.
 
-### Who manages the translation process?
+Once **Some** or **All** the language files of particular extension have been translated they will be available in the [Language Download Area](http://coalaweb.com/downloads/language-packs/joomla-extensions) as an installable language pack.
+
+<div class="uk-alert">Note: Only 100% completed language files will be included in the language pack when downloaded.</div>
+
+### <a name="process"></a>Who manages the translation process?
 
 The management of our language packs has been handed over to the fantastic Joomla translation group known as the [OpenTranslators](http://opentranslators.org/).
 
@@ -13,12 +22,12 @@ The OpenTranslators takes care of the translation teams which are grouped by lan
 
 So now that you have created a Transifex account the next step is [requesting to join](https://opentranslators.transifex.com/organization/opentranslators/dashboard/coalaweb-contact) a language team. The process of joining a team can take some time so please be patient but if you don't get an answer for an extend period of time just let me know and I will make some inquires for you.
 
-### What's in it for me?
+### <a name="returns"></a>What's in it for me?
 
 If you completely translate all the language files for a CoalaWeb extension that includes a **Pro** version I'll send you a copy of the Pro version for free. When I release an update if you translate the newly added language strings I will also send you a copy of the Pro version.
 
 For the CoalaWeb Core extensions you obviously get to use it in your chosen language and on top of that you will get a warm fuzzy feeling for helping out the community.
 
-### Need more help?
+### <a name="more-help"></a> Need more help?
 
 If you have any further questions feel free to use the [Contact Form](https://coalaweb.com/support/get-in-touch/contact-us) or drop by the [Forum](https://coalaweb.com/forum).

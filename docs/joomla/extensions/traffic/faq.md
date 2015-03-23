@@ -7,7 +7,7 @@
 
 ***
 
-#### <a name="q1"></a>Fatal error: Class 'JControllerLegacy' not found
+#### <a class="doc-top"  name="q1"></a>Fatal error: Class 'JControllerLegacy' not found
 
 Updating Joomla to the latest version will fix this issue. Legacy is a new concept that is mainly used in Joomla 3.0 but also works in the latest 2.5 releases.
 
@@ -51,7 +51,7 @@ If this directory is empty then the component wouldn't be functioning at all. I'
 
     components/com_coalawebtraffic
 
-<div class="uk-alert" markdown="1">Note: This directory will be empty as there are no front end views for CoalaWeb Traffic.</div>
+<div class="uk-alert">Note: This directory will be empty as there are no front end views for CoalaWeb Traffic.</div>
 
 Once you have found the right location it should have files similar to this including the assets directory. *\[Figure-1\]*
 

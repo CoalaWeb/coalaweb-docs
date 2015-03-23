@@ -25,7 +25,8 @@
     -   [System Plugin Online](#plg-online)
 4.  [Need More Help?](#more-help)
 
-# <a name="component-guide"></a>Component
+## <a class="doc-top" name="component-guide"></a>Component
+
 ### <a name="control-panel"></a>Control Panel
 
 The **Control Panel** as seen below it is designed to be an easy
@@ -115,7 +116,7 @@ create a new entry give it a **Name** and **Description** add the **Robot Name**
 set **Count** to no. Now that particular robot will not appear in the visitors 
 list as it is not counted by the system any more.
 
-<div class="uk-alert" markdown="1">Note: The most reliable way to identify visitors is by their IP the name information comes from their **user agent string** which isn't always supplied.</div>
+<div class="uk-alert" >Note: The most reliable way to identify visitors is by their IP the name information comes from their <em>user agent string</em> which isn't always supplied.</div>
 
 ### <a name="geo"></a>GEO Location
 
@@ -150,8 +151,7 @@ website traffic with out the database installed the only difference is
 that you won't see *Country* or *City* information associated with their
 IP addresses.
 
-<div class="uk-alert" markdown="1">Note: It's a good idea to inform visitors in your privacy policy or TOS that
-you are collecting their information.</div>
+<div class="uk-alert">Note: It's a good idea to inform visitors in your privacy policy or TOS that you are collecting their information.</div>
 
 #### <a name="geo-install"></a>Installing the Geo Database
 
@@ -202,15 +202,14 @@ to your visitor records as they are collected. To keep the location
 information as accurate as possible just carry out this procedure at
 regular intervals.
 
-<div class="uk-alert" markdown="1">Note: Please be patient when **Uploading** and **Unzipping** the database it may take
-some time due to the size of the file.</div>
+<div class="uk-alert">Note: Please be patient when **Uploading** and <em>Unzipping</em> the database it may take some time due to the size of the file.</div>
 
 #### <a name="geo-manual"></a>Manual Install
 
 If you couldn't install the database the easy way no problem lets just do it the manual
 way by following these steps. The sizes I mentions in the following steps may differ but you get the idea.
 
-<div class="uk-alert" markdown="1">Note: To avoid issues please follow these steps exactly as they are written.</div>
+<div class="uk-alert">Note: To avoid issues please follow these steps exactly as they are written.</div>
 
 Download the latest MaxMind GeoLiteCity database 
 [HERE](http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz). *\[Figure-5g\]*.
@@ -284,7 +283,7 @@ the data being laid out in a sheet.  *\[Figure-6e\]*
 
 You can now format, filter and save the data as you wish.
 
-<div class="uk-alert" markdown="1">Note: Don't forget what you see is what you get! The exported file will contain what is displayed on the screen.</div>
+<div class="uk-alert">Note: Don't forget what you see is what you get! The exported file will contain what is displayed on the screen.</div>
 
 ### <a name="help"></a>Inbuilt Help
 
@@ -337,7 +336,7 @@ and, if it is a malicious user, it will not count them. *\[Figure-8b\]*
 
 ![Figure-8b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-3.png "Figure-8b"){.coalaweb-docs}
 
-<div class="uk-alert" markdown="1">Note: CoalaWeb Traffic does not block visitors from your site only from being counted by the Traffic system.</div>
+<div class="uk-alert">Note: CoalaWeb Traffic does not block visitors from your site only from being counted by the Traffic system.</div>
 
 **Use Project Honeypot**
 
@@ -399,7 +398,7 @@ the CoalaWeb Traffic component. *\[Figure-8d\]*
 The CoalaWeb Traffic module has a huge list of options so we have broken
 them up into several sections which are explained in detail below.
 
-<div class="uk-alert" markdown="1">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text.</div>
+<div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text.</div>
 
 ### <a name="mod-general"></a>General Display Options
 
@@ -520,8 +519,7 @@ site that they visit.
 This plugin also takes care of blocking visitors from being counted based on your 
 setting in the CoalaWeb Traffic component.
 
-<div class="uk-alert" markdown="1">Note: To ensure proper functionality of CoalaWeb Traffic please make sure this
-plugin is installed and publish.</div>
+<div class="uk-alert">Note: To ensure proper functionality of CoalaWeb Traffic please make sure this plugin is installed and publish.</div>
 
 ## <a name="plg-clean"></a>System Plugin - Clean
 
@@ -531,8 +529,7 @@ background keeping the current data but delete out the old entries and
 then add them to a running total. It is recommended to turn this feature
 on.
 
-<div class="uk-alert" markdown="1">Have you chosen automatic database clean up? Then this plugin needs to
-be installed and published.</div>
+<div class="uk-alert">Have you chosen automatic database clean up? Then this plugin needs to be installed and published.</div>
 
 ## <a name="plg-online"></a>System Plugin - Online
 
@@ -540,8 +537,7 @@ This plugin will count and then supply the information so the **Traffic**
 module can display the currently online visitors. It uses it own database table 
 along with cookies to keep track of visitors.
 
-<div class="uk-alert" markdown="1">Have you chosen to display **Who is Online**? Then this plugin needs to
-be installed and published.</div>
+<div class="uk-alert">Have you chosen to display <em>Who is Online?</em> Then this plugin needs to be installed and published.</div>
 
 ## <a name="more-help"></a>Need More Help
 
