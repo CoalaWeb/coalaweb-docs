@@ -11,7 +11,7 @@
 
 The CoalaWeb Gears module has a long list of options so we have broken them up into 7 sections which are explained in detail below.
 
-## <a name="options"></a>Options
+## <a class="doc-top" name="options"></a>Options
 
 ### <a name="opt-general"></a>General
 
