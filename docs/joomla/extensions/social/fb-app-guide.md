@@ -46,7 +46,7 @@ In the next window select **Skip Quickstart** from the top right. *\[Figure-4\]*
 ### <a name="step-5"></a>Step 5
 In the **Create a New App** window give your new application a **Display Name**.
 
-<div class="uk-alert" markdown="1">This will be seen in the bottom of the pop up **Share** dialog so something related to your website is best.</div>
+<div class="uk-alert">This will be seen in the bottom of the pop up <em>Share</em> dialog so something related to your website is best.</div>
 
 You can leave the **Namespace** blank and **No** for the test version question. Lastly on this page you need to choose a **Category** for the App in this example I have chosen **Utilities** but for more info on categories try this [Link](https://developers.facebook.com/docs/games/appcenter/categories) *\[Figure-5\]* 
 
@@ -71,7 +71,9 @@ We still have a couple more steps before we are ready to use the **App ID**. *\[
 ### <a name="step-8"></a>Step 8
 On the left side of your **Dashboard**, click **Settings** from the menu and make sure you looking at the **Basic** tab. In this window you will need to enter the **App Domains** and **Contact Email** for your app. *\[Figure-8\]*
 
-<div class="uk-alert" markdown="1">Do not include the **http** part of the domain.</div>
+<div class="uk-alert">For the <em>App Domains</em> make sure to enter your website domain i.e where the extension is installed.</div>
+
+<div class="uk-alert">Do not include the <em>http</em> part of the domain.</div>
 
 ![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb/cw-fbapp-figure8.png "Figure-8"){.coalaweb-docs}
 
@@ -88,7 +90,7 @@ From the next window choose **Website** for your platform. *\[Figure-10\]*
 ### <a name="step-11"></a>Step 11
 In the next window enter your website address into the **Site URL** field and then choose **Save Changes**. *\[Figure-11\]*
 
-<div class="uk-alert" markdown="1">You **DO** want to include the full URL, including the http:// </div>
+<div class="uk-alert">You <em>DO</em> want to include the full URL, including the http:// </div>
 
 ![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb/cw-fbapp-figure11.png "Figure-11"){.coalaweb-docs}
 
