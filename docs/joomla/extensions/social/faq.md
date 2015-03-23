@@ -9,7 +9,7 @@
 
 ***
 
-#### <a name="q1"></a>Can I install CoalaWeb Social Links on multiple domains?
+#### <a class="doc-top" name="q1"></a>Can I install CoalaWeb Social Links on multiple domains?
 
 **YES** - You can install Social Links on as many domains as you want. There is no domain check or restriction.
 

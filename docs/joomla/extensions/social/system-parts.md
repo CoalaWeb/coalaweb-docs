@@ -16,7 +16,7 @@
     -   [System - Facebook JS](#plg-fbjs)
     -   [System - Gears](#plg-gears)
 
-## <a name="overview"></a>Overview
+## <a class="doc-top" name="overview"></a>Overview
 
 CoalaWeb Social Links is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons. There are two options avaliable a Core (Free) version and Pro (Paid Subscription) version with extend functionality.
 

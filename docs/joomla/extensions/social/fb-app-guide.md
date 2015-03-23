@@ -3,7 +3,7 @@
 2.  [Guide](#guide)
 3.  [Need More Help?](#more-help)
 
-## <a name="register"></a>Register as a Developer
+## <a class="doc-top" name="register"></a>Register as a Developer
 You need to have your personal Facebook profile registered as a **Developer** before you can create and manage a **Facebook App**. If you already have a Facebook account and are registered as a developer jump down to the [Guide](#guide) if not read on.
 
 First navigate to Facebook.com and login with your personal Facebook account. If you don't already have one you’ll need to create one now. 

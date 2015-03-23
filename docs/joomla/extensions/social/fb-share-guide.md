@@ -11,7 +11,7 @@
 5.  [Quick Tips](#tips)
 2.  [Need More Help?](#more-help)
 
-## <a name="intro"></a>Intro
+## <a class="doc-top" name="intro"></a>Intro
 
 **Having problems trying to get Facebook to share the correct information?**
 
