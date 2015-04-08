@@ -13,7 +13,9 @@ To stop **CloudFront** cache from affecting your updated files Amazon recommends
 
 All your files stored on CloudFront are cached allowing them to be served as fast as possible. What if you want to update a file or image that you have stored there? You can update as many files as you like but it can take upto 24 hours for the changes to catch up. 
 
-I use CloudFront to store the update files for my extensions and I can't version their names because they would stop working. To get around this every time I release a new version I manually invalidate the extensions update xml file using the follow procedure. 
+### Scenario
+
+I use CloudFront to store the update files for my extensions and I can't version their names because they would stop working. To get around this every time I release a new version I manually invalidate the extensions update **xml** file using the follow procedure. 
 
 ## <a name="guide"></a>Guide
 
