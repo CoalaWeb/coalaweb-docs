@@ -7,8 +7,6 @@
 
 ## <a name="intro"></a>Intro
 
-To stop **CloudFront** cache from affecting your updated files Amazon recommends the use of file name versioning but in some case this isn't practical. I'm going to show you how to **Invalidate(update)** your stored files using the CloudFront control panel.
-
 > Invalidating objects removes them from CloudFront edge caches.
 
 All your files stored on CloudFront are cached allowing them to be served as fast as possible. What if you want to update a file or image that you have stored there? You can update as many files as you like but it can take upto 24 hours for the changes to catch up. 
