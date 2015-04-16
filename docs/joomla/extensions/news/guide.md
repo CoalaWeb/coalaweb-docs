@@ -1,5 +1,6 @@
 ## Table of Contents
-1.  [Module Guide](#module)
+1.  [Overview](#overview)
+2.  [Module Guide](#mod-guide)
     -   [General Options](#mod-general)
     -   [Layout Options](#mod-layout)
     -   [Image Options](#mod-images)
@@ -7,12 +8,15 @@
     -   [Advanced Options](#mod-advanced)
 4.  [Need More Help?](#more-help)
 
-# <a name="module"></a>CoalaWeb News
+## <a class="doc-top" name="overview"></a>Overview
 
-The **CoalaWeb News** module has a huge list of options so we have broken
-them up into several sections which are explained in detail below.
+CoalaWeb News gives a user the power to display their Joomla articles in variety of different ways with responsive layout settings covering desktops, tablets, and mobile devices. There are two options available a Core (Free) version and Pro (Paid Subscription) version with extend functionality.
 
-<div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text.</div>
+<div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
+
+## <a name="mod-guide"></a>Module Guide
+
+The **CoalaWeb News** module has a huge list of options so we have broken them up into several sections which are explained in detail below.
 
 ### <a name="mod-general"></a>General Options
 
