@@ -103,3 +103,5 @@ This will normally be for one of two reasons:
 #### <a name="q8"></a> I'm using a Rocket Theme template and Tabs doesn't display correctly?
 
 Try publishing the **Tabs** module to one of the **utility** positions rather than **debug** for example **utility-a**. Also make sure you have set some of the Tabs to display.
+
+***
