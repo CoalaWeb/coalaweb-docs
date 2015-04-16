@@ -6,6 +6,7 @@
 5.  [I'm having problems validating my webiste with W3C what can I do?](#q5)
 6.  [Facebook error - Given URL is not allowed by the Application](#q6)
 7.  [My custom Follow Us image isn't displaying correctly?](#q7)
+8.  [I'm using a RocketTheme template and Tabs doesn't display correctly?](#q8)
 
 ***
 
@@ -98,3 +99,7 @@ This will normally be for one of two reasons:
 2. You have some strange server configuration so Joomla is miss interpreting the URL of the image. To fix this one just use the **External** image option but make sure to leave the image selector option blank as this overrides the external image option.
 
 ***
+
+#### <a name="q8"></a> I'm using a Rocket Theme template and Tabs doesn't display correctly?
+
+Try publishing the **Tabs** module to one of the **utility** positions rather than **debug** for example **utility-a**. Also make sure you have set some of the Tabs to display.
