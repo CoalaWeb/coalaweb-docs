@@ -171,9 +171,10 @@ To make this more clear I will give you some examples below of left, right and c
 
 ![Figure-8h](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-9.png "Figure-8h"){.coalaweb-docs}
 
-This setting becomes more useful when using a multi column layout and you have small images being display at the top of their panels.
- 
+This setting becomes more useful when using a multi column layout and you have small images being display at the top of their panels. *\[Figure-8i\]*
 
+![Figure-8i](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-10.png "Figure-8i"){.coalaweb-docs}
+ 
 ### <a name="mod-details"></a>Details Options
 
 ### <a name="mod-advanced"></a>Advanced Options
