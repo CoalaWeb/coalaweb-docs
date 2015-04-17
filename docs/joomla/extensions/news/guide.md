@@ -95,6 +95,71 @@ These settings are fully responsive which you can test by minimizing your browse
 
 ### <a name="mod-image"></a>Image Options
 
+This section is dedicated to the display of images with your article content and contains some powerful features to get you content looking just how you want it.
+
+<div class="uk-alert">All the options below with affect the default layout but may only partially affect certain other layouts. This is to preserve their intended look and feel.</div>
+
+The first option option is an easy one it allows you to turn on or off the display of images. The next option allows you to choose which article image to use either the **Intro** or **Full** article. The next option is to turn on the display of any **Captions** you have added to your article images.
+
+<div class="uk-alert">Width Guide: Desktop = 960px, Tablet = 768px and Mobile = 480px</div>
+
+In this section you can choose how much space you want your images to use within the panel with the added power to choose based on the size of the screen being used. These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes take affect live. 
+
+### Example Scenario
+
+**Desktop:** When viewing the module on a desktop I want one item per column with the image to the side of the panel. *\[Figure-8\]*
+
+**Settings**
+-   Image: Yes
+-   Caption: Yes
+-   Width on Desktop: 30%
+-   Columns on Desktop: 1
+-   Layout: Compact Square
+-   Panel Style: Secondary
+
+![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-1.png "Figure-8"){.coalaweb-docs}
+
+**Tablet:** When viewing the module on a tablet I want two items per column with the image at the top of the panel. *\[Figure-8b\]*
+
+**Settings**
+-   Image: Yes
+-   Caption: Yes
+-   Width on Tablet: 100%
+-   Columns on Tablet: 2
+-   Layout: Compact Square
+-   Panel Style: Secondary
+
+![Figure-8a](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-1a.png "Figure-8a"){.coalaweb-docs}
+
+**Mobile:** When viewing the module on a tablet I want one item per column with the image at the top of the panel. *\[Figure-8b\]*
+
+**Settings**
+-   Image: Yes
+-   Caption: Yes
+-   Width on Mobile: 100%
+-   Columns on Mobile: 1
+-   Layout: Compact Square
+-   Panel Style: Secondary
+
+![Figure-8b](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-1b.png "Figure-8b"){.coalaweb-docs}
+
+The last option in this section control the alignment of the images within their allocated space. To make this more clear I will give you some examples below of left, right and center.
+
+**Left** *\[Figure-8c\]*
+
+![Figure-8c](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-1c.png "Figure-8c"){.coalaweb-docs}
+
+**Center** *\[Figure-8d\]*
+
+![Figure-8d](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-1d.png "Figure-8d"){.coalaweb-docs}
+
+**Right** *\[Figure-8c\]*
+
+![Figure-8e](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-1e.png "Figure-8e"){.coalaweb-docs}
+
+This setting becomes more useful when using a multi column layout and you have small images being display at the top of their panels.
+ 
+
 ### <a name="mod-details"></a>Details Options
 
 ### <a name="mod-advanced"></a>Advanced Options
