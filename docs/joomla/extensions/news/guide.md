@@ -153,11 +153,11 @@ In this section you can choose how much space you want your images to use within
 
 **Part 2 Alignment**
 
-The last option in this section control the alignment of the images within their allocated space. *\[Figure-8e\]* 
+The last option in this section controls the alignment of the images within their allocated space. *\[Figure-8e\]* 
 
 ![Figure-8e](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-6.png "Figure-8e"){.coalaweb-docs}
 
-To make this more clear I will give you some examples below of left, right and center.
+To make this more clear I will give you an example of left, center and right.
 
 **Left** *\[Figure-8f\]*
 
