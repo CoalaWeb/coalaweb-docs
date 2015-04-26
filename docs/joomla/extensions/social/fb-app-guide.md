@@ -48,7 +48,7 @@ In the **Create a New App** window give your new application a **Display Name**.
 
 <div class="uk-alert">This will be seen in the bottom of the pop up <em>Share</em> dialog so something related to your website is best.</div>
 
-You can leave the **Namespace** blank and **No** for the test version question. Lastly on this page you need to choose a **Category** for the App in this example I have chosen **Utilities** but for more info on categories try this [Link](https://developers.facebook.com/docs/games/appcenter/categories) *\[Figure-5\]* 
+You can leave the **Namespace** blank and **No** for the test version question. Lastly on this page you need to choose a **Category** for the App please choose **Utilities** *\[Figure-5\]* 
 
 ![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb/cw-fbapp-figure5.png "Figure-5"){.coalaweb-docs}
 
@@ -104,14 +104,18 @@ Once you select **Yes** you will be confronted with a confirmation screen select
 
 ![Figure-13](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb/cw-fbapp-figure13.png "Figure-13"){.coalaweb-docs}
 
+You should now be looking at something similar to the image below. It will now have **YES** next to the question **Do you want to make this app and all its live features available to the general public?**. You will also have a list of approved items down the bottom with solid green circles.
+
 ### <a name="step-14"></a>Step 14
-Now when you are returned to the **Dashboard** you will see a solid green circle next to your **Applications Name** and under it the sentence:
+Now if you return to the **Dashboard** using the side menu you will see a solid green circle next to your **Applications Name** and under it the sentence:
 
 **This app is public and available to all users**  *\[Figure-14\]*
 
 ![Figure-14](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb/cw-fbapp-figure14.png "Figure-14"){.coalaweb-docs}
 
 ###Your new App ID is now ready for use!
+
+You can now copy your App ID and use it back in your extension settings.
 
 ## <a name="more-help"></a>Need More Help
 
