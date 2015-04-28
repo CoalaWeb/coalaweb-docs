@@ -114,7 +114,7 @@ The first option option is an easy one it allows you to turn on or off the displ
 
 <div class="uk-alert">Width Guide: Desktop = 960px, Tablet = 768px and Mobile = 480px</div>
 
-In this section you can choose how much space you want your images to use within the panel with the added power to choose based on the size of the screen being used. These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes take affect live.  *\[Figure-8a\]*
+In this section you can choose how much space you want your images to use within the panel with the added power to choose based on the size of the screen being used. These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live.  *\[Figure-8a\]*
 
 ![Figure-8a](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-2.png "Figure-8a"){.coalaweb-docs}
 
@@ -182,10 +182,20 @@ This setting becomes more useful when using a multi column layout and you have s
  
 ### <a name="mod-details"></a>Details Options
 
+In this section you have the ability to turn on or off a variety of article details for example the **Author**, **Category**, **Creation Date** and or it's amount of **Hits**.  You can also display an accompanying **Title** or turn on or off the section completely. *\[Figure-9\]*
+
+<div class="uk-alert">Note: The location of the article details will be affected by the <em>Layout</em> you have chosen.</div>
+
+![Figure-9](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-details-1.png "Figure-9"){.coalaweb-docs}
+
 ### <a name="mod-advanced"></a>Advanced Options
+
+The CoalaWeb Social Links module also has a few of what I consider **Advanced Options** such as the option to assign a **Module Class Suffix** or choose whether to use **Cache** including the **Cache Time**. 
+
+The last option is whether to display a **Link Back to CoalaWeb** which is always appreciated but its up to you plus you can choose what text to display next to the link. Note: If your site is multilingual leave blank and use the language files. *\[Figure-10\]*
+
+![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-advanced-1.png "Figure-10"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="http://coalaweb.com/support/documentation/category/traffic" target="_self">FAQ</a></div>
-
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
