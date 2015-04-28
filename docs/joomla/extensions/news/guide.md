@@ -108,7 +108,7 @@ To make it easy to explain I have broken this section up into 3 parts.
 
 The first option option is an easy one it allows you to turn on or off the display of images. The next option allows you to choose which type of article image to use either the **Intro** or **Full** article image. The next option is to turn on the display of any **Captions** you have added to your article images. *\[Figure-8\]*
 
-
+![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-1.png "Figure-8"){.coalaweb-docs}
 
 **Part 2 Widths**
 
