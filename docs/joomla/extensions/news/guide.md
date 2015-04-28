@@ -10,7 +10,7 @@
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-CoalaWeb News gives a user the power to display their Joomla articles in variety of different ways with responsive layout settings covering desktops, tablets, and mobile devices. There are two options available a Core (Free) version and Pro (Paid Subscription) version with extend functionality.
+CoalaWeb News gives a user the power to display their Joomla articles in variety of different ways with responsive layouts covering desktops, tablets, and mobile devices. There are two options available a Core (Free) version and Pro (Paid Subscription) version with extend functionality.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
@@ -36,22 +36,25 @@ The second option allows you to display a linkable list of categories that coinc
 
 The first options allows you to turn on or off the display of an article title. Next you have the option of making the title a link to the associated article or not. With the next option you can select a style for the article title. 
 
-In the next input field you can enter a number for the maximum amount of articles you wish to be displayed. The next option allows you to control the maximum characters that will be displayed for each article. The last two options affect the ordering of the articles. *\[Figure-2\]*
+In the next input field you can enter a number to control the maximum amount of articles you wish to be displayed. The next option allows you to control the maximum amount of characters that will be displayed for each article. The last two options affect the ordering of the articles. *\[Figure-2\]*
 
 ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-2.png "Figure-2"){.coalaweb-docs}
 
 **Part 3 Read More**
 
-In this section we have some options to control if and how a read more link or button are displayed. The first option is to turn on or off the display of a read more link. The second option control what text will be used for the link or on the button. 
+In this section we have some options to control if and how a read more link or button will be displayed. The first option is to turn on or off the display of a read more link. The second option control what text will be used for the link or button. 
 
-The next couple of options depends on what version you are using, for the Core users you only have a link option available. For the Pro users you have the following options:
+The next couple of options depends on what version you are using, for the **Core** users you only have a **link** option available. For the **Pro** users you have the **following options**:
 
 -   Button Primary
 -   Button Success
 -   Button Danger
 -   Just Link
+-   Custom
 
-These option are controlled by UIkit but if you would like to use your own CSS class you can chose **Custom** for the **Type** and then enter the CSS class in the next field labeled **Custom Button** for example. *\[Figure-3\]*
+The button options above are controlled by UIkit but if you are a **Pro** user and would like to use your own CSS class then chose **Custom** for the **Type** and then enter the CSS class in the next field labeled **Custom Button**. *\[Figure-3\]*
+
+Below is an example CSS class.
 
 >   btn btn-primary
 
@@ -89,13 +92,15 @@ Depending on what settings you choose and how you want your individual panels to
 
 In this section you can choose how many columns you want to use with the added power to choose based on the size of the screen being used. You can for example have three columns on a nice big desktop screen and then one column on a small mobile device. 
 
-These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes take affect live. *\[Figure-7\]*
+These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live. *\[Figure-7\]*
 
 ![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-3.png "Figure-7"){.coalaweb-docs}
 
 ### <a name="mod-image"></a>Image Options
 
-This section is dedicated to the display of images with your article content and contains some powerful features to get you content looking just how you want it. To make it easy to explain I have broken this section up into 3 parts.
+This section is dedicated to the display of images with your article content and contains some powerful features to get your content looking just how you want it. 
+
+To make it easy to explain I have broken this section up into 3 parts.
 
 **Part 1 General**
 
@@ -103,7 +108,7 @@ This section is dedicated to the display of images with your article content and
 
 The first option option is an easy one it allows you to turn on or off the display of images. The next option allows you to choose which type of article image to use either the **Intro** or **Full** article image. The next option is to turn on the display of any **Captions** you have added to your article images. *\[Figure-8\]*
 
-![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-1.png "Figure-8"){.coalaweb-docs}
+
 
 **Part 2 Widths**
 
