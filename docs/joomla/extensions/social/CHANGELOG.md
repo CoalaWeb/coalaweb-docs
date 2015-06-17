@@ -1,5 +1,66 @@
 ##Change Log
 
+### Version 0.2.1 June 2015
+
+#### Component - Social Links
+- **(N)** Added additional Facebook share method
+- **(N)** Added Schema.org tag options
+- **(L)** New and updated language strings
+- **(C)** Added new menu_id column to meta fields table
+- **(R)** Removed the auto creation of cwopengraph directory
+
+#### Module - Social Links
+- **(C)** New clearer email icon
+- **(N)** Added new WhatsApp share option
+- **(N)** Integrated new Facebook share type option
+- **(N)** New link type option for custom follow us
+- **(L)** New and updated language strings
+- **(R)** Removed Orkut icon and css
+- **(R)** Removed Technorati icons and css
+
+#### Module - Social Tabs \[Pro\]
+- **(C)** New clearer email icon
+- **(N)** Added new WhatsApp share option
+- **(N)** Integrated new Facebook share method
+- **(N)** New link type option for custom tabs
+- **(L)** New and updated language strings
+- **(B)** Fixed multiple module bug on mobile devices
+
+#### Module - Page
+- **(N)** Integrated into the CoalaWeb Social Links extension.
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Changed mb_substr for JString::substr
+- **(B)** Fixed Facebook JS loading issue
+
+#### Plugin(S) - Meta Menu \[Pro\]
+- **(N)** Integrated into the CoalaWeb Social Links extension.
+
+#### Plugin(S) - Facebook JS
+- **(N)** Added CoalaWeb comment to identify code being added
+- **(C)** Upgrade API version to API2.3
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(N)** Added Schema.org tags
+- **(C)** Moved name space declarations to the new System - Meta Menu plugin
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(N)** Added new meta menu options.
+- **(N)** Added new meta menu form.
+
+#### Plugin(C) - Social Share\[Pro\]
+- **(C)** New clearer email icon
+- **(N)** Added new WhatsApp share option
+- **(N)** Integrated new Facebook share method
+- **(B)** Fixed missing jQuery call
+
+#### Plugin(C) - Social Panel\[Pro\]
+- **(B)** Fixed location of jQuery call
+- **(B)** Fixed Facebook JS loading issue
+
+#### Plugin(C) - Social Likes\[Pro\]
+- **(B)** Fixed Facebook JS loading issue
+
 ### Version 0.2.0 March 2015
 
 #### Component - Social Links
@@ -25,11 +86,11 @@
 - **(B)** Fixed cache stopping the count of when to load Facebook JS
 - **(R)** Removed option to support developer with a link
 
-#### Module - Google +
+#### Module - Google + \[Pro\]
 - **(C)** Merged all media files into component.
 - **(R)** Removed option to support developer with a link
 
-#### Module - Social Tabs
+#### Module - Social Tabs \[Pro\]
 - **(C)** Updated Facebook's popup option so when used the cancel and redirect work correctly.
 - **(C)** Merged all media files into component.
 - **(C)** Small CSS change

@@ -3,7 +3,8 @@
 2.  [Component](#component)
 3.  [Modules](#modules)
     -   [Social Links](#mod-social)
-    -   [Like Box](#mod-likebox)
+    -   [Page](#mod-page)
+    -   [Like Box \[Depreciated\]](#mod-likebox)
     -   [Google + \[Pro\]](#mod-google)
     -   [Social Tabs \[Pro\]](#mod-tabs)
 4.  [Plugins \[Pro\]](#plugins)
@@ -12,13 +13,14 @@
     -   [Content - Social Share \[Pro\]](#plg-share)
     -   [Content - Open Graph \[Pro\]](#plg-og)
     -   [Content - Meta Fields \[Pro & J3.+\]](#plg-meta)
+    -   [System - Menu Meta \[Pro & J3.+\]](#plg-meta-menu)
     -   [System - Zoo Elements \[Pro\]](#plg-zoo)
     -   [System - Facebook JS](#plg-fbjs)
     -   [System - Gears](#plg-gears)
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-CoalaWeb Social Links is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons. There are two options avaliable a Core (Free) version and Pro (Paid Subscription) version with extend functionality.
+CoalaWeb Social Links is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons. There are two options available a Core (Free) version and Pro (Paid Subscription) version with extend functionality.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
@@ -36,11 +38,21 @@ The **CoalaWeb Social Links** module gives you the option to choose which share 
 
 ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/social-links.png "Figure-2"){.coalaweb-docs}
 
-### <a name="mod-likebox"></a>Like Box
+### <a name="mod-page"></a>Page
 
-The **CoalaWeb Like Box** module is a social module that enables Facebook Page owners to attract and gain likes. The like box enables people using your website to see how many people like the Page, read recent posts from the Page and like the Page with one click, without needing to visit the Page. *\[Figure-3\]*
+The **CoalaWeb Page** module is designed to help Facebook Page owners attract and gain likes. It lets website visitors see how many people like a Page, read recent posts from a Page and most importantly Like/Share a Page with one click, without needing to visit Facebook. *\[Figure-3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/likebox.png "Figure-3"){.coalaweb-docs}
+<div class="uk-alert">Note: This module supersedes the depreciated CoalaWeb Likebox module.</div>
+
+![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/page.png "Figure-3"){.coalaweb-docs}
+
+### <a name="mod-likebox"></a>Like Box \[Depreciated\]
+
+The **CoalaWeb Like Box** module is a social module that enables Facebook Page owners to attract and gain likes. The like box enables people using your website to see how many people like the Page, read recent posts from the Page and like the Page with one click, without needing to visit the Page. *\[Figure-3a\]*
+
+<div class="uk-alert">Note: This module has been depreciated and replaced by the CoalaWeb Page module.</div>
+
+![Figure-3a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/likebox.png "Figure-3a"){.coalaweb-docs}
 
 ### <a name="mod-tabs"></a>Social Tabs \[Pro Version\]
 
@@ -82,9 +94,16 @@ The **CoalaWeb Open Graph** content plugin takes care of adding **Social Metadat
 
 ### <a name="plg-meta"></a>Content - Meta Fields \[Pro Version & J3.+]
 
-The **CoalaWeb Meta Fields** content plugin helps add **Open Graph** and **Twitter** meta information to your Joomla content while using the **Article** and or **Category** editors. It will override all other setting you have chosen. *\[Figure-10\]*
+The **CoalaWeb Meta Fields** content plugin helps add **Open Graph**, **Twitter** and **Schema** meta information to your Joomla content while using the **Article** and or **Category** editors. It will override all other setting you have chosen. *\[Figure-10\]*
 
 ![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/meta-fields.png "Figure-10"){.coalaweb-docs}
+
+
+### <a name="plg-menu-meta"></a>System - Menu Meta\[Pro Version & J3.+]
+
+The **CoalaWeb Menu Meta** system plugin allows you to add **Open Graph**, **Twitter Card** and **Schema** tags to basically any menu item. To stop conflicts with the other CoalaWeb content meta data plugins these tags will not be displayed for regular Joomla content items such as Categories and or Articles. If you want to override the automatic creation of meta tags for a Joomla Article or Category please use the CoalaWeb tab displayed in their respective editors. *\[Figure-10\]*
+
+![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/menu-meta.png "Figure-10"){.coalaweb-docs}
 
 ### <a name="plg-zoo"></a>System - Zoo Elements \[Pro Version\]
 
