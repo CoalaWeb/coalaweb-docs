@@ -1,5 +1,12 @@
 ##Change Log
 
+#### Version 0.1.2 June 2015
+- **(A)** Added WhatsApp to sorting field.
+- **(A)** Integrated CoalaWeb News into version field.
+- **(C)** CSS improvements
+- **(C)** Updated CoalaWeb's custom prefix version of Uikit to 2.21.
+- **(B)** Fix bug when adding new items to sorting field.
+
 #### Version 0.1.1 March 2015
 - **(A)** New popup close HTML file.
 - **(A)** Integrated CoalaWeb Zones into version field.
@@ -10,8 +17,8 @@
 - **(A)** New cssmsg field to included minimum CSS for messages and spacers.
 - **(C)** Merged the two version fields into one.
 - **(C)** Gzip help now using IP Tools to check for bot.
-- **(R)** Removed gearversion field.
-- **(R)** Removed ogtypes field.
+- **(R)** Removed gearversion fields.
+- **(R)** Removed ogtypes fields.
 - **(A)** Integrated CoalaWeb's custom prefix version of Uikit version 2.17.
 - **(C)** Updated copyright.
 - **(A)** New language strings.
