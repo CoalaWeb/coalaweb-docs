@@ -1,9 +1,9 @@
 ## Change Log
 
-### Version 1.0.0 April 2015
+### Version 1.0.0 June 2015
 
 #### Module - News
-- **(N)** Initial release
+- **(N)** Public release
 
 ### Key
 - **(S)** Security Fix
