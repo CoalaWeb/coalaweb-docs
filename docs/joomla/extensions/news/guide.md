@@ -28,7 +28,7 @@ The first option you have in this section allows you to choose which categories 
 
 ![Figure-1a](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png "Figure-1a"){.coalaweb-docs}
 
-The second option is for **Pro** subscribers and allows them to display a linked list of categories that coincides with the current articles being displayed. *\[Figure-1b\]*
+The second option allows you to display a linked list of categories that coincides with the current articles being displayed. *\[Figure-1b\]*
 
 ![Figure-1b](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-1b.png "Figure-1b"){.coalaweb-docs}
 
@@ -60,9 +60,9 @@ Below is an example CSS class.
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-3.png "Figure-3"){.coalaweb-docs}
 
-**Part 4 Links \[Pro\]**
+**Part 4 Links**
 
-CoalaWeb News also gives **Pro** subscribers the option to display links to more articles. The first option in this section turns on or off the links section. The second option allows you to enter a number for the amount of links you want displayed.
+CoalaWeb News also gives you the option to display links to more articles. The first option in this section turns on or off the links section. The second option allows you to enter a number for the amount of links you want displayed.
 
 Next you can chose to display a heading for this section and also select a style for it from the drop down list. The last option allows you to turn on or off the display of a creation date next to each link. *\[Figure-4\]*
 
