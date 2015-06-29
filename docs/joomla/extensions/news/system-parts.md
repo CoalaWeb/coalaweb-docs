@@ -2,7 +2,7 @@
 1.  [Overview](#overview)
 2.  [Modules](#modules)
     -   [News](#mod-news)
-3.  [Plugins \[Pro\]](#plugins)
+3.  [Plugins](#plugins)
     -   [System - Gears](#plg-gears)
 
 ## <a class="doc-top" name="overview"></a>Overview
