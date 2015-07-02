@@ -42,6 +42,12 @@ In the next input field you can enter a number to control the maximum amount of 
 
 **Part 3 Read More**
 
+<div class="uk-alert">Note: The Read More code used in your articles will need to be in the following format.</div>
+
+```html
+<hr id="system-readmore" />
+```
+
 In this section we have some options to control if and how a read more link or button will be displayed. The first option is to turn on or off the display of a read more link. The second option control what text will be used for the link or button. 
 
 The next couple of options depends on what version you are using, for the **Core** users you only have a **link** option available. For the **Pro** users you have the **following options**:
