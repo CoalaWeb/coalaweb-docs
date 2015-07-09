@@ -1,5 +1,10 @@
 ##Change Log
 
+#### Version 0.1.3 July 2015
+- **(A)** Integrated CoalaWeb Print into version field.
+- **(B)** Fixed custom Uikit overriding template CSS.
+- **(A)** Added missing index files.
+
 #### Version 0.1.2 June 2015
 - **(A)** Added WhatsApp to sorting field.
 - **(A)** Integrated CoalaWeb News into version field.
