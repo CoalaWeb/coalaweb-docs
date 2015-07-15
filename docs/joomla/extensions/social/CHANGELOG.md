@@ -1,5 +1,25 @@
 ##Change Log
 
+### Version 0.2.2 July 2015
+
+#### Component - Social Links
+- **(B)** Updated Google URL shorten code to new format required by Google
+
+#### Module - Social Tabs
+- **(B)** Fixed loading short URL service
+
+#### Module - Social Links
+- **(C)** Changed https to http for Blogger follow us option
+
+#### Module - Page
+- **(R)** Removed unneeded CSS
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(B)** Stopped Warning: Illegal string offset in front end editor
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(B)** Fixed incorrect CSS class for StumbleUpon
+
 ### Version 0.2.1 June 2015
 
 #### Component - Social Links
