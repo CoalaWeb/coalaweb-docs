@@ -194,9 +194,7 @@ In this section you have the ability to turn on or off a variety of article deta
 
 ### <a name="mod-advanced"></a>Advanced Options
 
-The CoalaWeb Social Links module also has a few of what I consider **Advanced Options** such as the option to assign a **Module Class Suffix** or choose whether to use **Cache** including the **Cache Time**. 
-
-The last option for **Core** users is whether to display a **Link Back to CoalaWeb** which is always appreciated but its up to you plus you can choose what text to display next to the link. Note: If your site is multilingual leave blank and use the language files. *\[Figure-10\]*
+The CoalaWeb News module also has a few of what I consider **Advanced Options** such as the option to assign a **Module Class Suffix** or choose whether to use **Cache** including the **Cache Time**. 
 
 ![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-advanced-1.png "Figure-10"){.coalaweb-docs}
 
