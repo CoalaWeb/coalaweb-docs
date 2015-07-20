@@ -20,13 +20,13 @@
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-CoalaWeb Social Links is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons. There are two options available a Core (Free) version and Pro (Paid Subscription) version with extend functionality.
+**CoalaWeb Social Links** is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons. There are two versions available a Core (Free) and Pro (Paid Subscription) version that comes with extend functionality.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
 ## <a name="component"></a>Component
 
-The Component makes setting up the content plugins a breeze by having a centralized location for all their associated configuration options. It also provides quick access to help and support plus current version information. The other great thing the component does is take care of the installing, updating and uninstalling of all the associated parts of the system which makes the process much more streamlined. *\[Figure-1\]*
+The Component makes setting up the plugins a breeze by having a centralized location for all their associated configuration options. It also provides quick access to help and support plus current version information. The other great thing the component does is take care of the installing, updating and uninstalling of all the associated parts of the system which makes the process much more streamlined. *\[Figure-1\]*
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/social-component.png "Figure-1"){.coalaweb-docs}
 

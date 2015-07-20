@@ -7,7 +7,7 @@
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-CoalaWeb News gives you the power to display your Joomla articles in variety of different ways with completely responsive layouts covering desktops, tablets, and mobile devices plus a tonne of other options. There are two version available a Core (Free) and Pro (Paid Subscription) that comes with extend functionality.
+**CoalaWeb News** gives you the power to display your Joomla articles in variety of different ways with completely responsive layouts covering desktops, tablets, and mobile devices plus a tonne of other options. There are two version available a Core (Free) and Pro (Paid Subscription) that comes with extend functionality.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 

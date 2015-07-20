@@ -1,16 +1,23 @@
 ## Table of Contents
+1.  [Overview](#overview)
 1.  [StackExchange Account](#account)
     -   [Combined](#account-com)
     -   [Individual](#account-ind)
-2.  [Module Settings](#mod)
+2.  [Module Flair](#mod-flair)
     -   [General](#mod-gen)
     -   [Individual](#mod-ind)
     -   [Advanced](#mod-adv)
 3.  [Need More Help?](#more-help)
 
-The CoalaWeb Flair module has a long list of options so we have broken them up into 3 sections which are explained in detail below but first we will explain how to retrieve your profile ID numbers.
+## <a class="doc-top" name="overview"></a>Overview
 
-## <a class="doc-top" name="account"></a>StackExchange Account Details
+**CoalaWeb Flair** is a Joomla extension that lets you display your flair from several Stack Exchange sites individually or combined into one.
+
+<div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
+
+## <a class="doc-top" name="account"></a>Stack Exchange Account Details
+
+Before we get onto setting up the extension first lets have a look at how to retrieve your profile ID numbers.
 
 ### <a name="account-com"></a>Combined
 
@@ -50,7 +57,7 @@ You will find your **ID** directly after **users** in the **currentprofile.com**
 
 ![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/flair/cw-flair-f6.png "Figure-6"){.coalaweb-docs}
 
-## <a name="mod"></a>Module Settings
+## <a name="mod-flair"></a>Module Settings
 
 <span class="alert" markdown="1">Please note that the StackExchange flair system feeds in a pre created image with a width 208px and a height of 58px so your module position will need sufficient space to accommodate images of this size.</div>
 

@@ -7,9 +7,9 @@
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-CoalaWeb Flair is a Joomla extension that lets you display your flair from several Stack Exchange sites individually or combined into one.
+**CoalaWeb Flair** is a Joomla extension that lets you display your flair from several Stack Exchange sites individually or combined into one.
 
-<div class="uk-alert">When you install CoalaWeb Flair all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
+<div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
 ## <a name="modules"></a>Modules
 

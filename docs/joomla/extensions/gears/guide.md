@@ -1,5 +1,6 @@
 ## Table of Contents
-1.  [Options](#options)
+1.  [Overview](#overview)
+2.  [Options](#options)
     -   [General](#opt-general)
     -   [jQuery](#opt-jquery)
     -   [Async](#opt-async)
@@ -7,11 +8,17 @@
     -   [Custom CSS](#opt-css)
     -   [Custom JS](#opt-js)
     -   [Cache Control](#opt-cache)
-2.  [Need More Help?](#more-help)
+3.  [Need More Help?](#more-help)
+
+## <a class="doc-top" name="overview"></a>Overview
+
+**CoalaWeb Gears** is a Swiss army knife full of great little tools that you can use with or without a CoalaWeb extension.
+
+<div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
+
+## <a name="options"></a>Options
 
 The CoalaWeb Gears module has a long list of options so we have broken them up into 7 sections which are explained in detail below.
-
-## <a class="doc-top" name="options"></a>Options
 
 ### <a name="opt-general"></a>General
 

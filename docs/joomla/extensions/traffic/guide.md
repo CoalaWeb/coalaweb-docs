@@ -1,5 +1,6 @@
 ## Table of Contents
-1.  [Component Guide](#component-guide)
+1.  [Overview](#overview)
+2.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
     -   [Visitors](#visitors)
     -   [IP Categories](#ip-cats)
@@ -13,19 +14,25 @@
     -   [CSV Export Option](#export-csv)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
-2.  [Module Guide](#module)
+3.  [Module Guide](#module)
     -   [General Options](#mod-general)
     -   [Layout Options](#mod-layout)
     -   [Visitor Options](#mod-visitor)
     -   [Who is Online Options](#mod-who)
     -   [Advanced Options](#mod-advanced)
-3.  [Plugin Guide](#plg)
+4.  [Plugin Guide](#plg)
     -   [System Plugin Count](#plg-count)
     -   [System Plugin Clean](#plg-clean)
     -   [System Plugin Online](#plg-online)
-4.  [Need More Help?](#more-help)
+5.  [Need More Help?](#more-help)
 
-## <a class="doc-top" name="component-guide"></a>Component
+## <a class="doc-top"  name="overview"></a>Overview
+
+**CoalaWeb Traffic** is a Joomla 2.5 & 3.+ extension to help you keep track of the visitors to your site. You can choose to display the module and let visitors see and be amazed by your traffic or unpublish the module and view your website statistics in the **Admin** area its up to you.
+
+<div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
+
+## <a name="component-guide"></a>Component
 
 ### <a name="control-panel"></a>Control Panel
 

@@ -1,6 +1,6 @@
 ## Table of Contents
 1.  [Overview](#overview)
-2.  [Module News](#mod-hours)
+2.  [Module Hours](#mod-hours)
     -   [General Options](#mod-general)
     -   [Hours Options](#mod-hours-opt)
     -   [Zones Options](#mod-zones)
@@ -9,7 +9,7 @@
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-CoalaWeb Hours gives users an easy way to display their support or opening hours. It's completely responsive harnessing the power of UIkit with desktop, tablet, and mobile layouts plus a tonne of other options. There are two version available a Core (Free) and Pro (Paid Subscription) that comes with extend functionality.
+**CoalaWeb Hours** gives users an easy way to display their support or opening hours. It's completely responsive harnessing the power of UIkit with desktop, tablet, and mobile layouts plus a tonne of other options. There are two versions available a Core (Free) and Pro (Paid Subscription) version that comes with extend functionality.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
@@ -105,7 +105,7 @@ In this section you set the specific information you want to be displayed for ea
 
 ![Figure-3c](http://cdn.coalaweb.com/images/docs/joomla-extensions/hours/cw-hours-mod-hours-3c.png "Figure-3c"){.coalaweb-docs}
 
-For **Pro** subscribers you get the additional **Custom 1** zone where you can specify a time zone from the drop down list and then set up the other option as previously discussed. *\[Figure-3d\]*
+For **Pro** subscribers you get an additional **Custom 1** zone where you can specify a time zone from the drop down list and then set up the other options as previously discussed. *\[Figure-3d\]*
 
 ![Figure-3d](http://cdn.coalaweb.com/images/docs/joomla-extensions/hours/cw-hours-mod-hours-3d.png "Figure-3d"){.coalaweb-docs}
 

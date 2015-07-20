@@ -7,7 +7,7 @@
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-CoalaWeb Hours gives users an easy way to display their support or opening hours. It's completely responsive harnessing the power of UIkit with desktop, tablet, and mobile layouts plus a tonne of other options. There are two version available a Core (Free) and Pro (Paid Subscription) that comes with extend functionality.
+**CoalaWeb Hours** gives users an easy way to display their support or opening hours. It's completely responsive harnessing the power of UIkit with desktop, tablet, and mobile layouts plus a tonne of other options. There are two versions available a Core (Free) and Pro (Paid Subscription) version that comes with extend functionality.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 

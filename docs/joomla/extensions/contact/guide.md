@@ -1,5 +1,6 @@
 ## Table of Contents
-1.  [Component Guide](#component-guide)
+1.  [Overview](#overview)
+2.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
@@ -11,18 +12,25 @@
         - [6. Advanced](#options-advanced)
         - [7. Where Is My Download ID \[Pro\]](#options-downloadid)
         - [8. Component Permissions](#options-permissions)
-2.  [Contact Module Guide](#module)
+3.  [Contact \[M\]](#module)
     -   [General Display Options](#mod-general)
     -   [Custom Fields](#mod-general)
     -   [Captcha](#mod-captcha)
     -   [Advanced](#mod-advanced)
     -   [Release Information](#mod-release)
-3.  [Plugin Guide \[Pro\]](#plg)
-    -   [Content Plugin - Contact](#plg-content)
-    -   [Editor XTD Plugin - Contact](#plg-xtd)
-4.  [Need More Help?](#more-help)
+4.  [Plugins](#plg)
+    -   [Content Plugin - Contact \[Pro\]](#plg-content)
+    -   [Editor XTD Plugin - Contact \[Pro\]](#plg-xtd)
+5.  [Need More Help?](#more-help)
 
-## <a class="doc-top" name="component-guide"></a>Component
+## <a class="doc-top"  name="overview"></a>Overview
+
+**CoalaWeb Contact** is a contact form extension packed full of options and designed to give website administrators a quick and easy way to place contact forms anywhere within their Joomla website.
+
+<div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
+
+## <a name="component-guide"></a>Component
+
 ### <a name="control-panel"></a>Control Panel
 
 The **Control Panel** as seen below is designed to be an easy starting point, think of it as the head quarters for the extension. While carrying out tasks you can easily jump from the **Control Panel** to the different sections and then return before moving onto the next one. *\[Figure-1\]*

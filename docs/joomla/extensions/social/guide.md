@@ -61,7 +61,7 @@
         - [2. Layout - Open Graph](#plg-zoo-og)
 9.  [Need More Help?](#more-help)
 
-## <a name="overview"></a>Overview
+## <a class="doc-top" name="overview"></a>Overview
 
 **CoalaWeb Social Links** is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons. There are two versions available a Core (Free) and Pro (Paid Subscription) version that comes with extend functionality.
 
