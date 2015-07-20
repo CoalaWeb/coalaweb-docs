@@ -22,7 +22,7 @@ The Component makes setting up the plugins a breeze by having a centralized loca
 
 ## <a name="modules"></a>Modules
 
-<div class="alert">The module configuration options override the component settings to give you more flexibility.</div>
+<div class="uk-alert">The module configuration options override the component settings to give you more flexibility.</div>
 
 ### <a name="mod-contact"></a>Contact
 
