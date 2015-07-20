@@ -1,5 +1,6 @@
 ## Table of Contents
-1.  [Component Guide](#component-guide)
+1.  [Overview](#overview)
+2.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
@@ -11,7 +12,7 @@
         - [6. Update Options](#options-updates)
         - [7. Where Is My Download ID \[Pro\]](#options-downloadid)
         - [8. Component Permissions](#options-permissions)
-2.  [Social Links \[M\]](#module)
+3.  [Social Links \[M\]](#module)
     -   [General Display Options](#mod-general)
     -   [Create Custom Theme](#mod-custom-theme)
     -   [Share This General](#mod-bookmark-gen)
@@ -21,7 +22,7 @@
     -   [Follow Us A-Z](#mod-follow-az)
     -   [Follow Us Custom](#mod-follow-cus)
     -   [Advanced Options](#mod-advanced)
-3.  [Social Tabs \[M\] \[Pro\]](#module-tabs)
+4.  [Social Tabs \[M\] \[Pro\]](#module-tabs)
     -   [First Thing](#mod-tabs-first)
     -   [General Display Options](#mod-tabs-general)
     -   [Share General](#mod-tabs-share-gen)
@@ -32,22 +33,22 @@
     -   [Tab Colors](#mod-tabs-colors)
     -   [Tab Order](#mod-tabs-order)
     -   [Advanced Options](#mod-tabs-advanced)
-4.  [Page \[M\]](#module-page)
+5.  [Page \[M\]](#module-page)
     -   [General Options](#mod-p-general)
     -   [Layout Options](#mod-p-layout)
     -   [Style Options](#mod-p-style)
     -   [Advanced Options](#mod-p-advanced)
-4.  [Like box \[M\]\[Depreciated\]](#module-lbox)
+6.  [Like box \[M\]\[Depreciated\]](#module-lbox)
     -   [General Options](#mod-lb-general)
     -   [Layout Options](#mod-lb-layout)
     -   [Style Options](#mod-lb-style)
     -   [Extra Options](#mod-lb-extra)
     -   [Advanced Options](#mod-lb-advanced)
-5.  [Google Plus \[M\] \[Pro\]](#module-gplus)
+7.  [Google Plus \[M\] \[Pro\]](#module-gplus)
     -   [General Options](#mod-gplus-general)
     -   [Layout Options](#mod-gplus-layout)
     -   [Advanced Options](#mod-gplus-advanced)
-6.  [Plugins](#plg)
+8.  [Plugins](#plg)
     -   [Content Plugin - Social Likes \[Pro\]](#plg-content)
     -   [Content Plugin - Social Share \[Pro\]](#plg-share)
     -   [Content Plugin - Social Panel \[Pro\]](#plg-panel)
@@ -58,9 +59,15 @@
     -   [System Plugin - Zoo \[Pro Version\]](#plg-zoo)
         - [1. Element - Social Likes](#plg-zoo-social)
         - [2. Layout - Open Graph](#plg-zoo-og)
-7.  [Need More Help?](#more-help)
+9.  [Need More Help?](#more-help)
 
-## <a class="doc-top" name="component-guide"></a>Component
+## <a name="overview"></a>Overview
+
+**CoalaWeb Social Links** is a complete social media package to help your site visitors share content, follow you through a variety of social networks and vote for particular content with social buttons. There are two versions available a Core (Free) and Pro (Paid Subscription) version that comes with extend functionality.
+
+<div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
+
+## <a name="component-guide"></a>Component
 
 ### <a name="control-panel"></a>Control Panel
 
