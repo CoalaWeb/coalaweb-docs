@@ -10,7 +10,7 @@
 
 All our language packs are created through the powerful online translation environment [Transifex](https://www.transifex.com). So the first thing you will need to do if you want contribute is create a free account over at Transifex. If you haven't already got one, head over to the [Transifex Signup](https://www.transifex.com/signup) page and get started.
 
-Once **Some** or **All** the language files of particular extension have been translated they will be available in the [Language Download Area](http://coalaweb.com/downloads/language-packs/joomla-extensions) as an installable language pack.
+Once **Some** or **All** of the language files of particular extension have been translated they will be available in the [Language Download Area](http://coalaweb.com/downloads/language-packs/joomla-extensions) as an installable language pack.
 
 <div class="uk-alert">Note: Only 100% completed language files will be included in the language pack when downloaded.</div>
 

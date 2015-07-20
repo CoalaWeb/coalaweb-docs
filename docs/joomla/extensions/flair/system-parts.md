@@ -1,13 +1,13 @@
 ## Table of Contents
 1.  [Overview](#overview)
 2.  [Modules](#modules)
-    -   [Social Links](#mod-flair)
+    -   [Flair](#mod-flair)
 3.  [Plugins](#plugins)
     -   [System - Gears](#plg-gears)
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-CoalaWeb Flair is a Joomla extension that lets you display your flair from several StackExchange sites individually or combined into one.
+CoalaWeb Flair is a Joomla extension that lets you display your flair from several Stack Exchange sites individually or combined into one.
 
 <div class="uk-alert">When you install CoalaWeb Flair all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
@@ -15,7 +15,7 @@ CoalaWeb Flair is a Joomla extension that lets you display your flair from sever
 
 ### <a name="mod-flair"></a>Flair
 
-CoalaWeb Flair is a module that lets you display your flair from several StackExchange sites individually or combined into one. It also comes with 4 style variations to give your flair some individuality. *\[Figure 1\]*
+CoalaWeb Flair is a module that lets you display your flair from several Stack Exchange sites individually or combined into one. It also comes with 4 style variations to give your flair some individuality. *\[Figure 1\]*
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/flair/cw-flair.png "Figure-1"){.coalaweb-docs}
 

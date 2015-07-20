@@ -61,7 +61,7 @@ The **Core** version gives you two options the first one is to return to the **S
 
 Next we have some **Field Display** options that will affect what and how items are displayed within the contact form. Firstly you have the option to turn on or off the display of the following fields **Name**, **Subject** and **Message** and also if they are required. If you are using the **Pro** version you will also have two more options **Date From** and **Date To** these will display with a **Calendar** selector next to these fields. If you have chosen to display either of date input fields you can also chose the date format to be used. 
 
-The avaliable options coincide with Joomla's standard types such as **LC3**. The **Display Format** option will display an example of the currently acceptable format under the date fields which is handy when JavaScript is turned off on the users computer so they can still input the date manually using the correct format. 
+The available options coincide with Joomla's standard types such as **LC3**. The **Display Format** option will display an example of the currently acceptable format under the date fields which is handy when JavaScript is turned off on the users computer so they can still input the date manually using the correct format. 
 
 The next option gives **Pro** users the ability to display a **Terms of Service** input field that can also be set to required. If you want to display the **TOS**  you will also need to enter an article **ID** in the **TOS Article ID** this is the article that will be displayed in a popup window so users can read before agreeing. Next you can chose to display a **Copy Me** field allowing users to receive a copy of the form when they submit it. 
 
@@ -158,7 +158,7 @@ your site is multilingual leave blank and use the language files. *\[Figure 9\]*
 
 #### ReCaptcha
 
-<div class="alert">Note: Recaptcha can only be displayed once on a page. I'm currently looking into a reliable work around for this issue and I will implement it if one becomes avaliable.</div>
+<div class="alert">Note: Recaptcha can only be displayed once on a page. I'm currently looking into a reliable work around for this issue and I will implement it if one becomes available.</div>
 
 You also get the option to use ReCaptcha which will require you to Copy
 and paste your Public and Private keys in fields provided and theme you
@@ -223,7 +223,7 @@ four parts.
 The first thing that will need to be filled in is the **Recipient
 Email** with out this the system will display an error message. If you
 have purchased a Pro subscription you will also have two more fields
-avaliable a CC Email and a BCC email option fill these in as necessary.
+available a CC Email and a BCC email option fill these in as necessary.
 Next you have a **Default Subject** option this will display in the
 email subject followed by the submitters subject if you have chosen to
 display this option. *\[Figure-13\]*
@@ -318,7 +318,7 @@ your site is multilingual leave blank and use the language files. *\[Figure-17\]
 
 <span class="alert" markdown="1">Please note Recaptcha can only be displayed once on a page. I'm
 currently looking into a reliable work around for this issue and I will
-implement it if one becomes avaliable.</div>
+implement it if one becomes available.</div>
 
 You also get the option to use ReCaptcha which will require you to Copy
 and paste your Public and Private keys into the component configuration
