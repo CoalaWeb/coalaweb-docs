@@ -166,7 +166,7 @@ your site is multilingual leave blank and use the language files. *\[Figure 9\]*
 
 #### ReCaptcha
 
-<div class="alert">Note: Recaptcha can only be displayed once on a page. I'm currently looking into a reliable work around for this issue and I will implement it if one becomes available.</div>
+<div class="uk-alert">Note: Recaptcha can only be displayed once on a page. I'm currently looking into a reliable work around for this issue and I will implement it if one becomes available.</div>
 
 You also get the option to use ReCaptcha which will require you to Copy
 and paste your Public and Private keys in fields provided and theme you
@@ -210,8 +210,7 @@ to include any spaces. *\[Figure-11\]*
 
 ### <a name="options-permissions"></a>9.Component Permissions
 
-The last tab contains the permission settings for the CoalaWeb Contact
-component. *\[Figure-12\]*
+The last tab contains the permission settings for the CoalaWeb Contact component. *\[Figure-12\]*
 
 ![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-permissions.png "Figure-12"){.coalaweb-docs}
 
