@@ -17,7 +17,7 @@
 
 The **CoalaWeb Hours** module gives you an easy way to display your support or opening hours. The content is fully responsive using the power of UIkit and it's packed full of configuration options to make it as flexible as possible. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/hours/system-parts/hours.png "Figure-1"){.coalaweb-docs}
+![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/hours/system-parts/mod-hours.png "Figure-1"){.coalaweb-docs}
 
 ## <a name="plugins"></a>Plugins
 
