@@ -1,5 +1,10 @@
 ##Change Log
 
+### Version 0.2.3 July 2015
+
+#### Component - Social Links
+- **(B)** Wrong component config file included with Core version.
+
 ### Version 0.2.2 July 2015
 
 #### Component - Social Links
