@@ -100,7 +100,7 @@ These settings are fully responsive which you can test by minimizing your browse
 
 ![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-3.png "Figure-7"){.coalaweb-docs}
 
-### <a name="mod-image"></a>Image Options
+### <a name="mod-images"></a>Image Options
 
 This section is dedicated to the display of images with your article content and contains some powerful features to get your content looking just how you want it. 
 
