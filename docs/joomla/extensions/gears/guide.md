@@ -24,7 +24,9 @@ The CoalaWeb Gears module has a long list of options so we have broken them up i
 
 In the **General** section you have three option the first helps when using **Zoo** by YooTheme by expanding the editor window, making it easier to work on your content. The second option will display a demo of what your system messages will look like, which is great for customizing their style and layout. 
 
-The last option **Gzip help** is designed to help with a know issue where Facebook is unable to access some Joomla sites while using Gzip compression. Not to go into to much detail but it has to do with Facebook only looking at a certain amount of a page and it is misinterpreting some Gzipped sites as being too large. If you turn this option on it will try to detect Facebook and Linking bots and disable Gzip for the duration of their visit. *\[Figure 1\]*
+The next option **Gzip help** is designed to help with a know issue where Facebook is unable to access some Joomla sites while using Gzip compression. Not to go into to much detail but it has to do with Facebook only looking at a certain amount of a page and it is misinterpreting some Gzipped sites as being too large. If you turn this option on it will try to detect Facebook and Linking bots and disable Gzip for the duration of their visit. 
+
+The last option **reCAPTCHA Compact** gives you the ability to display the captcha produced by the inbuilt Joomla reCAPTCHA plugin in either a **Standard** or **Compact** layout. *\[Figure 1\]*
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f1.png "Figure-1"){.coalaweb-docs}
 
