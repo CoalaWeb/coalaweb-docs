@@ -1,5 +1,11 @@
 ##Change Log
 
+#### Version 0.1.4 August 2015
+- **(C)** Update to Joomla 3.+ module CSS updating message width.
+- **(C)** Changed CoalaWeb Zones to Hours in version field.
+- **(A)** Added an option to set reCAPTCHA to compact.
+- **(L)** New and updated language strings.
+
 #### Version 0.1.3 July 2015
 - **(A)** Integrated CoalaWeb Print into version field.
 - **(B)** Fixed custom Uikit overriding template CSS.
