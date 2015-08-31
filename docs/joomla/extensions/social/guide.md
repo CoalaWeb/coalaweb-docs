@@ -136,20 +136,25 @@ Next you can choose which URL's you wish to have shortened keeping in mind that 
 
 #### How do I get an API Key? (Google)
 
-Firstly log into your Google account and then go to the **API Console** using this [link](https://code.google.com/apis/console) you should end up in the **Google Developers Console**. *\[Figure 24c\]*
+**Steps for creating API key for Google URL Shortening.**
 
-Now from the left menu select:
-
-    APIs and auth → APIs
-
-Scroll down until you find **URL Shortener API** and turn it on. Once it is turned on it should move to the top of your list of APIs 
-with **On** in green. *\[Figure-24b\]*
+-   Firstly log into your Google account and then go to the **Google Developers Console** using this [link](https://console.developers.google.com/)
+-   Select a project, or create a new one.
+-   Now from the left menu select **APIs and auth → APIs**
+-   Scroll down until you find **URL Shortener API** and turn it on. Once it is turned on it should move to the top of your list of APIs 
+with **On** in green.
+-   Next select **Credentials** from the left menu.
+-   Next select **Add credentials → API Key** from the top drop down menu. *\[Figure-24b\]*
 
 ![Figure-24b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra3.png "Figure-24b"){.coalaweb-docs}
 
-Next select **Credentials** from the left menu and your API Key should be listed to the right under **Public API access**.  *\[Figure-24c\]*
+-   Lastly select **Server Key** from the popup window. *\[Figure-24c\]*
 
-![Figure-24c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra4.png "Figure-24c"){.coalaweb-docs}
+![Figure-24c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra9.png "Figure-24c"){.coalaweb-docs}
+
+-   When the window closes you should now have your new **API Key** displayed in the list of keys. *\[Figure-24d\]*
+
+![Figure-24d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra4.png "Figure-24d"){.coalaweb-docs}
 
 ### 2. <a name="options-content"></a>Like Plugin Options \[Pro Version\]
 
