@@ -141,8 +141,7 @@ Next you can choose which URL's you wish to have shortened keeping in mind that 
 -   Firstly log into your Google account and then go to the **Google Developers Console** using this [link](https://console.developers.google.com/)
 -   Select a project, or create a new one.
 -   Now from the left menu select **APIs and auth → APIs**
--   Scroll down until you find **URL Shortener API** and turn it on. Once it is turned on it should move to the top of your list of APIs 
-with **On** in green.
+-   Scroll down until you find **URL Shortener API** and select it. In the next window click the **Enable API** button at the top.
 -   Next select **Credentials** from the left menu.
 -   Next select **Add credentials → API Key** from the top drop down menu. *\[Figure-24b\]*
 
