@@ -432,13 +432,7 @@ Turn on or off the inclusion of **Schema** meta tags and name space. *\[Figure-4
 
 ### 6. <a name="options-updates"></a>Update Options
 
-The CoalaWeb Social Links extension integrates with the inbuilt
-**Joomla Update** system so both **Core** and **Pro** users can keep their
-extension up to date. For the **Pro** users you will have to copy and
-paste your **Download ID** into this field to allow the update system to
-work. Once you have added your **Download ID** the message displayed in
-the **Control Panel** will disappear. If you try to update and it fails
-make sure you still have a valid subscription and the **ID** is correct. *\[Figure-6\]*
+This feature is currently being revised. *\[Figure-6\]*
 
 ![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-updates.png "Figure-6"){.coalaweb-docs}
 
@@ -586,7 +580,7 @@ The next couple of options help you get the all important icon displaying, you c
 
 The CoalaWeb Social Links module also has a few of what I consider **Advanced Options** such as the option to assign a **Unique Module ID** to stop conflicts. You can also give the it a **Module Class Suffix** or choose whether to use **Cache** including the **Cache Time**. 
 
-There is also an option to turn off the **Module CSS** if you want to add your own styling. Next you can choose to include CSS to support**IE7** and if you want to have **Link Text** appear on screen readers or system that don't load CSS. Lastly is the **NoFollow** option that provides a way to tell
+There is also an option to turn off the **Module CSS** if you want to add your own styling. Turn on **Link Text** if you want to have text appear where buttons normally would on screen readers and or systems that don't load CSS. Lastly is the **NoFollow** option that provides a way to tell
 search engines not to follow a particular link. *\[Figure-12\]*
 
 ![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-advanced1.png "Figure-12"){.coalaweb-docs}
@@ -612,7 +606,7 @@ In this section you can choose which **Side** you want the module to display on,
 
 #### Part 2
 
-In this section you can choose to disable the module on either **Mobiles** or **Mobiles and Tablets** which leads us to the next two settings. The next two options allow you to define the width of each of these types of devices which will act as the trigger to disable the module. The default settings will be sufficient in most situations. *\[Figure-25b\]*
+In this section you can choose to disable the module on either **Mobiles** or **Mobiles and Tablets** which leads us to the next two settings. The next two options allow you to define the width of each of these types of devices which will act as the trigger to disable the module. The default settings will be sufficient in most situations. The last option in this section will move the tabs to the bottom of the page on smaller screens and is triggered by the **Tablet Width** chosen earlier. *\[Figure-25b\]*
 
 ![Figure-25b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-general2.png "Figure-25b"){.coalaweb-docs}
 
@@ -704,8 +698,6 @@ To make it easy to identify which tab is which I have added a key letter to the 
 ### <a name="mod-tabs-advanced"></a>Advanced Options
 
 First you get the choice to use **CSS** for the rendering of the module or **jQuery**. *\[Figure-25d\]*
-
-<div class="uk-alert">Note: jQuery is loaded by default on Joomla 3.x but if you don't have it loaded on your system and you would like to use the jQuery option turn it on in the included <em>System - CW Gears plugin</em>.</div>
 
 Next you have the option to assign a **Unique Module ID** to stop conflicts. You can also give the it a **Module Class Suffix** or choose whether to use **Cache** including the **Cache Time**. The last option is **NoFollow** that provides a way to tell search engines not to follow a particular link. *\[Figure-25d\]*
 
