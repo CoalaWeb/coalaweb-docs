@@ -1,6 +1,42 @@
 ##Change Log
 
+### Version 0.2.4 August 2015
+- **(N)** Note removed Joomla 2.5 support.
+
+#### Component - Social Links
+- **(A)** Added options to turn on or off individual Open Graph tags.
+- **(L)** New and updated language strings.
+- **(A)** Added option to disable Twitter JS
+- **(A)** Add Pinterest option to choose either article image or scrap page.
+
+#### Module - Social Tabs
+- **(A)** Added new option to move tabs to the bottom on mobile devices.
+- **(L)** New and updated language strings.
+- **(A)** Added option to disable Twitter JS
+
+#### Module - Social Links
+- **(L)** New and updated language strings.
+- **(A)** Added option to disable Twitter JS
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(A)** Added options to turn on or off individual Open Graph tags.
+- **(C)** Updated the TextClean function for cleaning up description text.
+
+#### Plugin(S) - Meta Menu \[Pro\]
+- **(A)** Added options to turn on or off individual Open Graph tags.
+- **(C)** Updated the TextClean function for cleaning up description text.
+
+#### Plugin(C) - Social Share\[Pro\]
+- **(A)** Added option to disable Twitter JS
+- **(A)** Add Pinterest option to choose either article image or scrap page.
+
+#### Plugin(I) - Social Links Update \[Pro\]
+- **(R)** Removed obsolete plugin.
+
 ### Version 0.2.3 July 2015
+
+#### Plugin(S) - Meta Menu \[Pro\]
+- **(B)** Fixed notice displaying when type null.
 
 #### Component - Social Links
 - **(B)** Wrong component config file included with Core version.
