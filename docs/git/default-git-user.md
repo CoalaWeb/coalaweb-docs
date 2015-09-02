@@ -78,7 +78,7 @@ If you want you can check the file was created with the right content by just us
 
 That should be it, now when committing both the **Author** and **Commiter** should be auto populated with your chosen details.
 
-## Things to note
+## <a name="notes"></a>Things to note
 
 -   Git version 1.9.1
 -   Linux version: Ubuntu 14.04.2 LTS
