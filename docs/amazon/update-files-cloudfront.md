@@ -2,8 +2,8 @@
 
 1.  [Intro](#intro)
 2.  [Guide](#guide)
-5.  [Tips](#tips)
-6.  [Need More Help?](#more-help)
+3.  [Tips](#tips)
+4.  [Need More Help?](#more-help)
 
 ## <a name="intro"></a>Intro
 
