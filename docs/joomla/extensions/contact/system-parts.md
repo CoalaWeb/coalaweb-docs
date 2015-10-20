@@ -30,13 +30,13 @@ The Component makes setting up the plugins a breeze by having a centralized loca
 
 The **CoalaWeb Contact** module makes placing a contact form on your website a breeze. You can publish one or more modules even with different styles in any one of your available module positions. You can even create your own styles in a few easy steps making integration of CoalaWeb Contact into your website a painless process. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-tab.png "Figure-2"){.coalaweb-docs}
+![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-contact.png "Figure-2"){.coalaweb-docs}
 
 ### <a name="mod-tab"></a>Contact Tab \[Pro Version\]
 
 The **CoalaWeb Contact Tab** module gives you a fast and easy way to set-up a contact form that is displayed in a slide out window which saves valuable screen space. You can display it on either side top or bottom plus its packed full of other options making it very flexible. *\[Figure-2b\]*
 
-![Figure-2b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-contact.png "Figure-2b"){.coalaweb-docs}
+![Figure-2b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-tab.png "Figure-2b"){.coalaweb-docs}
 
 ## <a name="plugins"></a>Plugins
 
