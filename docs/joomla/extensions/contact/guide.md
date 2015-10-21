@@ -37,7 +37,7 @@
 
 The **Control Panel** as seen below is designed to be an easy starting point, think of it as the head quarters for the extension. While carrying out tasks you can easily jump from the **Control Panel** to the different sections and then return before moving onto the next one. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-cpanel.png "Figure-1"){.coalaweb-docs}
+![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-contact.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="help"></a>Inbuilt Help
 
@@ -217,7 +217,7 @@ The last tab contains the permission settings for the CoalaWeb Contact component
 
 # <a name="module"></a>Contact Module
 
-![Module-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-module-themes.png "Module-Demo"){.coalaweb-docs}
+![Module-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-contact.png "Module-Demo"){.coalaweb-docs}
 
 ### <a name="mod-general"></a>General Display Options
 
