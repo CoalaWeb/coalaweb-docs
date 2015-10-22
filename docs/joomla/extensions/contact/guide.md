@@ -15,15 +15,22 @@
         - [9. Component Permissions](#options-permissions)
 3.  [Contact \[M\]](#module)
     -   [General Display Options](#mod-general)
-    -   [Custom Fields](#mod-general)
+    -   [Custom Fields](#mod-custom)
     -   [Captcha](#mod-captcha)
     -   [Map](#mod-map)
     -   [Advanced](#mod-advanced)
     -   [Release Information](#mod-release)
-4.  [Plugins](#plg)
+4.  [Contact Tab \[Pro\]\[M\]](#tab)
+    -   [General Display Options](#tab-general)
+    -   [Layout and Style](#tab-style)
+    -   [Custom Fields](#tab-custom)
+    -   [Captcha](#tab-captcha)
+    -   [Advanced](#tab-advanced)
+    -   [Release Information](#tab-release)
+5.  [Plugins](#plg)
     -   [Content Plugin - Contact \[Pro\]](#plg-content)
     -   [Editor XTD Plugin - Contact \[Pro\]](#plg-xtd)
-5.  [Need More Help?](#more-help)
+6.  [Need More Help?](#more-help)
 
 ## <a class="doc-top"  name="overview"></a>Overview
 
@@ -217,7 +224,7 @@ The last tab contains the permission settings for the CoalaWeb Contact component
 
 # <a name="module"></a>Contact Module
 
-![Module-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-contact.png "Module-Demo"){.coalaweb-docs}
+![Module-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-contact.png "Contact Module-Demo"){.coalaweb-docs}
 
 ### <a name="mod-general"></a>General Display Options
 
@@ -265,7 +272,7 @@ The next section covers **Redirection** after the mail has been successfully sen
 
 #### Part 4
 
-Lastly we have some **Layout & Style** options that will affect the look and feel of the contact form. The first one gives you the option to include the CSS included with the CoalaWeb Contact extension or not. The next option allows you to choose a **Theme** for the contact form. **Core** users only have two options while the **Pro** subscribers get three.
+Lastly we have some **Layout & Style** options that will affect the look and feel of the contact form. The first option allows you to choose a **Theme** for the contact form. **Core** users only have two options while the **Pro** subscribers get three.
 
 #### Creating your own theme
 
@@ -345,6 +352,145 @@ In this section you can find out information about the currently installed exten
 
 ![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-r-info.png "Figure-19"){.coalaweb-docs}
 
+# <a name="tab"></a>Contact Tab Module
+
+![Module-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-tab.png "Contact Tab Module Demo"){.coalaweb-docs}
+
+### <a name="tab-general"></a>General Display Options
+
+<div class="uk-alert">The settings below will override any you have already set in the <em>Component Options</em>.</div>
+
+<div class="uk-alert">To make it easier to follow I have broken up the General settings into three parts.</div>
+
+#### Part 1
+
+The first thing you will need to do is decide if you want the forms to be sent to one address or for **Pro** subscribers give the user the option to select from a list of options.
+
+<div class="uk-alert">You will need to setup at least one <em>Recipient Email</em> or the system will display an error message.</div>
+
+If you have select **Single** then all you have to do is enter the email address that you want your forms to be sent to. *\[Figure-13a\]*
+
+![Figure-13a](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-general1.png "Figure-13a"){.coalaweb-docs}
+
+If you are using the **Pro** version and you have selected **Departments** then a new field will appear allowing you to enter each one separated by a comma in the following format. *\[Figure-3b\]*
+
+        Dep 1:dep1@example.com,Dep 2:dep2@example.com
+
+![Figure-13b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-general1a.png "Figure-13b"){.coalaweb-docs}
+
+Pro subscribers will also have two additional fields a CC Email and a BCC email. Next you have a **Default Subject** option this will display in the email subject followed by the submitters subject if you have chosen to display this option. *\[Figure-13c\]*
+
+![Figure-13c](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-general1b.png "Figure-13c"){.coalaweb-docs}
+
+#### Part 2
+
+Next we have some **Field Display** options that will affect what and how items are displayed within the contact form. Firstly you have the option to turn on or off the display of the following fields **Email**, **Subject** and **Message** and also if they are required.
+
+The last two options are for the **Pro** subscribers and they allow you to set and display the **Character Limit** for the message field of the form. If displayed the **Character Limit** will count down as text is entered into the message field. *\[Figure-25a\]*
+
+![Figure-25a](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-tab-config-general1.png "Figure-25a"){.coalaweb-docs}
+
+#### Part 3
+
+The next section covers **Redirection** after the mail has been successfully sent. The **Core** version gives you two options the first one is to return to the **Same Page** that the form was submitted on while the second one will return the user to the **Home Page** of your website. The **Pro** version has an additional **Custom URL** option that if chosen will redirect the user to the URL entered in the following **Custom URL** field. *\[Figure-14b\]*
+
+![Figure-14b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-general2b.png "Figure-14b"){.coalaweb-docs}
+
+### <a name="tab-style"></a>Layout and Style
+
+<div class="uk-alert">The settings below will override any you have already set in the <em>Component Options</em>.</div>
+
+<div class="uk-alert">To make it easier to follow I have broken up the General settings into three parts.</div>
+
+#### Part 1
+
+The first few options in this section control the layout of the Tab module. You can choose to display the module at the top or bottom on either side and you can also set the offset in pixels. *\[Figure-25b\]*
+
+![Figure-25b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-tab-config-style1.png "Figure-25b"){.coalaweb-docs}
+
+#### Part 2
+
+Next you can chose how you want the module to behave on mobile devices. You can turn on or off it's display on **Tablets** and or **Mobiles**. You can also set the trigger widths for both **Tablets** and **Mobiles** in pixels.
+
+The next option allows you to choose a **Theme** for the contact form. **Core** users only have two options while the **Pro** subscribers get three.
+
+#### Creating your own theme
+
+Creating a theme is easy, just copy the light folder found in:
+
+    media → coalawebcontact → components → contact → themes
+
+Give the theme a different name and edit the files as needed. All the folders located in the themes directory will automatically be listed in the **Form Theme** select list. 
+
+The next option allows you to choose a **Button Style** for the contact form. **Core** users have the default or custom options while the **Pro** subscribers get 12 color options as well. The last two options allow you to choose the text to be displayed on the **Submit** button. *\[Figure-25c\]*
+
+![Figure-25c](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-tab-config-style2.png "Figure-25c"){.coalaweb-docs}
+
+#### Part 3
+
+The last few options are related to the styling of the **Tab**. First you can choose from several icon options that will be displayed on the tab. The last two options allow you to choose the complete slide out Tabs's background and hover colors using a color selector. *\[Figure-25d\]*
+
+![Figure-25d](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-tab-config-style3.png "Figure-25d"){.coalaweb-docs}
+
+### <a name="tab-custom"></a>Custom Fields
+
+In this section you can choose to display one custom field for **Core** users or up to three for **Pro** users. The specifics for each of the custom fields can be found in the **component** configuration options. *\[Figure-15\]*
+
+![Figure-15](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-custom1.png "Figure-15"){.coalaweb-docs}
+
+### <a name="tab-captcha"></a>Captcha
+
+The next options group allows you to display a **Captcha** to attempt to reduce pesky spam. Lets start with the options that apply to both the
+**Core** and **Pro** versions of the extension. Firstly you have the option to pick what type of captcha you wish to display the **Core** users only get one option the basic question and answer type Captcha while **Pro** users get three. Next you get to chose if you want to display a title/hint above the Captcha.
+
+#### Basic Captcha
+
+The next two options are applicable when using the basic question and answer Captcha they allow you to chose a question to be displayed and the answer to be check against before allowing the form to be submitted. The default question is:
+
+    Question = How many wheels does a bicycle have?
+
+    Answer = 2
+
+Feel free to chose a question and answer but try to aim for a good balance between difficult to answer for a spam bot while not too annoying for a real user. Note: If your site is multilingual leave blank and use the language files. *\[Figure-16\]*
+
+![Figure-16](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-captcha1.png "Figure-16"){.coalaweb-docs}
+
+<div class="alert">For the <em>Pro</em> subscribers you get two additional Captcha options.</div>
+
+#### Image Captcha
+
+To allow the **Image Captcha** to function correctly your system must have both the **GD** and **FreeType** libraries installed and allow access to the **captcha_images.php** file located at:
+
+    administrator/components/com_coalawebcontact/assets/captcha/captcha_images.php
+
+Access is particularly important if you are using a **.htaccess** file for example to have the image captcha work with correctly while using **Admin Tools** you would open up the **htaccess Maker** and scroll down to the **Exceptions -> Allow direct access to these files** field and enter in line above. Once you have selected **Save and create .htaccess** your image captcha should display and function correctly. *\[Figure 9a\]*
+
+![Figure-9a](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-captcha3.png "Figure-9a"){.coalaweb-docs}
+
+#### ReCaptcha
+
+CoalaWeb Contact integrates the inbuilt Joomla **Captcha - reCAPTCHA** plugin so if you haven't already set it up using the **Version 2** option read on.
+
+To get started grab your **Site** and **Secret** keys by signing in with your Google account (create an account if you don't have one) here: [Create a reCAPTCHA key](https://www.google.com/recaptcha/admin/create). Once you have an account register your website domain, and Google will provide you with your ReCAPTCHA keys. 
+
+Next head over to your plugin manager and filter by type **Captcha** and you should see the **Captcha - ReCaptcha** plugin listed. Once you have selected it from the list choose **2.0** for the **Version** and then enter the **Site key** and **Secret key** your received in the previous step. The last option is to display the captcha in a dark or light style once you selected save the plugin making sure it's published. Now you can feel free to select reCAPTCHA from the list of options in the CoalaWeb Contact extension. *\[Figure-9b\]*
+
+<div class="uk-alert">TIP: If you are using the reCAPTCHA option with a contact form and you are short on space try the <em>reCAPTCHA Compact</em> option found in the <em>System - CW Gears</em> plugin.</div>
+
+![Figure-9b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-captcha2.png "Figure-9b"){.coalaweb-docs}
+
+### <a name="tab-advanced"></a>Advanced Options
+
+The CoalaWeb Contact Tab module also has a few of what I consider **Advanced Options** such a **Module Class Suffix** and whether to use **Cache**including the **Cache Time**.  *\[Figure-18\]*
+
+![Figure-18](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-advanced.png "Figure-18"){.coalaweb-docs}
+
+### <a name="tab-release"></a>Release Information
+
+In this section you can find out information about the currently installed extension such as **Type**, **Version** and **Release Date**. *\[Figure-19\]*
+
+![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-r-info.png "Figure-19"){.coalaweb-docs}
+
 ## <a name="plg"></a>Plugins \[PRO\]
 
 ### <a name="plg-content"></a>Content Plugin - Contact
@@ -357,7 +503,7 @@ the contact form displayed in your content make sure you have the plugin
 installed and published and that you have selected the appropriate
 configuration options.
 
-![Content-PLG-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-plg-content.png "Content-PLG-Demo"){.coalaweb-docs}
+![Content-PLG-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/plg-contact.png "Content PLG Demo"){.coalaweb-docs}
 
 ### <a name="plg-xtd"></a>Editor XTD Plugin - Contact
 
@@ -366,7 +512,7 @@ content a one click process. Just place the cursor where you want the
 form to be displayed and then click the **Insert Contact** button
 displayed at the bottom of the editor.
 
-![XTD-PLG-Button](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-plg-btn.png "XTD-PLG-Button"){.coalaweb-docs}
+![XTD-PLG-Button](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-plg-btn.png "XTD PLG Demo"){.coalaweb-docs}
 
 ### <a name="more-help"></a>Need more help?
 
