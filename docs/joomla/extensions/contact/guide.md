@@ -29,6 +29,7 @@
     -   [Release Information](#tab-release)
 5.  [Plugins](#plg)
     -   [Content Plugin - Contact \[Pro\]](#plg-content)
+    -   [System Plugin - Mail Check](#plg-check)
     -   [Editor XTD Plugin - Contact \[Pro\]](#plg-xtd)
 6.  [Need More Help?](#more-help)
 
@@ -352,7 +353,7 @@ In this section you can find out information about the currently installed exten
 
 ![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-r-info.png "Figure-19"){.coalaweb-docs}
 
-# <a name="tab"></a>Contact Tab Module
+# <a name="tab"></a>Contact Tab Module \[Pro\]
 
 ![Module-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-tab.png "Contact Tab Module Demo"){.coalaweb-docs}
 
@@ -491,28 +492,35 @@ In this section you can find out information about the currently installed exten
 
 ![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-r-info.png "Figure-19"){.coalaweb-docs}
 
-## <a name="plg"></a>Plugins \[PRO\]
+## <a name="plg"></a>Plugins
 
-### <a name="plg-content"></a>Content Plugin - Contact
+### <a name="plg-content"></a>Content Plugin - Contact \[Pro\]
 
-The CoalaWeb Contact plugin gives you even more flexibility by allowing
-you to place one or more contact forms anywhere within your content. All
-of the configuration options for this particular plugin can be found in
-the accompanying component under **Extension Options**. If you can't see
-the contact form displayed in your content make sure you have the plugin
-installed and published and that you have selected the appropriate
-configuration options.
+The CoalaWeb Contact plugin gives you even more flexibility by allowing you to place one or more contact forms anywhere within your content. All of the configuration options for this particular plugin can be found in the accompanying component under **Extension Options**. If you can't see the contact form displayed in your content make sure you have the plugin installed and published and that you have selected the appropriate configuration options.
+
+The easiest way to use the plugin is in conjunction with the article editor button which when clicked will add the necessary code to your page in the following format.
+
+        {coalaweb-contact-form id=123}
+
+<div class="uk-alert">If you have multiple forms then make sure to give them a different <em>ID</em> to stop potential conflicts.</div>
 
 ![Content-PLG-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/plg-contact.png "Content PLG Demo"){.coalaweb-docs}
 
-### <a name="plg-xtd"></a>Editor XTD Plugin - Contact
+### <a name="plg-check"></a>System - Mail Check
 
-The **Editor XTD** plugin makes adding a contact form to your Joomla
-content a one click process. Just place the cursor where you want the
-form to be displayed and then click the **Insert Contact** button
-displayed at the bottom of the editor.
+The CoalaWeb Mail Check plugin allows you to check your mail settings without having to save each time you make changes. All you need to do is make some changes to your **Mail** settings and then click the button to check if they function correctly. If there is an error just make the necessary changes and click the button again to test them, it's that easy!
 
-![XTD-PLG-Button](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-plg-btn.png "XTD PLG Demo"){.coalaweb-docs}
+<div class="uk-alert">You can disable this button from displaying from within the component options.</div>
+
+![Mail Check](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/plg-mail-check.png "Mail Check Demo"){.coalaweb-docs}
+
+### <a name="plg-xtd"></a>Editor XTD Plugin - Contact \[Pro\]
+
+The **Editor XTD** plugin makes adding a contact form to your Joomla content a one click process. Just place the cursor where you want the form to be displayed and then click the **Insert Contact** button displayed at the bottom of the editor.
+
+<div class="uk-alert">You can disable this button from displaying from within the component options.</div>
+
+![XTD-PLG-Button](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/plg-btncontact.png "XTD PLG Demo"){.coalaweb-docs}
 
 ### <a name="more-help"></a>Need more help?
 
