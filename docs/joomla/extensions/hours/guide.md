@@ -35,7 +35,7 @@ If you are a **Pro** subscriber you get 5 date format options to choose from whi
 
 **Part 3 Layout & Style**
 
-The first option in is section is called **Framework** and it allows you to use the inbuilt **CoalaWeb UIkit** or if you are using a **YooTheme** template the templates native **UIkit**. If you are a **Pro** subscriber you also get 4 **Panel** styles to choose from. 
+The first option is for **Pro** subscriber giving the option to choose 1 of 4 **Panel** styles. 
 
 <div class="uk-alert">Width Guide: Desktop = 960px, Tablet = 768px and Mobile = 480px</div>
 
