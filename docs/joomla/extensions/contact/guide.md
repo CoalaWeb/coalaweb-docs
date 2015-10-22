@@ -512,7 +512,7 @@ The CoalaWeb Mail Check plugin allows you to check your mail settings without ha
 
 <div class="uk-alert">You can disable this button from displaying from within the component options.</div>
 
-![Mail Check](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/plg-mail-check.png "Mail Check Demo"){.coalaweb-docs}
+![Mail Check](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/plg-mailcheck.png "Mail Check Demo"){.coalaweb-docs}
 
 ### <a name="plg-xtd"></a>Editor XTD Plugin - Contact \[Pro\]
 
