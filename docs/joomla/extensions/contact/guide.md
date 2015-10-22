@@ -146,7 +146,7 @@ The next tab allows you to display a **Captcha** to attempt to reduce pesky spam
 
 #### Basic Captcha
 
-The next two options are applicable when using the basic question and answer type Captcha [The Default Captcha]. They allow you to chose a question to be displayed and the answer to be check against before allowing the form to be submitted. The default question is:
+The next two options are applicable when using the basic question and answer type Captcha \[The Default Captcha\]. They allow you to chose a question to be displayed and the answer to be check against before allowing the form to be submitted. The default question is:
 
     Question = How many wheels does a bicycle have?
 
