@@ -506,7 +506,7 @@ The easiest way to use the plugin is in conjunction with the article editor butt
 
 ![Content-PLG-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/plg-contact.png "Content PLG Demo"){.coalaweb-docs}
 
-### <a name="plg-check"></a>System - Mail Check
+### <a name="plg-check"></a>System Plugin - Mail Check
 
 The CoalaWeb Mail Check plugin allows you to check your mail settings without having to save each time you make changes. All you need to do is make some changes to your **Mail** settings and then click the button to check if they function correctly. If there is an error just make the necessary changes and click the button again to test them, it's that easy!
 
