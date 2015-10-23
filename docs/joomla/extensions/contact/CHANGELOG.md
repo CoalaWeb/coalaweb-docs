@@ -1,5 +1,78 @@
 ## Change Log
 
+#### Version 1.0.0 October 2015
+- **(N)** Removed Joomla 2.5 support.
+
+#### Component - Contact
+- **(A)** Google map options.\[Pro\]
+- **(A)** Updated themes to included Google maps.\[Pro\]
+- **(A)** Single or multiple recipients.\[Pro\]
+- **(A)** Email field on/off/required.
+- **(A)** Added text area and select list to custom fields.
+- **(A)** Email cloak off when module displayed in content.
+- **(A)** Turn on or off article editor button.\[Pro\]
+- **(A)** Turn on or off mail check button in global configuration.
+- **(A)** Integrated Joomla reCAPTCHA plugin.\[Pro\]
+- **(A)** Added new image captcha system.\[Pro\]
+- **(A)** Custom button class option.\[Pro\]
+- **(A)** System Msg ID.
+- **(A)** Added new jQuery HTML 5 custom validation message plugin.
+- **(B)** Fixed small CSS bug in install script.
+- **(B)** Fixed default subject multi lingual issue.
+- **(L)** Updated language strings.
+- **(R)** Removed old reCAPTCHA system.\[Pro\]
+- **(R)** Removed math captcha system.\[Pro\]
+
+#### Module - Contact
+- **(A)** Single or multiple recipients.\[Pro\]
+- **(A)** Google map options.\[Pro\]
+- **(A)** Updated themes to included Google maps.\[Pro\]
+- **(A)** Email field on/off/required.
+- **(A)** Email cloak off when module displayed in content.
+- **(A)** Added text area and select list to custom fields.
+- **(A)** Integrated Joomla reCAPTCHA plugin.\[Pro\]
+- **(A)** Added new Image captcha system.\[Pro\]
+- **(A)** Custom button class option.\[Pro\]
+- **(A)** Added new jQuery HTML 5 custom validation message plugin
+- **(C)** Complete rewrite to improve code.
+- **(B)** Fixed default subject multi lingual issue.
+- **(B)** Fixed missing JavaScript link.
+- **(B)** Fixed email validation of new TDLs.
+- **(B)** Fixed wrong label in email.
+- **(L)** Updated language strings.
+- **(R)** Removed old reCAPTCHA system.\[Pro\]
+- **(R)** Removed math captcha system.\[Pro\]
+- **(R)** Removed link back.
+
+#### Module - Contact Tab \[Pro\]
+- **(N)** Integrated into CoalaWeb Contact extension.
+
+#### Plugin(C) - Contact \[Pro\]
+- **(A)** Single or multiple recipients.
+- **(A)** Integrated Joomla reCAPTCHA plugin.
+- **(A)** Added new Image captcha system.
+- **(A)** Google map options.
+- **(A)** Updated themes to included Google maps.
+- **(A)** Email field on/off/required.
+- **(A)** Added text area and select list to custom fields.
+- **(A)** Custom button class option.
+- **(A)** Added new jQuery HTML 5 custom validation message plugin
+- **(C)** Complete rewrite to improve code.
+- **(L)** Updated language strings.
+- **(B)** Fixed email validation of new TDLs.
+- **(B)** Fixed wrong type for email field.
+- **(R)** Removed old reCAPTCHA system.
+- **(R)** Removed math captcha system.
+
+#### Plugin(E) - Button CW Contact \[Pro\]
+- **(L)** Updated language strings.
+
+#### Plugin(S) - CW Mail Check
+- **(N)** Integrated into CoalaWeb Contact extension.
+
+#### Plugin(I) - CWC Update \[Pro\]
+- **(R)** Removed from CoalaWeb Contact extension.
+
 #### Version 0.0.3 November 2014
 
 #### Component - Contact
