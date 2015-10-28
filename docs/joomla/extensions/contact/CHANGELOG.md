@@ -1,5 +1,13 @@
 ## Change Log
 
+#### Version 1.0.1 October 2015
+
+#### Component - Contact
+- **(C)** Updated some depreciated Joomla JRequest code.
+
+#### Plugin(S) - CW Mail Check
+- **(B)** Fixed bug with the loading of jQuery
+
 #### Version 1.0.0 October 2015
 - **(N)** Removed Joomla 2.5 support.
 - **(N)** Minimum PHP version supported is 5.4.0
