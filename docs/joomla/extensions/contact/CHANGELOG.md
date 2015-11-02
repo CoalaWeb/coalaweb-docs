@@ -1,5 +1,16 @@
 ## Change Log
 
+#### Version 1.0.2 November 2015
+
+#### Component - Contact
+- **(C)** Updated theme CSS to fix calendar icon and remove old modal code.
+
+#### Module - Contact
+- **(C)** Changed TOS depreciated modal code to custom popup.
+
+#### Plugin(C) - Contact \[Pro\]
+- **(C)** Changed TOS depreciated modal code to custom popup.
+
 #### Version 1.0.1 October 2015
 
 #### Component - Contact
