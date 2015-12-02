@@ -9,10 +9,11 @@
         - [3. Messages and Warnings](#options-messages)
         - [4. Labels](#options-labels)
         - [5. Captcha](#options-captcha)
-        - [6. Map](#options-map)
-        - [7. Advanced](#options-advanced)
-        - [8. Updates](#options-updates)
-        - [9. Component Permissions](#options-permissions)
+        - [6. Mail](#options-mail)
+        - [7. Map](#options-map)
+        - [8. Advanced](#options-advanced)
+        - [9. Updates](#options-updates)
+        - [10. Component Permissions](#options-permissions)
 3.  [Contact \[M\]](#module)
     -   [General Display Options](#mod-general)
     -   [Custom Fields](#mod-custom)
@@ -95,7 +96,7 @@ Next we have some **Field Display** options that will affect what and how items 
 
 The available options coincide with Joomla's standard types such as **LC3**. The **Display Format** option will display an example of the currently acceptable format under the date fields which is handy when JavaScript is turned off on the users computer so they can still input the date manually using the correct format. 
 
-The next option gives **Pro** users the ability to display a **Terms of Service** input field that can also be set to required. If you want to display the **TOS**  you will also need to enter an article **ID** in the **TOS Article ID** this is the article that will be displayed in a popup window so users can read before agreeing. Next you can chose to display a **Copy Me** field allowing users to receive a copy of the form when they submit it. 
+The next option gives **Pro** users the ability to display a **Terms of Service** input field that can also be set to required. If you want to display the **TOS**  you will also need to enter an article **ID** in the **TOS Article ID** this is the article that will be displayed in a popup window so users can read before agreeing. Next you can chose to display a **Copy Me** field allowing users to receive a copy of the form when they submit it. Next is the option to turn on or off the display of a message informing users that fields marked with * are **Required**.
 
 The last two options are for the **Pro** subscribers and they allow you to set and display the **Character Limit** for the message field of the form. If displayed the **Character Limit** will count down as text is entered into the message field. *\[Figure-4\]*
 
@@ -131,13 +132,17 @@ The next option is what text you want to be used for the form field **Label**. N
 
 ### <a name="options-messages"></a>3. Messages and Warnings
 
-The next tab allows you to customize the **Messages and Warnings** displayed by the CoalaWeb Contact extension. Note: If your site is multilingual leave blank and use the language files. *\[Figure-6\]*
+The next tab allows you to customize the **Messages and Warnings** displayed by the CoalaWeb Contact extension. *\[Figure-6\]*
+
+<div class="uk-alert">Note: If your site is multilingual leave blank and use the language files.</div>
 
 ![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-messages.png "Figure-6"){.coalaweb-docs}
 
 ### <a name="options-labels"></a>4. Labels
 
-The next tab allows you to customize the **Labels** displayed by the CoalaWeb Contact extension both in the forms and the sent e-mail. Note: If your site is multilingual leave blank and use the language files. *\[Figure-7\]*
+The next tab allows you to customize the **Labels** displayed by the CoalaWeb Contact extension both in the forms and the sent e-mail. *\[Figure-7\]*
+
+<div class="uk-alert">Note: If your site is multilingual leave blank and use the language files.</div>
 
 ![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-labels.png "Figure-7"){.coalaweb-docs}
 
@@ -181,7 +186,17 @@ Next head over to your plugin manager and filter by type **Captcha** and you sho
 
 ![Figure-9b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-captcha2.png "Figure-9b"){.coalaweb-docs}
 
-### <a name="options-map"></a>6. Map
+### <a name="options-mail"></a>6. Mail
+
+The next tab gives **Pro** subscribers the option to turn on or off parts of the mail templates. There are two mail templates the first is the **Admin** template which is the one sent to the administrator as chosen in the extension settings. 
+
+The second is the **Copy** template which is the one sent to a user if they have selected **Copy Me** which has the same sections as the **Admin** template with addition of an optional **Thank You** message. *\[Figure-26\]*
+
+<div class="uk-alert">Note: If your site is multilingual leave blank and use the language files.</div>
+
+![Figure-26](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-mail.png "Figure-26"){.coalaweb-docs}
+
+### <a name="options-map"></a>7. Map
 
 If you are a **Pro** subscriber you also get the option to included a Google map with your contact form. The first option allows to globally turn on or off the display of a map and the second its location either at the **Top** or **Bottom** of the contact form. *\[Figure-22a\]*
 
@@ -201,7 +216,7 @@ To pin point a location on the map a pin with an accompanying popup message is p
 
 ![Figure-22c](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-map3.png "Figure-22c"){.coalaweb-docs}
 
-### <a name="options-advanced"></a>7. Advanced
+### <a name="options-advanced"></a>8. Advanced
 
 In this section there is three options for **Pro** subscribers and two for **Core** users. Option one is to turn on or off the **Email Cloak** let me explain when to use this option. If you have disabled the native Joomla email cloak plugin or you are using a third party extension to cloak your emails please set the option below to No. *\[Figure-23\]*
 
@@ -211,13 +226,13 @@ The last button allows you to turn on or off the display of the **CoalaWeb Mail 
 
 ![Figure-23](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-advanced1.png "Figure-23"){.coalaweb-docs}
 
-### <a name="options-updates"></a>8. Update Options
+### <a name="options-updates"></a>9. Update Options
 
 The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager so when you do see one feel free to select it and update from with in Joomla. For **Pro** subscribers you will be notified through the inbuilt Joomla update system but you will have to drop by **coalaweb.com** and download a copy of the latest release, this is to ensure that a user has a valid subscription.
 
 <div class="uk-alert">The <em>Download ID</em> system is currently being reviewed.</div>
 
-### <a name="options-permissions"></a>9.Component Permissions
+### <a name="options-permissions"></a>10.Component Permissions
 
 The last tab contains the permission settings for the CoalaWeb Contact component. *\[Figure-12\]*
 
@@ -259,7 +274,7 @@ Next we have some **Field Display** options that will affect what and how items 
 
 The available options coincide with Joomla's standard types such as **LC3**. The **Display Format** option will display an example of the currently acceptable format under the date fields which is handy when JavaScript is turned off on the users computer so they can still input the date manually using the correct format. 
 
-The next option gives **Pro** users the ability to display a **Terms of Service** input field that can also be set to required. If you want to display the **TOS**  you will also need to enter an article **ID** in the **TOS Article ID** this is the article that will be displayed in a popup window so users can read before agreeing. Next you can chose to display a **Copy Me** field allowing users to receive a copy of the form when they submit it. 
+The next option gives **Pro** users the ability to display a **Terms of Service** input field that can also be set to required. If you want to display the **TOS**  you will also need to enter an article **ID** in the **TOS Article ID** this is the article that will be displayed in a popup window so users can read before agreeing. Next you can chose to display a **Copy Me** field allowing users to receive a copy of the form when they submit it. Next is the option to turn on or off the display of a message informing users that fields marked with * are **Required**.
 
 The last two options are for the **Pro** subscribers and they allow you to set and display the **Character Limit** for the message field of the form. If displayed the **Character Limit** will count down as text is entered into the message field. *\[Figure-14a\]*
 
@@ -385,7 +400,7 @@ Pro subscribers will also have two additional fields a CC Email and a BCC email.
 
 #### Part 2
 
-Next we have some **Field Display** options that will affect what and how items are displayed within the contact form. Firstly you have the option to turn on or off the display of the following fields **Email**, **Subject** and **Message** and also if they are required.
+Next we have some **Field Display** options that will affect what and how items are displayed within the contact form. Firstly you have the option to turn on or off the display of the following fields **Email**, **Subject** and **Message** and also if they are required. Next you can chose to display a **Copy Me** field allowing users to receive a copy of the form when they submit it. Next is the option to turn on or off the display of a message informing users that fields marked with * are **Required**.
 
 The last two options are for the **Pro** subscribers and they allow you to set and display the **Character Limit** for the message field of the form. If displayed the **Character Limit** will count down as text is entered into the message field. *\[Figure-25a\]*
 
