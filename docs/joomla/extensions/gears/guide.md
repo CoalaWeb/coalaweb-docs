@@ -7,7 +7,7 @@
     -   [Uikit](#opt-uikit)
     -   [Custom CSS](#opt-css)
     -   [Custom JS](#opt-js)
-    -   [Cache Control](#opt-cache)
+    -   [Cache](#opt-cache)
 3.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="overview"></a>Overview
@@ -90,7 +90,9 @@ You can choose to include code added to the **Custom Code** input field and then
 ### <a name="opt-cache"></a>Cache
 
 This section gives you more control over the native Joomla cache system by controlling when it is specifically used to help stop conflicts with thing such as forms.
-If you choose the turn **Cache Off** option you will also have to define rules for the system to know where to turn the Cache off. To create a new rule add a line consisting of a list of URL parameters for each rule. For example:
+If you choose the turn **Cache Off** option you will also have to define rules for the system to know where to turn the Cache off. To create a new rule add a line consisting of a list of URL parameters for each rule. *\[Figure 7\]*
+
+For example:
 
     option=com_content&amp;view=article 
 
@@ -98,7 +100,17 @@ Would turn off caching for **com_content** article view. You can also use the **
     
     option=com_content&amp;view=article&amp;id=?
 
-![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f6.png "Figure-6"){.coalaweb-docs}
+![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f7.png "Figure-7"){.coalaweb-docs}
+
+### <a name="opt-assets"></a>Assets
+
+The CoalaWeb Gears plugin takes care of the loading of certain assets such as CoalaWeb's custom UIkit and Facebook JS. The requests are stored in a database table with the URL, time and what assets are needed. 
+
+There are two options in this section related to keeping the database clean of old records. The first is to turn on or off the **Auto DB Clean** system which will take care of removing old records. The second is the amount of time that has to elapse before an asset is removed from the database. *\[Figure 8\]*
+
+<div class="uk-alert">Ref: The Lock Time is in minutes and the default value of 1440 min = 1 day.</div> 
+
+![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f8.png "Figure-8"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 
