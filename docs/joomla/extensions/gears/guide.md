@@ -8,6 +8,7 @@
     -   [Custom CSS](#opt-css)
     -   [Custom JS](#opt-js)
     -   [Cache](#opt-cache)
+    -   [Assets](#opt-assets)
 3.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="overview"></a>Overview
