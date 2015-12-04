@@ -1,5 +1,20 @@
 ##Change Log
 
+#### Version 0.1.5 December 2015
+- **(A)** CSS to fix reCAPTCHA compact layout background.
+- **(A)** Integrated CoalaWeb Market into version field.
+- **(A)** Integrated CoalaWeb Users into version field.
+- **(A)** Integrated CoalaWeb Facebook JS into version field.
+- **(A)** Added inherit field type.
+- **(A)** Added dependent field type.
+- **(A)** Added mobile detect helper class.
+- **(A)** Added asset count helper class.
+- **(A)** Added UIkit plus option.
+- **(A)** Added install script to help database creation and update.
+- **(A)** Added database table to control loading of scripts and frameworks based on page call.
+- **(A)** Added database table to control auto DB clean up.
+- **(L)** New and updated language strings.
+
 #### Version 0.1.4 August 2015
 - **(C)** Update to Joomla 3.+ module CSS updating message width.
 - **(C)** Changed CoalaWeb Zones to Hours in version field.
