@@ -1,5 +1,46 @@
 ## Change Log
 
+#### Version 1.0.3 December 2015
+
+#### Component - Contact
+- **(A)** Admin Mail options
+- **(A)** Copy Me Mail options
+- **(A)** Thank you message for copy me email
+- **(A)** Asterisk for required fields
+- **(A)** Asterisk message
+- **(L)** Updated language strings
+
+#### Module - Contact
+- **(A)** Admin Mail options
+- **(A)** Copy Me Mail options
+- **(A)** Thank you message for copy me email
+- **(A)** Asterisk for required fields
+- **(A)** Asterisk message
+- **(L)** Updated language strings
+- **(B)** Fixed bug for email display
+- **(B)** Fixed new line in email message
+
+#### Module - Contact Tab \[Pro\]
+- **(A)** Copy me option
+- **(A)** Admin mail options
+- **(A)** Copy me mail options
+- **(A)** Thank you message for copy me email
+- **(A)** Asterisk for required fields
+- **(A)** Asterisk message
+- **(L)** Updated language strings
+- **(B)** Fixed bug for email display
+- **(B)** Fixed new line in email message
+
+#### Plugin(C) - Contact \[Pro\]
+- **(A)** Admin Mail options
+- **(A)** Copy Me Mail options
+- **(A)** Thank you message for copy me email
+- **(A)** Asterisk for required fields
+- **(A)** Asterisk message
+- **(L)** Updated language strings
+- **(B)** Fixed bug for email display
+- **(B)** Fixed new line in email message
+
 #### Version 1.0.2 November 2015
 
 #### Component - Contact
