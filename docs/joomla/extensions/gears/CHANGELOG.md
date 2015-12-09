@@ -1,5 +1,8 @@
 ##Change Log
 
+#### Version 0.1.6 December 2015
+- **(B)** Removed getDocument call from onAfterInitialise
+
 #### Version 0.1.5 December 2015
 - **(A)** CSS to fix reCAPTCHA compact layout background.
 - **(A)** Integrated CoalaWeb Market into version field.
