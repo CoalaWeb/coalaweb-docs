@@ -3,7 +3,8 @@
 ### Version 1.0.1 Jan 2016
 
 #### Module - News
-- **(B)** Fix the article clean up system to clean out all tags, spaces and encoded HTML
+- **(B)** Fixed the article clean up system to clean out all tags, spaces and encoded HTML
+- **(B)** Fixed update site bug in install script
 - **(A)** Added link images option
 - **(C)** Integrated new dependency check and load system
 - **(C)** Integrated new version of CW Gears plugin with updated Uikit
