@@ -1,17 +1,33 @@
 ## Table of Contents
 1.  [Intro](#intro)
-2.  [Scenario](#scenario)
-3.  [Override](#override)
-    -   [What's a Constant](#constant)
+2.  [Terminology](#terms)
+3.  [Scenario](#scenario)
+4.  [Override](#override)
     -   [Constant Known](#known)
     -   [Constant Not Known](#notknown)
-4.  [Need More Help?](#more-help)
+5.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="intro"></a> Intro
 
 In this guide I will show you how to create a language override for a multi lingual site. I will be using the **CoalaWeb Contact** extension as an example and more specifically the custom input field option.
 
 Depending on what version of CoalaWeb Contact you are using you will have one or more custom fields. If you have a single language site you could use the inbuilt component options to change it's label and associated messages but for a multi lingual site its a bit more complicated.
+
+## <a name="terms"></a> Terminology
+
+> Before you start creating language overrides it's important to know a few terms that will be used when talking about language strings. 
+
+Contained inside each of the language files used through out a Joomla website are a series of language strings. Each of these strings are made up of two elements a **Constant** the reference to the language string which comes first and is in capitals.
+
+    COM_CWCONTACT_LABEL_CUSTOM1
+
+The second part if the **Value** which will change depending on the particular language of the file in question.
+
+    Custom 1
+
+When we deal with language overrides the system will take care of formating the **Constant** and **Value** together for us but just for your own knowledge if you were to open a language file they would be display like this:
+
+    COM_CWCONTACT_LABEL_CUSTOM1="Custom 1"
 
 ## <a name="scenario"></a> Scenario
 
@@ -28,22 +44,6 @@ The **Constant** that we will be applying the override to is:
 To get started log into the backend of your site and then go to:
 
     Extensions -> Language(s)
-
-### <a name="constant"></a> What's a Constant?
-
-> Before you start creating language overrides it's important to know a few terms that will be used when talking about language strings. 
-
-Contained inside each of the language files used through out a Joomla website are a series of language strings. Each of these strings are made up of two elements a **Constant** the reference to the language string which comes first and is in capitals.
-
-    COM_CWCONTACT_LABEL_CUSTOM1
-
-The second part if the **Value** which will change depending on the particular language of the file in question.
-
-    Custom 1
-
-When we deal with language overrides the system will take care of formating the **Constant** and **Value** together for us but just for your own knowledge if you were to open a language file they would be display like this:
-
-    COM_CWCONTACT_LABEL_CUSTOM1="Custom 1"
 
 ### <a name="known"></a> Constant Known 
 
