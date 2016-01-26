@@ -8,17 +8,19 @@
 
 ## <a class="doc-top" name="intro"></a> Intro
 
-In this guide I will show you how to create a language override for a multi lingual site. I will be using the CoalaWeb Contact extension as an example and more specifically the custom input field option.
+In this guide I will show you how to create a language override for a multi lingual site. I will be using the **CoalaWeb Contact** extension as an example and more specifically the custom input field option.
 
-In CoalaWeb Contact depending on the version you are using you have one or more custom fields. If you have a single language site you could use the inbuilt component options to change it's label and associated messages but for a multi lingual site its a bit more complicated.
+Depending on what version of CoalaWeb Contact you are using you will have one or more custom fields. If you have a single language site you could use the inbuilt component options to change it's label and associated messages but for a multi lingual site its a bit more complicated.
 
 ## <a name="scenario"></a> Scenario
 
-I want to change the **Custom 1** field in my contact form to **Phone Number** and I have a website with both **English** and **Spanish**. To do this I will be updating the custom field's label. *\[Figure-1\]* The **Constant** that we will be applying the override to is:
-
-    COM_CWCONTACT_LABEL_CUSTOM1
+I want to change the **Custom 1** field in my contact form to **Phone Number** and I have a website with both **English** and **Spanish**. To do this I will be updating the custom field's label. *\[Figure-1\]*
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-1.png "Figure-1"){.coalaweb-docs}
+
+The **Constant** that we will be applying the override to is:
+
+    COM_CWCONTACT_LABEL_CUSTOM1
 
 ## <a name="override"></a> Override
 
@@ -26,9 +28,9 @@ To get started log into the backend of your site and then go to:
 
     Extensions -> Language(s)
 
-### <a name="known"></a> Constant Known
+### <a name="known"></a> Constant Known 
 
-Next select **Overrides** from the side menu. In this example I want to create a language override for **Spanish** and applied to **Administrator** because thats where the language strings are stored in this case. 
+Next select **Overrides** from the side menu. For this example I want to create a language override for **Spanish** and it will be applied to **Administrator** because thats where the language strings are stored in this case. 
 
 > Note: We will also make sure it is applied to the front end in a future step.
 
@@ -56,7 +58,7 @@ Now try refreshing your site to see the contact form with its new label in actio
 
 ![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-6.png "Figure-6"){.coalaweb-docs}
 
-Lastly in this case you would also have to repeat the process for the other two associated language strings.
+> Note: You would also have to repeat the process for the other two associated language strings.
 
 ``
 COM_CWCONTACT_CUSTOM1_HINT
@@ -104,7 +106,7 @@ Now try refreshing your site to see the contact form with its new label in actio
 
 ![Figure-14](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-6.png "Figure-14"){.coalaweb-docs}
 
-Lastly in this case you would also have to repeat the process for the other two associated language strings.
+> Note: You would also have to repeat the process for the other two associated language strings.
 
 ``
 COM_CWCONTACT_CUSTOM1_HINT
