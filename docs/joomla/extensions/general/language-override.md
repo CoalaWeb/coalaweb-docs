@@ -9,13 +9,13 @@
 
 ## <a class="doc-top" name="intro"></a> Intro
 
-In this guide I will show you how to create a language override for a multi lingual site. I will be using the **CoalaWeb Contact** extension as an example and more specifically the custom input field option.
+In this guide I will show you how to create a language override for a multi lingual site. It will be using the **CoalaWeb Contact** extension as an example and more specifically the custom input field option.
 
 Depending on what version of CoalaWeb Contact you are using you will have one or more custom fields. If you have a single language site you could use the inbuilt component options to change it's label and associated messages but for a multi lingual site its a bit more complicated.
 
 ## <a name="terms"></a> Terminology
 
-> Before you start creating language overrides it's important to know a few terms that will be used when talking about language strings. 
+<div class="uk-alert">Before you start creating language overrides it's important to know a few terms that will be used when talking about language strings.</div>
 
 Contained inside each of the language files used through out a Joomla website are a series of language strings. Each of these strings are made up of two elements a **Constant** the reference to the language string which comes first and is in capitals.
 
@@ -49,7 +49,7 @@ To get started log into the backend of your site and then go to:
 
 Next select **Overrides** from the side menu. For this example I want to create a language override for **Spanish** and it will be applied to **Administrator** because thats where the language strings are stored in this case. 
 
-> Note: We will also make sure it is applied to the front end in a future step.
+<div class="uk-alert">Note: We will also make sure it is applied to the front end in a future step.</div>
 
 To get started I first select **Spanish (español) - Administrator** from the bottom left menu and then **New** from the top menu. *\[Figure-2\]*
 
@@ -75,7 +75,7 @@ Now try refreshing your site to see the contact form with its new label in actio
 
 ![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-6.png "Figure-6"){.coalaweb-docs}
 
-> Note: You would also have to repeat the process for the other two associated language strings.
+<div class="uk-alert">Note: You would also have to repeat the process for the other two associated language strings.</div>
 
     COM_CWCONTACT_CUSTOM1_HINT
     COM_CWCONTACT_MSG_CUSTOM1_MISSING
@@ -97,7 +97,7 @@ In most cases you will have to have a look through the returned option to get th
 
 Now that we have our **Constant** we can select **Spanish (español) - Administrator** from the bottom left menu and then **New** from the top menu. *\[Figure-10\]*
 
-> Note: We will also make sure it is applied to the front end in a future step.
+<div class="uk-alert">Note: We will also make sure it is applied to the front end in a future step.</div>
 
 ![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-2.png "Figure-10"){.coalaweb-docs}
 
@@ -121,7 +121,7 @@ Now try refreshing your site to see the contact form with its new label in actio
 
 ![Figure-14](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-6.png "Figure-14"){.coalaweb-docs}
 
-> Note: You would also have to repeat the process for the other two associated language strings.
+<div class="uk-alert">Note: You would also have to repeat the process for the other two associated language strings.</div>
 
     COM_CWCONTACT_CUSTOM1_HINT
     COM_CWCONTACT_MSG_CUSTOM1_MISSING
