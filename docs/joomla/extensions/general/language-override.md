@@ -60,10 +60,8 @@ Now try refreshing your site to see the contact form with its new label in actio
 
 > Note: You would also have to repeat the process for the other two associated language strings.
 
-``
-COM_CWCONTACT_CUSTOM1_HINT
-COM_CWCONTACT_MSG_CUSTOM1_MISSING
-``
+    COM_CWCONTACT_CUSTOM1_HINT
+    COM_CWCONTACT_MSG_CUSTOM1_MISSING
 
 ### <a name="notknown"></a> Constant Not Known
 
@@ -108,10 +106,8 @@ Now try refreshing your site to see the contact form with its new label in actio
 
 > Note: You would also have to repeat the process for the other two associated language strings.
 
-``
-COM_CWCONTACT_CUSTOM1_HINT
-COM_CWCONTACT_MSG_CUSTOM1_MISSING
-``
+    COM_CWCONTACT_CUSTOM1_HINT
+    COM_CWCONTACT_MSG_CUSTOM1_MISSING
 
 ## <a name="more-help"></a>Need More Help
 
