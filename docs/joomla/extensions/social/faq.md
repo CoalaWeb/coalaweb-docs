@@ -7,6 +7,7 @@
 6.  [Facebook error - Given URL is not allowed by the Application](#q6)
 7.  [My custom Follow Us image isn't displaying correctly?](#q7)
 8.  [I'm using a RocketTheme template and Tabs doesn't display correctly?](#q8)
+9.  [The CoalaWeb Meta tab isn't displaying in my article editor?](#q9)
 
 ***
 
@@ -103,5 +104,15 @@ This will normally be for one of two reasons:
 #### <a name="q8"></a> I'm using a Rocket Theme template and Tabs doesn't display correctly?
 
 Try publishing the **Tabs** module to one of the **utility** positions rather than **debug** for example **utility-a**. Also make sure you have set some of the Tabs to display.
+
+***
+
+#### <a name="q9"></a> The CoalaWeb Meta tab isn't displaying in my article editor?
+
+For the CoalaWeb Meta tab to display correctly in your article editor the **Show Article Options** needs to be set to **Show**. This option can be found at:
+
+> Articles -> Options -> Editing Layout -> Show Article Options
+
+This is because the Meta options contained in the CoalaWeb tab extend the article options.
 
 ***
