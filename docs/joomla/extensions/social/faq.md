@@ -109,7 +109,7 @@ Try publishing the **Tabs** module to one of the **utility** positions rather th
 
 #### <a name="q9"></a> The CoalaWeb Meta tab isn't displaying in my article editor?
 
-For the CoalaWeb Meta tab to display correctly in your article editor the **Show Article Options** needs to be set to **Show**. This option can be found at:
+For the CoalaWeb Meta tab to display correctly in your article editor the **Show Article Options** option needs to be set to **Show**. This option can be found at:
 
 > Articles -> Options -> Editing Layout -> Show Article Options
 
