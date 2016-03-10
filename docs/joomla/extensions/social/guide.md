@@ -9,9 +9,10 @@
         - [3. Share Plugin Options \[Pro\]](#options-share)
         - [4. Panel Plugin Options \[Pro\]](#options-panel)
         - [5. Metadata Plugin Options \[Pro\]](#options-og)
-        - [6. Update Options](#options-updates)
-        - [7. Where Is My Download ID \[Pro\]](#options-downloadid)
-        - [8. Component Permissions](#options-permissions)
+        - [6. Count Options \[Pro\]](#options-count)
+        - [7. Update Options](#options-updates)
+        - [8. Where Is My Download ID \[Pro\]](#options-downloadid)
+        - [9. Component Permissions](#options-permissions)
 3.  [Social Links \[M\]](#module)
     -   [General Display Options](#mod-general)
     -   [Create Custom Theme](#mod-custom-theme)
@@ -176,15 +177,13 @@ Next you have an opportunity to select which categories you wish the buttons to 
 
 #### Part 2 - Layout
 
-Next are the **Layout Options** here you can choose to display the buttons above the content, below the content or both. The buttons also have style options associated with them, you can display them in **Vertical** \[Bubble\], **Horizontal** or with **No Count**. The only exception is the **Mail Count** button that can only be displayed in **Vertical**. *\[Figure-3b\]*
+Next are the **Layout Options** here you can choose to display the buttons above the content, below the content or both. The buttons also have style options associated with them, you can display them in **Vertical** \[Bubble\], **Horizontal** or with **No Count**. The **Mail** and **Twitter** buttons are only avaliable in the **Horizontal** layout so they don't appear in the list. *\[Figure-3b\]*
 
 ![Figure-3b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-like3.png "Figure-3b"){.coalaweb-docs}
 
 #### Part 3 - Social
 
-Next are the **Social Options** here you can chose which social networks
-you wish to display. These options will affect the display of the
-buttons in Joomla, K2 and Zoo. *\[Figure-3c\]*
+Next are the **Social Options** here you can chose which social networks you wish to display. These options will affect the display of the buttons in Joomla, K2 and Zoo. *\[Figure-3c\]*
 
 ![Figure-3c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-like4.png "Figure-3c"){.coalaweb-docs}
 
@@ -192,7 +191,7 @@ buttons in Joomla, K2 and Zoo. *\[Figure-3c\]*
 
 <div class="uk-alert">Some of the options selected here will affect the display of the buttons in Joomla, K2 and Zoo.</div>
 
-<div class="uk-alert">To make it easier to follow I have broken up the <em>Share Plugin Options</em> into three parts.</div>
+<div class="uk-alert">To make it easier to follow I have broken up the <em>Share Plugin Options</em> into four parts.</div>
 
 #### Part 1 - Display Where
 
@@ -208,11 +207,19 @@ Next you have an opportunity to select which categories you wish the buttons to 
 
 #### Part 2 - General
 
-Next are the **General Options** here you can choose to display the buttons above the content, below the content or both. The next two options control what icons are displayed and their size. The icon themes are the same ones used by the Social Links module making it easy to create a custom theme that can be used by both. For more details on creating a custom theme click [Here](#mod-custom-theme). If you want the links to be set to No Follow select **Yes** for the next option. Lastly if you want them to be opened in a popup window select **Yes** for the **Use Popup** option. *\[Figure-27b\]*
+Next are the **General Options** here you can choose to display the buttons above the content, below the content or both depending on the current layout. If you want the links to be set to No Follow select **Yes** for the next option. Lastly if you want them to be opened in a popup window select **Yes** for the **Use Popup** option. *\[Figure-27b\]*
 
 ![Figure-27b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-share3.png "Figure-27b"){.coalaweb-docs}
 
-#### Part 3 - Social
+#### Part 3 - Button Style
+
+Next are the **Button Style Options** here you can choose to the icon/button style it's size and if it should have a count or not. Depending on which style you choose you have a few specific options such as **Labels** for the **UIkit** style.*\[Figure-27d\]*
+
+![Figure-27d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-share5.png "Figure-27d"){.coalaweb-docs}
+
+<div class="uk-alert">The counts for the share buttons depend on your settings in the **Count** tab.</div>
+
+#### Part 4 - Social
 
 Next are the **Social Options** here you can chose which social networks you wish to display. These options will affect the display of both the
 buttons in Joomla and K2. If you plan to display the Facebook button you will need to create a Facebook application **first** and then copy and paste the **ID** into the **Component** options under the **General** tab. *\[Figure-27c\]*
@@ -245,7 +252,7 @@ The next option allows you to choose which side you want the panel displayed on.
 
 The next option allows you to choose a **Theme** for the panel. I have included a few and will expand it over time but if you want to create your own have a look below.
 
-The buttons also have style options associated with them, you can display them in **Vertical** \[Bubble\], or with **No Count**. The only exception is the **Mail Count** button that can only be displayed in **Vertical**.
+The buttons also have style options associated with them, you can display them in **Vertical** \[Bubble\], or with **No Count**. The **Mail** and **Twitter** buttons are only avaliable in the **No Count** layout so they don't appear in the list.
 
 #### Creating your own theme
 
@@ -257,10 +264,7 @@ Give the theme a different name and edit the files as needed. All the
 folders located in the themes directory will automatically be listed in
 the **Form Theme** select list.
 
-The last option listed under Layout and Style is Top Space this is the
-amount of space above the panel and will affect both panel styles. The
-top space is measure in % so just enter a number, 15 is the default and
-works well in most situations. *\[Figure-23b\]*
+The last option listed under Layout and Style is Top Space this is theamount of space above the panel and will affect both panel styles. The top space is measure in % so just enter a number, 15 is the default and works well in most situations. *\[Figure-23b\]*
 
 <div class="uk-alert">The Fixed Style will automatically convert to <em>Collapse</em> when the page reaches a certain size.</div>
 
@@ -268,12 +272,7 @@ works well in most situations. *\[Figure-23b\]*
 
 #### Part 3 - Fixed Style
 
-The next couple of option only affect the Fixed panel style. First you
-can choose the Convert Width if the page is reduced smaller than the
-width entered here it will automatically convert to the Collapse style.
-The last option in this section is the side space this is the amount of
-space between the side of the page and the panel it is measured in % so
-just enter a number, 5 is the default and works well in most situations. *\[Figure-23c\]*
+The next couple of option only affect the Fixed panel style. First you can choose the Convert Width if the page is reduced smaller than the width entered here it will automatically convert to the Collapse style. The last option in this section is the side space this is the amount of space between the side of the page and the panel it is measured in % so just enter a number, 5 is the default and works well in most situations. *\[Figure-23c\]*
 
 ![Figure-23c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-panel4.png "Figure-23c"){.coalaweb-docs}
 
@@ -395,7 +394,7 @@ Turn on or off the inclusion of **Open Graph** meta tags. *\[Figure-4b\]*
 
 Here you can enter your Facebook Application ID (optional) and or Administrators (optional). *\[Figure-4b\]*
 
-<div class="alert">Note: The App ID and Admins options will also be used by the Meta Menu plugin and Zoo. The App ID in this section will override the one set under the General options tab.</div>
+<div class="uk-alert">Note: The App ID and Admins options will also be used by the Meta Menu plugin and Zoo. The App ID in this section will override the one set under the General options tab.</div>
 
 ##### Add Namespace
 
@@ -424,29 +423,45 @@ Here you can enter the Twitter **@username** for the content author. *\[Figure-4
 
 #### Part 5 Google \[Schema.org\]
 
-##### Add Schema
+<div class="uk-alert">Note: Google has certain requirements to pass it's **Structured Data Test** so please fill in all the fields below to make sure your pages comply.</div>
 
-Turn on or off the inclusion of **Schema** meta tags and name space. *\[Figure-4d\]*
+<div class="uk-alert">Note: For Zoo content please be sure to assign elements to all the available positions in the **CW Open Graph** layout. Click [Here](#plg-og) for more info.</div>
+
+The first option is to turn on or off the inclusion of **Schema (microdata)** meta tags. The next option is a **fallback** image for when no other image is avaliable due to Google expecting one. Two more options that Google expects are a **Publisher** and **Publisher Logo**. If these options are left blank the system will resort to using a generic image and the site name as the publisher. *\[Figure-4d\]*
 
 ![Figure-4d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata5.png "Figure-4d"){.coalaweb-docs}
 
-### 6. <a name="options-updates"></a>Update Options
+### 6. <a name="options-count"></a>Count Options
+
+CoalaWeb Social links has a count system builtin that can check a page's social counts based on it's URL and then store the information in the database. This allows the counts to be retrieved from the database when displaying the buttons removing the need to check each social network on every page load. *\[Figure-30\]*
+
+![Figure-30](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-count1.png "Figure-30"){.coalaweb-docs}
+
+The count system currently supports **Joomla**, **K2** and **Zoo** content to varying degrees. You can choose to check an individual page's count with the **Check Count(Article)** option for all three while **Joomla** and **K2** give you the option to **Check Count (Category/Featured/List)** which will check all the articles on the page at once. **Joomla** and **K2** also have a few more options to exclude individual articles/items or categories from being counted.  *\[Figure-30a\]*
+
+![Figure-30a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-count2.png "Figure-30a"){.coalaweb-docs}
+
+The next group of options are **what to check** which give you option to choose which social networks to check so if you only plan to display a **Facebook** and **Google** button you could just turn those two on. Keep in mind the counts are independent of the displayed buttons in the front end so you could display no buttons and turn on the counts here to monitor from the Social Links control panel what your page counts are. *\[Figure-30b\]*
+
+![Figure-30b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-count3.png "Figure-30b"){.coalaweb-docs}
+
+ The last option in this section is **when to check** which controls how long a page's information is stored before it is checked again. The **locktime** is set in minutes and the default is **1440** which is one day. *\[Figure-30c\]*
+
+![Figure-30c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-count4.png "Figure-30c"){.coalaweb-docs}
+
+### 7. <a name="options-updates"></a>Update Options
 
 This feature is currently being revised. *\[Figure-6\]*
 
 ![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-updates.png "Figure-6"){.coalaweb-docs}
 
-### 7. <a name="options-downloadid"></a>Where Is My Download ID \[Pro Version\]
+### 8. <a name="options-downloadid"></a>Where Is My Download ID \[Pro Version\]
 
-To find your **Download ID** log into **coalaweb.com** and from the top
-menu select **Members \> My Subscriptions** scroll down and under **My
-Subscriptions** there is a Module called **Download ID** copy the
-code and paste in your component configuration making sure not
-to include any spaces. *\[Figure-7\]*
+To find your **Download ID** log into **coalaweb.com** and from the top menu select **Members \> My Subscriptions** scroll down and under **My Subscriptions** there is a Module called **Download ID** copy the code and paste in your component configuration making sure not to include any spaces. *\[Figure-7\]*
 
 ![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/generic/coalaweb-download-id.png "Figure-7"){.coalaweb-docs}
 
-### 8. <a name="options-permissions"></a>Component Permissions
+### 9. <a name="options-permissions"></a>Component Permissions
 
 The last tab contains the permission settings for the CoalaWeb Social
 Links component. *\[Figure-8\]*
