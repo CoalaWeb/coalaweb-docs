@@ -958,7 +958,7 @@ The CoalaWeb Metadata system allows you to add default values for the parameters
 
 ![Figure-21a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-twittercard.png "Figure-21a"){.coalaweb-docs}
 
-#### Part 2 - Schema.org
+#### Part 3 - Schema.org
 
 **What is Schema.org?**
 
@@ -966,13 +966,39 @@ The CoalaWeb Metadata system allows you to add default values for the parameters
 
 When you share something through Google the information that is included in the accompanying window (rich snippet) can be more accurately chosen using schema.org tags.
  
-The CoalaWeb Metadata system allows you to add default values for the parameters outlined below or dynamically populates them in a variety of different ways see [Social Metadata Options](#options-og) for more details. *\[Figure-21c\]*
+The CoalaWeb Metadata system dynamically populates a series of JSON-LD \[JavaScript Object Notation for Linked Data\] encoded elements to meet Google's **Structured Data Test** criteria. *\[Figure-21c\]*
 
 ##### Schema.org Parameters
 
--   itemprop:headline
--   itemprop:image
--   itemprop:description
+     "@context": "http://schema.org",
+             "@type": "Article",
+             "inLanguage" : "",
+             "headline" : "",
+             "datePublished" : "",
+             "dateModified" : "",
+             "articleBody" : "",
+         "mainEntityOfPage" : {
+            "@type": "WebPage",
+             "url" : ""
+        },
+         "author" : {
+            "@type": "Person",
+             "name" : ""
+        },
+         "publisher" : {
+            "@type": "Organization",
+             "name" : "",
+             "logo" : {
+            "@type": "ImageObject",
+             "url" : ""
+            }
+        },
+         "image" : {
+            "@type": "ImageObject",
+             "url" : "",
+             "width" : "",
+             "height" : ""
+        }
 
 
 ![Figure-21c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-schema.png "Figure-21c"){.coalaweb-docs}
@@ -1019,7 +1045,7 @@ Keep in mind that all these settings are optional and you can feel free to leave
 
 ### <a name="plg-mm"></a>Menu Meta \[Ps\]\[Pro & J3.+]
 
-The **CoalaWeb Menu Meta** system plugin allows you to add **Open Graph**, **Twitter Card** and **Schema** tags to basically any menu item. To stop conflicts with the other CoalaWeb content meta data plugins these tags will not be displayed for regular Joomla content items such as Categories and or Articles. If you want to override the automatic creation of meta tags for a Joomla Article or Category please use the CoalaWeb tab displayed in their respective editors. *\[Figure-29\]*
+The **CoalaWeb Menu Meta** system plugin allows you to add **Open Graph** and **Twitter Card** tags to basically any menu item. To stop conflicts with the other CoalaWeb content meta data plugins these tags will not be displayed for regular Joomla content items such as Categories and or Articles. If you want to override the automatic creation of meta tags for a Joomla Article or Category please use the CoalaWeb tab displayed in their respective editors. *\[Figure-29\]*
 
 ![Figure-29](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mm-plg.png "Figure-29"){.coalaweb-docs}
 
