@@ -40,17 +40,11 @@
     -   [Layout Options](#mod-p-layout)
     -   [Style Options](#mod-p-style)
     -   [Advanced Options](#mod-p-advanced)
-6.  [Like box \[M\]\[Depreciated\]](#module-lbox)
-    -   [General Options](#mod-lb-general)
-    -   [Layout Options](#mod-lb-layout)
-    -   [Style Options](#mod-lb-style)
-    -   [Extra Options](#mod-lb-extra)
-    -   [Advanced Options](#mod-lb-advanced)
-7.  [Google Plus \[M\] \[Pro\]](#module-gplus)
+6.  [Google Plus \[M\] \[Pro\]](#module-gplus)
     -   [General Options](#mod-gplus-general)
     -   [Layout Options](#mod-gplus-layout)
     -   [Advanced Options](#mod-gplus-advanced)
-8.  [Plugins](#plg)
+7.  [Plugins](#plg)
     -   [Content Plugin - Social Likes \[Pro\]](#plg-content)
     -   [Content Plugin - Social Share \[Pro\]](#plg-share)
     -   [Content Plugin - Social Panel \[Pro\]](#plg-panel)
@@ -61,7 +55,7 @@
     -   [System Plugin - Zoo \[Pro Version\]](#plg-zoo)
         - [1. Element - Social Likes](#plg-zoo-social)
         - [2. Layout - Open Graph](#plg-zoo-og)
-9.  [Need More Help?](#more-help)
+8.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="overview"></a>Overview
 
@@ -813,88 +807,6 @@ In the this section you have three options the first gives you the choice of dis
 The Page module also has a few of what I consider **Advanced Options** such as the option to assign a **Unique Module ID** to stop conflicts, a **Module Class Suffix** or whether to use **Cache** including the **Cache Time**. There is also an option to turn off the **Module css** if you want to add your own styling. *\[Figure-29c\]*
 
 ![Figure-29c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-advanced.png "Figure-29c"){.coalaweb-docs}
-
-# <a name="module-lbox"></a>Likebox Module \[Depreciated\]
-
-<div class="uk-alert">Note: This module has been depreciated and superseded by the CoalaWeb Page module.</div>
-
-The like box is a social module that enables Facebook Page owners to
-attract and gain likes from their own website. The like box enables
-people using your website to do the following:
-
--   See how many people like the Page, and which of their friends like
-    it, too.
--   Read recent posts from the Page.
--   Like the Page with one click, without needing to visit the Page.
-
-<div class="uk-alert">Quote: The minimum supported widget width is 292 pixels.</div>
-
-### <a name="mod-lb-general"></a>General Options
-
-The first option in this section allows you to add your Facebook page. The easiest way to do that is open up your page and copy and paste the
-link in the box.
-
-<div class="uk-alert">Note: The URL should be in the following format https://www.facebook.com/CoalaWeb.</div>
-
-The last option is to select what format you want the widget to display in you have a choice of HTML5, XFBML and IFRAME. *\[Figure-13\]*
-
-![Figure-13](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-general.png "Figure-13"){.coalaweb-docs}
-
-### <a name="mod-lb-layout"></a>Layout Options
-
-A word on **Responsiveness** I have tried to make the CoalaWeb Like Box
-Module as responsive as possible with in the limitations enforced by
-Facebook. To get the best results I recommend leaving the **Widget Min
-Width** small and just adjust the height to get the
-best result possible.
-
-This brings me to the actual options available in this section the first
-one is the **Widget Min Width** set this to something small as some
-responsive template frameworks will try to shrink down a module before
-moving it entirely as the page width decreases. Next is the **Widget
-Height** here I recommend testing a few different heights with the other
-setting you have chosen I find 500 quite good if for example you are
-**Displaying Faces** and the **Stream**. 
-
-<div class="uk-alert">Note: If you do not see the faces, please set a bigger height (e.g. 630).</div>
-
-The next option is the **Module Width** not to be confused with the **Widget Width** this is
-the surrounding Joomla module. You might want to reduce this width if
-for example you only have two modules displayed at the bottom of your
-page and you want the Like Box to be a bit more compact. *\[Figure 14\]*
-
-![Figure-14](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-layout.png "Figure-14"){.coalaweb-docs}
-
-### <a name="mod-lb-style"></a>Style Options
-
-This section contains some style options the first one is the **Color
-Style** you have a choice of Light or Dark. 
-
-<div class="uk-alert">Note: These widget color styles are controlled by Facebook.</div>
-
-The next option allows you to turn
-on or off a **Border** around the widget. The next one allows to chose
-if you want the small **Face** boxes to be displayed in the module. The
-last one gives you the option to turn on or off the Facebook **Header**
-at the top of the module. *\[Figure-15\]*
-
-![Figure-15](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-style.png "Figure-15"){.coalaweb-docs}
-
-### <a name="mod-lb-extra"></a>Extra Options
-
-In the this section you have two options the first one is the choice of
-turning on or off the display of a **Stream** of the latest posts from
-your Page's wall. The second option is **Force Wall** this is for
-Places, specifies whether the stream contains posts from the Place's
-wall or just checkins from friends. *\[Figure-16\]*
-
-![Figure-16](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-extra.png "Figure-16"){.coalaweb-docs}
-
-### <a name="mod-lb-advanced"></a>Advanced Options
-
-The Like Box module also has a few of what I consider **Advanced Options** such as the option to assign a **Unique Module ID** to stop conflicts, a **Module Class Suffix** or whether to use **Cache** including the **Cache Time**. There is also an option to turn off the **Module css** if you want to add your own styling. *\[Figure-17\]*
-
-![Figure-17](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-advanced.png "Figure-17"){.coalaweb-docs}
 
 # <a name="module-gplus"></a>Google Plus \[M\]\[Pro\]
 
