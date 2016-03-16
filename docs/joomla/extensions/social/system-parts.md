@@ -4,7 +4,6 @@
 3.  [Modules](#modules)
     -   [Social Links](#mod-social)
     -   [Page](#mod-page)
-    -   [Like Box \[Depreciated\]](#mod-likebox)
     -   [Google + \[Pro\]](#mod-google)
     -   [Social Tabs \[Pro\]](#mod-tabs)
 4.  [Plugins \[Pro\]](#plugins)
@@ -45,14 +44,6 @@ The **CoalaWeb Page** module is designed to help Facebook Page owners attract an
 <div class="uk-alert">Note: This module supersedes the depreciated CoalaWeb Likebox module.</div>
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/page.png "Figure-3"){.coalaweb-docs}
-
-### <a name="mod-likebox"></a>Like Box \[Depreciated\]
-
-The **CoalaWeb Like Box** module is a social module that enables Facebook Page owners to attract and gain likes. The like box enables people using your website to see how many people like the Page, read recent posts from the Page and like the Page with one click, without needing to visit the Page. *\[Figure-3a\]*
-
-<div class="uk-alert">Note: This module has been depreciated and replaced by the CoalaWeb Page module.</div>
-
-![Figure-3a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/system-parts/likebox.png "Figure-3a"){.coalaweb-docs}
 
 ### <a name="mod-tabs"></a>Social Tabs \[Pro Version\]
 

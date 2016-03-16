@@ -1,5 +1,112 @@
 ##Change Log
 
+### Version 0.2.5 March 2016
+
+#### Component - Social Links
+- **(C)** Overhauled the theme CSS
+- **(C)** Updated theme sprite images
+- **(C)** Compressed all theme images
+- **(C)** Improved dependency check and load system
+- **(C)** Complete overhaul of the schema microdata system now using JSON-LTD
+- **(A)** Added new badge CSS
+- **(A)** Added 48px size to icon themes
+- **(A)** Added Social Share buttons position for blog and article
+- **(A)** Added new default description option for share email button
+- **(A)** Share email now contains intro, website and description information 
+- **(A)** Added new social count system to keep track of a page's social counts
+- **(A)** Added new count view in control panel for viewing and editing of current social counts
+- **(A)** New microdata properties to meet Google requirements
+
+#### Module - Social Tabs
+- **(B)** Fixed wrong class check
+- **(B)** Fixed missing space after no follow
+- **(C)** Improved dependency check and load system
+- **(A)** Automatically assign unique module ID based on module ID
+- **(A)** Added new default description option for share email button
+- **(A)** Share email now contains intro, website and description information 
+- **(A)** Integrated mobile detect script to identify mobiles and tablets
+- **(A)** Integrated new waypoint system to trigger appearance and disappearance
+- **(L)** New language strings
+- **(L)** Removed duplicate default title language string
+- **(R)** Removed duplicate default title and link
+- **(R)** Removed unneeded mobile width and height options
+- **(R)** Removed manually entered module unique ID
+
+#### Module - Social Links
+- **(B)** Fixed custom hover CSS
+- **(B)** Fixed missing space after no follow
+- **(C)** Added new method for loading assets
+- **(C)** Included unique ID in custom CSS
+- **(C)** Improved dependency check and load system
+- **(A)** Share email now contains intro, website and description information 
+- **(A)** Added clean text function to clean up description
+- **(A)** Added 48px icon size
+- **(L)** New language strings
+- **(R)** Removed manually entered module unique ID
+
+#### Module - Page
+- **(C)** Improved dependency check and load system
+- **(C)** Added new method for loading assets
+- **(C)** Streamlined coded
+- **(A)** Add option to set module height
+- **(A)** Added clean text function to clean up description
+- **(L)** New and updated language strings
+
+#### Module - Gplus
+- **(C)** Improved dependency check and load system
+
+#### Module - Likebox
+- **(R)** Removed obsolete module
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(C)** Complete overhaul of the schema microdata system to now use JSON-LTD
+- **(A)** Admins are separated with their own tag.
+- **(A)** New microdata properties to meet Google requirements
+
+#### Plugin(S) - Facebook JS
+- **(R)** Moved to an independent extension
+
+#### Plugin(S) - Meta Menu \[Pro\]
+- **(A)** Added clean text function to clean up description
+- **(R)** Removed unneeded schema inclusion for microdata
+- **(R)** Removed schema
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Improved dependency check and load system
+- **(C)** Added some checks before execution 
+- **(C)** Uses the actual image location for the Open Graph tag not the cached location
+- **(C)** Complete overhaul of the schema microdata system to now use JSON-LTD
+- **(A)** Support for Imagepro element by Zoolanders in Open Graph
+- **(A)** Added Twitter card support
+- **(A)** Added clean text function to clean up description
+- **(A)** New microdata properties to meet Google requirements
+
+#### Plugin(C) - Social Share\[Pro\]
+- **(C)** Improved dependency check and load system
+- **(C)** Layout can be chosen for Article and Blog
+- **(A)** UIkit icon style with or without labels
+- **(A)** Added 48px icon size
+- **(A)** Integrated locally stored count system
+- **(A)** Added clean text function to clean up description
+- **(A)** Share email now contains intro, website and description information 
+- **(A)** Added Social Share buttons position for blog and article
+
+#### Plugin(C) - Social Likes\[Pro\]
+- **(C)** Improved dependency check and load system
+- **(C)** Added new method for loading assets
+- **(C)** Improved layout CSS
+- **(A)** Added clean text function to clean up description
+- **(A)** Added new UIkit based mail button
+- **(R)** Removed obsolete mail button
+
+#### Plugin(C) - Social Panel\[Pro\]
+- **(C)** Improved dependency check and load system
+- **(C)** Added new method for loading assets
+- **(C)** Improved layout CSS
+- **(A)** Added clean text function to clean up description
+- **(A)** Added new UIkit based mail button
+- **(R)** Removed obsolete mail button
+
 ### Version 0.2.4 August 2015
 - **(N)** Note removed Joomla 2.5 support.
 
