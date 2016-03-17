@@ -1,5 +1,10 @@
 ##Change Log
 
+#### Version 0.2.6 March 2016
+
+#### Component - Social Links
+- **(B)** Missing jimport('joomla.filesystem.file')
+
 ### Version 0.2.5 March 2016
 
 #### Component - Social Links
