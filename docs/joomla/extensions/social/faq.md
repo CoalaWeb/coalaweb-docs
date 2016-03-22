@@ -8,6 +8,7 @@
 7.  [My custom Follow Us image isn't displaying correctly?](#q7)
 8.  [I'm using a RocketTheme template and Tabs doesn't display correctly?](#q8)
 9.  [The CoalaWeb Meta tab isn't displaying in my article editor?](#q9)
+10. [Why did my Likebox disappear after updating to version 0.2.6?](#q10)
 
 ***
 
@@ -114,5 +115,11 @@ For the CoalaWeb Meta tab to display correctly in your article editor the **Show
 > Articles -> Options -> Editing Layout -> Show Article Options
 
 This is because the Meta options contained in the CoalaWeb tab extend the article options.
+
+***
+
+#### <a name="q10"></a> Why did my Likebox disappear after updating to version 0.2.5?
+
+The CoalaWeb Likebox module was superseded by the Page module in Version 0.2.1 June 2015. Starting with version 0.2.5 the obsolete CoalaWeb Likebox module is no longer packaged with the Social Links extension and or supported so please if you haven’t already started using the CoalaWeb Page module you will need to start as of version 0.2.5.
 
 ***
