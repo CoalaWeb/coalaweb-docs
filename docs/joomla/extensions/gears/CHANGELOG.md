@@ -1,5 +1,8 @@
 ##Change Log
 
+#### Version 0.1.9 March 2016
+- **(C)** Fixed Joomla 3.5 bug with CWElement
+
 #### Version 0.1.8 March 2016
 - **(C)** Updated Mobile Detect to version 2.8.19
 - **(C)** Small CSS change to UIkit to fix image layout
