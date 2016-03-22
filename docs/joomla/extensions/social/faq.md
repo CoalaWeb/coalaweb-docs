@@ -8,7 +8,7 @@
 7.  [My custom Follow Us image isn't displaying correctly?](#q7)
 8.  [I'm using a RocketTheme template and Tabs doesn't display correctly?](#q8)
 9.  [The CoalaWeb Meta tab isn't displaying in my article editor?](#q9)
-10. [Why did my Likebox disappear after updating to version 0.2.6?](#q10)
+10. [Why did my Likebox disappear after updating to version 0.2.5?](#q10)
 
 ***
 
