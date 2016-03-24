@@ -2,6 +2,9 @@
 1.  [Overview](#overview)
 2.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
+    -   [Custom Fields](#com-custom)
+        - [1. Field Options](#com-custom-field)
+        - [2. Multilingual Example](#com-custom-example)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
         - [1. General Contact Options](#options-general)
@@ -47,6 +50,62 @@
 The **Control Panel** as seen below is designed to be an easy starting point, think of it as the head quarters for the extension. While carrying out tasks you can easily jump from the **Control Panel** to the different sections and then return before moving onto the next one. *\[Figure-1\]*
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-contact.png "Figure-1"){.coalaweb-docs}
+
+### <a name="com-custom"></a>Custom Fields
+
+Create unlimited **Custom Fields** in a variety of formats and with complete language support which you can then use in your contact forms. To get started click the **Custom Fields** button in the control panel. *\[Figure-27\]*
+
+![Figure-27](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom1.png "Figure-27"){.coalaweb-docs}
+
+#### <a name="com-custom-field"></a>Field Options
+
+In the custom fields view you have a variety of buttons that should be familiar to you such as **New**, **Publish**, **Trash** and several **Search** options. Now lets create our first custom field by clicking the **New** button in the top menu. *\[Figure-27a\]*
+
+![Figure-27a](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom2.png "Figure-27a"){.coalaweb-docs}
+
+Inside the edit view we have several tabs full of options to control how and where our custom fields will display. Lets start with the first one titled **Field** which contains a series of options to help set up the actual field. 
+
+First give it a **Title** which will make it easier to identify in the custom fields list. Next is the alias which is very important and must be unique as it's used to identify the field once it's place in a form. You can leave it blank and the system will attempt to create one for you based on the title. If you do have to edit it I recommend keeping it lowercase with no strange characters or accents and separate each word with a hyphen
+
+Now you can choose if you want the field to be **Required** or not. Next you can give your new field a **Label**, **Hint** and **Warning** which will be used when displaying the field in the form. The last two options in this tab are the fields **Published** state and it's **Language** assignment. If you have a multilingual site you will have to create a field for each language and give them the appropriate **Label**, **Hint** and **Warning**. *\[Figure-27b\]*
+
+![Figure-27b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom3.png "Figure-27b"){.coalaweb-docs}
+
+The next tab is **Assignments** which is where you can assign your new field to one, all or none of the currently avaliable CoalaWeb Contact and Tab modules based on their ID's. *\[Figure-27c\]*
+
+![Figure-27c](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom4.png "Figure-27c"){.coalaweb-docs}
+
+The last tab is the **Publishing** tab which contains information such as the **Modified Date** and who it was **Modified By** and the fields **ID**. *\[Figure-27d\]*
+
+![Figure-27d](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom5.png "Figure-27d"){.coalaweb-docs}
+
+#### <a name="com-custom-example"></a>Multilingual Example
+
+For this example I will be setting a **Phone Number** field for **English** and **Spanish**. To start I will enter in my **English** details and select the **English (UK)** language. *\[Figure-27e\]*
+
+![Figure-27e](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom6.png "Figure-27e"){.coalaweb-docs}
+
+Which will look like this when displayed in the field list. *\[Figure-27f\]*
+
+![Figure-27f](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom7.png "Figure-27f"){.coalaweb-docs}
+
+This is what it will look like displayed in the contact form while the website is displayed in **English**. *\[Figure-27g\]*
+
+![Figure-27g](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom8.png "Figure-27g"){.coalaweb-docs}
+
+Next I will repeat the process but this time I will give the new field a **Label**, **Hint** and **Warning** in **Spanish** and will also select **Spanish (ES)** for the **Language** assignment. *\[Figure-27h\]*
+
+![Figure-27h](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom9.png "Figure-27h"){.coalaweb-docs}
+
+Which will look like this when displayed in the field list. *\[Figure-27i\]*
+
+![Figure-27i](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom10.png "Figure-27i"){.coalaweb-docs}
+
+This is what it will look like displayed in the contact form while the website is displayed in **English**. *\[Figure-27j\]*
+
+![Figure-27j](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-custom11.png "Figure-27j"){.coalaweb-docs}
+
+So now you can see how easy it is to create custom fields even when you have a multilingual website with the added advantage of not having to create loads of language overrides.
 
 ### <a name="help"></a>Inbuilt Help
 
@@ -119,6 +178,8 @@ Next you can choose the width of the contact form in %. The next option allows y
 ![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-general3.png "Figure-5"){.coalaweb-docs}
 
 ### <a name="options-custom"></a>2. Custom Fields
+
+<div class="uk-alert">Pro subscribers should use the unlimited custom fields system accessed through the component control panel.</div>
 
 In this section you can setup one custom field for **Core** users or up to three for **Pro** users. For each field you have several options the first one is if you want to display it at all. The next option is the type of custom field you want to use and you have the follow options **Text**, **Text Area** and **Select List**. If you have chosen to use a **Select List** then a new field will appear allowing you to enter each one separated by a comma in the following format. *\[Figure-5b\]*
 
@@ -304,6 +365,8 @@ Next you can choose the width of the contact form in %. The next option allows y
 
 ### <a name="mod-custom"></a>Custom Fields
 
+<div class="uk-alert">Pro subscribers should use the unlimited custom fields system accessed through the component control panel.</div>
+
 In this section you can choose to display one custom field for **Core** users or up to three for **Pro** users. The specifics for each of the custom fields can be found in the **component** configuration options. *\[Figure-15\]*
 
 ![Figure-15](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-custom1.png "Figure-15"){.coalaweb-docs}
@@ -449,6 +512,8 @@ The last few options are related to the styling of the **Tab**. First you can ch
 ![Figure-25d](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-tab-config-style3.png "Figure-25d"){.coalaweb-docs}
 
 ### <a name="tab-custom"></a>Custom Fields
+
+<div class="uk-alert">Pro subscribers should use the unlimited custom fields system accessed through the component control panel.</div>
 
 In this section you can choose to display one custom field for **Core** users or up to three for **Pro** users. The specifics for each of the custom fields can be found in the **component** configuration options. *\[Figure-15\]*
 
