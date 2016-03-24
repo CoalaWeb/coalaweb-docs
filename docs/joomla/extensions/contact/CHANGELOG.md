@@ -1,6 +1,30 @@
 ## Change Log
 
+#### Version 1.0.4 March 2016
+
+#### Component - Contact
+- **(A)** Added new custom fields system
+
+#### Module - Contact
+- **(C)** Improved required fields
+- **(C)** Improved email validation
+- **(A)** Integrated new custom fields system
+
+#### Module - Contact Tab \[Pro\]
+- **(A)** Integrated new custom fields system
+- **(C)** Stopped empty message displaying in email
+- **(C)** Improved required fields
+- **(C)** Improved email validation
+
+#### Plugin(C) - Contact \[Pro\]
+- **(C)** Improved required fields
+- **(C)** Improved email validation
+
+#### Plugin(S) - CW Mail Check
+- **(B)** Fixed wrong version number
+
 #### Version 1.0.3 December 2015
+- **(C)** Updated CSS comment style
 
 #### Component - Contact
 - **(A)** Admin Mail options
