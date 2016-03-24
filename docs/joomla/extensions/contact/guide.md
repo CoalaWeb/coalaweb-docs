@@ -101,7 +101,7 @@ Which will look like this when displayed in the field list. *\[Figure-27i\]*
 
 ![Figure-27i](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/com-custom10.png "Figure-27i"){.coalaweb-docs}
 
-This is what it will look like displayed in the contact form while the website is displayed in **English**. *\[Figure-27j\]*
+This is what it will look like displayed in the contact form while the website is displayed in **Spanish**. *\[Figure-27j\]*
 
 ![Figure-27j](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/com-custom11.png "Figure-27j"){.coalaweb-docs}
 
