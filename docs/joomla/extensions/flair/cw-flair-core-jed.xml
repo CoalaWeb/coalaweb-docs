@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jedupdate version="1">
-    <core_body>CoalaWeb Flair</core_body>
+    <core_body>
+        CoalaWeb Flair
+    </core_body>
 	
     <homepage_link></homepage_link>
     <download_link></download_link>
