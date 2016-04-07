@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jedupdate version="1">
-    <core_body>
-        CoalaWeb Flair is a Joomla extension that lets you display your flair from several StackExchange sites individually or combined into one. You can choose which StackExchanges accounts to display and from one of four style variations for each of them.
-    </core_body>
+    <core_body>CoalaWeb Flair</core_body>
 	
     <homepage_link></homepage_link>
     <download_link></download_link>
