@@ -16,6 +16,7 @@
         - [7. Map](#options-map)
         - [8. Advanced](#options-advanced)
         - [9. Updates](#options-updates)
+            - [Where is my Download ID?](#options-downloadid)
         - [10. Component Permissions](#options-permissions)
 3.  [Contact \[M\]](#module)
     -   [General Display Options](#mod-general)
@@ -299,7 +300,7 @@ For **Pro** subscribers you will need to make sure you still have a valid subscr
 
 ![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates2.png "Figure-28a"){.coalaweb-docs}
 
-#### Where can I find my Download ID?
+#### <a name="options-downloadid"></a> Where can I find my Download ID?
 
 To see your **Download ID** you will need to log into [coalaweb.com](http://coalaweb.com) and then go to:
 
