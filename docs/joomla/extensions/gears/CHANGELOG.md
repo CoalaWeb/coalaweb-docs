@@ -1,5 +1,11 @@
 ##Change Log
 
+### Version 0.2.1 April 2016
+- **(A)** Add download ID's to update sites table when saving component configurations
+- **(A)** Add download ID's to update sites table for extensions without a component
+- **(C)** Code improvements
+- **(L)** New language strings.
+
 ### Version 0.2.0 April 2016
 - **(C)** V2 CSS for all CoalaWeb extensions
 - **(C)** V2 control panel styling
