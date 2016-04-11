@@ -289,9 +289,29 @@ The last button allows you to turn on or off the display of the **CoalaWeb Mail 
 
 ### <a name="options-updates"></a>9. Update Options
 
-The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager so when you do see one feel free to select it and update from with in Joomla. For **Pro** subscribers you will be notified through the inbuilt Joomla update system but you will have to drop by **coalaweb.com** and download a copy of the latest release, this is to ensure that a user has a valid subscription.
+The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager so when you do see one feel free to select it and update from with in Joomla. 
 
-<div class="uk-alert">The <em>Download ID</em> system is currently being reviewed.</div>
+For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your download ID in either the Control Panel input field. *\[Figure-28\]*
+
+![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates1.png "Figure-28"){.coalaweb-docs}
+
+ Or through the component configuration options under **Updates**. *\[Figure-28a\]*
+
+![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates2.png "Figure-28a"){.coalaweb-docs}
+
+#### Where can I find my Download ID?
+
+To see your **Download ID** you will need to log into coalaweb.com and then go to:
+
+    Members -> My Subscriptions
+
+You will then see the ID displayed in the module below titled **Download ID**. *\[Figure-28b\]*
+
+![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates3.png "Figure-28b"){.coalaweb-docs}
+
+
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting it into the download ID field.</div>.
+
 
 ### <a name="options-permissions"></a>10.Component Permissions
 
