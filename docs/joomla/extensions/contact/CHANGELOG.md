@@ -1,6 +1,38 @@
 ## Change Log
 
-#### Version 1.0.4 March 2016
+### Version 1.0.5 April 2016
+
+#### Component - Contact
+- **(B)** Fixed reCAPTCHA bug in Joomla 3.5+
+- **(C)** Added control panel link from custom fields view (Pro)
+- **(C)** New look control panel
+- **(C)** New look go pro info
+- **(C)** Updated formating and style of install script
+- **(C)** RTL support for control panel icons
+- **(A)** Added ability to included a download ID to update Pro versions (Pro)
+- **(A)** Option to save download ID from control panel (Pro)
+- **(A)** Added database optimize option (Pro)
+- **(A)** Added Sweet Alert popup system (Pro)
+- **(L)** Updated language strings
+
+#### Module - Contact
+- **(B)** Fixed custom field bug in Core version
+- **(B)** Fixed reCAPTCHA bug in Joomla 3.5+
+- **(C)** Improved class inclusion
+- **(L)** Updated language strings
+
+#### Module - Contact Tab \[Pro\]
+- **(C)** Improved class inclusion
+- **(B)** Fixed reCAPTCHA bug in Joomla 3.5+
+
+#### Plugin(C) - Contact \[Pro\]
+- **(C)** Improved class inclusion
+- **(B)** Fixed reCAPTCHA bug in Joomla 3.5+
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.1
+
+### Version 1.0.4 March 2016
 
 #### Component - Contact
 - **(A)** Added new custom fields system
@@ -23,7 +55,7 @@
 #### Plugin(S) - CW Mail Check
 - **(B)** Fixed wrong version number
 
-#### Version 1.0.3 December 2015
+### Version 1.0.3 December 2015
 - **(C)** Updated CSS comment style
 
 #### Component - Contact
@@ -65,7 +97,7 @@
 - **(B)** Fixed bug for email display
 - **(B)** Fixed new line in email message
 
-#### Version 1.0.2 November 2015
+### Version 1.0.2 November 2015
 
 #### Component - Contact
 - **(C)** Updated theme CSS to fix calendar icon and remove old modal code.
@@ -76,7 +108,7 @@
 #### Plugin(C) - Contact \[Pro\]
 - **(C)** Changed TOS depreciated modal code to custom popup.
 
-#### Version 1.0.1 October 2015
+### Version 1.0.1 October 2015
 
 #### Component - Contact
 - **(C)** Updated some depreciated Joomla JRequest code.
@@ -84,7 +116,7 @@
 #### Plugin(S) - CW Mail Check
 - **(B)** Fixed bug with the loading of jQuery
 
-#### Version 1.0.0 October 2015
+### Version 1.0.0 October 2015
 - **(N)** Removed Joomla 2.5 support.
 - **(N)** Minimum PHP version supported is 5.4.0
 
@@ -158,7 +190,7 @@
 #### Plugin(I) - CWC Update \[Pro\]
 - **(R)** Removed from CoalaWeb Contact extension.
 
-#### Version 0.0.3 November 2014
+### Version 0.0.3 November 2014
 
 #### Component - Contact
 - **(A)** New mail from option.
@@ -211,7 +243,7 @@
 #### Plugin(I) - CWC Update \[Pro\]
 - **(N)** Added to system
 
-#### Version 0.0.2 January 2014
+### Version 0.0.2 January 2014
 
 #### Component - Contact
 - **(A)** Added custom fields.
@@ -233,7 +265,7 @@
 
 #### Plugin(E) - BTN Contact \[Pro\]
 
-#### Version 0.0.1 November 2013
+### Version 0.0.1 November 2013
 
 #### Component - Contact
 - **(N)** Initial release
