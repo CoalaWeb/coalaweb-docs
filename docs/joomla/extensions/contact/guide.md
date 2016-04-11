@@ -289,9 +289,9 @@ The last button allows you to turn on or off the display of the **CoalaWeb Mail 
 
 ### <a name="options-updates"></a>9. Update Options
 
-The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager so when you do see one feel free to select it and update from with in Joomla. 
+The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update from with in Joomla. 
 
-For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your download ID in either the Control Panel input field. *\[Figure-28\]*
+For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** in either the **Control Panel** input field. *\[Figure-28\]*
 
 ![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates1.png "Figure-28"){.coalaweb-docs}
 
@@ -305,13 +305,11 @@ To see your **Download ID** you will need to log into coalaweb.com and then go t
 
     Members -> My Subscriptions
 
-You will then see the ID displayed in the module below titled **Download ID**. *\[Figure-28b\]*
+You will then see the ID displayed in the module titled **Download ID**. *\[Figure-28b\]*
 
 ![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates3.png "Figure-28b"){.coalaweb-docs}
 
-
-<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting it into the download ID field.</div>.
-
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting it into the download ID field.</div>
 
 ### <a name="options-permissions"></a>10.Component Permissions
 
