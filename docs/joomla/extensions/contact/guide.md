@@ -301,7 +301,7 @@ For **Pro** subscribers you will need to make sure you still have a valid subscr
 
 #### Where can I find my Download ID?
 
-To see your **Download ID** you will need to log into coalaweb.com and then go to:
+To see your **Download ID** you will need to log into [coalaweb.com](http://coalaweb.com) and then go to:
 
     Members -> My Subscriptions
 
@@ -309,7 +309,7 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 
 ![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates3.png "Figure-28b"){.coalaweb-docs}
 
-<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting it into the download ID field.</div>
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting it from here into the download ID field.</div>
 
 ### <a name="options-permissions"></a>10.Component Permissions
 
