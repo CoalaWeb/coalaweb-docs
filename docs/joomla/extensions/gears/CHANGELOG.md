@@ -1,5 +1,11 @@
 ##Change Log
 
+### Version 0.2.2 April 2016
+- **(C)** Updated Mobile Detect to version 2.8.20
+- **(C)** Removed unneeded CSS from UIkit that could cause conflicts
+- **(C)** Updated install script
+- **(A)** Added UIkit dynamic grid Javascript
+
 ### Version 0.2.1 April 2016
 - **(A)** Add download ID's to update sites table when saving component configurations
 - **(A)** Add download ID's to update sites table for extensions without a component
