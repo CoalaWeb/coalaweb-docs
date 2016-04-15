@@ -66,7 +66,7 @@ The second option allows you to display a linked list of categories that coincid
 
 The first options allows you to turn on or off the display of an article title. Next you have the option of making the title a link to the associated article or not. With the next option you can select a style for the article title. 
 
-In the next input field you can enter a number to control the maximum amount of articles you wish to be displayed. The next option allows you to control the maximum amount of characters that will be displayed for each article. The last two options affect the ordering of the articles. *\[Figure-2\]*
+In the next input field you can enter a number to control the maximum amount of articles you wish to be displayed. The next option allows you to control the maximum amount of characters that will be displayed for each article. The next two options affect the ordering of the articles. The last option is for excluding articles from being displayed, just enter the article ID's separated by a comma to have them excluded. *\[Figure-2\]*
 
 ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-2.png "Figure-2"){.coalaweb-docs}
 
@@ -104,7 +104,7 @@ Next you can chose to display a heading for this section and also select a style
 
 ### <a name="mod-layout"></a>Module Layout Options
 
-To make it easy to explain I have broken this section up into 3 parts.
+To make it easy to explain I have broken this section up into 4 parts.
 
 **Part 1 General**
 
@@ -114,17 +114,27 @@ The next two options affect the margins used by the module. The first option aff
 
 ![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-1.png "Figure-5"){.coalaweb-docs}
 
-**Part 2 Alignment**
+**Part 2 Dynamic Filter**
+
+Pro subscribers get the option to display a menu at the top of the module made up of the categories of the currently display articles. If one of these menu items is selected than the articles will dynamically rearranged to only display the articles that belong to that particular category. *\[Figure-12\] and \[Figure-12a\]*
+
+![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-4.png "Figure-12"){.coalaweb-docs}
+
+![Figure-12a](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-5.png "Figure-12a"){.coalaweb-docs}
+
+**Part 3 Alignment**
 
 Depending on what settings you choose and how you want your individual panels to look you might want to tweak the alignment of different elements. This next section will help you get the panels looking just how you want by allowing you to align the **Title**, **Details**, **Article Text** and the **Read More** link. *\[Figure-6\]*
 
 ![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-2.png "Figure-6"){.coalaweb-docs}
 
-**Part 3 Columns**
+**Part 4 Columns**
 
 <div class="uk-alert">Width Guide: Desktop = 960px, Tablet = 768px and Mobile = 480px</div>
 
-In this section you can choose how many columns you want to use with the added power to choose based on the size of the screen being used. You can for example have three columns on a nice big desktop screen and then one column on a small mobile device. 
+The first option in this section is to turn on or off the matching of **Column Heights**. This will make all the displayed columns the height of the largest one making them balanced and symmetrical.
+
+You can also choose how many columns you want to use with the added power to choose based on the size of the screen being used. You can for example have three columns on a nice big desktop screen and then one column on a small mobile device. 
 
 These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live. *\[Figure-7\]*
 
