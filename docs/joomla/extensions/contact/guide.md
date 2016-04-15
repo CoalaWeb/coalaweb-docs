@@ -308,9 +308,9 @@ To see your **Download ID** you will need to log into [coalaweb.com](http://coal
 
 You will then see the ID displayed in the module titled **Download ID**. *\[Figure-28b\]*
 
-![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates3.png "Figure-28b"){.coalaweb-docs}
+![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-28b"){.coalaweb-docs}
 
-<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting it from here into the download ID field.</div>
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID.</div>
 
 ### <a name="options-permissions"></a>10.Component Permissions
 

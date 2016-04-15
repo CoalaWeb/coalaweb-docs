@@ -22,7 +22,7 @@ The CoalaWeb News extension integrates with the inbuilt **Joomla Update** system
 
 For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** into the **System - CW Gears** plugin. *\[Figure-11\]*
 
-<div class="uk-alert">Not sure where to find your Download ID? Click <a href="#options-downloadid">HERE</a>) for more info.</div>
+<div class="uk-alert">Not sure where to find your Download ID? Click <a href="#options-downloadid">HERE</a> for more info.</div>
 
 ![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-11"){.coalaweb-docs}
 
@@ -40,9 +40,9 @@ To see your **Download ID** you will need to log into [coalaweb.com](http://coal
 
 You will then see the ID displayed in the module titled **Download ID**. *\[Figure-11b\]*
 
-![Figure-11b](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/cw-updates-download-id.png "Figure-11b"){.coalaweb-docs}
+![Figure-11b](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-11b"){.coalaweb-docs}
 
-<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting it from here into the download ID field.</div>
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID.</div>
 
 ## <a name="mod-news"></a>News Module
 
