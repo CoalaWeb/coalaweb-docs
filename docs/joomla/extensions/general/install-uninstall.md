@@ -8,8 +8,6 @@
     -   [Uninstall](#uninstall-all)
 3.  [Need More Help?](#more-help)
 
-<div class="uk-alert">Note: CoalaWeb guides refer to a Joomla 3.+ installation but the steps are very similar for a Joomla 2.5.</div>
-
 ## <a class="doc-top" name="install"></a>Installation Guides
 
 ### <a name="upload"></a>Upload Package File
