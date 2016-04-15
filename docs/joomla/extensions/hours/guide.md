@@ -5,7 +5,7 @@
     -   [Hours Options](#mod-hours-opt)
     -   [Zones Options](#mod-zones)
     -   [Advanced Options](#mod-advanced)
-4.  [Need More Help?](#more-help)
+3.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="overview"></a>Overview
 
