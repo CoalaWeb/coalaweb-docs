@@ -1,8 +1,10 @@
 ## Table of Contents
 1.  [Component Updates](#com-updates)
 2.  [Non Component Updates](#non-com-updates)
-2.  [Where is my DownLoad ID](#dl-id)
-3.  [Need More Help?](#more-help)
+3.  [Error Updating Pro?](#pro-error)
+    - [Non Component Tips](#error-non-com)
+4.  [Where is my DownLoad ID](#dl-id)
+5.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="com-updates"></a>Component Updates
 
@@ -26,6 +28,8 @@ For **Pro** subscribers you will need to make sure you still have a **Valid Subs
 
 <div class="uk-alert">This section covers CoalaWeb extensions that don't come packaged with a central component such as stand alone modules and plugins.</div>
 
+<div class="uk-alert uk-alert-warning">Non component CoalaWeb extensions will need to have at least version 0.2.2 of the System - CW Gears plugin installed.</div>
+
 CoalaWeb non component based extensions integrate with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update.
 
 For **Pro** subscribers you will need to make sure you still have a **Valid Subscription** and that you have entered your **Download ID** into the **System - CW Gears** plugin. *\[Figure-3\]*
@@ -39,6 +43,20 @@ Inside the **CW Gears** plugin options your will find a tab titled **Updates** a
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-4"){.coalaweb-docs}
 
 <div class="uk-alert">The CW Gears plugin will take care of the Download ID for any CoalaWeb extensions that doesn't come with a component.</div>
+
+## <a name="error"></a>Error Updating Pro?
+
+<div class="uk-alert">This a check list that should help fix common issues with updating a CoalaWeb Pro extension.</div>
+
+- Do you have a valid subscription? If you subscription has run out then the update will fail.
+- Have you entered the correct Download ID? Not sure where to find your Download ID? Click <a href="#options-downloadid">HERE</a> for more info.
+- Make sure when you copied and pasted your Download ID it doesn't have a space at the end.
+- After you enter or edit your Download ID make sure to **Clear Cache** in the Joomla updater and **Find Updates** again. This will allow your new settings to catch up.
+
+### <a name="error-non-com"></a>Non Component specific tips
+
+- After you have install a Pro version of a non Component CoalaWeb extension make sure to enter your Download ID into the System - CW Gears plugin.
+- If you install another non Component CoalaWeb extension open and save the System - CW Gears plugin option again to help the settings catch up.
 
 ## <a name="dl-id"></a> Where can I find my Download ID?
 
