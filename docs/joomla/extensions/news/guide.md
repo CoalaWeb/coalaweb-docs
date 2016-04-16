@@ -18,7 +18,7 @@
 
 ## <a name="updates"></a>Updates
 
-The CoalaWeb News extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update from within Joomla. 
+The CoalaWeb News extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
 
 For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** into the **System - CW Gears** plugin. *\[Figure-11\]*
 
@@ -26,7 +26,7 @@ For **Pro** subscribers you will need to make sure you still have a valid subscr
 
 ![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-11"){.coalaweb-docs}
 
-Inside the **CW Gears** plugin options your will find a tab titled **Updates** and under it a **Download ID** input field. I recommend you copy and paste your **Download ID** into this field to reduce the risk of a typo.  *\[Figure-11a\]*
+Inside the **CW Gears** plugin options your will find a tab titled **Updates** and under it a **Download ID** input field. I recommend you copy and paste your **Download ID** into this field to reduce the risk of a typo and also to check for no spaces at the end.  *\[Figure-11a\]*
 
 ![Figure-11a](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-11a"){.coalaweb-docs}
 
@@ -42,7 +42,7 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 
 ![Figure-11b](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-11b"){.coalaweb-docs}
 
-<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID.</div>
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
 ## <a name="mod-news"></a>News Module
 

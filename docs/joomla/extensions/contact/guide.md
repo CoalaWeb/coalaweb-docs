@@ -290,7 +290,7 @@ The last button allows you to turn on or off the display of the **CoalaWeb Mail 
 
 ### <a name="options-updates"></a>9. Update Options
 
-The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update from with in Joomla. 
+The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
 
 For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** in either the **Control Panel** input field. *\[Figure-28\]*
 
@@ -299,6 +299,8 @@ For **Pro** subscribers you will need to make sure you still have a valid subscr
  Or through the component configuration options under **Updates**. *\[Figure-28a\]*
 
 ![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates2.png "Figure-28a"){.coalaweb-docs}
+
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
 
 #### <a name="options-downloadid"></a> Where can I find my Download ID?
 
@@ -310,7 +312,7 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 
 ![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-28b"){.coalaweb-docs}
 
-<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID.</div>
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
 ### <a name="options-permissions"></a>10.Component Permissions
 
