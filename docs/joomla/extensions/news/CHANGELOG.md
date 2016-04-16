@@ -1,5 +1,20 @@
 ## Change Log
 
+### Version 1.0.3 April 2016
+
+#### Module - News
+- **(C)** Updated install script
+- **(C)** Dependency messages only in administration area
+- **(C)** Margin outer is now extended and using numbers
+- **(A)** Pro updates with Joomla updater using a download ID
+- **(A)** Exclude articles based on ID (Pro)
+- **(A)** New dynamic filtering based on category (Pro)
+- **(A)** Match column heights (Pro)
+- **(A)** Two new margin inner sizes
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.2
+
 ### Version 1.0.2 Jan 2016
 
 #### Module - News
