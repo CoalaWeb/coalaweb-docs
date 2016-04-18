@@ -73,10 +73,10 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 
 ## <a name="supported"></a> Currently Supported Extensions
 
-    CoalaWeb Contact - Version 1.0.5 +
-    CoalaWeb Social Links - Version 0.2.7 +
-    CoalaWeb News - Version 1.0.3 +
-    CoalaWeb Gears - Version 0.2.2 +
+- CoalaWeb Contact - Version 1.0.5 +
+- CoalaWeb Social Links - Version 0.2.7 +
+- CoalaWeb News - Version 1.0.3 +
+- CoalaWeb Gears - Version 0.2.2 +
 
 ## <a name="more-help"></a>Need More Help
 
