@@ -4,7 +4,8 @@
 3.  [Error Updating Pro?](#pro-error)
     - [Non Component Tips](#error-non-com)
 4.  [Where is my DownLoad ID](#dl-id)
-5.  [Need More Help?](#more-help)
+5.  [Supported Extensions](#supported)
+6.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="com-updates"></a>Component Updates
 
@@ -69,6 +70,13 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 ![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-5"){.coalaweb-docs}
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
+
+## <a name="supported"></a> Currently Supported Extensions
+
+    CoalaWeb Contact - Version 1.0.5 +
+    CoalaWeb Social Links - Version 0.2.7 +
+    CoalaWeb News - Version 1.0.3 +
+    CoalaWeb Gears - Version 0.2.2 +
 
 ## <a name="more-help"></a>Need More Help
 
