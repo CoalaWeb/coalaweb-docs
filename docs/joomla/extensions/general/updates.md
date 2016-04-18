@@ -71,7 +71,7 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
-## <a name="supported"></a> Currently Supported Extensions
+## <a name="supported"></a> Supported Extensions
 
 - CoalaWeb Contact - Version 1.0.5 +
 - CoalaWeb Social Links - Version 0.2.7 +
