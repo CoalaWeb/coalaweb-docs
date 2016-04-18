@@ -2,9 +2,11 @@
 1.  [Overview](#overview)
 2.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
-    -   [Counts](#com-counts)
-    -   [Inbuilt Help](#help)
-    -   [Extension Options](#options)
+    -   [Counts \[Pro\]](#com-counts)
+    -   [Purge \[Pro\]](#com-purge)
+    -   [Optimize \[Pro\]](#com-optimize)
+    -   [Help](#help)
+    -   [Options](#options)
         - [1. General Options](#options-general)
         - [2. Like Plugin Options \[Pro\]](#options-content)
         - [3. Share Plugin Options \[Pro\]](#options-share)
@@ -116,6 +118,30 @@ Once in the edit screen you can see all the information related to a particular 
 You can also make changes to the counts but keep in mind that any changes you make will get updated when the **Locktime** has elapsed. You can also change an items **Status** and check or update the last person that **Modified** the item and the time it was modified. *\[Figure-31d\]*
 
 ![Figure-31d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-counts5.png "Figure-31d"){.coalaweb-docs}
+
+### <a name="com-purge"></a>Purge
+
+![Figure-32a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-purge1.png "Figure-32a"){.coalaweb-docs}
+
+The **Purge** button will delete all of the count records current stored in the Social Links database tables. To make sure you haven't acidentallly press it you will get a popup asking you to confirm your descession. *\[Figure-32b\]*
+
+![Figure-32b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-purge2.png "Figure-32b"){.coalaweb-docs}
+
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
+
+![Figure-32c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-purge3.png "Figure-32c"){.coalaweb-docs}
+
+### <a name="com-optimize"></a>Optimize and Repair
+
+![Figure-33a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-optimize1.png "Figure-33a"){.coalaweb-docs}
+
+The **Optimize** button will will attempt to repair and optimize all the Social Links database tables. To make sure you haven't acidentallly press it you will get a popup asking you to confirm your descession. *\[Figure-33b\]*
+
+![Figure-33b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-optimize2.png "Figure-33b"){.coalaweb-docs}
+
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
+
+![Figure-33c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-optimize3.png "Figure-33c"){.coalaweb-docs}
 
 ### <a name="help"></a>Inbuilt Help
 
@@ -353,7 +379,7 @@ buttons in Joomla and K2. *\[Figure-23e\]*
 
 The **CoalaWeb Metadata** system will help generate meta data in the **Open Graph**, **Twitter Card** and **Schema.org** formats and then place it in the head of your web pages. This information will then be used by elements such as the Facebook, Twitter and Google + vote and share buttons to get the best representation of the content being shared or voted on.
 
-<div class="uk-alert">To make it easier to follow I have broken up the <em>Metadata Options</em> into five parts.</div>
+<div class="uk-alert">To make it easier to follow I have broken up the <em>Metadata Options</em> into several parts.</div>
 
 #### Part 1 - Display Where
 
@@ -362,6 +388,8 @@ The first option **Only Articles** allows you to choose if you want to add **Met
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata1.png "Figure-4"){.coalaweb-docs}
 
 #### Part 2 - Meta Selection
+
+<div class="uk-alert">The priority order in which each meta tag is selected is outlined below.</div>
 
 ##### Type
 
@@ -381,6 +409,7 @@ The first option **Only Articles** allows you to choose if you want to add **Met
     -   **Category View** = The category title.
     -   **Featured View** = The title of the first article.
     -   **Article View** = The title of the article being viewed.
+-   **4th attempt:** If a title still hasn't been found and you have added a **Fallback** title it will be used as the last resort.
 
 ##### Site Name
 
@@ -401,6 +430,7 @@ A page description expands on the page title by including additional details typ
 
 -   **3rd Attempt:** If you haven’t chosen a default description the system will move onto the meta description of the article being viewed or of the first one displayed in Blog or Featured view.
 -   **4th attempt:** If the first three options return no description its on to the intro text of the article being viewed or of the first one displayed in Blog or Featured view. The plugin will attempt to extract the first 300 words of the intro text and use those as your description.
+-   **5th attempt:** If a description still hasn't been found and you have added a **Fallback** description it will be used as the last resort.
 
 ##### Image
 
@@ -415,15 +445,14 @@ Let's face it the image is very important and I'm confident using the options be
 
 -   **3rd attempt:** If you haven’t used either a CoalaWeb override tab or the default image field then the system move on to searching the cwopengraph folder **\[images/cwopengraph\]** for an image that matches the id of the current article. For example you want a specific image for your latest article which has an ID of 1 then rename the image you want to use to 1.jpg and upload it to the image/cwopengraph folder. The plugin will search in this folder for matching images and if it finds one it will be add to the **og:image** and **twitter:image** meta tags. Supported image types are jpg, png and gif.
 -   **4th attempt:** If the previous options have failed to return an image the system will next look to the articles **Intro Image** and if it finds one it will be used.
--   **Last attempt:** Still no image? The last thing the system will do is search through the article content to find an image and if it does that image will be used.
+-   **5th attempt:** The next thing the system will do is search through the article content to find an image and if it does that image will be used.
+-   **6th attempt:** If an image still hasn't been found and you have added a **Fallback** image it will be used as the last resort.
 
 <div class="uk-alert">Note: FB will only use images that are at least 200x200 px. FB prefers images that are measured in multiples of 100 and square format.</div>
 
 <div class="uk-alert">Note: Twitter will only use images that are at least 280x150 px.</div>
 
 <div class="uk-alert">Note: Google will display the image in a large format (full-bleed) if it is at lease 400px wide with an aspect ratio no wider that 5:2(width:height) other wise it will be scaled and cropped.</div>
-
-![Figure-4a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata2.png "Figure-4a"){.coalaweb-docs}
 
 #### Part 3 - Facebook \[Open Graph\]
 
@@ -471,6 +500,24 @@ Here you can enter the Twitter **@username** for the content author. *\[Figure-4
 The first option is to turn on or off the inclusion of **Schema (microdata)** meta tags. The next option is a **fallback** image for when no other image is avaliable due to Google expecting one. Two more options that Google expects are a **Publisher** and **Publisher Logo**. If these options are left blank the system will resort to using a generic image and the site name as the publisher. *\[Figure-4d\]*
 
 ![Figure-4d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata5.png "Figure-4d"){.coalaweb-docs}
+
+#### Part 6 Fallback Options
+
+The options in this section will be used when no other data is available so consider them <em>Fallback</em> options. This is very handy for example to assign a logo image that can be used when an article doesn't have one. They will automatically be used for Native Joomla and Zoo content
+
+The **Fallback (Everywhere)** option gives you the ability to use the fallback system everywhere that isn't Native Joomla and Zoo content. Note: For menu items this can still be overridden on a per menu bases using the CoalaWeb tab in the menu editor.  
+
+If you have choose yes to fallback everywhere and you want to exclude certain extensions from using the fallback settings you can add them into the **Fallback Exclude** field separated by a comma. For example: com_k2,com_contact *\[Figure-4e\]*
+
+![Figure-4e](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata6.png "Figure-4e"){.coalaweb-docs}
+
+#### Part 7 Default Options
+
+If you want certain information to always be used within the meta tags set it below. This can still be overridden by the settings in the CoalaWeb editor tabs.  *\[Figure-4a\]*
+
+<div class="uk-alert">Note: It's recommend to leave these options blank.</div>
+
+![Figure-4a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata2.png "Figure-4a"){.coalaweb-docs}
 
 ### 6. <a name="options-count"></a>Count Options
 
