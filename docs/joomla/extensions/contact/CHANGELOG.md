@@ -1,5 +1,17 @@
 ## Change Log
 
+### Version 1.0.6 April 2016
+
+#### Component - Contact
+- **(C)** More control panel styling
+- **(C)** Updates to the core install script
+
+#### Module - Contact
+- **(C)** Added missing jimport('joomla.filesystem.file')
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.2
+
 ### Version 1.0.5 April 2016
 
 #### Component - Contact
@@ -19,6 +31,7 @@
 - **(B)** Fixed custom field bug in Core version
 - **(B)** Fixed reCAPTCHA bug in Joomla 3.5+
 - **(C)** Improved class inclusion
+- **(C)** Added missing jimport('joomla.filesystem.file')
 - **(L)** Updated language strings
 
 #### Module - Contact Tab \[Pro\]
