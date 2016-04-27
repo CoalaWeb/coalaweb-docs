@@ -30,6 +30,9 @@
 - **(C)** Updated input->get code
 - **(C)** Updated JResponse
 
+#### Plugin(S) - Facebook JS
+- **(C)** Updated to version 1.0.2
+
 ### Version 0.2.7 April 2016
 
 #### Component - Social Links
