@@ -1,5 +1,105 @@
 ##Change Log
 
+### Version 0.2.8 April 2016
+
+#### Component - Social Links
+- **(C)** Changed JError to JLog for install script notices
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(C)** Updated input->get code 
+- **(C)** Updated JResponse
+
+#### Plugin(S) - Meta Menu \[Pro\]
+- **(C)** Updated input->get code 
+- **(C)** Updated JResponse
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Updated input->get code 
+- **(C)** Updated JResponse
+- **(R)** Dependency message
+
+#### Plugin(C) - Social Share\[Pro\]
+- **(C)** Updated input->get code 
+- **(C)** Updated JResponse
+
+#### Plugin(C) - Social Likes\[Pro\]
+- **(C)** Updated input->get code 
+- **(C)** Updated JResponse
+
+#### Plugin(C) - Social Panel\[Pro\]
+- **(C)** Updated input->get code
+- **(C)** Updated JResponse
+
+### Version 0.2.7 April 2016
+
+#### Component - Social Links
+- **(R)** Removed unneeded publication status for counts
+- **(C)** Updated install script to test for Joomla 3.2 and PHP 5.4
+- **(C)** Updated copyright date to 2016
+- **(C)** New look control panel
+- **(C)** New look go pro info
+- **(C)** Meta tags priority order: Editor Tab->Default->Content->Fallback (Pro)
+- **(C)** Featured layout with no items can use the CoalaWeb menu editor tab for meta tags (Pro)
+- **(C)** RTL support for control panel icons
+- **(A)** Added ability to included a download ID to update Pro versions (Pro)
+- **(A)** Option to save download ID from control panel (Pro)
+- **(A)** Added database optimize and repair option (Pro)
+- **(A)** Added database purge option (Pro)
+- **(A)** Added Sweet Alert popup system (Pro)
+- **(A)** New Meta tag fall back option for Open Graph and Twitter (Pro)
+- **(L)** New and updated language strings
+
+#### Module - Social Links
+- **(C)** Updated CSS to make sure the title displays on all templates.
+- **(C)** Updated copyright date to 2016
+- **(C)** Dependency messages only in administration area
+- **(C)** Unique ID auto generated
+
+#### Module - Social Tabs
+- **(C)** Updated copyright date to 2016
+- **(C)** Dependency messages only in administration area
+
+#### Module - Page
+- **(C)** Updated copyright date to 2016
+- **(C)** Dependency messages only in administration area
+- **(C)** Unique ID auto generated
+
+#### Module - Gplus
+- **(C)** Updated copyright date to 2016
+- **(C)** Dependency messages only in administration area
+- **(C)** Unique ID auto generated
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(C)** Updated copyright date to 2016
+- **(C)** Dependency messages only in administration area
+- **(A)** New Meta tag fall back option for Open Graph and Twitter (Pro)
+
+#### Plugin(S) - Meta Menu \[Pro\]
+- **(C)** Updated copyright date to 2016
+- **(C)** Dependency messages only in administration area
+- **(C)** Featured view with no items can use the CoalaWeb menu editor tab for OG tags
+- **(A)** New Meta tag fall back option for Open Graph and Twitter (Pro)
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Updated copyright date to 2016
+- **(C)** Dependency messages only in administration area
+- **(A)** New Meta tag fall back option for Open Graph and Twitter (Pro)
+
+#### Plugin(C) - Social Share\[Pro\]
+- **(C)** Updated copyright date to 2016
+- **(C)** Dependency messages only in administration area
+
+#### Plugin(C) - Social Likes\[Pro\]
+- **(C)** Updated copyright date to 2016
+- **(C)** Dependency messages only in administration area
+
+#### Plugin(C) - Social Panel\[Pro\]
+- **(C)** Updated copyright date to 2016
+- **(C)** Dependency messages only in administration area
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.2
+
 ### Version 0.2.6 March 2016
 
 #### Component - Social Links
