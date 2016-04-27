@@ -1,5 +1,10 @@
 ##Change Log
 
+### Version 1.0.2 April 2016
+- **(R)** Dependency message
+- **(C)** Updated JResponse
+- **(C)** Changed JError to JLog for install script notices
+
 ### Version 1.0.1 March 2016
 - **(B)** Missing jimport('joomla.filesystem.file')
 - **(C)** Name and date updates
