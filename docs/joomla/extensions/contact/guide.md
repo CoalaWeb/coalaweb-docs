@@ -294,11 +294,11 @@ The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** sys
 
 For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** in either the **Control Panel** input field. *\[Figure-28\]*
 
-![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates1.png "Figure-28"){.coalaweb-docs}
+![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png "Figure-28"){.coalaweb-docs}
 
  Or through the component configuration options under **Updates**. *\[Figure-28a\]*
 
-![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates2.png "Figure-28a"){.coalaweb-docs}
+![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png "Figure-28a"){.coalaweb-docs}
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
 
