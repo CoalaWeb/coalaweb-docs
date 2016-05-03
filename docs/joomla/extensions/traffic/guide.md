@@ -10,7 +10,8 @@
     -   [GEO Location](#geo)
         - [1. Install](#geo-install)
         - [2. Easy Install](#geo-easy)
-        - [3. Manual Install](#geo-manual)
+        - [3. Manual Install Core](#geo-manual-core)
+        - [4. Manual Install Pro](#geo-manual-pro)
     -   [CSV Export Option](#export-csv)
     -   [Inbuilt Help](#help)
     -   [Extension Options](#options)
@@ -28,7 +29,7 @@
 
 ## <a class="doc-top"  name="overview"></a>Overview
 
-**CoalaWeb Traffic** is a Joomla 2.5 & 3.+ extension to help you keep track of the visitors to your site. You can choose to display the module and let visitors see and be amazed by your traffic or unpublish the module and view your website statistics in the **Admin** area its up to you.
+**CoalaWeb Traffic** is a Joomla extension designed to keep track of the visitors to your site. You can choose to display the modules and let visitors see and be amazed by your traffic or unpublish the module and view your website statistics in the **Admin** area.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
@@ -36,20 +37,15 @@
 
 ### <a name="control-panel"></a>Control Panel
 
-The **Control Panel** as seen below it is designed to be an easy
-starting point, think of it as the components head quarters. While
-carrying out tasks you can easily jump from the **Control Panel** to the
-different sections and then return before moving onto the next one. *\[Figure-1\]*
+The **Control Panel** as seen below it is designed to be an easy starting point, think of it as the components head quarters. While carrying out tasks you can easily jump from the **Control Panel** to the different sections and then return before moving onto the next one. *\[Figure-1\]*
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-cpanel.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="visitors"></a>Visitors
 
-The next section is the Visitors section this is where all the visitors
-to your site are listed. The visitors are displayed with the following
-information.
+The Visitors section is where all the visitors to your site are listed. The visitors are displayed with the following information.
 
--   Their IP address
+-   Their IP address (unless not stored RAW)
 -   Browser Type
 -   Browser Version
 -   Platform (Operating System)
@@ -59,35 +55,32 @@ information.
 -   Name assignment (optional)
 -   Their Location (Only with the Geo Database Installed)
 
-You also have filter and search options. To filter the visitor
-information you have the following options.
+Both **Core** and **Pro** users have sort and search options. To sort the visitor information you can click the column **Heading** or use the **Select list** in the top right. The avaliable sorting options are:
 
--   IP - Click to order descending or again for ascending.
--   Browser - Click to order descending or again for ascending.
--   Browser Version - Click to order descending or again for ascending.
--   Platform - Click to order descending or again for ascending.
--   Date of Visit - Click to order descending or again for ascending.
--   IP Owner- Click to order descending or again for ascending.
--   Location - Click to order descending or again for ascending.
+-   IP
+-   Browser
+-   Platform
+-   Date
+-   Country
+-   ID
 
-You also have a search box where you can choose to enter
-an IP, Date, IP Owner or location to search for specific visitor
-information. *\[Figure-2\]*
+You also have a search box where you can choose to enter an **IP** or **Date** to search for specific visitor information. *\[Figure-2\]*
 
 ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-visitors.png "Figure-2"){.coalaweb-docs}
 
+**Pro** subscribers also get **Filter** options which can be used by clicking the **Search Tools** button at the top and include **Browser**, **Platform** and **Country** select lists. *\[Figure-2a\]*
+
+![Figure-2a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-visitors-2.png "Figure-2a"){.coalaweb-docs}
+
 ### <a name="ip-cats"></a>IP Categories
 
-To make it easier to organise your know IPs you can create categories to 
-associated them with. For example you could create a category called **Bots**
-and then add all the known robots in your **Knownips** list to this category. *\[Figure-3\]*
+To make it easier to organize your **Know IPs** you can create categories to associated them with. For example you could create a category called **Robots** and then add all the known robots in your **Knownips** list to this category. *\[Figure-3\]*
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-ip-cats.png "Figure-3"){.coalaweb-docs}
 
 ### <a name="knownips"></a>Known IPs
 
-The next section is the **Known IPs** section which contains some powerful tools
-for controlling what is counted by **Traffic**.  *\[Figure-4\]*.
+The next section is the **Known IPs** section which contains some powerful tools for controlling what is counted by **Traffic**.  *\[Figure-4\]*.
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-knownips-1.png "Figure-4"){.coalaweb-docs}
 
@@ -104,148 +97,130 @@ IP or IP range in the following formats:
 
 **Your Own IP:**
 
-If you just want to keep an eye on your own IP for example you could create a 
-new entry give it a **Name** and **Description**
-add your **IP** and leave **Count** to yes. Now in the **Visitors** view you
-can see your visits easily by look down the **IP Owner** column. *\[Figure-3\]*.
+If you just want to keep an eye on your own IP for example you could create a new entry give it a **Name** and **Description** add your **IP** and leave **Count** to yes. Now in the **Visitors** view you can see your visits easily by look down the **IP Owner** column. *\[Figure-3\]*.
 
 **Block by IP:**
 
-If you want to stop an IP from being counted by **Traffic** create a new entry
-give it a **Name** and **Description** add the **IP** and set **Count** to 
-no. Now that particular IP will not appear in the visitors list as it is not 
-counted by the system any more.
+If you want to stop an IP from being counted by **Traffic** create a new entry give it a **Name** and **Description** add the **IP** and set **Count** to **No**. Now that particular IP will not appear in the visitors list as it is not counted by the system any more.
 
 **Block by Name:**
 
-If you want to stop a robot from being counted by **Traffic** based on it's **Name** 
-create a new entry give it a **Name** and **Description** add the **Robot Name** and 
-set **Count** to no. Now that particular robot will not appear in the visitors 
-list as it is not counted by the system any more.
+If you want to stop a robot from being counted by **Traffic** based on it's **Name** create a new entry give it a **Name** and **Description** add the **Robot Name** and set **Count** to **No**. Now that particular robot will not appear in the visitors list as it is not counted by the system any more.
 
 <div class="uk-alert" >Note: The most reliable way to identify visitors is by their IP the name information comes from their <em>user agent string</em> which isn't always supplied.</div>
 
 ### <a name="geo"></a>GEO Location
 
-CoalaWeb Traffic gives you the option to identify your visitors **Countries** 
-and **Cities** of origin based on their IP addresses. *\[Figure-5\]*.
+CoalaWeb Traffic gives you the option to identify your visitors **Countries** and **Cities** of origin based on their IP addresses. *\[Figure-5\]*.
 
 ![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-1.png "Figure-5"){.coalaweb-docs}
 
 #### How Geo Location Works
 
-CoalaWeb Traffic uses the free
-[MaxMind's](http://dev.maxmind.com/geoip/geolite) GeoLiteCity database
-for determining the country and city information of your visitors. This
-file is updated very frequently, about once every month. Why so often?
-IP assignments to countries change all the time in fact by the time we
-release our extension, the database file is most likely already slightly
-out of date.
+CoalaWeb Traffic can work in conjunction with **MaxMind's** Geo databases to help determine location information about your visitors. The **Core** version of CoalaWeb Traffic uses the **(Legacy) GeoLite City** database while **Pro** subscribers get the advantage of using the current **GeoLite2 City** database with extend features. The databases are updated very frequently, about once every month. Why so often? IP assignments to countries change all the time in fact by the time we release our extension, the database file is most likely already slightly out of date.
 
 #### What Will This Affect
 
-This could cause some IP addresses to be identified as coming from the
-wrong location. Updating the file regularly will give you much better
-country and city accuracy.
-[MaxMind](http://dev.maxmind.com/geoip/geolite) claims an accuracy of
-99.5% for its free GeoLiteCity database so please bear in mind that this
-means that some IP addresses might be reported wrongly.
+This could cause some IP addresses to be identified as coming from the wrong location. Updating the file regularly will give you much better country and city accuracy. [MaxMind](http://dev.maxmind.com/geoip/geolite) claims an accuracy of 99.5% for its free Geo databases so please bear in mind that this means that some IP addresses might be reported wrongly.
 
 #### Do I Have To Install It?
 
-**No you do not.** The system will continue to count and store your
-website traffic with out the database installed the only difference is
-that you won't see *Country* or *City* information associated with their
-IP addresses.
+**No you do not.** The system will continue to count and store your website traffic with out the database installed the only difference is that you won't see *Country* or *City* information associated with their IP addresses.
 
 <div class="uk-alert">Note: It's a good idea to inform visitors in your privacy policy or TOS that you are collecting their information.</div>
 
 #### <a name="geo-install"></a>Installing the Geo Database
 
-If you don’t have the **GeoLiteCity** database installed you will receive an
-notice message. To take advantage of CoalaWeb
-Traffics inbuilt ability to tell you a visitors country and sometimes
+If you don’t have the **GeoLiteCity** database installed you will receive a notice message. To take advantage of CoalaWeb Traffics inbuilt ability to tell you a visitors country and sometimes
 their city follow the steps below. *\[Figure-5a\]*.
 
 ![Figure-5a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-2.png "Figure-5a"){.coalaweb-docs}
 
-To make it easier to know if you will need to upload the database manually I have added a
-**Upload Minimum Requirements** check list that will display in the Geo Location view. *\[Figure-5b\]*.
+To make it easier to know if you will need to upload the database manually I have added a **Upload Minimum Requirements** check list that will display in the Geo Location view. *\[Figure-5b\]*.
 
 ![Figure-5b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-3.png "Figure-5b"){.coalaweb-docs}
 
-If your system doesn't meet the minimum requirements but its close I recommend 
-trying the easy way first and then moving on the the manual install.
+<div class="uk-alert">If your system doesn't meet the minimum requirements but its close I recommend trying the easy way first and then moving on the the manual install.</div>
  
 #### <a name="geo-easy"></a>Easy Install
 
-First click the **Upload GeoLiteCity Database** blue button this will retrieve the latest version of the
-database from the **Maximind** website and upload it to your website's **tmp**
-directory. *\[Figure-5c\]*.
+First click the **Upload Geo Database** blue button this will retrieve the latest version of the database from the **Maximind** website and upload it to your website's **tmp** directory. *\[Figure-5c\]*.
 
 ![Figure-5c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-4.png "Figure-5c"){.coalaweb-docs}
 
-If everything went according to plan you will receive a
-conformation message that it uploaded correctly. *\[Figure-5d\]*.
+If everything went according to plan you will receive a conformation message that it uploaded correctly. *\[Figure-5d\]*.
 
 ![Figure-5d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-5.png "Figure-5d"){.coalaweb-docs}
 
-The next step is to **Unzip** the file to the CoalaWeb Traffic geoip
-directory where it can be accessed and used to determine your visitors
-locations. If the database uploaded correctly in the last step you will
-now have a **Unzip** icon in the top tool bar click this to start the unzip process. *\[Figure-5e\]*.
+The next step is to **Unzip** the file to the CoalaWeb Traffic geoip directory where it can be accessed and used to determine your visitors locations. If the database uploaded correctly in the last step you will now have a **Unzip** icon in the top tool bar, click this to start the unzip process. *\[Figure-5e\]*.
 
 ![Figure-5e](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-6.png "Figure-5e"){.coalaweb-docs}
 
-Once again if everything goes according to plan you receive a
-conformation message that the file was unzipped correctly and also the
-message at the top of the page will turn green with today's
-date. *\[Figure-5f\]*.
+Once again if everything goes according to plan you receive a conformation message that the file was unzipped correctly and also the message at the top of the page will turn green with today's date. *\[Figure-5f and Figure-5l\]*.
 
 ![Figure-5f](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-7.png "Figure-5f"){.coalaweb-docs}
 
-Now CoalaWeb Traffic will automatically add country and city information
-to your visitor records as they are collected. To keep the location
-information as accurate as possible just carry out this procedure at
-regular intervals.
+![Figure-5l](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-13.png "Figure-5l"){.coalaweb-docs}
 
-<div class="uk-alert">Note: Please be patient when **Uploading** and <em>Unzipping</em> the database it may take some time due to the size of the file.</div>
+Now CoalaWeb Traffic will automatically add country and city information to your visitor records as they are collected. To keep the location information as accurate as possible just carry out this procedure at regular intervals.
 
-#### <a name="geo-manual"></a>Manual Install
+<div class="uk-alert">Note: Please be patient when <em>Uploading</em> and <em>Unzipping</em> the database it may take some time due to the size of the file.</div>
 
-If you couldn't install the database the easy way no problem lets just do it the manual
-way by following these steps. The sizes I mentions in the following steps may differ but you get the idea.
+#### <a name="geo-manual-core"></a>Manual Install Core
+
+If you re using the **Core** version of **Traffic** and you couldn't install the database the easy way no problem lets just do it the manual way by following these steps.
 
 <div class="uk-alert">Note: To avoid issues please follow these steps exactly as they are written.</div>
 
-Download the latest MaxMind GeoLiteCity database 
-[HERE](http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz). *\[Figure-5g\]*.
+Download the latest MaxMind **GeoLiteCity** database [HERE](http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz). *\[Figure-5g\]*.
 
 ![Figure-5g](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-8.png "Figure-5g"){.coalaweb-docs}
 
-As you can see it should be at least 10.8MB in my case once using Linux when it was
-downloaded the system saw it as 11.3MB. *\[Figure-5h\]*.
-
-![Figure-5h](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-9.png "Figure-5h"){.coalaweb-docs}
-
-When extracted my system reports it as 17.6MB *\[Figure-5i\]*.
+Now that you have the database downloaded the next step is to extract it. Once it has completed the extraction process you will have a file named **GeoLiteCity.dat** *\[Figure-5i\]*.
 
 ![Figure-5i](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-10.png "Figure-5i"){.coalaweb-docs}
 
-Now all we are doing is convert the name to lowercase. *\[Figure-5j\]*.
+The next step is convert the name to lowercase **geolitecity.dat**. *\[Figure-5j\]*.
 
 ![Figure-5j](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-11.png "Figure-5j"){.coalaweb-docs}
 
-Now don't rezip the file just uploaded it to:
+The last step is to upload your newly renamed database file to the following location:
 
     administrator/components/com_coalawebtraffic/assets/geoip
 
-Now you should have a file 17.7MB in size with 644 permissions in the directory. *\[Figure-5k\]*.
+The database file should have 644 permissions. *\[Figure-5k\]*.
 
 ![Figure-5k](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-12.png "Figure-5k"){.coalaweb-docs}
 
-Now if everything went according to plan you should now start to see **Country 
-and City** data in the **Visitors** view.
+Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
+
+#### <a name="geo-manual-pro"></a>Manual Install Pro
+
+If you re using the **Pro** version of **Traffic** and you  couldn't install the database the easy way no problem lets just do it the manual way by following these steps.
+
+<div class="uk-alert">Note: To avoid issues please follow these steps exactly as they are written.</div>
+
+Download the latest MaxMind **GeoLite2 City** database [HERE](http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.mmdb.gz). *\[Figure-5g-a\]*.
+
+![Figure-5g-a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-8a.png "Figure-5g-a"){.coalaweb-docs}
+
+Now that you have the database downloaded the next step is to extract it. Once it has completed the extraction process you will have a file named **GeoLite2-City.mmdb** *\[Figure-5i-a\]*.
+
+![Figure-5i-a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-10a.png "Figure-5i-a"){.coalaweb-docs}
+
+The next step is convert the name to lowercase **geolite2-city.mmdb**. *\[Figure-5j-a\]*.
+
+![Figure-5j-a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-11a.png "Figure-5j-a"){.coalaweb-docs}
+
+The last step is to upload your newly renamed database file to the following location:
+
+    administrator/components/com_coalawebtraffic/assets/geoip/v2
+
+The database file should have 644 permissions. *\[Figure-5k-a\]*.
+
+![Figure-5k-a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-12a.png "Figure-5k-a"){.coalaweb-docs}
+
+Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
 
 
 ### <a name="export-csv"></a>Export CSV Report
