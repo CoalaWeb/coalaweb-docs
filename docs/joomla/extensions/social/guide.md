@@ -13,9 +13,9 @@
         - [4. Panel Plugin Options \[Pro\]](#options-panel)
         - [5. Metadata Plugin Options \[Pro\]](#options-og)
         - [6. Count Options \[Pro\]](#options-count)
-        - [7. Update Options](#options-updates)
-        - [8. Where Is My Download ID \[Pro\]](#options-downloadid)
-        - [9. Component Permissions](#options-permissions)
+        - [7. Updates \[Pro\]](#options-updates)
+            - [Where is my Download ID?](#options-downloadid)
+        - [8. Component Permissions](#options-permissions)
 3.  [Social Links \[M\]](#module)
     -   [General Display Options](#mod-general)
     -   [Create Custom Theme](#mod-custom-theme)
@@ -519,7 +519,7 @@ If you want certain information to always be used within the meta tags set it be
 
 ![Figure-4a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata2.png "Figure-4a"){.coalaweb-docs}
 
-### 6. <a name="options-count"></a>Count Options
+### <a name="options-count"></a>6. Count Options
 
 CoalaWeb Social links has a count system builtin that can check a page's social counts based on it's URL and then store the information in the database. This allows the counts to be retrieved from the database when displaying the buttons removing the need to check each social network on every page load. *\[Figure-30\]*
 
@@ -537,19 +537,33 @@ The next group of options are **what to check** which give you option to choose 
 
 ![Figure-30c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-count4.png "Figure-30c"){.coalaweb-docs}
 
-### 7. <a name="options-updates"></a>Update Options
+### <a name="options-updates"></a>7. Update Options
 
-This feature is currently being revised. *\[Figure-6\]*
+The CoalaWeb Social Links extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
 
-![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-updates.png "Figure-6"){.coalaweb-docs}
+For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** in either the **Control Panel** input field. *\[Figure-28\]*
 
-### 8. <a name="options-downloadid"></a>Where Is My Download ID \[Pro Version\]
+![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png "Figure-28"){.coalaweb-docs}
 
-To find your **Download ID** log into **coalaweb.com** and from the top menu select **Members \> My Subscriptions** scroll down and under **My Subscriptions** there is a Module called **Download ID** copy the code and paste in your component configuration making sure not to include any spaces. *\[Figure-7\]*
+ Or through the component configuration options under **Updates**. *\[Figure-28a\]*
 
-![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/generic/coalaweb-download-id.png "Figure-7"){.coalaweb-docs}
+![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png "Figure-28a"){.coalaweb-docs}
 
-### 9. <a name="options-permissions"></a>Component Permissions
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
+
+#### <a name="options-downloadid"></a> Where can I find my Download ID?
+
+To see your **Download ID** you will need to log into [coalaweb.com](http://coalaweb.com) and then go to:
+
+    Members -> My Subscriptions
+
+You will then see the ID displayed in the module titled **Download ID**. *\[Figure-28b\]*
+
+![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-28b"){.coalaweb-docs}
+
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
+
+### <a name="options-permissions"></a>8. Component Permissions
 
 The last tab contains the permission settings for the CoalaWeb Social
 Links component. *\[Figure-8\]*
