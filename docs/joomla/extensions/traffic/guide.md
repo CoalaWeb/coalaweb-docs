@@ -412,6 +412,10 @@ Project Honeypot is a collective effort to detect spammers, email harversters an
 
 #### <a name="options-charts"></a>6. Charts
 
+The options in this section control the amount of records displayed in the **Charts**. *\[Figure-8c\]*
+
+![Figure-8c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-8.png "Figure-8c"){.coalaweb-docs}
+
 #### <a name="options-updates"></a>7. Updates
 
 The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
@@ -448,7 +452,7 @@ Lastly you have the permissions used to control access tothe CoalaWeb Traffic co
 
 The CoalaWeb Traffic module has a huge list of options so we have broken them up into several sections which are explained in detail below.
 
-<div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text.</div>
+<div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text or create a separate module for each language.</div>
 
 ### <a name="mod-general"></a>General Display Options
 
@@ -456,33 +460,22 @@ To make it easy to explain I have broken this section up into two parts.
 
 **Part 1 Digital Counter**
 
-First you can choose if you want to display the digital counter section at all 
-maybe you only want to display individual counters. Next you can choose how many 
-digits you want to be displayed. The last option in this section is to choose a theme
-for your digital counter. *\[Figure-9\]*
+First you can choose if you want to display the digital counter section at all maybe you only want to display individual counters. Next you can choose how many digits you want to be displayed. The last option in this section is to choose a theme for your digital counter. *\[Figure-9\]*
 
 ![Figure-9](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-1.png "Figure-9"){.coalaweb-docs}
 
 **Part 2 Individual Counters**
 
-First you can choose if you want to display the individual counters section at all 
-maybe you only want to display a digital counter. The next option is to choose a 
-theme, this will affect which icons are displayed along side the 
-individual counters or you can choose to have no icons. 
+First you can choose if you want to display the individual counters section at all maybe you only want to display a digital counter. The next option is to choose a theme, this will affect which icons are displayed along side the individual counters or you can choose to have no icons. The next option allows you to turn on or off a horizontal line at the bottom of the counter section.
 
-Next you have the ability to turn on or off the display for
-today, yesterday, this week, this month and total it's up to you which ones you
-want to display. Under each of these options is a text box here you can
-assign a word to be displayed next to the item but if your site is
-multilingual leave these blank and use the language files to control
-what is displayed. *\[Figure-9a\]*
+Next you have the ability to turn on or off the display for today, yesterday, this week, this month and total it's up to you which ones you
+want to display. Under each of these options is a text box where you can assign a word to be displayed next to the item. *\[Figure-9a\]*
 
 ![Figure-9a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-2.png "Figure-9a"){.coalaweb-docs}
 
 ### <a name="mod-layout"></a>Module Layout Options
 
-The first two options control the width of the counter section and the overall
-module width.
+The first two options control the width of the counter section and the overall module width.
 
 The next option is the module layout you have three options to choose from.
 
@@ -490,34 +483,26 @@ The next option is the module layout you have three options to choose from.
 -   **Horizontal** - The horizontal layout only allows counters.
 -   **Compact** - The compact layout only displays the horizontal text and the total counter.
 
-The next option is the horizontal text this will display to the left of
-both the horizontal and compact layouts. The last option is the
-separator this will display between items in both the horizontal and
-compact layouts. *\[Figure-10\]*
+The next option is the horizontal text this will display to the left of both the horizontal and compact layouts. The last option is the
+separator that will display between items in both the horizontal and compact layouts. *\[Figure-10\]*
 
 ![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-layout-1.png "Figure-10"){.coalaweb-docs}
 
 ### <a name="mod-visitor"></a>Visitor Display Options
 
-This section controls what information about the visitor will be displayed within 
-the **Traffic** module. 
+This section controls what information about the visitor will be displayed within the **Traffic** module. 
 
 To make it easier to explain I have broken this section into two parts.
 
 **Part 1**
 
-First you can choose if you want to display the visitor information section at all.
-Next are the **Title** configuration options, you can to choose to display one 
-including the title text, it's format and it's alignment.The next option turns 
-on or off a horizontal line to separate the counter items from the visitor 
-information. *\[Figure-11\]*
+First you can choose if you want to display the visitor information section at all. Next are the **Title** configuration options, you can to choose to display one including the title text, it's format and it's alignment. The next option allows you to turn on or off a horizontal line at the bottom of the visitor section. *\[Figure-11\]*
 
 ![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-visitor-1.png "Figure-11"){.coalaweb-docs}
 
 **Part 2**
 
-In this section you have the option to turn on or off the following items as well
-as choosing their label text.  *\[Figure-11a\]*
+In this section you have the option to turn on or off the following items as well as choosing their label text.  *\[Figure-11a\]*
 
 -   IP
 -   Browser
@@ -527,67 +512,50 @@ as choosing their label text.  *\[Figure-11a\]*
 
 ### <a name="mod-who"></a>Who is Online Options
 
-Due to the flaws in the Joomla method of tell who is online I have created my own
-that uses cookies and a database table to keep track of who is online. The data 
-is then retrieved and displayed in this section of the module.
+Due to the flaws in the Joomla method of telling who is online I have created my own that uses cookies and a database table to keep track of who is online. The data is then retrieved and displayed in this section of the module.
 
-First you can choose if you want to display the who is online section at all.
-Next are the **Title** configuration options, you can to choose to display one 
-including the title text, subtitle text, it's format and it's alignment.The next option turns 
-on or off a horizontal line to separate the counter items from the visitor 
-information. *\[Figure-12\]*
+First you can choose if you want to display the who is online section at all. Next are the **Title** configuration options, you can choose to display them including their title text, their format and alignment. The next option allows you to turn on or off a horizontal line at the bottom of the who is online section. *\[Figure-12\]*
 
 ![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-who-1.png "Figure-12"){.coalaweb-docs}
 
 ### <a name="mod-advanced"></a>Advanced Options
 
-The CoalaWeb Traffic module also has a few of what I consider
-**Advanced Options** such as the option to assign a **Unique Module ID**
-to stop conflicts, a **Module Class Suffix** or whether to use **Cache**
-including the **Cache Time**. This next option allows you to display the 
-**Date and Time** at the bottom of the module as well as choosing its **Format**. 
-
-The last option is whether to display a **Link Back to CoalaWeb** which is always appreciated but its up to you
-plus you can choose what text to display next to the link. *Note: If
-your site is multilingual leave blank and use the language files. *\[Figure-13\]*
+The CoalaWeb Traffic module also has a few of what I consider **Advanced Options** such as the option to turn on or off the loading of the **Core CSS** and or assigning your own **Custom CSS** file. This next option allows you to display the 
+**Date and Time** at the bottom of the module as well as choosing its **Format**. You can also assign a **Module Class Suffix** or whether to use **Cache** including the **Cache Time** in this section. *\[Figure-13\]*
 
 ![Figure-13](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-advanced-1.png "Figure-13"){.coalaweb-docs}
 
 # <a name="plg"></a>Plugins
 
-There are several plugins crucial to the proper functioning of the CoalaWeb 
-Traffic system. They are explain in detail below.
+There are several plugins crucial to the proper functioning of the CoalaWeb Traffic system. They are explain in detail below.
 
 ## <a name="plg-count"></a>System Plugin - Count
 
-This plugin is crucial to functionality of the system it quietly counts
-the visits to your site and then records them in the database. It allows
-you to count the traffic to your site even with the module unpublished
-and also ensures all traffic is record regardless of the part of the
-site that they visit.
+This plugin is crucial to functionality of the system it quietly counts the visits to your site and then records them in the database. It allows you to count the traffic to your site even with the module unpublished and also ensures all traffic is record regardless of the part of the site that they visit.
 
-This plugin also takes care of blocking visitors from being counted based on your 
-setting in the CoalaWeb Traffic component.
+This plugin also takes care of blocking visitors from being counted based on your setting in the CoalaWeb Traffic component.  *\[Figure-15\]*
 
 <div class="uk-alert">Note: To ensure proper functionality of CoalaWeb Traffic please make sure this plugin is installed and publish.</div>
 
+![Figure-15](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-count.png "Figure-15"){.coalaweb-docs}
+
 ## <a name="plg-clean"></a>System Plugin - Clean
 
-This plugin carries out the automatic database clean up but only if you
-have it turned on in the **Component Options**. It will run in the
-background keeping the current data but delete out the old entries and
-then add them to a running total. It is recommended to turn this feature
-on.
+This plugin carries out the automatic database clean up but only if you have it turned on in the **Component Options**. It will run in the
+background keeping the current data but delete out the old entries and add them to a running total. It is recommended to turn this feature
+on.   *\[Figure-16\]*
 
 <div class="uk-alert">Have you chosen automatic database clean up? Then this plugin needs to be installed and published.</div>
 
+![Figure-16](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-clean.png "Figure-16"){.coalaweb-docs}
+
 ## <a name="plg-online"></a>System Plugin - Online
 
-This plugin will count and then supply the information so the **Traffic** 
-module can display the currently online visitors. It uses it own database table 
-along with cookies to keep track of visitors.
+This plugin will check who is online, record it to a cookie and to the database and lastly supply the information to the **Traffic** modules so they can display the currently online visitors. *\[Figure-17\]*
 
 <div class="uk-alert">Have you chosen to display <em>Who is Online?</em> Then this plugin needs to be installed and published.</div>
+
+![Figure-17](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-online.png "Figure-17"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 

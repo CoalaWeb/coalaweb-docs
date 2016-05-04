@@ -35,21 +35,21 @@ The Module gives you the option to display your websites traffic to other visito
 
 This plugin is crucial to functionality of the system it quietly counts the visits to your site and then records them in the database. It allows you to count the traffic to your site even with the module unpublished and also ensures all traffic is record regardless of the part of the site that they visit.
 
-This plugin also takes care of blocking visitors from being counted based on your setting in the CoalaWeb Traffic component.  *\[Figure-3\]*
+This plugin also takes care of blocking visitors from being counted based on your setting in the CoalaWeb Traffic component. *\[Figure-3\]*
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-count.png "Figure-3"){.coalaweb-docs}
 
 ### <a name="plg-clean"></a>System - CW Traffic Clean
 
-This plugin carries out the automatic database clean up but only if you have it turned on in the Component Options. It will run in the background keeping the current data but delete out the old entries and then add them to a running total. It is recommended to turn this feature on.  *\[Figure-4\]*
+This plugin carries out the automatic database clean up but only if you have it turned on in the Component Options. It will run in the background keeping the current data but delete out the old entries and then add them to a running total. It is recommended to turn this feature on. *\[Figure-4\]*
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-clean.png "Figure-4"){.coalaweb-docs}
 
 ### <a name="plg-online"></a>System - CW Traffic Online
 
-This plugin will count and then supply the information so the Traffic module can display the currently online visitors. It uses it own database table along with cookies to keep track of visitors.  *\[Figure-5\]*
+This plugin will check who is online, record it to a cookie and to the database and lastly supply the information to the **Traffic** modules so they can display the currently online visitors. *\[Figure-5\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-online.png "Figure-5"){.coalaweb-docs}
+![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-online.png "Figure-5"){.coalaweb-docs}
 
 ### <a name="plg-gears"></a>System - Gears
 
