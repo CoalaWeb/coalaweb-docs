@@ -119,11 +119,11 @@ You can also make changes to the counts but keep in mind that any changes you ma
 
 ![Figure-31d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-counts5.png "Figure-31d"){.coalaweb-docs}
 
-### <a name="com-purge"></a>Purge
+### <a name="com-purge"></a>Purge \[Pro\]
 
 ![Figure-32a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-purge1.png "Figure-32a"){.coalaweb-docs}
 
-The **Purge** button will delete all of the count records current stored in the Social Links database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
+Pro subscribers also get a **Purge** button will delete all of the count records current stored in the Social Links database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
 
 ![Figure-32b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-purge2.png "Figure-32b"){.coalaweb-docs}
 
@@ -131,11 +131,11 @@ After it has completed you get a confirmation message or an error message if it 
 
 ![Figure-32c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-purge3.png "Figure-32c"){.coalaweb-docs}
 
-### <a name="com-optimize"></a>Optimize and Repair
+### <a name="com-optimize"></a>Optimize and Repair \[Pro\]
 
 ![Figure-33a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-optimize1.png "Figure-33a"){.coalaweb-docs}
 
-The **Optimize** button will will attempt to repair and optimize all the Social Links database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-33b\]*
+Pro subscribers also get an **Optimize** button will attempt to repair and optimize all the Social Links database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-33b\]*
 
 ![Figure-33b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-optimize2.png "Figure-33b"){.coalaweb-docs}
 

@@ -12,19 +12,23 @@
         - [2. Easy Install](#geo-easy)
         - [3. Manual Install Core](#geo-manual-core)
         - [4. Manual Install Pro](#geo-manual-pro)
-    -   [CSV Export Option](#export-csv)
-    -   [Inbuilt Help](#help)
-    -   [Extension Options](#options)
-3.  [Module Guide](#module)
-    -   [General Options](#mod-general)
-    -   [Layout Options](#mod-layout)
-    -   [Visitor Options](#mod-visitor)
-    -   [Who is Online Options](#mod-who)
-    -   [Advanced Options](#mod-advanced)
-4.  [Plugin Guide](#plg)
-    -   [System Plugin Count](#plg-count)
-    -   [System Plugin Clean](#plg-clean)
-    -   [System Plugin Online](#plg-online)
+    -   [Charts \[Pro\]](#charts)
+    -   [CSV Report](#export-csv)
+    -   [Purge](#com-purge)
+    -   [Optimize \[Pro\]](#com-optimize)
+    -   [Add Robots \[Pro\]](#com-robots)
+    -   [Help](#help)
+    -   [Options](#options)
+3.  [Traffic \[M\]](#module)
+    -   [General](#mod-general)
+    -   [Layout](#mod-layout)
+    -   [Visitor](#mod-visitor)
+    -   [Who is Online](#mod-who)
+    -   [Advanced](#mod-advanced)
+4.  [Plugins](#plg)
+    -   [System Plugin - Count](#plg-count)
+    -   [System Plugin - Clean](#plg-clean)
+    -   [System Plugin - Online](#plg-online)
 5.  [Need More Help?](#more-help)
 
 ## <a class="doc-top"  name="overview"></a>Overview
@@ -140,7 +144,7 @@ To make it easier to know if you will need to upload the database manually I hav
 
 ![Figure-5b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-3.png "Figure-5b"){.coalaweb-docs}
 
-<div class="uk-alert">If your system doesn't meet the minimum requirements but its close I recommend trying the easy way first and then moving on the the manual install.</div>
+<div class="uk-alert">If your system doesn't meet the minimum requirements but its close I recommend trying the easy way first before moving on to the manual method.</div>
  
 #### <a name="geo-easy"></a>Easy Install
 
@@ -222,57 +226,87 @@ The database file should have 644 permissions. *\[Figure-5k-a\]*.
 
 Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
 
+### <a name="com-charts"></a>Charts
 
-### <a name="export-csv"></a>Export CSV Report
+Pro subscribers also get access to a series of **Charts** which allow you to quickly see your visitor data grouped in the following ways.
 
-If you want to export the visitors currently stored in your database
-start by selecting **Visitors** from the menu bar or from the **Control
-Panel**. The main concept you have understand is what you see is what
-you get for example if I want all the records for the IP Owner CoalaWeb
-I would do the following.
+#### Visitors
 
-First Type CoalaWeb into the search box and press enter. *\[Figure-6\]*
+A quick summary of your visitors displayed in a graph based on quantity and date accompanied by a summary table. *\[Figure-14\]*.
+
+![Figure-14](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-chart-1.png "Figure-14"){.coalaweb-docs}
+
+#### Countries
+
+A color coded map visual representing your visitors and their countries accompanied by a summary table. *\[Figure-14a\]*.
+
+![Figure-14a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-chart-2.png "Figure-14a"){.coalaweb-docs}
+
+#### Cities
+
+A color coded pie chart representing your visitors and their cities accompanied by a summary table. *\[Figure-14b\]*.
+
+![Figure-14b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-chart-3.png "Figure-14b"){.coalaweb-docs}
+
+#### Browsers
+
+A color coded pie chart representing your visitors and their browsers accompanied by a summary table. *\[Figure-14c\]*.
+
+![Figure-14c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-chart-4.png "Figure-14c"){.coalaweb-docs}
+
+#### Platforms
+
+A color coded pie chart representing your visitors and their platforms accompanied by a summary table. *\[Figure-14d\]*.
+
+![Figure-14d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-chart-5.png "Figure-14d"){.coalaweb-docs}
+
+### <a name="export-csv"></a>CSV Report
+
+If you want to export the visitors currently stored in your database start by clicking the **CSV Report** button in the **Control Panel**.
 
 ![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-1.png "Figure-6"){.coalaweb-docs}
 
-Now only records with CoalaWeb are listed next choose **All** from the
-bottom pagination select box. *\[Figure-6a\]*
-
-![Figure-6a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-2.png "Figure-6a"){.coalaweb-docs}
-
-Now we have all the records with CoalaWeb as the IP owner listed on one
-page next click **CSV Report** from the top right menu. *\[Figure-6b\]*
-
-![Figure-6b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-3.png "Figure-6b"){.coalaweb-docs}
-
-You should get a pop up that similar to the image below if not make sure
-it's not being blocked by something such as your browser settings. *\[Figure-6c\]*
+You should get a pop up that similar to the image below if not make sure it's not being blocked by something such as your browser settings. *\[Figure-6c\]*
 
 ![Figure-6c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-4.png "Figure-6c"){.coalaweb-docs}
 
-Next save the file to your local computer and then open it with your
-application of choice. In this example I will be using LibreOffice but
-the procedure will be similar with other applications. First I have to
-import it before I can work with the data so after a double click I'm
-confronted with the window below. *\[Figure-6d\]*
+Next save the file to your local computer and then open it with your application of choice. In this example I will be using **LibreOffice** but the procedure will be similar with other applications. First I have to import it before I can work with the data so after a double click I'm confronted with the window below. *\[Figure-6d\]*
 
 ![Figure-6d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-5.png "Figure-6d"){.coalaweb-docs}
 
-I have chosen to import it with the default settings which results in
-the data being laid out in a sheet.  *\[Figure-6e\]*
+I have chosen to import it with the default settings which results in the data being laid out in a sheet.  *\[Figure-6e\]*
 
 ![Figure-6e](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-6.png "Figure-6e"){.coalaweb-docs}
 
 You can now format, filter and save the data as you wish.
 
-<div class="uk-alert">Note: Don't forget what you see is what you get! The exported file will contain what is displayed on the screen.</div>
+### <a name="com-purge"></a>Purge
+
+![Figure-32a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-purge1.png "Figure-32a"){.coalaweb-docs}
+
+The **Purge** button will delete all of the traffic records current stored in the Traffic database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
+
+![Figure-32b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-purge2.png "Figure-32b"){.coalaweb-docs}
+
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
+
+![Figure-32c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-purge3.png "Figure-32c"){.coalaweb-docs}
+
+### <a name="com-optimize"></a>Optimize and Repair \[Pro\]
+
+![Figure-33a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-optimize1.png "Figure-33a"){.coalaweb-docs}
+
+Pro subscribers also get an **Optimize** button which will attempt to repair and optimize all the Traffic database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-33b\]*
+
+![Figure-33b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-optimize2.png "Figure-33b"){.coalaweb-docs}
+
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
+
+![Figure-33c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-optimize3.png "Figure-33c"){.coalaweb-docs}
 
 ### <a name="help"></a>Inbuilt Help
 
-In the control panel or the tool menu you have a help icon that when
-clicked will open a pop up wrapper of this specific guide. This gives
-you an easy way of checking the functionality of a particular item with
-out leaving the control panel. *\[Figure-7\]*
+In the control panel or the tool menu you have a help icon that when clicked will open a pop up wrapper of this specific guide. This gives you an easy way of checking the functionality of a particular item without leaving the control panel. *\[Figure-7\]*
 
 ![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-help.png "Figure-7"){.coalaweb-docs}
 
