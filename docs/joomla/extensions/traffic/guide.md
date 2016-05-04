@@ -19,6 +19,15 @@
     -   [Add Robots \[Pro\]](#com-robots)
     -   [Help](#help)
     -   [Options](#options)
+        - [1. General](#options-general)
+        - [2. Storage \[Pro\]](#options-storage)
+        - [3. Robots\[Pro\] ](#options-robots)
+        - [4. Cleanup](#options-cleanup)
+        - [5. Honeypot](#options-honeypot)
+        - [6. Charts \[Pro\]](#options-charts)
+        - [7. Updates \[Pro\]](#options-updates)
+            - [Where is my Download ID?](#options-downloadid)
+        - [8. Permissions](#options-permissions)
 3.  [Traffic \[M\]](#module)
     -   [General](#mod-general)
     -   [Layout](#mod-layout)
@@ -323,21 +332,23 @@ After it has completed you get a confirmation message or an error message if it 
 
 ![Figure-32c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-robots-3.png "Figure-32c"){.coalaweb-docs}
 
-<div class="uk-alert">The <em>Add Robots</em> system will compare the current list to what you have stored and add any new robots as needed so it's a good idea to run it after each update.</div>
+<div class="uk-alert">The <em>Add Robots</em> system will compare the current list to what you have stored and add any new robots so I recommend running it after each update.</div>
 
 ### <a name="help"></a>Inbuilt Help
 
-In the control panel or the tool menu you have a help icon that when clicked will open a pop up wrapper of this specific guide. This gives you an easy way of checking the functionality of a particular item without leaving the control panel. *\[Figure-7\]*
+![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-help-1.png "Figure-7"){.coalaweb-docs}
 
-![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-help.png "Figure-7"){.coalaweb-docs}
+In the control panel or the tool menu you have a help icon that when clicked will open a pop up wrapper of this specific guide. This gives you an easy way of checking the functionality of a particular item without leaving the control panel. *\[Figure-7a\]*
+
+![Figure-7a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-help-2.png "Figure-7a"){.coalaweb-docs}
 
 ### <a name="options"></a>Extension Options
 
 ![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options.png "Figure-8"){.coalaweb-docs}
 
-In the control panel or the tool menu you have a **Options** icon that when clicked will open a series of extension options.
+<div class="uk-alert">In the control panel or the tool menu you have a <em>Options</em> icon that when clicked will open a series of extension options.</div>
 
-#### General Options
+#### <a name="options-general"></a>1. General Options
 
 The first option in this section is the **Locktime** this is the amount of time that must pass before a particular IP will be counted again. It is measured in minutes and 1440 (Full day) is the default. *\[Figure-8\]*
 
@@ -347,7 +358,7 @@ The last option in this section is the **Preset Counter** this number will be ad
 
 ![Figure-8a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-1.png "Figure-8a"){.coalaweb-docs}
 
-#### Storage \[Pro\]
+#### <a name="options-storage"></a>2. Storage \[Pro\]
 
 The first option in th is section is to turn on or off the storing of IPs in **Raw** format otherwise they will only be stored in an unreadable hash format. If you choose no for this option then in the visitors view **Not Stored Raw!** will be displayed in the IP column and every visitor recorded after that will not have its IP stored in raw format in the database. *\[Figure-8e\]*
 
@@ -355,19 +366,19 @@ The second option is to turn on or off the storing of Geo location information. 
 
 ![Figure-8e](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-6.png "Figure-8e"){.coalaweb-docs}
 
-#### Robots \[Pro\]
+#### <a name="options-robots"></a>3. Robots \[Pro\]
 
 The option in this section will use Joomla's JApplicationWebClient class to block a few well known robots from being counted. This will only detects basic robots if you wish to block additional robots use the KnownIPs list. *\[Figure-8f\]*
 
 ![Figure-8f](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-7.png "Figure-8f"){.coalaweb-docs}
 
-#### Cleanup
+#### <a name="options-cleanup"></a>4. Cleanup
 
 In this section you can control the automatic clean up of the database to stop the tables filling up with data. I recommend having this set to on and the second option of how many **Records to Keep** will depend on your circumstances. *\[Figure-8b\]*
 
 ![Figure-8b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-2.png "Figure-8b"){.coalaweb-docs}
 
-#### Project Honeypot
+#### <a name="options-honeypot"></a>5. Project Honeypot
 
 Project Honeypot is a collective effort to detect spammers, email harversters and crackers. Its HTTP:BL service allows participants to query the IP addresses of their visitors and figure out if it is a malicious user behind it. If you enable this feature, CoalaWeb Traffic will check the IP address of each visitor and, if it is a malicious user, it will not count them. *\[Figure-8b\]*
 
@@ -399,18 +410,39 @@ Project Honeypot is a collective effort to detect spammers, email harversters an
 
 -   Project Honeypot reports when was the last time this IP was caught sending spam messages. The older this is (the higher the age is), the less likely is that this IP is still used by a spammer. You can chose here what will be the maximum reported age that will be blocked. The default value of 30 means that IPs which have submitted a spam message in the last 30 days will be blocked.
 
-#### Obsolete
+#### <a name="options-charts"></a>6. Charts
 
-The options in this section are obsolete and have been included to allow users an opportunity to transfer them to the new system. *\[Figure-8c\]*
+#### <a name="options-updates"></a>7. Updates
 
-![Figure-8c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-4.png "Figure-8c"){.coalaweb-docs}
+The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
 
-#### Permissions
+For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** in either the **Control Panel** input field. *\[Figure-28\]*
+
+![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png "Figure-28"){.coalaweb-docs}
+
+ Or through the component configuration options under **Updates**. *\[Figure-28a\]*
+
+![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png "Figure-28a"){.coalaweb-docs}
+
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
+
+#### <a name="options-downloadid"></a> Where can I find my Download ID?
+
+To see your **Download ID** you will need to log into [coalaweb.com](http://coalaweb.com) and then go to:
+
+    Members -> My Subscriptions
+
+You will then see the ID displayed in the module titled **Download ID**. *\[Figure-28b\]*
+
+![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-28b"){.coalaweb-docs}
+
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
+
+#### <a name="options-permissions"></a>8. Permissions
 
 Lastly you have the permissions used to control access tothe CoalaWeb Traffic component. *\[Figure-8d\]*
 
 ![Figure-8d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-5.png "Figure-8d"){.coalaweb-docs}
-
 
 # <a name="module"></a>CoalaWeb Traffic Module
 
