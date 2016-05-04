@@ -10,9 +10,9 @@
     -   [GEO Location](#geo)
         - [1. Install](#geo-install)
         - [2. Easy Install](#geo-easy)
-        - [3. Manual Install Core](#geo-manual-core)
-        - [4. Manual Install Pro](#geo-manual-pro)
-    -   [Charts \[Pro\]](#charts)
+        - [3. Manual Install](#geo-manual-core)
+        - [4. Manual Install \[Pro\]](#geo-manual-pro)
+    -   [Charts \[Pro\]](#com-charts)
     -   [CSV Report](#export-csv)
     -   [Purge](#com-purge)
     -   [Optimize \[Pro\]](#com-optimize)
@@ -47,6 +47,8 @@ The **Control Panel** as seen below it is designed to be an easy starting point,
 
 ### <a name="visitors"></a>Visitors
 
+![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-visitors.png "Figure-2"){.coalaweb-docs}
+
 The Visitors section is where all the visitors to your site are listed. The visitors are displayed with the following information.
 
 -   Their IP address (unless not stored RAW)
@@ -68,30 +70,35 @@ Both **Core** and **Pro** users have sort and search options. To sort the visito
 -   Country
 -   ID
 
-You also have a search box where you can choose to enter an **IP** or **Date** to search for specific visitor information. *\[Figure-2\]*
+You also have a search box where you can choose to enter an **IP** or **Date** to search for specific visitor information. *\[Figure-2a\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-visitors.png "Figure-2"){.coalaweb-docs}
+![Figure-2a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-visitors-1.png "Figure-2a"){.coalaweb-docs}
 
-**Pro** subscribers also get **Filter** options which can be used by clicking the **Search Tools** button at the top and include **Browser**, **Platform** and **Country** select lists. *\[Figure-2a\]*
+**Pro** subscribers also get **Filter** options which can be used by clicking the **Search Tools** button at the top and include **Browser**, **Platform** and **Country** select lists. *\[Figure-2b\]*
 
-![Figure-2a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-visitors-2.png "Figure-2a"){.coalaweb-docs}
+![Figure-2b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-visitors-2.png "Figure-2b"){.coalaweb-docs}
 
 ### <a name="ip-cats"></a>IP Categories
 
-To make it easier to organize your **Know IPs** you can create categories to associated them with. For example you could create a category called **Robots** and then add all the known robots in your **Knownips** list to this category. *\[Figure-3\]*
-
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-ip-cats.png "Figure-3"){.coalaweb-docs}
+
+To make it easier to organize your **Know IPs** you can create categories to associated them with. For example you could create a category called **Robots** and then add all the known robots in your **Knownips** list to this category. *\[Figure-3a\]*
+
+![Figure-3a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-ip-cats-1.png "Figure-3a"){.coalaweb-docs}
 
 ### <a name="knownips"></a>Known IPs
 
-The next section is the **Known IPs** section which contains some powerful tools for controlling what is counted by **Traffic**.  *\[Figure-4\]*.
+![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-knownips.png "Figure-4"){.coalaweb-docs}
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-knownips-1.png "Figure-4"){.coalaweb-docs}
+The next section is the **Known IPs** section which contains some powerful tools for controlling what is counted by **Traffic**.  *\[Figure-4a\]*.
+
+![Figure-4a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-knownips-1.png "Figure-4a"){.coalaweb-docs}
 
 ### <a name="ki-ips"></a>IP Formats
 
-When adding IPs to a Known IP entry you have several options, you can specify an 
-IP or IP range in the following formats:
+![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-knownips-2.png "Figure-3"){.coalaweb-docs}
+
+When adding IPs to a Known IP entry you have several options, you can specify an IP or IP range in the following formats:
 
 -   Single IP - 192.168.1.1
 -   Simple IP Range - 192.168.1.1-192.168.1.255
@@ -170,7 +177,7 @@ Now CoalaWeb Traffic will automatically add country and city information to your
 
 <div class="uk-alert">Note: Please be patient when <em>Uploading</em> and <em>Unzipping</em> the database it may take some time due to the size of the file.</div>
 
-#### <a name="geo-manual-core"></a>Manual Install Core
+#### <a name="geo-manual-core"></a>Manual Install
 
 If you re using the **Core** version of **Traffic** and you couldn't install the database the easy way no problem lets just do it the manual way by following these steps.
 
@@ -198,7 +205,7 @@ The database file should have 644 permissions. *\[Figure-5k\]*.
 
 Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
 
-#### <a name="geo-manual-pro"></a>Manual Install Pro
+#### <a name="geo-manual-pro"></a>Manual Install \[Pro\]
 
 If you re using the **Pro** version of **Traffic** and you  couldn't install the database the easy way no problem lets just do it the manual way by following these steps.
 
@@ -226,7 +233,7 @@ The database file should have 644 permissions. *\[Figure-5k-a\]*.
 
 Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
 
-### <a name="com-charts"></a>Charts
+### <a name="com-charts"></a>Charts \[Pro\]
 
 Pro subscribers also get access to a series of **Charts** which allow you to quickly see your visitor data grouped in the following ways.
 
@@ -304,6 +311,20 @@ After it has completed you get a confirmation message or an error message if it 
 
 ![Figure-33c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-optimize3.png "Figure-33c"){.coalaweb-docs}
 
+### <a name="com-robots"></a>Add Robots \[Pro\]
+
+![Figure-32a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-robots-1.png "Figure-32a"){.coalaweb-docs}
+
+The **Add Robots** button allows **Pro** subscribers to auto populate the **Known IP** list with a list of known **Robots** instantly stopping them from being counted. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
+
+![Figure-32b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-robots-2.png "Figure-32b"){.coalaweb-docs}
+
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
+
+![Figure-32c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-robots-3.png "Figure-32c"){.coalaweb-docs}
+
+<div class="uk-alert">The <em>Add Robots</em> system will compare the current list to what you have stored and add any new robots as needed so it's a good idea to run it after each update.</div>
+
 ### <a name="help"></a>Inbuilt Help
 
 In the control panel or the tool menu you have a help icon that when clicked will open a pop up wrapper of this specific guide. This gives you an easy way of checking the functionality of a particular item without leaving the control panel. *\[Figure-7\]*
@@ -312,43 +333,43 @@ In the control panel or the tool menu you have a help icon that when clicked wil
 
 ### <a name="options"></a>Extension Options
 
-In the control panel or the tool menu you have a **Options** icon that when
-clicked will open a series of extension options.
+![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options.png "Figure-8"){.coalaweb-docs}
 
+In the control panel or the tool menu you have a **Options** icon that when clicked will open a series of extension options.
 
 #### General Options
 
-The first option in this section is the **Locktime** this is the amount of time
-that must pass before a particular IP will be counted again. It is
-measured in minutes and 1440 (Full day) is the default. *\[Figure-8\]*
+The first option in this section is the **Locktime** this is the amount of time that must pass before a particular IP will be counted again. It is measured in minutes and 1440 (Full day) is the default. *\[Figure-8\]*
 
-The next option is **Week Start** which allows you to choose which day you want
-the calculations for the **Weeks** visitors to start from. This only affects the
-week count in the front end module and the back end statistics area of the 
-control panel. *\[Figure-8\]*
+The next option is **Week Start** which allows you to choose which day you want the calculations for the **Weeks** visitors to start from. This only affects the week count in the front end module and the back end statistics area of the control panel. *\[Figure-8\]*
 
-The last option in this section is the **Preset Counter** this number will be 
-added to the current **Total** so its good for when you move a site or to bump
-up the visitors. This only affects the total count in the front end module and 
-the back end statistics area of the control panel. *\[Figure-8\]*
+The last option in this section is the **Preset Counter** this number will be added to the current **Total** so its good for when you move a site or to bump up the visitors. This only affects the total count in the front end module and the back end statistics area of the control panel. *\[Figure-8a\]*
 
-![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-1.png "Figure-8"){.coalaweb-docs}
+![Figure-8a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-1.png "Figure-8a"){.coalaweb-docs}
+
+#### Storage \[Pro\]
+
+The first option in th is section is to turn on or off the storing of IPs in **Raw** format otherwise they will only be stored in an unreadable hash format. If you choose no for this option then in the visitors view **Not Stored Raw!** will be displayed in the IP column and every visitor recorded after that will not have its IP stored in raw format in the database. *\[Figure-8e\]*
+
+The second option is to turn on or off the storing of Geo location information. Even if you are not storing IPs in their raw format you can still have Geo information recorded as long as you have uploaded a Geo database. *\[Figure-8e\]*
+
+![Figure-8e](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-6.png "Figure-8e"){.coalaweb-docs}
+
+#### Robots \[Pro\]
+
+The option in this section will use Joomla's JApplicationWebClient class to block a few well known robots from being counted. This will only detects basic robots if you wish to block additional robots use the KnownIPs list. *\[Figure-8f\]*
+
+![Figure-8f](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-7.png "Figure-8f"){.coalaweb-docs}
 
 #### Cleanup
 
-In this section you can control the automatic clean up of the database to stop
-the tables filling up with data. I recommend having this set to on and the second
-option of how many **Records to Keep** will depend on your circumstances. *\[Figure-8a\]*
+In this section you can control the automatic clean up of the database to stop the tables filling up with data. I recommend having this set to on and the second option of how many **Records to Keep** will depend on your circumstances. *\[Figure-8b\]*
 
-![Figure-8a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-2.png "Figure-8a"){.coalaweb-docs}
+![Figure-8b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-2.png "Figure-8b"){.coalaweb-docs}
 
 #### Project Honeypot
 
-Project Honeypot is a collective effort to detect spammers, email harversters 
-and crackers. Its HTTP:BL service allows participants to query the IP addresses 
-of their visitors and figure out if it is a malicious user behind it. If you 
-enable this feature, CoalaWeb Traffic will check the IP address of each visitor 
-and, if it is a malicious user, it will not count them. *\[Figure-8b\]*
+Project Honeypot is a collective effort to detect spammers, email harversters and crackers. Its HTTP:BL service allows participants to query the IP addresses of their visitors and figure out if it is a malicious user behind it. If you enable this feature, CoalaWeb Traffic will check the IP address of each visitor and, if it is a malicious user, it will not count them. *\[Figure-8b\]*
 
 ![Figure-8b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-3.png "Figure-8b"){.coalaweb-docs}
 
@@ -360,59 +381,40 @@ and, if it is a malicious user, it will not count them. *\[Figure-8b\]*
 
 **API key**
 
--   Enter your HTTP:BL key. You can sign up for Project Honeypot and get your 
-key at http://www.projecthoneypot.org/httpbl_configure.php.
+-   Enter your HTTP:BL key. You can sign up for Project Honeypot and get your key at http://www.projecthoneypot.org/httpbl_configure.php.
 
 **Block suspicious**
 
--   Sometimes Project Honeypot is not sure if an IP belongs to a spammer or 
-someone who made a couple of bad decisions while surfing the web. In this case 
-the IP is marked as "suspicious". The default behaviour is to not block these IPs. 
+-   Sometimes Project Honeypot is not sure if an IP belongs to a spammer or someone who made a couple of bad decisions while surfing the web. In this case the IP is marked as "suspicious". The default behaviour is to not block these IPs. 
 
 **Block Search Engines**
 
--   If you don't want search engines being counted as visitors to your site you 
-can turn this on. This does not guarantee that all search engines won't be 
-counted but it's a good start. 
+-   If you don't want search engines being counted as visitors to your site you can turn this on. This does not guarantee that all search engines won't be counted but it's a good start. 
 
 **Minimum Threat (0-255, default 25)**
 
--   Project Honeypot uses a logarithmic "threat rating" to rank the possibility 
-of a specific IP being a spammer. This options defines the minimum threat level 
-an IP must have before it's blocked. A value of 25 means that this IP has 
-submitted 100 spam messages on Project Honeypot's spam catching honeypots and 
-is usually a safe indication that it belongs to a spammer. Do note that the 
-rating is logarithmic. A value of 50 means 1,000 spam messages and a value of 
-75 means one million spam messages. Do not set it to values over 50, as you 
-will most likely never block any spammer at all.
+-   Project Honeypot uses a logarithmic "threat rating" to rank the possibility of a specific IP being a spammer. This options defines the minimum threat level an IP must have before it's blocked. A value of 25 means that this IP has submitted 100 spam messages on Project Honeypot's spam catching honeypots and is usually a safe indication that it belongs to a spammer. Do note that the rating is logarithmic. A value of 50 means 1,000 spam messages and a value of 75 means one million spam messages. Do not set it to values over 50, as you will most likely never block any spammer at all.
 
 **Maximum Age**
 
--   Project Honeypot reports when was the last time this IP was caught sending 
-spam messages. The older this is (the higher the age is), the less likely is 
-that this IP is still used by a spammer. You can chose here what will be the 
-maximum reported age that will be blocked. The default value of 30 means that 
-IPs which have submitted a spam message in the last 30 days will be blocked.
+-   Project Honeypot reports when was the last time this IP was caught sending spam messages. The older this is (the higher the age is), the less likely is that this IP is still used by a spammer. You can chose here what will be the maximum reported age that will be blocked. The default value of 30 means that IPs which have submitted a spam message in the last 30 days will be blocked.
 
 #### Obsolete
 
-The options in this section are obsolete and have been included to allow users 
-an opportunity to transfer them to the new system. *\[Figure-8c\]*
+The options in this section are obsolete and have been included to allow users an opportunity to transfer them to the new system. *\[Figure-8c\]*
 
 ![Figure-8c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-4.png "Figure-8c"){.coalaweb-docs}
 
 #### Permissions
 
-Lastly you have the permissions used to control access to
-the CoalaWeb Traffic component. *\[Figure-8d\]*
+Lastly you have the permissions used to control access tothe CoalaWeb Traffic component. *\[Figure-8d\]*
 
 ![Figure-8d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-5.png "Figure-8d"){.coalaweb-docs}
 
 
 # <a name="module"></a>CoalaWeb Traffic Module
 
-The CoalaWeb Traffic module has a huge list of options so we have broken
-them up into several sections which are explained in detail below.
+The CoalaWeb Traffic module has a huge list of options so we have broken them up into several sections which are explained in detail below.
 
 <div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text.</div>
 
