@@ -463,15 +463,15 @@ The CoalaWeb Traffic module has a huge list of options so we have broken them up
 
 ### <a name="mod-general"></a>General Display Options
 
-To make it easy to explain I have broken this section up into two parts.
+<div class="uk-alert">To make it easy to explain I have broken this section up into two parts.</div>
 
-**Part 1 Digital Counter**
+#### Part 1 Digital Counter
 
 First you can choose if you want to display the digital counter section at all maybe you only want to display individual counters. Next you can choose how many digits you want to be displayed. The last option in this section is to choose a theme for your digital counter. *\[Figure-9\]*
 
 ![Figure-9](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-1.png "Figure-9"){.coalaweb-docs}
 
-**Part 2 Individual Counters**
+#### Part 2 Individual Counters
 
 First you can choose if you want to display the individual counters section at all maybe you only want to display a digital counter. The next option is to choose a theme, this will affect which icons are displayed along side the individual counters or you can choose to have no icons. The next option allows you to turn on or off a horizontal line at the bottom of the counter section.
 
@@ -499,15 +499,15 @@ separator that will display between items in both the horizontal and compact lay
 
 This section controls what information about the visitor will be displayed within the **Traffic** module. 
 
-To make it easier to explain I have broken this section into two parts.
+<div class="uk-alert">To make it easier to explain I have broken this section into two parts.</div>
 
-**Part 1**
+#### Part 1
 
 First you can choose if you want to display the visitor information section at all. Next are the **Title** configuration options, you can to choose to display one including the title text, it's format and it's alignment. The next option allows you to turn on or off a horizontal line at the bottom of the visitor section. *\[Figure-11\]*
 
 ![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-visitor-1.png "Figure-11"){.coalaweb-docs}
 
-**Part 2**
+#### Part 2
 
 In this section you have the option to turn on or off the following items as well as choosing their label text.  *\[Figure-11a\]*
 
