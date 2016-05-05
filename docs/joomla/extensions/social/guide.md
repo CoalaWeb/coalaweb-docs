@@ -570,7 +570,7 @@ Links component. *\[Figure-8\]*
 
 ![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/generic/coalaweb-permissions.png "Figure-8"){.coalaweb-docs}
 
-# <a name="module"></a>Social Links \[M\]
+## <a name="module"></a>Social Links \[M\]
 
 ### <a name="mod-general"></a>General Display Options
 
@@ -700,7 +700,7 @@ search engines not to follow a particular link. *\[Figure-12\]*
 
 ![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-advanced1.png "Figure-12"){.coalaweb-docs}
 
-# <a name="module-tabs"></a>Social Tabs \[M\] \[Pro\]
+## <a name="module-tabs"></a>Social Tabs \[M\] \[Pro\]
 
 ### <a name="mod-tabs-first"></a>First Thing
 
@@ -823,7 +823,7 @@ Next you have the option to assign a **Unique Module ID** to stop conflicts. You
 
 ![Figure-25d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-advanced1.png "Figure-25d"){.coalaweb-docs}
 
-# <a name="module-page"></a>Page \[M\]
+## <a name="module-page"></a>Page \[M\]
 
 <div class="uk-alert">Note: This module supersedes the depreciated CoalaWeb Likebox module.</div>
 
@@ -869,7 +869,7 @@ The Page module also has a few of what I consider **Advanced Options** such as t
 
 ![Figure-29c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-advanced.png "Figure-29c"){.coalaweb-docs}
 
-# <a name="module-gplus"></a>Google Plus \[M\]\[Pro\]
+## <a name="module-gplus"></a>Google Plus \[M\]\[Pro\]
 
 CoalaWeb G Plus is a social module that helps you link your Google+ page to your site. Get more recommendations for your site in Google search and grow your audience on Google+.
 
@@ -924,9 +924,9 @@ want. *\[Figure-18c\]*
 
 ![Figure-18c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-advanced1.png "Figure-18c"){.coalaweb-docs}
 
-# <a name="plg"></a>Plugins
+## <a name="plg"></a>Plugins
 
-## <a name="plg-content"></a>Social Likes \[Pc\]\[Pro\]
+### <a name="plg-content"></a>Social Likes \[Pc\]\[Pro\]
 
 The **CoalaWeb Social Likes** plugin is a content plugin designed to
 display all of the popular social networking vote buttons in several
@@ -939,7 +939,7 @@ you have selected the appropriate configuration options. *\[Figure-19\]*
 
 ![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-content.png "Figure-19"){.coalaweb-docs}
 
-## <a name="plg-share"></a>Social Share \[Pc\]\[Pro\]
+### <a name="plg-share"></a>Social Share \[Pc\]\[Pro\]
 
 The **CoalaWeb Social Share** plugin is a content plugin designed to display all of the popular social networking share buttons with several icon themes and locations within your **Joomla** and **K2 content**.
 
@@ -947,7 +947,7 @@ All of the configuration options for this particular plugin can be found in the 
 
 ![Figure-19a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-share.png "Figure-19a"){.coalaweb-docs}
 
-## <a name="plg-panel"></a>Social Panel \[Pc\]\[Pro\]
+### <a name="plg-panel"></a>Social Panel \[Pc\]\[Pro\]
 
 <div class="uk-alert">Social Panel needs jQuery to function correctly. If you don't already have it loaded use the System - <em>CW Gears</em> plugin.</div>
 
@@ -963,7 +963,7 @@ you have selected the appropriate configuration options. *\[Figure-20\]*
 
 ![Figure-20](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-panel.png "Figure-20"){.coalaweb-docs}
 
-## <a name="plg-og"></a>Open Graph \[Pc\]\[Pro\]
+### <a name="plg-og"></a>Open Graph \[Pc\]\[Pro\]
 
 The **CoalaWeb Metadata** system will help generate meta data in the **Open Graph**, **Twitter Card** and **Schema.org** formats and then place it in the head of your web pages. This information will then be used by elements such as the Facebook, Twitter and Google + vote and share buttons to get the best representation of the content being shared or voted on.
 
@@ -1064,7 +1064,7 @@ The CoalaWeb Metadata system dynamically populates a series of JSON-LD \[JavaScr
 
 ![Figure-21c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-schema.png "Figure-21c"){.coalaweb-docs}
 
-## <a name="plg-mf"></a>Meta Fields \[Pc\]\[Pro & J3.+\]
+### <a name="plg-mf"></a>Meta Fields \[Pc\]\[Pro & J3.+\]
 
 The **CoalaWeb Meta Fields** content plugin helps add **Open Graph** and **Twitter** meta information to your Joomla content while using the **Article** and or **Category** editors.
 
@@ -1116,7 +1116,7 @@ This plugin has been specifically designed to load the Facebook JavaScript libra
 
 ![Figure-21b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-fbjs.png "Figure-21b"){.coalaweb-docs}
 
-## <a name="plg-zoo"></a>Zoo Elements \[Ps\]\[Pro\]
+### <a name="plg-zoo"></a>Zoo Elements \[Ps\]\[Pro\]
 
 The **CoalaWeb Zoo** plugin is a system plugin designed to integrate **custom elements & layouts** into your Zoo applications. Currently there are two custom elements created by this plugin and they are explained in detail below.
 

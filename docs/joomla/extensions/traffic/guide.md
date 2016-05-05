@@ -448,7 +448,7 @@ Lastly you have the permissions used to control access tothe CoalaWeb Traffic co
 
 ![Figure-8d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-5.png "Figure-8d"){.coalaweb-docs}
 
-# <a name="module"></a>CoalaWeb Traffic Module
+## <a name="module"></a>CoalaWeb Traffic \[M\]
 
 The CoalaWeb Traffic module has a huge list of options so we have broken them up into several sections which are explained in detail below.
 
@@ -525,11 +525,128 @@ The CoalaWeb Traffic module also has a few of what I consider **Advanced Options
 
 ![Figure-13](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-advanced-1.png "Figure-13"){.coalaweb-docs}
 
-# <a name="plg"></a>Plugins
+## <a name="module"></a>CoalaWeb Traffic Pro \[M\]
+
+The CoalaWeb Traffic Pro module has a huge list of options so we have broken them up into several sections which are explained in detail below.
+
+![Figure-18](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-pro-module-small.png "Figure-18"){.coalaweb-docs}
+
+<div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text or create a separate module for each language.</div>
+
+### <a name="mod-pro-general"></a>General Options
+
+This section controls the outer container style and title plus the digital counter options. 
+
+<div class="uk-alert">To make it easier to explain I have broken this section into two parts.</div>
+
+#### Part 1
+
+The first option in this section is the choice of **Panel** style for the outer container the holds the other sections of the module. The next part is a series of options to control the style and layout of the main container title which includes whether to display it, it's format, alignment and which icon to use next to it. *\[Figure-18a\]*
+
+![Figure-18a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-general-1.png "Figure-18a"){.coalaweb-docs}
+
+#### Part 2
+
+Part 2 of this section cover the display and style of the **Digital** counter. It can be turned on or off as well as the amount of digits to display and its size. There are also four style options to choose from and the size of the margin below can also be selected. *\[Figure-18b\]*
+
+![Figure-18b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-general-2.png "Figure-18b"){.coalaweb-docs}
+
+### <a name="mod-pro-layout"></a>Layout Options
+
+This section controls the layout of the different sections of the module and how they are displayed on a variety of screen sizes.
+
+<div class="uk-alert">Width Guide: Desktop = 960px, Tablet = 768px and Mobile = 480px</div>
+
+The three inner sections of the module can be displayed along side each other depending on avaliable screen size or in one column. These setting will be the default but the module being fully responsive will adapt to the current screen size and changes made to it. *\[Figure-18c\]*
+
+![Figure-18c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-layout-1.png "Figure-18c"){.coalaweb-docs}
+
+### <a name="mod-pro-traffic"></a>Traffic Options
+
+This section controls the inner **Traffic** section which contains the individual counters.
+
+<div class="uk-alert">To make it easier to explain I have broken this section into two parts.</div>
+
+#### Part 1
+
+The first series of option in this section control the look and feel of the **Traffic** container which includes it's display and panel style. It also has a series of option to change the style and layout of the **Title** displayed at the top of the panel including it's icon. *\[Figure-18d\]*
+
+![Figure-18d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18d"){.coalaweb-docs}
+
+#### Part 2
+
+The next series of options control the alignment and layout of the individual counters. They included the alignment of the counters, their overall size and the width of the three parts that make up each counter. The first part of a counter is the **Icon** then the **Text** and lastly the **Counter**. You can adjust these widths to suit their content and your avaliable space. *\[Figure-18e\]*
+
+![Figure-18e](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-2.png "Figure-18e"){.coalaweb-docs}
+
+Next are the individual counter options which allow you to turn them on or off, their text, style and lastly which icon to display with the counter. *\[Figure-18f\]*
+
+![Figure-18f](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-3.png "Figure-18f"){.coalaweb-docs}
+
+### <a name="mod-pro-visitor"></a>Visitor Options
+
+This section controls the inner **Visitors** section which contains the current visitor information.
+
+<div class="uk-alert">To make it easier to explain I have broken this section into two parts.</div>
+
+#### Part 1
+
+The first series of option in this section control the look and feel of the **Visitors** container which includes it's display and panel style. It also has a series of option to change the style and layout of the **Title** displayed at the top of the panel including it's icon. *\[Figure-18g\]*
+
+![Figure-18g](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18g"){.coalaweb-docs}
+
+#### Part 2
+
+The next series of options control the alignment and layout of the individual counters. They included the alignment of the counters, their overall size and the width of the three parts that make up each counter. The first part of a counter is the **Icon** then the **Text** and lastly the **Counter**. You can adjust these widths to suit their content and your avaliable space. *\[Figure-18h\]*
+
+![Figure-18h](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-2.png "Figure-18h"){.coalaweb-docs}
+
+Next are the individual counter options which allow you to turn them on or off, their text, style, which icon to display with the counter and for the date counter the date format. *\[Figure-18i\]*
+
+![Figure-18i](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-visitor-1.png "Figure-18i"){.coalaweb-docs}
+
+
+### <a name="mod-pro-who"></a>Who is Online Options
+
+This section controls the inner **Who Is Online** section which contains the current who is online information.
+
+<div class="uk-alert">To make it easier to explain I have broken this section into four parts.</div>
+
+#### Part 1
+
+The first series of option in this section control the look and feel of the **Who Is Online** container which includes it's display and panel style. It also has a series of option to change the style and layout of the **Title** displayed at the top of the panel including it's icon. *\[Figure-18j\]*
+
+![Figure-18j](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18j"){.coalaweb-docs}
+
+#### Part 2
+
+The next series of options control the alignment and size of the who is online counter. *\[Figure-18k\]*
+
+![Figure-18k](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-1.png "Figure-18k"){.coalaweb-docs}
+
+#### Part 3
+
+Next are the **Who Is Online** counter options which allow you to turn it on or off, it's text, style and lastly which icon to display with the counter.  *\[Figure-18l\]*
+
+![Figure-18l](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-2.png "Figure-18l"){.coalaweb-docs}
+
+#### Part 4
+
+Next are the **Flag** options which allow you to turn them on or off, their alignment and the section's related title option. *\[Figure-18m\]*
+
+![Figure-18m](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-3.png "Figure-18m"){.coalaweb-docs}
+
+### <a name="mod-pro-advanced"></a>Advanced Options
+
+The CoalaWeb Traffic Pro module also has a few of what I consider **Advanced Options** such as which **UIkit prefix** to use, by default it is set to **CW** but if you are using a **YooTheme** template you may want to change it to **UK**. You can also assign a **Module Class Suffix** or whether to use **Cache** including the **Cache Time** in this section. *\[Figure-18n\]*
+
+![Figure-18n](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-advanced-1.png "Figure-18n"){.coalaweb-docs}
+
+## <a name="plg"></a>Plugins
 
 There are several plugins crucial to the proper functioning of the CoalaWeb Traffic system. They are explain in detail below.
 
-## <a name="plg-count"></a>System Plugin - Count
+### <a name="plg-count"></a>System Plugin - Count
 
 This plugin is crucial to functionality of the system it quietly counts the visits to your site and then records them in the database. It allows you to count the traffic to your site even with the module unpublished and also ensures all traffic is record regardless of the part of the site that they visit.
 
@@ -539,7 +656,7 @@ This plugin also takes care of blocking visitors from being counted based on you
 
 ![Figure-15](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-count.png "Figure-15"){.coalaweb-docs}
 
-## <a name="plg-clean"></a>System Plugin - Clean
+### <a name="plg-clean"></a>System Plugin - Clean
 
 This plugin carries out the automatic database clean up but only if you have it turned on in the **Component Options**. It will run in the
 background keeping the current data but delete out the old entries and add them to a running total. It is recommended to turn this feature
@@ -549,7 +666,7 @@ on.   *\[Figure-16\]*
 
 ![Figure-16](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-clean.png "Figure-16"){.coalaweb-docs}
 
-## <a name="plg-online"></a>System Plugin - Online
+### <a name="plg-online"></a>System Plugin - Online
 
 This plugin will check who is online, record it to a cookie and to the database and lastly supply the information to the **Traffic** modules so they can display the currently online visitors. *\[Figure-17\]*
 
