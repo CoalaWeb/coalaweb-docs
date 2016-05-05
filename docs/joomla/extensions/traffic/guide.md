@@ -34,11 +34,18 @@
     -   [Visitor](#mod-visitor)
     -   [Who is Online](#mod-who)
     -   [Advanced](#mod-advanced)
-4.  [Plugins](#plg)
+4.  [Traffic Pro \[M\]](#module)
+    -   [General](#mod-pro-general)
+    -   [Layout](#mod-pro-layout)
+    -   [Traffic](#mod-pro-traffic)
+    -   [Visitor](#mod-pro-visitor)
+    -   [Who is Online](#mod-pro-who)
+    -   [Advanced](#mod-pro-advanced)
+5.  [Plugins](#plg)
     -   [System Plugin - Count](#plg-count)
     -   [System Plugin - Clean](#plg-clean)
     -   [System Plugin - Online](#plg-online)
-5.  [Need More Help?](#more-help)
+6.  [Need More Help?](#more-help)
 
 ## <a class="doc-top"  name="overview"></a>Overview
 
@@ -644,7 +651,7 @@ The CoalaWeb Traffic Pro module also has a few of what I consider **Advanced Opt
 
 ## <a name="plg"></a>Plugins
 
-There are several plugins crucial to the proper functioning of the CoalaWeb Traffic system. They are explain in detail below.
+<div class="uk-alert">There are several plugins crucial to the proper functioning of the CoalaWeb Traffic system. They are explain in detail below.</div>
 
 ### <a name="plg-count"></a>System Plugin - Count
 
