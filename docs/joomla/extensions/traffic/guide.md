@@ -546,15 +546,15 @@ This section controls the outer container style and title plus the digital count
 
 <div class="uk-alert">To make it easier to explain I have broken this section into two parts.</div>
 
-#### Part 1
+#### Part 1 Container
 
 The first option in this section is the choice of **Panel** style for the outer container the holds the other sections of the module. The next part is a series of options to control the style and layout of the main container title which includes whether to display it, it's format, alignment and which icon to use next to it. *\[Figure-18a\]*
 
 ![Figure-18a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-general-1.png "Figure-18a"){.coalaweb-docs}
 
-#### Part 2
+#### Part 2 Digital Counter
 
-Part 2 of this section cover the display and style of the **Digital** counter. It can be turned on or off as well as the amount of digits to display and its size. There are also four style options to choose from and the size of the margin below can also be selected. *\[Figure-18b\]*
+This section cover the display and style of the **Digital** counter. It can be turned on or off as well as the amount of digits to display and its size. There are also four style options to choose from and the size of the margin below can also be selected. *\[Figure-18b\]*
 
 ![Figure-18b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-general-2.png "Figure-18b"){.coalaweb-docs}
 
@@ -574,13 +574,13 @@ This section controls the inner **Traffic** section which contains the individua
 
 <div class="uk-alert">To make it easier to explain I have broken this section into two parts.</div>
 
-#### Part 1
+#### Part 1 General
 
 The first series of option in this section control the look and feel of the **Traffic** container which includes it's display and panel style. It also has a series of option to change the style and layout of the **Title** displayed at the top of the panel including it's icon. *\[Figure-18d\]*
 
 ![Figure-18d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18d"){.coalaweb-docs}
 
-#### Part 2
+#### Part 2 Counters
 
 The next series of options control the alignment and layout of the individual counters. They included the alignment of the counters, their overall size and the width of the three parts that make up each counter. The first part of a counter is the **Icon** then the **Text** and lastly the **Counter**. You can adjust these widths to suit their content and your avaliable space. *\[Figure-18e\]*
 
@@ -596,13 +596,13 @@ This section controls the inner **Visitors** section which contains the current 
 
 <div class="uk-alert">To make it easier to explain I have broken this section into two parts.</div>
 
-#### Part 1
+#### Part 1 General
 
 The first series of option in this section control the look and feel of the **Visitors** container which includes it's display and panel style. It also has a series of option to change the style and layout of the **Title** displayed at the top of the panel including it's icon. *\[Figure-18g\]*
 
 ![Figure-18g](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18g"){.coalaweb-docs}
 
-#### Part 2
+#### Part 2 Counters
 
 The next series of options control the alignment and layout of the individual counters. They included the alignment of the counters, their overall size and the width of the three parts that make up each counter. The first part of a counter is the **Icon** then the **Text** and lastly the **Counter**. You can adjust these widths to suit their content and your avaliable space. *\[Figure-18h\]*
 
@@ -619,25 +619,25 @@ This section controls the inner **Who Is Online** section which contains the cur
 
 <div class="uk-alert">To make it easier to explain I have broken this section into four parts.</div>
 
-#### Part 1
+#### Part 1 General
 
 The first series of option in this section control the look and feel of the **Who Is Online** container which includes it's display and panel style. It also has a series of option to change the style and layout of the **Title** displayed at the top of the panel including it's icon. *\[Figure-18j\]*
 
 ![Figure-18j](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18j"){.coalaweb-docs}
 
-#### Part 2
+#### Part 2 Counters
 
 The next series of options control the alignment and size of the who is online counter. *\[Figure-18k\]*
 
 ![Figure-18k](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-1.png "Figure-18k"){.coalaweb-docs}
 
-#### Part 3
+#### Part 3 Who Is Online
 
 Next are the **Who Is Online** counter options which allow you to turn it on or off, it's text, style and lastly which icon to display with the counter.  *\[Figure-18l\]*
 
 ![Figure-18l](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-2.png "Figure-18l"){.coalaweb-docs}
 
-#### Part 4
+#### Part 4 Flags
 
 Next are the **Flag** options which allow you to turn them on or off, their alignment and the section's related title option. *\[Figure-18m\]*
 
