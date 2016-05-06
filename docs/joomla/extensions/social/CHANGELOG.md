@@ -1,5 +1,21 @@
 ##Change Log
 
+### Version 0.2.9 May 2016
+
+#### Component - Social Links
+- **(C)** Changed JArrayHelper for ArrayHelper
+- **(C)** Fixed undefined index when no HTTP_USER_AGENT
+- **(C)** Code improvements
+
+#### Plugin(S) - Share Count \[Pro\]
+- **(C)** Changed JArrayHelper for ArrayHelper
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(B)** Bug fix for JResponse
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(C)** Added default in switch
+
 ### Version 0.2.8 April 2016
 
 #### Component - Social Links

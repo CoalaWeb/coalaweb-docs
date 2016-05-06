@@ -1,5 +1,11 @@
 ## Change Log
 
+### Version 1.0.4 May 2016
+- **(C)** Changed JError to JLog for install script notices
+- **(A)** Option to always display Read More buttons
+- **(A)** Text input option for More From label
+- **(A)** Text input option for Links section heading
+
 ### Version 1.0.3 April 2016
 
 #### Module - News
