@@ -3,6 +3,7 @@
 2.  [Component](#component)
 3.  [Modules](#modules)
     -   [Traffic](#mod-traffic)
+    -   [Traffic Pro](#mod-traffic-pro)
 4.  [Plugins](#plugins)
     -   [System - Traffic Count](#plg-count)
     -   [System - Traffic Clean](#plg-clean)
@@ -11,13 +12,13 @@
 
 ## <a class="doc-top"  name="overview"></a>Overview
 
-**CoalaWeb Traffic** is a Joomla 2.5 & 3.+ extension to help you keep track of the visitors to your site. You can choose to display the module and let visitors see and be amazed by your traffic or unpublish the module and view your website statistics in the **Admin** area its up to you.
+**CoalaWeb Traffic** is a Joomla extension designed to keep track of the visitors to your site. You can choose to display the modules and let visitors see and be amazed by your traffic or unpublish the module and view your website statistics in the **Admin** area.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
 ## <a name="component"></a>Component
 
-The Component makes setting up the system plugins a breeze as well as seeing in depth visitor information, Geo location options, export reports and much more. *\[Figure-1\]*
+The Component makes setting up the system plugins a breeze as well as seeing in depth visitor information, Geo location options, export reports, Charts \[Pro\] and much more. *\[Figure-1\]*
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-component.png "Figure-1"){.coalaweb-docs}
 
@@ -28,6 +29,12 @@ The Component makes setting up the system plugins a breeze as well as seeing in 
 The Module gives you the option to display your websites traffic to other visitors with a tonne of configuration options to help integrate it into your website. *\[Figure-2\]*
 
 ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-module.png "Figure-2"){.coalaweb-docs}
+
+### <a name="mod-traffic-pro"></a>Traffic Pro
+
+This module displays the recorded visitors to your site, current visitor information such as browser and operating system plus who is online. The content of the module is fully responsive and it comes packed with style and layout options to make it as flexible as possible. *\[Figure-7\]*
+
+![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/system-parts/traffic-pro-module.png "Figure-7"){.coalaweb-docs}
 
 ## <a name="plugins"></a>Plugins
 

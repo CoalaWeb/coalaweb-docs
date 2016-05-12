@@ -1,5 +1,86 @@
 ## Change Log
 
+### Version 1.0.0 May 2016
+
+#### Component - Traffic
+- **(B)** Fix missing column error when filtering visitors
+- **(B)** Check definitions in geoip.inc
+- **(C)** Changed mb_substr for JString::substr
+- **(C)** Added graceful message for if helper files are missing
+- **(C)** Updated copyright date to 2016
+- **(C)** New styling for Tabs, Tables and Control Panel
+- **(C)** Using JApplicationWebClient for Browser/Platform and User Agent info
+- **(C)** Changed JError to JLog for install script notices
+- **(C)** Rewritten control panel and geo updates
+- **(C)** Complete code clean up and improvements
+- **(C)** Changed JArrayHelper for ArrayHelper
+- **(R)** Removed Joomla 2.5 support
+- **(R)** Removed old Browser/Platform class
+- **(R)** Removed obsolete options
+- **(R)** Removed filter CSV export option
+- **(R)** Removed old system transfer code from install scripts
+- **(A)** Catching DB errors
+- **(A)** New charts system (Pro)
+- **(A)** Incorporated Geo V2 (Pro)
+- **(A)** Simple bot blocking using JApplicationWebClient (Pro)
+- **(A)** New purge database option
+- **(A)** New repair and optimize database option (Pro)
+- **(A)** New import robots list (Pro)
+- **(A)** New option to not store IP in raw format (Pro)
+- **(A)** New store location option (Pro)
+- **(A)** New Detect class for interpreting Browser and Platform names
+- **(L)** Rewritten control panel and GEO updates
+- **(L)** New and updated language strings
+- **(L)** Fixed missing language strings
+
+#### Module - Traffic
+- **(C)** Updated copyright date to 2016
+- **(C)** Added graceful message for if helper files are missing
+- **(C)** Using JApplicationWebClient for Browser/Platform and User Agent info
+- **(R)** Removed Joomla 2.5 support
+- **(R)** Removed author support links
+- **(R)** Removed old Browser/Platform class
+- **(A)** Incorporated Geo V2 (Pro)
+- **(A)** Option to turn off Core CSS (Pro)
+- **(A)** Option to included custom CSS file (Pro)
+- **(L)** New and updated language strings
+
+#### Module - Traffic Pro
+- **(N)** Integrated into the CoalaWeb Traffic extension
+
+#### Plugin(S) - Traffic Count
+- **(B)** Fixed undefined index when no HTTP_USER_AGENT 
+- **(C)** Using $db->execute(); for Joomla 3.+
+- **(C)** Added graceful message for if helper files are missing
+- **(C)** Using JApplicationWebClient for Browser/Platform and User Agent info
+- **(C)** Using CoalaWebBot class for basic identification (Pro)
+- **(C)** Integrated new IP stored as hash
+- **(C)** Stores GEO data while saving visitor info
+- **(C)** Updated copyright date to 2016
+- **(R)** Removed Joomla 2.5 support
+- **(R)** Removed old Browser/Platform class
+- **(A)** Catching DB errors
+- **(A)** Incorporated Geo V2 (Pro)
+
+#### Plugin(S) - Traffic Online
+- **(B)** Fixed undefined index when no HTTP_USER_AGENT
+- **(C)** Added graceful message for if helper files are missing
+- **(C)** Using JApplicationWebClient for Browser/Platform/Bot and User Agent info
+- **(C)** Updated copyright date to 2016
+- **(R)** Removed Joomla 2.5 support
+- **(R)** Removed old Browser/Platform class
+- **(A)** Catching DB errors
+- **(A)** Incorporated Geo V2 (Pro)
+
+#### Plugin(S) - Traffic Clean
+- **(C)** Updated copyright date to 2016
+- **(C)** Only executed on front end
+- **(R)** Removed Joomla 2.5 support
+- **(A)** Catching DB errors
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.2
+
 ### Version 0.1.9 February 2015
 
 #### Component - Traffic
@@ -22,6 +103,9 @@
 - **(L)** Added new language strings.
 - **(L)** Updated some language strings.
 - **(C)** Change Browser class name to stop potential conflicts.
+
+#### Module - Traffic Pro \[Pro\]
+- **(N)** Integrated into CoalaWeb Traffic extension.
 
 #### Plugin(S) - Traffic Count
 - **(B)** Fixed honey pot blocking bug.
