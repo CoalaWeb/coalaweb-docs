@@ -1,5 +1,10 @@
 ##Change Log
 
+### Version 1.0.4 May 2016
+
+#### Plugin(S) - Facebook JS
+- **(C)** Improved extension checks before use
+
 ### Version 1.0.3 May 2016
 
 #### Plugin(S) - Facebook JS
