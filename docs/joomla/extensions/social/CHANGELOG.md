@@ -1,5 +1,47 @@
 ##Change Log
 
+### Version 0.3.0 May 2016
+
+#### Component - Social Links
+- **(C)** Install script removes any obsolete installer plugins
+- **(A)** Added hints to some form fields
+- **(A)** External image option for meta tag default \[Pro\]
+- **(A)** External image option for meta tag fallback \[Pro\]
+- **(A)** CDN options for meta tag images \[Pro\]
+- **(L)** New and updated language strings
+
+#### Module - Social Links
+- **(A)** Added hints to some form fields
+
+#### Module - Social Tabs
+- **(A)** Added hints to some form fields
+
+#### Module - Page
+- **(A)** Added widget alignment option
+- **(A)** Added hints to some form fields
+- **(L)** New and updated language strings
+
+#### Module - Gplus [\Pro\]
+- **(A)** Added hints to some form fields
+- **(L)** New and updated language strings
+- **(R)** Removed unneeded form field
+
+#### Plugin(C) - Social Share\[Pro\]
+- **(B)** WhatsApp bug on none UIkit buttons
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(A)** External image option for meta tag default
+- **(A)** External image option for meta tag fallback
+- **(A)** CDN options for meta tag images
+
+#### Plugin(S) - Meta Menu \[Pro\]
+- **(A)** External image option for meta tag default
+- **(A)** External image option for meta tag fallback
+- **(A)** CDN options for meta tag images
+
+#### Plugin(S) - Facebook JS
+- **(C)** Updated to version 1.0.4
+
 ### Version 0.2.9 May 2016
 
 #### Component - Social Links
