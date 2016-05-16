@@ -21,12 +21,12 @@
 - **(A)** Added hints to some form fields
 - **(L)** New and updated language strings
 
-#### Module - Gplus [\Pro\]
+#### Module - Gplus \[Pro\]
 - **(A)** Added hints to some form fields
 - **(L)** New and updated language strings
 - **(R)** Removed unneeded form field
 
-#### Plugin(C) - Social Share\[Pro\]
+#### Plugin(C) - Social Share \[Pro\]
 - **(B)** WhatsApp bug on none UIkit buttons
 
 #### Plugin(C) - Open Graph \[Pro\]
