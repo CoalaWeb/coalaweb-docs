@@ -1,5 +1,34 @@
 ##Change Log
 
+### Version 0.3.1 May 2016
+
+#### Component - Social Links
+- **(A)** New option to use menu editor for Featured meta tags
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Meta Menu \[Pro\]
+- **(A)** New option to use menu editor for Featured meta tags
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(A)** New option to use menu editor for Featured meta tags
+
+#### Plugin(C) - Social Likes\[Pro\]
+- **(C)** Code improvements
+- **(C)** CSS improvements
+- **(R)** Removed unneeded Twitter count code
+
+#### Plugin(C) - Social Panel\[Pro\]
+- **(C)** Code improvements
+- **(C)** CSS improvements
+- **(R)** Removed unneeded Twitter count code
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Code improvements
+- **(C)** CSS improvements
+- **(C)** Removed obsolete mail count button and added new UIkit based version
+- **(A)** Added dependency check
+- **(R)** Removed unneeded Twitter count code
+
 ### Version 0.3.0 May 2016
 
 #### Component - Social Links
