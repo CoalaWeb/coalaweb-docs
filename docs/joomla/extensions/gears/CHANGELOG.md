@@ -1,5 +1,16 @@
 ##Change Log
 
+### Version 0.2.3 June 2016
+- **(C)** Changed JError to JLog for install script notices
+- **(C)** Added Try and Catch on queries
+- **(C)** Improved K2 category field code
+- **(C)** Updated Mobile Detect to version 2.8.22
+- **(C)** Changed Options Control Panel icon
+- **(C)** Added buttons to component V2 CSS
+- **(C)** Version field now checks and compares current to latest release
+- **(A)** New Tools Control Panel icon
+- **(A)** New latest version helper class
+
 ### Version 0.2.2 April 2016
 - **(C)** Updated Mobile Detect to version 2.8.20
 - **(C)** Removed unneeded CSS from UIkit that could cause conflicts
