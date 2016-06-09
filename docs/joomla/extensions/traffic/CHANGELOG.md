@@ -1,5 +1,28 @@
 ## Change Log
 
+### Version 1.0.1 June 2016
+
+#### Component - Traffic
+- **(B)** Fix untranslated strings in Visitor view
+- **(C)** Control panel statistics code improvements
+- **(C)** Code improvements in Visitor view
+- **(C)** GEO upload and unzip merged into one step
+- **(C)** GEO install attempts to temporarily increase PHP limits while installing 
+- **(C)** GEO install layout improvement
+- **(C)** Improved error checking when using the GEO database
+- **(C)** Purge now uses truncate to re-index after deletion
+- **(A)** GEO one click update cpanel button \[Pro\]
+- **(A)** New manage view
+- **(A)** New database backup option \[Pro\]
+- **(A)** New database restore option \[Pro\]
+- **(A)** Release information displays latest release
+
+#### Admin Module - Traffic Stats \[Pro\]
+- **(N)** Integrated into the CoalaWeb Traffic extension
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.3
+
 ### Version 1.0.0 May 2016
 
 #### Component - Traffic
