@@ -1,5 +1,13 @@
 ## Change Log
 
+### Version 1.0.5 June 2016
+- **(A)** Option to strip out HTML from articles
+- **(A)** Article HTML cleaned by PHP Tidy
+- **(L)** New language strings.
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.4
+
 ### Version 1.0.4 May 2016
 - **(C)** Changed JError to JLog for install script notices
 - **(A)** Option to always display Read More buttons

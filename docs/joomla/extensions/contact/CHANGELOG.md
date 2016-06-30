@@ -1,5 +1,42 @@
 ## Change Log
 
+### Version 1.0.7 June 2016
+
+#### Component - Contact
+- **(C)** Changed JError to JLog for install script notices
+- **(C)** Changed JArrayHelper for ArrayHelper
+- **(C)** Code improvements
+- **(C)** 2 new database columns
+- **(A)** Send thank you email option \[Pro\]
+- **(A)** New custom field location option \[Pro\]
+- **(A)** Custom fields can be used with plugin \[Pro\]
+- **(L)** Updated language strings
+
+#### Module - Contact
+- **(C)** Improved subject display in emails
+- **(C)** Code improvements
+- **(A)** Send thank you email option \[Pro\]
+- **(A)** New custom field location option \[Pro\]
+- **(L)** Updated language strings
+
+#### Module - Contact Tab \[Pro\]
+- **(C)** Improved subject display in emails
+- **(C)** Code improvements
+- **(A)** Send thank you email option
+- **(A)** New custom field location option
+- **(L)** Updated language strings
+
+#### Plugin(C) - Contact \[Pro\]
+- **(C)** Improved subject display in emails
+- **(A)** Send thank you email option
+- **(A)** Incorporated unlimited custom fields system
+
+#### Plugin(S) - CW Mail Check
+- **(C)** Updated depreciated JRequest
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.4
+
 ### Version 1.0.6 April 2016
 
 #### Component - Contact
