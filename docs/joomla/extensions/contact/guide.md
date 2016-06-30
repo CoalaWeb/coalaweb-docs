@@ -132,7 +132,7 @@ In the control panel or the tool menu you have an options icon that when clicked
 
 The first thing you will need to do is decide if you want the forms to be sent to one address or for **Pro** subscribers give the user the option to select from a list of options.
 
-<div class="uk-alert">You will need to setup at least one **Recipient Email** or the system will display an error message.</div>
+<div class="uk-alert">You will need to setup at least one <em>Recipient Email</em> or the system will display an error message.</div>
 
 If you have select **Single** then all you have to do is enter the email address that you want your forms to be sent to. *\[Figure-3a\]*
 
