@@ -234,7 +234,7 @@ In this section you have the ability to turn on or off a variety of article deta
 
 ### <a name="mod-advanced"></a>Advanced Options
 
-The CoalaWeb News module also has a few of what I consider **Advanced Options** such as the UIkit prefix option for when you are using a YooTheme template you can set it to **UK** otherwise I recommend leaving it with the default **CW**. In this section you can also choose to not have HTML striped out of the articles text as well as the option to assign a **Module Class Suffix** and choose whether to use **Cache** including the **Cache Time**. 
+The CoalaWeb News module also has a few of what I consider **Advanced Options** such as the UIkit prefix option for when you are using a YooTheme template you can set it to **UK** otherwise I recommend leaving it with the default **CW**. In this section you can also choose to not have **HTML stripped** out of the articles text as well as the option to assign a **Module Class Suffix** and choose whether to use **Cache** including the **Cache Time**. 
 
 <div class="uk-alert">If you have chosen to leave HTML in your articles you will need to have PHP Tidy installed to ensure it's correct functionality.</div>
 
