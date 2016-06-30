@@ -72,9 +72,13 @@ Now you can choose if you want the field to be **Required** or not. Next you can
 
 ![Figure-27b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/com-custom3.png "Figure-27b"){.coalaweb-docs}
 
-The next tab is **Assignments** which is where you can assign your new field to one, all or none of the currently avaliable CoalaWeb Contact and Tab modules based on their ID's. *\[Figure-27c\]*
+The next tab is **Assignments** which is where you can assign your new field to your contact modules and plugins. You can assign it to one, all or none of the currently avaliable CoalaWeb Contact and Tab modules by using the select list. You can also assign it to the CoalaWeb Contact plugin based on a plugin instance ID by adding adding the IDs separated by a comma or to have it included with all the plugin instances just add an ***** *\[Figure-27c\]*
 
 ![Figure-27c](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/com-custom4.png "Figure-27c"){.coalaweb-docs}
+
+Next is the **Email** tab which allows you can choose where the custom field will display in the email once it has been sent. It can display at the end of the **Sent By** or **Request** sections of the email. *\[Figure-27k\]*
+
+![Figure-27k](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/com-custom12.png "Figure-27k"){.coalaweb-docs}
 
 The last tab is the **Publishing** tab which contains information such as the **Modified Date** and who it was **Modified By** and the fields **ID**. *\[Figure-27d\]*
 
@@ -320,7 +324,7 @@ The last tab contains the permission settings for the CoalaWeb Contact component
 
 ![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-permissions.png "Figure-12"){.coalaweb-docs}
 
-# <a name="module"></a>Contact Module
+## <a name="module"></a>Contact Module
 
 ![Module-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-contact.png "Contact Module-Demo"){.coalaweb-docs}
 
@@ -452,7 +456,7 @@ In this section you can find out information about the currently installed exten
 
 ![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-mod-config-r-info.png "Figure-19"){.coalaweb-docs}
 
-# <a name="tab"></a>Contact Tab Module \[Pro\]
+## <a name="tab"></a>Contact Tab Module \[Pro\]
 
 ![Module-Demo](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-tab.png "Contact Tab Module Demo"){.coalaweb-docs}
 
