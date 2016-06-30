@@ -72,7 +72,7 @@ Now you can choose if you want the field to be **Required** or not. Next you can
 
 ![Figure-27b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/com-custom3.png "Figure-27b"){.coalaweb-docs}
 
-The next tab is **Assignments** which is where you can assign your new field to your contact modules and plugins. You can assign it to one, all or none of the currently avaliable CoalaWeb Contact and Tab modules by using the select list. You can also assign it to the CoalaWeb Contact plugin based on a plugin instance ID by adding adding the IDs separated by a comma or to have it included with all the plugin instances just add an ***** *\[Figure-27c\]*
+The next tab is **Assignments** which is where you can assign your new field to your contact modules and plugins. You can assign it to one, all or none of the currently avaliable CoalaWeb Contact and Tab modules by using the select list. You can also assign it to the CoalaWeb Contact plugin based on a plugin instance ID by adding adding the IDs separated by a comma or to have it included with all the plugin instances just add an *. *\[Figure-27c\]*
 
 ![Figure-27c](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/com-custom4.png "Figure-27c"){.coalaweb-docs}
 
@@ -144,9 +144,15 @@ If you are using the **Pro** version and you have selected **Departments** then 
 
 ![Figure-3b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-general1a.png "Figure-3b"){.coalaweb-docs}
 
-Pro subscribers will also have two additional fields a CC Email and a BCC email. Next you have a **Default Subject** option this will display in the email subject followed by the submitters subject if you have chosen to display this option. 
+Pro subscribers will also have two additional fields a CC Email and a BCC email. Next you have a **Subject Base** option this will display as the email subject followed by the submitters subject as well as in the email content if you have chosen to display this option. 
 
 Next is the **Mail From** option where you can choose to have the email sent by the **Contact Form User** or by the **Joomla Mail Settings**. In some cases you have will have to use the **Joomla Mail Settings** for the system to work correctly due to hosting or service provider restrictions.
+
+<div class="uk-alert">If you choose <em>Contact Form User</em> please make sure to set the <em>Email</em> field to display and required.</div>
+
+Next **Pro** subscribers have the option to automatically send a thank you email after form submission to the email address entered in the contact form. The thank you email will consist of the **Title** and **Message** entered under the **Email** tab in the component options. 
+
+<div class="uk-alert">If you choose <em>Send Thankyou</em> please make sure to set the <em>Email</em> field to display and required.</div>
 
 Next you have an option to chose the format you wish the emails to be sent in. If you are using the **Core** version you will only have the **No HTML** option but for **Pro** users you will have two additional options of **Basic HTML** and **Rich HTML**. The next options allows you to define the ID of your templates **System Message** location but in the majority of cases the default will work fine. The last option in Part1 is **Redirection** after the mail has been successfully sent. 
 
