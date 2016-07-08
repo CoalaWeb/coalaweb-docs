@@ -1,5 +1,23 @@
 ## Change Log
 
+### Version 1.0.3 July 2016
+
+#### Module - Hours
+- **(C)** Changed JError to JLog for install script notices
+- **(C)** Code improvements and streamlining
+- **(A)** Core version got an extra day
+- **(A)** Added some field hints
+- **(A)** Added Pro fields message in Core
+- **(A)** Some fields are displayed based on others making setup easier
+- **(A)** Open/Closed sign based on 7 day Schedule \[Pro\]
+- **(A)** Choose main title icon from list \[Pro\]
+- **(A)** Inline Hours layout with a list of options \[Pro\]
+- **(A)** Now has upto 7 day options \[Pro\]
+- **(L)** New language strings.
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.5
+
 ### Version 1.0.2 Jan 2016
 
 #### Module - Hours
