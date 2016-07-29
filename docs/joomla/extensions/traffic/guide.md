@@ -162,7 +162,7 @@ This could cause some IP addresses to be identified as coming from the wrong loc
 
 <div class="uk-alert">Note: It's a good idea to inform visitors in your privacy policy or TOS that you are collecting their information.</div>
 
-#### <a name="geo-install"></a>Installing the Geo Database
+### <a name="geo-install"></a>Installing the Geo Database
 
 If you don’t have the **GeoLiteCity** database installed you will receive a notice message. To take advantage of CoalaWeb Traffics inbuilt ability to tell you a visitors country and sometimes their city follow the steps below. *\[Figure-5a\]*.
 
@@ -178,7 +178,9 @@ To make it easier to know if you will need to upload the database manually I hav
 
 <div class="uk-alert">What happens when I click the <em>Install Geo Database</em> button?</div>
 
-First the system will retrieve the latest version of the database from the **Maximind** website and upload it to your website's **tmp** directory. Next it will attempt to extract and move it to the CoalaWeb Traffic component location to be used by the system. Lastly the downloaded file will be deleted from the tmp directory.
+1. The system will retrieve the latest version of the database from the **Maximind** website and upload it to your website's **tmp** directory. 
+2. Next the system  will attempt to extract and move it to the CoalaWeb Traffic component location to be used by the system. 
+3. Lastly the downloaded file will be deleted from the tmp directory.
 
 Now that we know what happens lets try to install the **Geo Database** by clicking the **Install Geo Database** button. *\[Figure-5c\]*.
 
