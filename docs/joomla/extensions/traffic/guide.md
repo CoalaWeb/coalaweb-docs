@@ -13,10 +13,6 @@
         - [3. Manual Install](#geo-manual-core)
         - [4. Manual Install \[Pro\]](#geo-manual-pro)
     -   [Charts \[Pro\]](#com-charts)
-    -   [CSV Report](#export-csv)
-    -   [Purge](#com-purge)
-    -   [Optimize \[Pro\]](#com-optimize)
-    -   [Add Robots \[Pro\]](#com-robots)
     -   [Help](#help)
     -   [Options](#options)
         - [1. General](#options-general)
@@ -28,6 +24,16 @@
         - [7. Updates \[Pro\]](#options-updates)
             - [Where is my Download ID?](#options-downloadid)
         - [8. Permissions](#options-permissions)
+    -   [Manage](#manage)
+        -   [Tools](#man-tools)
+            -   [Purge](#com-purge)
+            -   [Optimize \[Pro\]](#com-optimize)
+            -   [Add Robots \[Pro\]](#com-robots)
+        -   [Reports](#man-reports)
+            -   [CSV Report](#export-csv)
+        -   [Backup \[Pro\]](#man-backup)
+        -   [Restore \[Pro\]](#man-restore)
+
 3.  [Traffic \[M\]](#module)
     -   [General](#mod-general)
     -   [Layout](#mod-layout)
@@ -283,64 +289,6 @@ A color coded pie chart representing your visitors and their platforms accompani
 
 ![Figure-14d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-chart-5.png "Figure-14d"){.coalaweb-docs}
 
-### <a name="export-csv"></a>CSV Report
-
-If you want to export the visitors currently stored in your database start by clicking the **CSV Report** button in the **Control Panel**.
-
-![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-1.png "Figure-6"){.coalaweb-docs}
-
-You should get a pop up that similar to the image below if not make sure it's not being blocked by something such as your browser settings. *\[Figure-6c\]*
-
-![Figure-6c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-4.png "Figure-6c"){.coalaweb-docs}
-
-Next save the file to your local computer and then open it with your application of choice. In this example I will be using **LibreOffice** but the procedure will be similar with other applications. First I have to import it before I can work with the data so after a double click I'm confronted with the window below. *\[Figure-6d\]*
-
-![Figure-6d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-5.png "Figure-6d"){.coalaweb-docs}
-
-I have chosen to import it with the default settings which results in the data being laid out in a sheet.  *\[Figure-6e\]*
-
-![Figure-6e](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-6.png "Figure-6e"){.coalaweb-docs}
-
-You can now format, filter and save the data as you wish.
-
-### <a name="com-purge"></a>Purge
-
-![Figure-32a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-purge1.png "Figure-32a"){.coalaweb-docs}
-
-The **Purge** button will delete all of the traffic records current stored in the Traffic database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
-
-![Figure-32b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-purge2.png "Figure-32b"){.coalaweb-docs}
-
-After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
-
-![Figure-32c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-purge3.png "Figure-32c"){.coalaweb-docs}
-
-### <a name="com-optimize"></a>Optimize and Repair \[Pro\]
-
-![Figure-33a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-optimize1.png "Figure-33a"){.coalaweb-docs}
-
-Pro subscribers also get an **Optimize** button which will attempt to repair and optimize all the Traffic database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-33b\]*
-
-![Figure-33b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-optimize2.png "Figure-33b"){.coalaweb-docs}
-
-After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
-
-![Figure-33c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-optimize3.png "Figure-33c"){.coalaweb-docs}
-
-### <a name="com-robots"></a>Add Robots \[Pro\]
-
-![Figure-32a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-robots-1.png "Figure-32a"){.coalaweb-docs}
-
-The **Add Robots** button allows **Pro** subscribers to auto populate the **Known IP** list with a list of known **Robots** instantly stopping them from being counted. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
-
-![Figure-32b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-robots-2.png "Figure-32b"){.coalaweb-docs}
-
-After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
-
-![Figure-32c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-robots-3.png "Figure-32c"){.coalaweb-docs}
-
-<div class="uk-alert">The <em>Add Robots</em> system will compare the current list to what you have stored and add any new robots so I recommend running it after each update.</div>
-
 ### <a name="help"></a>Inbuilt Help
 
 ![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-help-1.png "Figure-7"){.coalaweb-docs}
@@ -454,6 +402,75 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 Lastly you have the permissions used to control access tothe CoalaWeb Traffic component. *\[Figure-8d\]*
 
 ![Figure-8d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-options-5.png "Figure-8d"){.coalaweb-docs}
+
+### <a name="manage"></a>Manage
+
+The manage area has some handy tools broken up into sections which are explained in detail below.
+
+### <a name="man-tools"></a>Tools
+
+#### <a name="com-purge"></a>Purge
+
+![Figure-32a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-purge1.png "Figure-32a"){.coalaweb-docs}
+
+The **Purge** button will delete all of the traffic records current stored in the Traffic database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
+
+![Figure-32b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-purge2.png "Figure-32b"){.coalaweb-docs}
+
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
+
+![Figure-32c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-purge3.png "Figure-32c"){.coalaweb-docs}
+
+#### <a name="com-optimize"></a>Optimize and Repair \[Pro\]
+
+![Figure-33a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-optimize1.png "Figure-33a"){.coalaweb-docs}
+
+Pro subscribers also get an **Optimize** button which will attempt to repair and optimize all the Traffic database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-33b\]*
+
+![Figure-33b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-optimize2.png "Figure-33b"){.coalaweb-docs}
+
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
+
+![Figure-33c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-optimize3.png "Figure-33c"){.coalaweb-docs}
+
+#### <a name="com-robots"></a>Add Robots \[Pro\]
+
+![Figure-32a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-robots-1.png "Figure-32a"){.coalaweb-docs}
+
+The **Add Robots** button allows **Pro** subscribers to auto populate the **Known IP** list with a list of known **Robots** instantly stopping them from being counted. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
+
+![Figure-32b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-robots-2.png "Figure-32b"){.coalaweb-docs}
+
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
+
+![Figure-32c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-robots-3.png "Figure-32c"){.coalaweb-docs}
+
+<div class="uk-alert">The <em>Add Robots</em> system will compare the current list to what you have stored and add any new robots so I recommend running it after each update.</div>
+
+### <a name="man-reports"></a>Reports
+
+#### <a name="export-csv"></a>CSV Report
+
+If you want to export the visitors currently stored in your database start by clicking the **CSV Report** button in the **Control Panel**.
+
+![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-1.png "Figure-6"){.coalaweb-docs}
+
+You should get a pop up that similar to the image below if not make sure it's not being blocked by something such as your browser settings. *\[Figure-6c\]*
+
+![Figure-6c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-4.png "Figure-6c"){.coalaweb-docs}
+
+Next save the file to your local computer and then open it with your application of choice. In this example I will be using **LibreOffice** but the procedure will be similar with other applications. First I have to import it before I can work with the data so after a double click I'm confronted with the window below. *\[Figure-6d\]*
+
+![Figure-6d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-5.png "Figure-6d"){.coalaweb-docs}
+
+I have chosen to import it with the default settings which results in the data being laid out in a sheet.  *\[Figure-6e\]*
+
+![Figure-6e](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-export-6.png "Figure-6e"){.coalaweb-docs}
+
+You can now format, filter and save the data as you wish.
+
+### <a name="man-backup"></a>Backup [\Pro\]
+### <a name="man-restore"></a>Restore [\Pro\]
 
 ## <a name="module"></a>CoalaWeb Traffic \[M\]
 
