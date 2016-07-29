@@ -468,13 +468,13 @@ I have chosen to import it with the default settings which results in the data b
 
 You can now format, filter and save the data as you wish.
 
-### <a name="man-backup"></a>Backup [\Pro\]
+### <a name="man-backup"></a>Backup \[Pro\]
 
 Pro subscribers have the option to to create a complete backup of all the Traffic database tables including their structure and content which is then exported as a **.sql** formatted file. To create the backup just click the **Backup Database** button and then choose a location to save the generated **.sql** file to. *\[Figure-34\]*
 
 ![Figure-34](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-backup-1.png "Figure-34"){.coalaweb-docs}
 
-### <a name="man-restore"></a>Restore [\Pro\]
+### <a name="man-restore"></a>Restore \[Pro\]
 
 Pro subscribers also have the option to delete the current Traffic data and replace it with a backed up copy. *\[Figure-35\]*
 
