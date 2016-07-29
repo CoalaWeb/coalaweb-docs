@@ -164,40 +164,37 @@ This could cause some IP addresses to be identified as coming from the wrong loc
 
 #### <a name="geo-install"></a>Installing the Geo Database
 
-If you don’t have the **GeoLiteCity** database installed you will receive a notice message. To take advantage of CoalaWeb Traffics inbuilt ability to tell you a visitors country and sometimes
-their city follow the steps below. *\[Figure-5a\]*.
+If you don’t have the **GeoLiteCity** database installed you will receive a notice message. To take advantage of CoalaWeb Traffics inbuilt ability to tell you a visitors country and sometimes their city follow the steps below. *\[Figure-5a\]*.
 
 ![Figure-5a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-2.png "Figure-5a"){.coalaweb-docs}
 
-To make it easier to know if you will need to upload the database manually I have added a **Upload Minimum Requirements** check list that will display in the Geo Location view. *\[Figure-5b\]*.
+To make it easier to know if you will need to upload the database manually I have added a **Upload Minimum Requirements** check list that will display under the **Requirements** tab. *\[Figure-5b\]*. 
 
 ![Figure-5b](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-3.png "Figure-5b"){.coalaweb-docs}
 
-<div class="uk-alert">If your system doesn't meet the minimum requirements but its close I recommend trying the easy way first before moving on to the manual method.</div>
+<div class="uk-alert">Don't meet the minimum requirements? The system will attempt to increase the limits temporarily while installing so I recommend giving it a try anyway.</div>
  
 #### <a name="geo-easy"></a>Easy Install
 
-First click the **Upload Geo Database** blue button this will retrieve the latest version of the database from the **Maximind** website and upload it to your website's **tmp** directory. *\[Figure-5c\]*.
+<div class="uk-alert">What happens when I click the <em>Install Geo Database</em> button?</div>
+
+First the system will retrieve the latest version of the database from the **Maximind** website and upload it to your website's **tmp** directory. Next it will attempt to extract and move it to the CoalaWeb Traffic component location to be used by the system. Lastly the downloaded file will be deleted from the tmp directory.
+
+Now that we know what happens lets try to install the **Geo Database** by clicking the **Install Geo Database** button. *\[Figure-5c\]*.
 
 ![Figure-5c](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-4.png "Figure-5c"){.coalaweb-docs}
 
-If everything went according to plan you will receive a conformation message that it uploaded correctly. *\[Figure-5d\]*.
+If everything goes according to plan you will receive a confirmation message that the file was installed correctly. *\[Figure-5d\]*.
 
 ![Figure-5d](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-5.png "Figure-5d"){.coalaweb-docs}
 
-The next step is to **Unzip** the file to the CoalaWeb Traffic geoip directory where it can be accessed and used to determine your visitors locations. If the database uploaded correctly in the last step you will now have a **Unzip** icon in the top tool bar, click this to start the unzip process. *\[Figure-5e\]*.
+The message under the **Current Version** tab will also turn green and contain today's date. *\[Figure-5e\]*.
 
 ![Figure-5e](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-6.png "Figure-5e"){.coalaweb-docs}
 
-Once again if everything goes according to plan you receive a conformation message that the file was unzipped correctly and also the message at the top of the page will turn green with today's date. *\[Figure-5f and Figure-5l\]*.
-
-![Figure-5f](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-7.png "Figure-5f"){.coalaweb-docs}
-
-![Figure-5l](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-13.png "Figure-5l"){.coalaweb-docs}
-
 Now CoalaWeb Traffic will automatically add country and city information to your visitor records as they are collected. To keep the location information as accurate as possible just carry out this procedure at regular intervals.
 
-<div class="uk-alert">Note: Please be patient when <em>Uploading</em> and <em>Unzipping</em> the database it may take some time due to the size of the file.</div>
+<div class="uk-alert">Note: Please be patient when <em>Installing</em> the database it may take some time due to the size of the file.</div>
 
 #### <a name="geo-manual-core"></a>Manual Install
 
