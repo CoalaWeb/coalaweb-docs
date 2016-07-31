@@ -72,7 +72,11 @@ Now you can choose if you want the field to be **Required** or not. Next you can
 
 ![Figure-27b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/com-custom3.png "Figure-27b"){.coalaweb-docs}
 
-The next tab is **Assignments** which is where you can assign your new field to your contact modules and plugins. You can assign it to one, all or none of the currently avaliable CoalaWeb Contact and Tab modules by using the select list. You can also assign it to the CoalaWeb Contact plugin based on a plugin instance ID by adding adding the IDs separated by a comma or to have it included with all the plugin instances just add an *. *\[Figure-27c\]*
+The next tab is **Assignments** which is where you can assign your new field to your contact modules and plugins. You can assign it to one, all or none of the currently avaliable CoalaWeb Contact and Tab modules by using the select list. You can also assign it to the CoalaWeb Contact plugin based on a plugin instance **ID** by adding the IDs separated by a comma or to have it included with all the plugin instances just add an \*. If for example you had the following plugin code in your article:
+
+    {coalaweb-contact-form id=123}
+
+Then you would add **123** to the plugin assignment input field. *\[Figure-27c\]*
 
 ![Figure-27c](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/com-custom4.png "Figure-27c"){.coalaweb-docs}
 
