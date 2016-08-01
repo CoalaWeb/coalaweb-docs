@@ -1,5 +1,15 @@
 ## Change Log
 
+### Version 1.0.2 August 2016
+
+#### Component - Traffic
+- **(B)** Fixed discrepancy with date and time in CSV report
+- **(C)** GEO install tmp directory check
+- **(C)** Iptools class fix for when HTTP_X_FORWARDED_FOR contains multiple IPs
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.5
+
 ### Version 1.0.1 June 2016
 
 #### Component - Traffic
