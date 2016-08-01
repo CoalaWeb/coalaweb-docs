@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 1.0.4 August 2016
+
+#### Module - Hours
+- **(B)** Removed unneeded outer margin variable
+
 ### Version 1.0.3 July 2016
 
 #### Module - Hours
