@@ -1,5 +1,14 @@
 ## Change Log
 
+### Version 1.0.3 August 2016
+
+#### Component - Traffic
+- **(C)** Referer check in visitors view
+- **(C)** Iptools class has improved IP detection and validation
+
+#### Plugin(S) - Traffic Count
+- **(C)** Improved validation of HTTP_REFERER 
+
 ### Version 1.0.2 August 2016
 
 #### Component - Traffic
