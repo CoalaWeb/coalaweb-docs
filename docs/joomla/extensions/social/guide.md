@@ -944,7 +944,7 @@ In this section you can choose the **Format** and **Alignment** of the Tweet's t
 
 #### Part 4 - Links \[Pro\]
 
-This section is for **Pro** subscribers and contains all the options that control the look and layout of the **Links** part of each tweet. You can choose to display a **Links** or not and their **Alignment**. The links include **Reply**, **Retweet** and **Favorite**. *\[Figure-34d\]*
+This section is for **Pro** subscribers and contains all the options that control the look and layout of the **Links** part of each tweet. You can choose to display the **Links** or not and their **Alignment**. The links include **Reply**, **Retweet** and **Favorite**. *\[Figure-34d\]*
 
 ![Figure-34d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-4.png "Figure-34d"){.coalaweb-docs}
 
