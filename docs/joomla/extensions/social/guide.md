@@ -7,17 +7,17 @@
     -   [Optimize \[Pro\]](#com-optimize)
     -   [Help](#help)
     -   [Options](#options)
-        - [1. General Options](#options-general)
-        - [2. Like Plugin Options \[Pro\]](#options-content)
-        - [3. Share Plugin Options \[Pro\]](#options-share)
-        - [4. Panel Plugin Options \[Pro\]](#options-panel)
-        - [5. Metadata Plugin Options \[Pro\]](#options-og)
-        - [6. Count Options \[Pro\]](#options-count)
+        - [1. General](#options-general)
+        - [2. Like Plugin \[Pro\]](#options-content)
+        - [3. Share Plugin \[Pro\]](#options-share)
+        - [4. Panel Plugin \[Pro\]](#options-panel)
+        - [5. Metadata Plugin \[Pro\]](#options-og)
+        - [6. Count \[Pro\]](#options-count)
         - [7. Updates \[Pro\]](#options-updates)
             - [Where is my Download ID?](#options-downloadid)
         - [8. Component Permissions](#options-permissions)
 3.  [Social Links \[M\]](#module)
-    -   [General Display Options](#mod-general)
+    -   [General Display](#mod-general)
     -   [Create Custom Theme](#mod-custom-theme)
     -   [Share This General](#mod-bookmark-gen)
     -   [Share This Social](#mod-bookmark-soc)
@@ -25,10 +25,10 @@
     -   [Follow Us General](#mod-follow-gen)
     -   [Follow Us A-Z](#mod-follow-az)
     -   [Follow Us Custom](#mod-follow-cus)
-    -   [Advanced Options](#mod-advanced)
+    -   [Advanced](#mod-advanced)
 4.  [Social Tabs \[M\] \[Pro\]](#module-tabs)
     -   [First Thing](#mod-tabs-first)
-    -   [General Display Options](#mod-tabs-general)
+    -   [General Display](#mod-tabs-general)
     -   [Share General](#mod-tabs-share-gen)
     -   [Share A-Z](#mod-tabs-share-az)
         - [1. Create Facebook Application](#mod-tabs-fbapp)
@@ -36,17 +36,22 @@
     -   [Follow Us Custom](#mod-tabs-follow-cus)
     -   [Tab Colors](#mod-tabs-colors)
     -   [Tab Order](#mod-tabs-order)
-    -   [Advanced Options](#mod-tabs-advanced)
+    -   [Advanced](#mod-tabs-advanced)
 5.  [Page \[M\]](#module-page)
-    -   [General Options](#mod-p-general)
-    -   [Layout Options](#mod-p-layout)
-    -   [Style Options](#mod-p-style)
-    -   [Advanced Options](#mod-p-advanced)
+    -   [General](#mod-p-general)
+    -   [Layout](#mod-p-layout)
+    -   [Style](#mod-p-style)
+    -   [Advanced](#mod-p-advanced)
 6.  [Google Plus \[M\] \[Pro\]](#module-gplus)
-    -   [General Options](#mod-gplus-general)
-    -   [Layout Options](#mod-gplus-layout)
-    -   [Advanced Options](#mod-gplus-advanced)
-7.  [Plugins](#plg)
+    -   [General](#mod-gplus-general)
+    -   [Layout](#mod-gplus-layout)
+    -   [Advanced](#mod-gplus-advanced)
+7.  [Tweet \[M\]](#module-tweet)
+    -   [General](#mod-tweet-general)
+    -   [Tweet](#mod-tweet-tweet)
+    -   [Footer](#mod-tweet-footer)
+    -   [Advanced](#mod-tweet-advanced)
+8.  [Plugins](#plg)
     -   [Content Plugin - Social Likes \[Pro\]](#plg-content)
     -   [Content Plugin - Social Share \[Pro\]](#plg-share)
     -   [Content Plugin - Social Panel \[Pro\]](#plg-panel)
@@ -57,7 +62,7 @@
     -   [System Plugin - Zoo \[Pro Version\]](#plg-zoo)
         - [1. Element - Social Likes](#plg-zoo-social)
         - [2. Layout - Open Graph](#plg-zoo-og)
-8.  [Need More Help?](#more-help)
+9.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="overview"></a>Overview
 
@@ -153,7 +158,7 @@ In the control panel or the tool menu you have a help icon that when clicked wil
 
 <div class="uk-alert">In the control panel or the tool menu you have an options icon that when clicked will open a new window containing the various extension options.</div>
 
-### 1. <a name="options-general"></a>General Options
+### 1. <a name="options-general"></a>General
 
 #### Facebook
 
@@ -345,17 +350,8 @@ The next couple of option only affect the Fixed panel style. First you can choos
 
 #### Part 4 - Collapse Style
 
-The next couple of option only affect the Collapse panel style. First
-you can choose the type of button(tab) to want to use to trigger the
-display of the panel. If you choose **Text** in the next option you can decide to have the text/button displayed vertically or horizontal. If you choose **Icon** you will have to fill in three
-of the next four options. First choose the icon you wish to use it can
-be stored locally or you can use an external URL for the image. Next set
-the width and height of the icon in pixels. Note: Just enter a number
-here with out the px. If you choose to use text which is a a great
-option for multilingual sites you can change the displayed text here.
-The default text is Share but if you do plan to use it on a multilingual
-site it would be better to use the language files to manipulate this
-text.
+The next couple of option only affect the Collapse panel style. First you can choose the type of button(tab) to want to use to trigger the
+display of the panel. If you choose **Text** in the next option you can decide to have the text/button displayed vertically or horizontal. If you choose **Icon** you will have to fill in three of the next four options. First choose the icon you wish to use it can be stored locally or you can use an external URL for the image. Next set the width and height of the icon in pixels. Note: Just enter a number here with out the px. If you choose to use text which is a a great option for multilingual sites you can change the displayed text here. The default text is Share but if you do plan to use it on a multilingual site it would be better to use the language files or an override to manipulate this text.
 
 The next few options control the slide effect of the panel. The first
 two options control the amount of time the panel takes to open and
@@ -383,24 +379,30 @@ The **CoalaWeb Metadata** system will help generate meta data in the **Open Grap
 
 #### Part 1 - Display Where
 
-The first option **Only Articles** allows you to choose if you want to add **Metadata** information to only the article views or to **Category Blog** and **Featured** views as well. *\[Figure-4\]*
+The first option **Only Articles** allows you to choose if you want to add **Metadata** information to only the article views or to **Category Blog** and **Featured** views as well. If you select **No** for **Only Articles** you will also have the option for **Featured** layout to use the CoalaWeb menu editor tab to assign tags or to use the first article displayed. *\[Figure-4\]*
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata1.png "Figure-4"){.coalaweb-docs}
 
-#### Part 2 - Meta Selection
+#### Part 2 - CDN
+
+This section allows you to use a CDN when generating the image URLs. You have three options the first is to turn it on or off the second controls the CDN root and the last option is the CDN domain for example **cdn.coalaweb.com**. *\[Figure-4f\]*
+
+![Figure-4f](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata7.png "Figure-4f"){.coalaweb-docs}
+
+#### Part 3 - Meta Selection
 
 <div class="uk-alert">The priority order in which each meta tag is selected is outlined below.</div>
 
 ##### Type
 
--   **1st attempt:** The first place the system will look is the CoalaWeb tab displayed in the both the Category and Article editors. This will always take priority over any other possible setting. If you set a type using the category editor tab this will be used in a category blog layout as there are multiple articles on the page. If you have set a type using the article editor tab then it will be used when viewing that specific article.
+-   **1st attempt:** The first place the system will look is the CoalaWeb tab displayed in the **Category**, **Article** and **Menu** editors. This will always take priority over any other possible setting. If you set a type using the category editor tab this will be used in a category blog layout as there are multiple articles on the page. If you have set a type using the article editor tab then it will be used when viewing that specific article. For non content type items like a contact page the CoalaWeb menu editor tab can be used.
 -   **2nd attempt:** If you haven’t used a CoalaWeb override tab the system will fall back to the  **Default Type** input field. *\[Figure 4a\]*
 
 <div class="uk-alert">The best way to set up the type is to use Article for the default type and for category blog layouts assign a type of blog to the category using the CoalaWeb override tab in the category editor.</div> 
 
 ##### Title
 
--   **1st attempt:** The first place the system will look is the CoalaWeb tab displayed in the both the Category and Article editors. This will always take priority over any other possible setting. If you set a title using the category editor tab this will be used in a category blog layout as there are multiple articles on the page. If you have set a title using the article editor tab then it will be used when viewing that specific article.
+-   **1st attempt:** The first place the system will look is the CoalaWeb tab displayed in the both the Category and Article editors. This will always take priority over any other possible setting. If you set a title using the category editor tab this will be used in a category blog layout as there are multiple articles on the page. If you have set a title using the article editor tab then it will be used when viewing that specific article. For non content type items like a contact page the CoalaWeb menu editor tab can be used.
 -   **2nd attempt:** If you have set a **Default Title** this will be next in line to be used for the title. *\[Figure 4a\]*
 
 <div class="uk-alert">Note: It's recommended to leave this parameter blank</div> 
@@ -423,7 +425,7 @@ The first option **Only Articles** allows you to choose if you want to add **Met
 
 A page description expands on the page title by including additional details typically used as a document preview. The description should provide a concise summary of the page in approximately 200 characters or fewer.
 
--   **1st attempt:** The first place the system will look is the CoalaWeb tab displayed in the both the Category and Article editors. This will always take priority over any other possible setting. If you set a description using the category editor tab this will be used in a category blog layout as there are multiple articles on the page. If you have set a description using the article editor tab then it will be used when viewing that specific article.
+-   **1st attempt:** The first place the system will look is the CoalaWeb tab displayed in the both the Category and Article editors. This will always take priority over any other possible setting. If you set a description using the category editor tab this will be used in a category blog layout as there are multiple articles on the page. If you have set a description using the article editor tab then it will be used when viewing that specific article. For non content type items like a contact page the CoalaWeb menu editor tab can be used.
 -   **2nd attempt:** If you have set a **Default Description** this will be next in line to be used for the description. *\[Figure 4a\]*
 
 <div class="uk-alert">Note: It's recommended to leave this parameter blank</div>
@@ -436,7 +438,7 @@ A page description expands on the page title by including additional details typ
 
 Let's face it the image is very important and I'm confident using the options below you can get the image you prefer to be used. *\[Figure-4a\]*
 
--   **1st attempt:** The first place the system will look to is the CoalaWeb tab displayed in the both the Category and Article editors. This will always take priority over any other possible setting. If you set an image using the category editor tab this will be used in a category blog layout as there are multiple articles on the page. If you have set an image using the article editor tab then it will be used when viewing that specific article.
+-   **1st attempt:** The first place the system will look to is the CoalaWeb tab displayed in the both the Category and Article editors. This will always take priority over any other possible setting. If you set an image using the category editor tab this will be used in a category blog layout as there are multiple articles on the page. If you have set an image using the article editor tab then it will be used when viewing that specific article. For non content type items like a contact page the CoalaWeb menu editor tab can be used.
 -   **2nd attempt:** If you have set a **Default Image** this will be next in line to be used for the image. *\[Figure 4a\]*
 
 <div class="uk-alert">Note: It's recommended to leave this parameter blank</div>
@@ -497,11 +499,11 @@ Here you can enter the Twitter **@username** for the content author. *\[Figure-4
 
 <div class="uk-alert">Note: For Zoo content please be sure to assign elements to all the available positions in the **CW Open Graph** layout. Click [Here](#plg-og) for more info.</div>
 
-The first option is to turn on or off the inclusion of **Schema (microdata)** meta tags. The next option is a **fallback** image for when no other image is avaliable due to Google expecting one. Two more options that Google expects are a **Publisher** and **Publisher Logo**. If these options are left blank the system will resort to using a generic image and the site name as the publisher. *\[Figure-4d\]*
+The first option is to turn on or off the inclusion of **Schema (microdata)** meta tags. The next two options are for a **fallback** image for when no other image is avaliable as Google expects one. Two more things that Google expects are a **Publisher** and **Publisher Logo** so the next three options cover these. If they are left blank the system will resort to using a generic image and the site name as the publisher. *\[Figure-4d\]*
 
 ![Figure-4d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata5.png "Figure-4d"){.coalaweb-docs}
 
-#### Part 6 Fallback Options
+#### Part 6 Fallback
 
 The options in this section will be used when no other data is available so consider them <em>Fallback</em> options. This is very handy for example to assign a logo image that can be used when an article doesn't have one. They will automatically be used for Native Joomla and Zoo content
 
@@ -511,7 +513,7 @@ If you have choose yes to fallback everywhere and you want to exclude certain ex
 
 ![Figure-4e](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata6.png "Figure-4e"){.coalaweb-docs}
 
-#### Part 7 Default Options
+#### Part 7 Default
 
 If you want certain information to always be used within the meta tags set it below. This can still be overridden by the settings in the CoalaWeb editor tabs.  *\[Figure-4a\]*
 
@@ -519,7 +521,7 @@ If you want certain information to always be used within the meta tags set it be
 
 ![Figure-4a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata2.png "Figure-4a"){.coalaweb-docs}
 
-### <a name="options-count"></a>6. Count Options
+### <a name="options-count"></a>6. Count
 
 CoalaWeb Social links has a count system builtin that can check a page's social counts based on it's URL and then store the information in the database. This allows the counts to be retrieved from the database when displaying the buttons removing the need to check each social network on every page load. *\[Figure-30\]*
 
@@ -537,7 +539,7 @@ The next group of options are **what to check** which give you option to choose 
 
 ![Figure-30c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-count4.png "Figure-30c"){.coalaweb-docs}
 
-### <a name="options-updates"></a>7. Update Options
+### <a name="options-updates"></a>7. Update
 
 The CoalaWeb Social Links extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
 
@@ -572,7 +574,7 @@ Links component. *\[Figure-8\]*
 
 ## <a name="module"></a>Social Links \[M\]
 
-### <a name="mod-general"></a>General Display Options
+### <a name="mod-general"></a>General Display
 
 <div class="uk-alert">To make it easier to follow I have broken up the <em>General Display Options</em> into three parts.</div>
 
@@ -621,7 +623,7 @@ If you want the same link to be used for all of the **Share This** icons all of 
 
 This section controls what is displayed in the **Share This** part of the module. You can choose to display a title including what text will be displayed. 
 
-<div class="uk-alert">Note: If your site is multilingual leave blank and use the language files or a language override.</div>
+<div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files/overrides to control the text or create a separate module for each language.</div>
 
 You can also choose the color of the title and the border color but only if you selected yes to **Display Borders** in the
 **General Display Options** section. This border will surround the **Share This** part of the module. You can enter a \# followed by a
@@ -657,7 +659,7 @@ This section controls what is displayed in the **Follow Us** part of the
 module. You can choose to display a title including what text will be
 displayed.
 
-<div class="uk-alert">Note: If your site is multilingual leave blank and use the language files or a language override.</div>
+<div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files/overrides to control the text or create a separate module for each language.</div>
 
 You can also choose the color of the title and the
 border color but only if you selected yes to **Display Borders** in the
@@ -691,7 +693,7 @@ The next couple of options help you get the all important icon displaying, you c
 
 ![Figure-11b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-follow3.png "Figure-11b"){.coalaweb-docs}
 
-### <a name="mod-advanced"></a>Advanced Options
+### <a name="mod-advanced"></a>Advanced
 
 The CoalaWeb Social Links module also has a few of what I consider **Advanced Options** such as the option to assign a **Module Class Suffix** or choose whether to use **Cache** including the **Cache Time**. 
 
@@ -708,7 +710,7 @@ The first thing you will need to do to ensure that the Social Tabs module functi
 
 ![Figure-25](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-first.png "Figure-25"){.coalaweb-docs}
 
-### <a name="mod-tabs-general"></a>General Display Options
+### <a name="mod-tabs-general"></a>General Display
 
 <div class="uk-alert">To make it easier to follow I have broken up the <em>General Display Options</em> into four parts.</div>
 
@@ -815,7 +817,7 @@ To make it easy to identify which tab is which I have added a key letter to the 
 
 ![Figure-25i](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-order.png "Figure-25i"){.coalaweb-docs}
 
-### <a name="mod-tabs-advanced"></a>Advanced Options
+### <a name="mod-tabs-advanced"></a>Advanced
 
 First you get the choice to use **CSS** for the rendering of the module or **jQuery**. *\[Figure-25d\]*
 
@@ -837,7 +839,7 @@ Page is a social module that enables Facebook Page owners to attract and gain li
 
 <div class="uk-alert">Quote: The minimum supported widget width is 280 pixels.</div>
 
-### <a name="mod-page-general"></a>General Options
+### <a name="mod-page-general"></a>General
 
 The first option in this section allows you to add your Facebook page. The easiest way to do that is open up your page and copy and paste the link in the box. *\[Figure-29\]*
 
@@ -845,11 +847,11 @@ The first option in this section allows you to add your Facebook page. The easie
 
 ![Figure-29](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-page-mod-config-general.png "Figure-29"){.coalaweb-docs}
 
-### <a name="mod-page-layout"></a>Layout Options
+### <a name="mod-page-layout"></a>Layout
 
 The first option in this section is what default width you want to set for the widget. The Page Widget will automatically adapt to the width of its parent element on page load (min. 280px / max. 500px). If the width of the parent element is bigger than the Page Widget width it will maintain the value defined in Widget Width.
 
-The next option allows you to set the default height for the widget. The minimum pixel height of the Page Widget is 280 and the maximum is 500.
+The next option allows you to set the default height for the widget. The minimum pixel height of the Page Widget is 280 and the maximum is 500. The next option is for the widget alignment which is handy for when you have a large space and you want the widget aligned to the center of it.
 
 The next option is the **Module Width** not to be confused with the **Widget Width** this is the surrounding Joomla module. You might want to reduce this width if for example you only have two modules displayed at the bottom of your page and you want the Page to be a bit more compact. Don't forget the Page Widget will automatically adapt to the width of its parent element on page load as I mentioned at the start of this section. 
 
@@ -857,17 +859,17 @@ Set the last option to Yes if your template is having trouble configuring the ri
 
 ![Figure-29a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-page-mod-config-layout.png "Figure-29a"){.coalaweb-docs}
 
-### <a name="mod-page-style"></a>Style Options
+### <a name="mod-page-style"></a>Style
 
 In the this section you have three options the first gives you the choice of displaying the **Profile Photos** of people who have liked this particular page. The second option allows you to turn on or off the display of the page's **Header Image** in the background. The last option is the choice of turning on or off the display of a **Stream** of the latest posts from your Page's wall. *\[Figure-29b\]*
 
 ![Figure-29b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-page-mod-config-style.png "Figure-29b"){.coalaweb-docs}
 
-### <a name="mod-lb-advanced"></a>Advanced Options
+### <a name="mod-lb-advanced"></a>Advanced
 
-The Page module also has a few of what I consider **Advanced Options** such as the option to assign a **Unique Module ID** to stop conflicts, a **Module Class Suffix** or whether to use **Cache** including the **Cache Time**. There is also an option to turn off the **Module css** if you want to add your own styling. *\[Figure-29c\]*
+The Page module also has a few of what I consider **Advanced Options** such as the option to assign a **Module Class Suffix** or whether to use **Cache** including the **Cache Time**. There is also an option to turn off the **Module css** if you want to add your own styling. *\[Figure-29c\]*
 
-![Figure-29c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-lbox-mod-config-advanced.png "Figure-29c"){.coalaweb-docs}
+![Figure-29c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-page-mod-config-advanced.png "Figure-29c"){.coalaweb-docs}
 
 ## <a name="module-gplus"></a>Google Plus \[M\]\[Pro\]
 
@@ -881,7 +883,7 @@ You have a choice of the following badge types:
 
 <div class="uk-alert">Note: Valid Ranges: Portrait 180-450 px Landscape 273-450px </div>
 
-### <a name="mod-gplus-general"></a>General Options
+### <a name="mod-gplus-general"></a>General
 
 The first thing you will need to decide is what type of badge you want to display. You have the option to display a Profile, Page or Community depending on your needs. You will only need to fill in one of the next three options based on your type choice. *\[Figure-18\]*
 
@@ -889,7 +891,7 @@ The first thing you will need to decide is what type of badge you want to displa
 
 ![Figure-18](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-general.png "Figure-18"){.coalaweb-docs}
 
-### <a name="mod-gplus-layout"></a>Layout & Style Options
+### <a name="mod-gplus-layout"></a>Layout & Style
 
 <div class="uk-alert">To make it easier to follow I have broken up the <em>Layout & Style Options</em> into two parts.</div>
 
@@ -911,18 +913,68 @@ The next option is to Display Owners this is only aplicable to the Community typ
 
 ![Figure-18b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-layout2.png "Figure-18b"){.coalaweb-docs}
 
-### <a name="mod-gplus-advanced"></a>Advanced Options
+### <a name="mod-gplus-advanced"></a>Advanced
 
-The CoalaWeb G Plus module also has a few of what I consider **Advanced
-Options** such as the option to assign a **Unique Module ID** to stop
-conflicts. 
-
-You can also give the it a **Module Class Suffix** or choose
-whether to use **Cache** including the **Cache Time**. There is also
-options to turn on or off the **Module CSS** and **Google JS**if you
-want. *\[Figure-18c\]*
+The CoalaWeb G Plus module also has a few of what I consider **Advanced Options** such as the option to assign a **Module Class Suffix** or choose
+whether to use **Cache** including the **Cache Time**. There is also options to turn on or off the **Module CSS** and **Google JS**if you want. *\[Figure-18c\]*
 
 ![Figure-18c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-advanced1.png "Figure-18c"){.coalaweb-docs}
+
+## <a name="module-tweet"></a>Tweet \[M\]
+
+CoalaWeb Tweet is a social module designed to display a particular Twitter users feed. It has a long list of options from controlling how many tweets are displayed to their format and style.
+
+### <a name="mod-tweet-general"></a>General
+
+The fist option in the section is the most important one and it's your **Twitter** username. For **Pro** subscriber that also get a variety of **Panel Styles** to choose from. The last option is how many tweets to display. *\[Figure-34\]*
+
+![Figure-34](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-general.png "Figure-34"){.coalaweb-docs}
+
+### <a name="mod-tweet-tweet"></a>Tweet
+
+In this section you will be able to control the look and feel of each of the displayed tweets.
+
+<div class="uk-alert">To make it easier to follow I have broken up the <em>Tweet Options</em> into four parts.</div>
+
+<div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files/overrides to control the text or create a separate module for each language.</div>
+
+#### Part 1 - Title
+
+This section contains all the options that control the look and layout of the **Title** part of each tweet. You can choose to diplay a **Title** or not, it's **Format** and **Alignment**. You can turn the **Text** on or off which is handy for **Pro** subscribers if they want to only display an **Icon** which leads me to the last two options the display and size of the **Icon**. *\[Figure-34a\]*
+
+<div class="uk-alert">Note: The icon size is proportionate to the title Format.</div>
+
+![Figure-34a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-1.png "Figure-34a"){.coalaweb-docs}
+
+#### Part 2 - Date \[Pro\]
+
+This section is for **Pro** subscribers and contains all the options that control the look and layout of the **Date** part of each tweet. You can choose to diplay a **Date** or not, it's **Prefix**, **Icon** and **Alignment**. *\[Figure-34b\]*
+
+![Figure-34b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-2.png "Figure-34b"){.coalaweb-docs}
+
+#### Part 3 - Content
+
+In this section you can choose the **Format** and **Alignment** of the Tweet's text. If you have limited spcae or you have chosen to use a large format you may have to employ the last option in this section **Break Links** to to break any content links. *\[Figure-34c\]*
+
+![Figure-34c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-3.png "Figure-34c"){.coalaweb-docs}
+
+#### Part 4 - Links \[Pro\]
+
+This section is for **Pro** subscribers and contains all the options that control the look and layout of the **Links** part of each tweet. You can choose to diplay a **Links** or not and their **Alignment**. The links include **Reply**, **Retweet** and **Favourite**. *\[Figure-34d\]*
+
+![Figure-34d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-4.png "Figure-34d"){.coalaweb-docs}
+
+### <a name="mod-tweet-footer"></a>Footer \[Pro\]
+
+This section is for **Pro** subscribers and allows the display of a module **Footer** with the username of the Twitter feed and an editable **Subtitle**. *\[Figure-34e\]*
+
+![Figure-34e](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-footer.png "Figure-34e"){.coalaweb-docs}
+
+### <a name="mod-twitter-advanced"></a>Advanced
+
+The CoalaWeb Tweet module also has a few of what I consider **Advanced Options** such as the **UIkit Prefix** option for when you are using a YooTheme template you can set it to **UK** otherwise I recommend leaving it with the default **CW**. In this section you can also choose to not load the module's **CSS** as well as the option to assign a **Module Class Suffix** and choose whether to use **Cache** including the **Cache Time**.  *\[Figure-34d\]*
+
+![Figure-34d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-advanced.png "Figure-34d"){.coalaweb-docs}
 
 ## <a name="plg"></a>Plugins
 
