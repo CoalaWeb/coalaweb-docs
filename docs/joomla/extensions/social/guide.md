@@ -353,13 +353,7 @@ The next couple of option only affect the Fixed panel style. First you can choos
 The next couple of option only affect the Collapse panel style. First you can choose the type of button(tab) to want to use to trigger the
 display of the panel. If you choose **Text** in the next option you can decide to have the text/button displayed vertically or horizontal. If you choose **Icon** you will have to fill in three of the next four options. First choose the icon you wish to use it can be stored locally or you can use an external URL for the image. Next set the width and height of the icon in pixels. Note: Just enter a number here with out the px. If you choose to use text which is a a great option for multilingual sites you can change the displayed text here. The default text is Share but if you do plan to use it on a multilingual site it would be better to use the language files or an override to manipulate this text.
 
-The next few options control the slide effect of the panel. The first
-two options control the amount of time the panel takes to open and
-close. Durations are given in milliseconds; higher values indicate
-slower animations, not faster ones. The default duration is 400
-milliseconds. The last two options affect the animation style, you have
-a lot to choose from so experiment until you find the ones you
-like. *\[Figure-23d\]*
+The next few options control the slide effect of the panel. The first two options control the amount of time the panel takes to open and close. Durations are given in milliseconds; higher values indicate slower animations, not faster ones. The default duration is 400 milliseconds. The last two options affect the animation style, you have a lot to choose from so experiment until you find the ones you like. *\[Figure-23d\]*
 
 ![Figure-23d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-panel5.png "Figure-23d"){.coalaweb-docs}
 
@@ -598,8 +592,7 @@ Creating a theme is easy, just copy the custom-example folder found in:
 
     media → coalawebsocial → components → sociallinks → themes-icon
 
-Give the theme a different name, edit the files as needed and of course add your custom icons. 
-All the folders located in the themes-icon directory will automatically be listed in the **Icon Styles** select list.
+Give the theme a different name, edit the files as needed and of course add your custom icons. All the folders located in the themes-icon directory will automatically be listed in the **Icon Styles** select list.
 
 #### Part 3
 
@@ -661,12 +654,7 @@ displayed.
 
 <div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files/overrides to control the text or create a separate module for each language.</div>
 
-You can also choose the color of the title and the
-border color but only if you selected yes to **Display Borders** in the
-**General Display Options** section. This border will surround the
-**Follow Us** part of the module. You can enter a \# followed by a color
-reference code such as \#000000 for black or you can use the color
-chooser box to the right of the input field. The last option is used to display some text above the **Follow Us** section of the module. *\[Figure-11\]*
+You can also choose the color of the title and the border color but only if you selected yes to **Display Borders** in the **General Display Options** section. This border will surround the **Follow Us** part of the module. You can enter a \# followed by a color reference code such as \#000000 for black or you can use the color chooser box to the right of the input field. The last option is used to display some text above the **Follow Us** section of the module. *\[Figure-11\]*
 
 ![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-follow1.png "Figure-11"){.coalaweb-docs}
 
@@ -770,11 +758,7 @@ For the social share options themselves, scroll down the list ticking the ones y
 
 ### <a name="mod-tabs-follow-az"></a>Follow Us A-Z
 
-To make finding the social media icons easier I have broken them up into
-groups of 5 letters organized alphabetically. For example if you are
-look for Facebook just select the F - J group. Just work your way through
-the groups ticking the ones you want to display and adding their
-corresponding links. *\[Figure-25f\]*
+To make finding the social media icons easier I have broken them up into groups of 5 letters organized alphabetically. For example if you are look for Facebook just select the F - J group. Just work your way through the groups ticking the ones you want to display and adding their corresponding links. *\[Figure-25f\]*
 
 <div class="uk-alert">Note: The WhatsApp button will only display on mobile devices.</div>
 
@@ -932,7 +916,7 @@ The fist option in the section is the most important one and it's your **Twitter
 
 ### <a name="mod-tweet-tweet"></a>Tweet
 
-In this section you will be able to control the look and feel of each of the displayed tweets.
+In this section you will be able to control the look and feel of each of the displayed Tweets.
 
 <div class="uk-alert">To make it easier to follow I have broken up the <em>Tweet Options</em> into four parts.</div>
 
@@ -940,7 +924,7 @@ In this section you will be able to control the look and feel of each of the dis
 
 #### Part 1 - Title
 
-This section contains all the options that control the look and layout of the **Title** part of each tweet. You can choose to diplay a **Title** or not, it's **Format** and **Alignment**. You can turn the **Text** on or off which is handy for **Pro** subscribers if they want to only display an **Icon** which leads me to the last two options the display and size of the **Icon**. *\[Figure-34a\]*
+This section contains all the options that control the look and layout of the **Title** part of each tweet. You can choose to display a **Title** or not, it's **Format** and **Alignment**. You can turn the **Text** on or off which is handy for **Pro** subscribers if they want to only display an **Icon** which leads me to the last two options the display and size of the **Icon**. *\[Figure-34a\]*
 
 <div class="uk-alert">Note: The icon size is proportionate to the title Format.</div>
 
@@ -948,19 +932,19 @@ This section contains all the options that control the look and layout of the **
 
 #### Part 2 - Date \[Pro\]
 
-This section is for **Pro** subscribers and contains all the options that control the look and layout of the **Date** part of each tweet. You can choose to diplay a **Date** or not, it's **Prefix**, **Icon** and **Alignment**. *\[Figure-34b\]*
+This section is for **Pro** subscribers and contains all the options that control the look and layout of the **Date** part of each tweet. You can choose to display a **Date** or not, it's **Prefix**, **Icon** and **Alignment**. *\[Figure-34b\]*
 
 ![Figure-34b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-2.png "Figure-34b"){.coalaweb-docs}
 
 #### Part 3 - Content
 
-In this section you can choose the **Format** and **Alignment** of the Tweet's text. If you have limited spcae or you have chosen to use a large format you may have to employ the last option in this section **Break Links** to to break any content links. *\[Figure-34c\]*
+In this section you can choose the **Format** and **Alignment** of the Tweet's text. If you have limited space or you have chosen to use a large format you may have to employ the last option in this section **Break Links** to to break any content links. *\[Figure-34c\]*
 
 ![Figure-34c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-3.png "Figure-34c"){.coalaweb-docs}
 
 #### Part 4 - Links \[Pro\]
 
-This section is for **Pro** subscribers and contains all the options that control the look and layout of the **Links** part of each tweet. You can choose to diplay a **Links** or not and their **Alignment**. The links include **Reply**, **Retweet** and **Favourite**. *\[Figure-34d\]*
+This section is for **Pro** subscribers and contains all the options that control the look and layout of the **Links** part of each tweet. You can choose to display a **Links** or not and their **Alignment**. The links include **Reply**, **Retweet** and **Favorite**. *\[Figure-34d\]*
 
 ![Figure-34d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-4.png "Figure-34d"){.coalaweb-docs}
 
