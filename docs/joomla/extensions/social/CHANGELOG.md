@@ -1,5 +1,36 @@
 ##Change Log
 
+### Version 0.3.2 August 2016
+
+#### Component - Social Links
+- **(A)** Added new Tweet module to install scripts
+- **(A)** Added hints to some form fields
+- **(L)** Updated language strings
+
+#### Module - Social Tabs
+- **(C)** CSS changes to stop template CSS conflicts
+
+#### Module - Tweet
+- **(N)** Integrated into the CoalaWeb Social Links extension both Core and Pro.
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(C)** Added extra checks for third party extensions using categories
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(C)** Check is description exists before attempting to clean
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(C)** Check is description exists before attempting to clean
+
+#### Plugin(S) - Meta Menu \[Pro\]
+- **(A)** Now covers Zoo categories
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Twitter card now using fallback image
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.5
+
 ### Version 0.3.1 May 2016
 
 #### Component - Social Links
@@ -12,12 +43,12 @@
 #### Plugin(C) - Open Graph \[Pro\]
 - **(A)** New option to use menu editor for Featured meta tags
 
-#### Plugin(C) - Social Likes\[Pro\]
+#### Plugin(C) - Social Likes \[Pro\]
 - **(C)** Code improvements
 - **(C)** CSS improvements
 - **(R)** Removed unneeded Twitter count code
 
-#### Plugin(C) - Social Panel\[Pro\]
+#### Plugin(C) - Social Panel \[Pro\]
 - **(C)** Code improvements
 - **(C)** CSS improvements
 - **(R)** Removed unneeded Twitter count code
