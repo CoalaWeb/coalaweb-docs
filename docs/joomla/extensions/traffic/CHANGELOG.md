@@ -1,5 +1,13 @@
 ## Change Log
 
+### Version 1.0.4 August 2016
+
+#### Component - Traffic
+- **(C)** Iptools class has improved IP detection and validation
+
+#### Plugin(S) - Traffic Count
+- **(B)** Fixed issue with known IP blocking
+
 ### Version 1.0.3 August 2016
 
 #### Component - Traffic
