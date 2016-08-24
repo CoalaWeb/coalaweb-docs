@@ -13,7 +13,7 @@ I have tried to maintain a step by step guide on how to create a Facebook App bu
 
 ## <a name="register"></a>Register and Configure an App
 
-To get start click [Here](https://developers.facebook.com/docs/apps/register) and follow along with the guide provided by Facebook consulting the tips below when needed. 
+To get start click [Here](https://developers.facebook.com/docs/apps/register){:target="_blank"} and follow along with the guide provided by Facebook consulting the tips below when needed. 
 
 <div class="uk-alert">Note: If you are only using Facebook to manage pages, these instructions will not work you will need a personal Facebook account to continue.</div>
 
