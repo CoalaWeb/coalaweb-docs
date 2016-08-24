@@ -21,11 +21,11 @@ To get start click [Here](https://developers.facebook.com/docs/apps/register) an
 
 When you are creating your Facebook App use the setting below where applicable. *\[Figure-1\]*
 
-**Platform** Website
-**Namespace** Leave Blank
-**Category** Choose **Utilities**
-**App Domains** Enter your website domain i.e where the extension is installed leaving out the **http**. 
-**Site URL** Enter your website domain i.e where the extension is installed including the **http**. 
+- **Platform** Website
+- **Namespace** Leave Blank
+- **Category** Choose **Utilities**
+- **App Domains** Enter your website domain i.e where the extension is installed leaving out the **http**. 
+- **Site URL** Enter your website domain i.e where the extension is installed including the **http**. 
 
 <div class="uk-alert">Use the top level domain in the App Domains and Site URL options then you can also use it for sub domains.</div>
 
@@ -47,10 +47,10 @@ To create an App Access Token click this [link](https://smashballoon.com/custom-
 
 The **Extra Security** setting in the CoalaWeb Social Links Pro count system uses a security feature provided by Facebook to stop hijacking of the App token which is called **App Secret Proof**. The **App Secret Proof** feature is disabled by default when you create a new **App**. To enable it for your app you will need to go to your app dashboard and do the following. *\[Figure-4\]*
 
-    In the column on the left click on **Settings**.
-    Click on the **Advanced** tab.
-    Scroll down to the **Security** section.
-    Find the toggle for **App Secret Proof** for Server API calls and click it to enable it.
+- In the column on the left click on **Settings**.
+- Click on the **Advanced** tab.
+- Scroll down to the **Security** section.
+- Find the toggle for **App Secret Proof** for Server API calls and click it to enable it.
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-4.png "Figure-4"){.coalaweb-docs}
 
