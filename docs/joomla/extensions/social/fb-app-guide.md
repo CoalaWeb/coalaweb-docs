@@ -7,13 +7,13 @@
 
 ## <a class="doc-top" name="intro"></a>Intro
 
-I have tried to maintain a step by step guide on how to create a Facebook App but due to the constant stream of changes Facebook keeps making to the interface I have decided it's best if users consult the guide provided by Facebook. Their guide will always contains the most up to date information. 
+I have tried to maintain a step by step guide on how to create a Facebook App but due to the constant stream of changes Facebook keeps making to their interface I have decided it's best if users consult the guide provided by Facebook. Their guide will always contains the most up to date information. 
 
 <div class="uk-alert">While working your way through their guide I recommend returning here to get tips and help with what settings to choose.</div>
 
 ## <a name="register"></a>Register and Configure an App
 
-To get start click [Here](https://developers.facebook.com/docs/apps/register) and follow along with the guide provided by Facebook consulting the tips below when needed. 
+To get start click [Here](https://developers.facebook.com/docs/apps/register) and follow along with the guide consulting the tips below when needed. 
 
 <div class="uk-alert">Note: If you are only using Facebook to manage pages, these instructions will not work you will need a personal Facebook account to continue.</div>
 
@@ -37,15 +37,15 @@ You can now copy your **App ID** and paste it into the CoalaWeb extension settin
 
 ## <a name="token"></a>Get App Token
 
-If you want to retrieve and store a page's count using the CoalaWeb Social Links Pro inbuilt count system you will need create a **Facebook App** and use it's **App ID** and **App Secret** to generate an **App Access** Token. 
+If you want to retrieve and store a page's Facebook counts using the CoalaWeb Social Links Pro inbuilt count system you will need to create a **Facebook App** and use it's **App ID** and **App Secret** to generate an **App Access** Token. 
 
-To create an App Access Token click this [link](https://smashballoon.com/custom-facebook-feed/access-token/) and scroll down to the bottom of the page and enter Your **App ID** and **App Secret** into the input fields and then click **Get my Access Token** once it has finished note down the generated App Access Token ready to be used in CoalaWeb extension settings. *\[Figure-3\]*
+To create an App Access Token click this <a href="https://smashballoon.com/custom-facebook-feed/access-token/" target="_blank">Link</a> and scroll down to the bottom of the page and enter Your **App ID** and **App Secret** into the input fields and then click **Get my Access Token** once it has finished note down the generated App Access Token ready to be used in CoalaWeb extension settings. *\[Figure-3\]*
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-3.png "Figure-3"){.coalaweb-docs}
 
 ## <a name="token"></a>Extra Security
 
-The **Extra Security** setting in the CoalaWeb Social Links Pro count system uses a security feature provided by Facebook to stop hijacking of the App token which is called **App Secret Proof**. The **App Secret Proof** feature is disabled by default when you create a new **App**. To enable it for your app you will need to go to your app dashboard and do the following. *\[Figure-4\]*
+The **Extra Security** setting in the CoalaWeb Social Links Pro count system uses a security feature provided by Facebook to help stop hijacking of the App token and is called **App Secret Proof**. The **App Secret Proof** feature is disabled by default when you create a new **App**. To enable it for your App you will need to go to your App dashboard and do the following. *\[Figure-4\]*
 
 - In the column on the left click on **Settings**.
 - Click on the **Advanced** tab.
