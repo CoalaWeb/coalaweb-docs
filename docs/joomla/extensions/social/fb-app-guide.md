@@ -43,7 +43,7 @@ To create an App Access Token click this <a href="https://smashballoon.com/custo
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-3.png "Figure-3"){.coalaweb-docs}
 
-## <a name="token"></a>Extra Security
+## <a name="extra"></a>Extra Security
 
 The **Extra Security** setting in the CoalaWeb Social Links Pro count system uses a security feature provided by Facebook to help stop hijacking of the App token and is called **App Secret Proof**. The **App Secret Proof** feature is disabled by default when you create a new **App**. To enable it for your App you will need to go to your App dashboard and do the following. *\[Figure-4\]*
 
