@@ -1,9 +1,8 @@
 ## Table of Contents
 1.  [Intro](#intro)
-1.  [Register and Configure App](#register)
-1.  [Get App Token](#token)
-2.  [Extra Security](#extra)
-3.  [Need More Help?](#more-help)
+2.  [Register and Configure App](#register)
+3.  [Extra Security](#extra)
+4.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="intro"></a>Intro
 
@@ -31,15 +30,11 @@ When you are creating your Facebook App use the setting below where applicable. 
 
 ![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-1.png "Figure-1"){.coalaweb-docs}
 
-You can now copy your **App ID** and paste it into the CoalaWeb extension settings. *\[Figure-2\]*
+You can now copy your **App ID** and paste it into the Facebook App ID field under the **General** tab in the CoalaWeb Social Links component settings. *\[Figure-2\]*
 
 ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-2.png "Figure-2"){.coalaweb-docs}
 
-## <a name="token"></a>Get App Token
-
-If you want to retrieve and store a page's Facebook counts using the CoalaWeb Social Links Pro inbuilt count system you will need to create a **Facebook App** and use it's **App ID** and **App Secret** to generate an **App Access** Token. 
-
-To create an App Access Token click this <a href="https://smashballoon.com/custom-facebook-feed/access-token/" target="_blank">Link</a> and scroll down to the bottom of the page and enter Your **App ID** and **App Secret** into the input fields and then click **Get my Access Token** once it has finished note down the generated App Access Token ready to be used in CoalaWeb extension settings. *\[Figure-3\]*
+If you are CoalaWeb Social Links Pro subscriber and you want to get Facebook counts using the inbuilt count system you can also add your new Facebook **App ID** and **Secret** to the Facebook options under the **Counts** tab. *\[Figure-3\]*
 
 ![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-3.png "Figure-3"){.coalaweb-docs}
 
@@ -54,7 +49,7 @@ The **Extra Security** setting in the CoalaWeb Social Links Pro count system use
 
 ![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-4.png "Figure-4"){.coalaweb-docs}
 
-Now that the Facebook App is ready you can head back to the Social Links component options, turn on the **FB Extra Security** option and enter your **App Secret** into the **FB App Secret** field. *\[Figure-5\]*
+Now that the Facebook App is ready you can head back to the Social Links component options and turn on **FB Extra Security** under the **Counts** tab. *\[Figure-5\]*
 
 ![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-5.png "Figure-5"){.coalaweb-docs}
 
