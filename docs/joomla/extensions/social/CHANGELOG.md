@@ -1,5 +1,37 @@
 ##Change Log
 
+### Version 0.3.3 September 2016
+
+#### Component - Social Links
+- **(A)** New FB Extra Security fields \[Pro\]
+- **(A)** New FB App Secret fields \[Pro\]
+- **(C)** Social count class now uses FB Graph to retrieve FB counts \[Pro\]
+- **(C)** Social count class has better error handling \[Pro\]
+- **(C)** URL shortening class has better error handling \[Pro\]
+- **(L)** Updated language strings
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(C)** Fixed Twitter and Google links
+- **(C)** Different URL method for loading of Uikit
+- **(C)** Improved CSS
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(C)** Different URL method for loading of Uikit
+
+#### Plugin(C) - Social Panel \[Pro\]
+- **(C)** Fixed Twitter and Google links
+- **(C)** Different URL method for loading of Uikit
+- **(C)** Improved CSS
+
+#### Plugin(S) - Share Count \[Pro\]
+- **(C)** Social count class now uses FB Graph to retrieve FB counts \[Pro\]
+- **(C)** Social count class has better error handling \[Pro\]
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Fixed Twitter and Google links
+- **(C)** Different URL method for loading of Uikit
+- **(C)** Improved CSS
+
 ### Version 0.3.2 August 2016
 
 #### Component - Social Links
