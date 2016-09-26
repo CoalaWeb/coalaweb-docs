@@ -562,8 +562,11 @@ First you can choose if you want to display the who is online section at all. Ne
 
 ### <a name="mod-advanced"></a>Advanced Options
 
-The CoalaWeb Traffic module also has a few of what I consider **Advanced Options** such as the option to turn on or off the loading of the **Core CSS** and or assigning your own **Custom CSS** file. This next option allows you to display the 
-**Date and Time** at the bottom of the module as well as choosing its **Format**. You can also assign a **Module Class Suffix** or whether to use **Cache** including the **Cache Time** in this section. *\[Figure-13\]*
+The CoalaWeb Traffic module also has a few of what I consider **Advanced Options** such as the option to turn on or off the loading of the **Core CSS** and Pro subscribers can assigning their own **Custom CSS** file by uploading it to:
+
+    media/coalawebtraffic/modules/traffic/css/custom
+
+and then selecting it with the **Custom CSS** option. This next option allows you to display the **Date and Time** at the bottom of the module as well as choosing its **Format**. You can also assign a **Module Class Suffix** or whether to use **Cache** including the **Cache Time** in this section. *\[Figure-13\]*
 
 ![Figure-13](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-advanced-1.png "Figure-13"){.coalaweb-docs}
 
