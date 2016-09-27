@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 1.0.5 September 2016
+
+#### Component - Traffic
+- **(C)** New proxy check option for Iptools class
+
 ### Version 1.0.4 August 2016
 
 #### Component - Traffic
