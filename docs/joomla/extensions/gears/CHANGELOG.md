@@ -1,5 +1,9 @@
 ##Change Log
 
+### Version 0.2.6 October 2016
+- **(C)** Iptools class has improved IP detection and validation
+- **(C)** Updated UIkit to version 2.27.1
+
 ### Version 0.2.5 July 2016
 - **(C)** Updated CSS V2 files
 - **(C)** Include CSS V2 file in component options
