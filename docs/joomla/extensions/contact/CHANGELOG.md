@@ -1,5 +1,31 @@
 ## Change Log
 
+### Version 1.0.8 October 2016
+
+#### Component - Contact
+- **(C)** Removed unneeded button CSS from themes
+- **(C)** Changed default button class to btn
+- **(C)** formvalidation is depreciated so replaced with formvalidator
+
+#### Module - Contact
+- **(C)** Stop loading of button CSS when using Custom option
+- **(C)** Changed default button class to btn
+
+#### Module - Contact Tab \[Pro\]
+- **(C)** Stop loading of button CSS when using Custom option
+- **(C)** Changed default button class to btn
+
+#### Plugin(C) - Contact \[Pro\]
+- **(C)** Stop loading of button CSS when using Custom option
+- **(C)** Changed default button class to btn
+
+#### Plugin(S) - CW Mail Check
+- **(C)** Rewritten to fix issues due to JMail updates
+- **(L)** Updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.6
+
 ### Version 1.0.7 June 2016
 
 #### Component - Contact
