@@ -212,11 +212,7 @@ Now that you have the database downloaded the next step is to extract it. Once i
 
 ![Figure-5i](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-10.png "Figure-5i"){.coalaweb-docs}
 
-The next step is convert the name to lowercase **geolitecity.dat**. *\[Figure-5j\]*.
-
-![Figure-5j](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-11.png "Figure-5j"){.coalaweb-docs}
-
-The last step is to upload your newly renamed database file to the following location:
+The last step is to upload the database file to the following location:
 
     administrator/components/com_coalawebtraffic/assets/geoip
 
@@ -240,11 +236,7 @@ Now that you have the database downloaded the next step is to extract it. Once i
 
 ![Figure-5i-a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-10a.png "Figure-5i-a"){.coalaweb-docs}
 
-The next step is convert the name to lowercase **geolite2-city.mmdb**. *\[Figure-5j-a\]*.
-
-![Figure-5j-a](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-geo-11a.png "Figure-5j-a"){.coalaweb-docs}
-
-The last step is to upload your newly renamed database file to the following location:
+The last step is to upload the database file to the following location:
 
     administrator/components/com_coalawebtraffic/assets/geoip/v2
 
