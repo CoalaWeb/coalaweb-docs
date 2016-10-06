@@ -1,5 +1,26 @@
 ## Change Log
 
+### Version 1.0.6 October 2016
+
+#### Component - Traffic
+- **(C)** formvalidation is depreciated and replaced with formvalidator
+- **(C)** Complete rewrite of the GEO upload and install system
+- **(C)** Now using GEO databases with their original names
+- **(C)** Updated helper class checks
+- **(A)** GEO database renaming function for retro compatibility
+- **(A)** 6 new Robots added to auto populate list \[Pro\]
+- **(L)** New and updated language strings
+
+#### Module - Traffic Pro
+- **(A)** Max displayed flags option
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Clean
+- **(B)** Database cleanup done in 50 record chunks to keep queries fast
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.6
+
 ### Version 1.0.5 September 2016
 
 #### Component - Traffic
