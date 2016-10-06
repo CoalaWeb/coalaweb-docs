@@ -40,7 +40,7 @@
     -   [Visitor](#mod-visitor)
     -   [Who is Online](#mod-who)
     -   [Advanced](#mod-advanced)
-4.  [Traffic Pro \[M\]](#module)
+4.  [Traffic Pro \[M\]](#module-pro)
     -   [General](#mod-pro-general)
     -   [Layout](#mod-pro-layout)
     -   [Traffic](#mod-pro-traffic)
@@ -562,7 +562,7 @@ and then selecting it with the **Custom CSS** option. This next option allows yo
 
 ![Figure-13](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-advanced-1.png "Figure-13"){.coalaweb-docs}
 
-## <a name="module"></a>CoalaWeb Traffic Pro \[M\]
+## <a name="module-pro"></a>CoalaWeb Traffic Pro \[M\]
 
 The CoalaWeb Traffic Pro module has a huge list of options so we have broken them up into several sections which are explained in detail below.
 
@@ -669,7 +669,7 @@ Next are the **Who Is Online** counter options which allow you to turn it on or 
 
 #### Part 4 Flags
 
-Next are the **Flag** options which allow you to turn them on or off, their alignment and the section's related title option. *\[Figure-18m\]*
+Next are the **Flag** options which allow you to turn them on or off, the maximum amount to display, their alignment and the section's related title option. *\[Figure-18m\]*
 
 ![Figure-18m](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-3.png "Figure-18m"){.coalaweb-docs}
 
