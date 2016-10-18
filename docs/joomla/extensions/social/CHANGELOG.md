@@ -1,5 +1,32 @@
 ##Change Log
 
+### Version 0.3.4 October 2016
+
+#### Component - Social Links
+- **(C)** formvalidation is depreciated so replaced with formvalidator
+- **(C)** Icon theme CSS changes to stop template conflicts
+- **(C)** Icon theme CSS notes section
+
+#### Module - Social Tabs \[Pro\]
+- **(C)** Fixed external icon option
+- **(A)** New contact us tab page anchor option
+- **(A)** New custom icon page anchor option
+- **(A)** New expanded (full width) bottom option
+- **(L)** New and updated language strings
+
+#### Module - Social Links
+- **(C)** Fixed external icon option
+- **(C)** Updated and improved code comments
+- **(A)** New contact us tab page anchor option
+- **(A)** New custom tab page anchor option
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(B)** Fix Uikit button size issue with WhatsApp
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.6
+
 ### Version 0.3.3 September 2016
 
 #### Component - Social Links
