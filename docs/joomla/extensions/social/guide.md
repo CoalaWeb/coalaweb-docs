@@ -630,7 +630,9 @@ color reference code such as \#000000 for black or you can use the color chooser
 
 #### Part 1 - Facebook
 
-Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to display the Facebook button you will need to create a Facebook application **first** and then copy and paste the **ID** into the **Component** options under the **General** tab. The option below will override the component if needed. For more info on how this is done read below.*\[Figure-10b\]*
+Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to use the new Share Dialog you will need to create a Facebook application **first** and then copy and paste the **ID** into the **Component** options under the **General** tab. The option below will override the component if needed. For more info on how this is done read below.
+
+If you don't want to create a Facebook application you can set the component option **Share System** to (Old) Sharer but keep in mind that Facbook could completely remove support for Sharer system in the future. *\[Figure-10b\]*
 
 ![Figure-10b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-bookmark3.png "Figure-10b"){.coalaweb-docs}
 
@@ -716,7 +718,7 @@ This section covers **Waypoints** which allow you to use HTML elements on the pa
 
 #### Part 3
 
-In this section you can choose to disable Tabs on either **Mobiles** or **Mobiles and Tablets**. Then if you want to keep displaying Tabs on mobiles device you also have the option to move them to the bottom. *\[Figure-25b\]*
+In this section you can choose to disable Tabs on either **Mobiles** or **Mobiles and Tablets**. Then if you want to keep displaying Tabs on mobiles device you also have the option to move them to the bottom and if you want then to expand to the full width of the page. *\[Figure-25b\]*
 
 ![Figure-25b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-general2.png "Figure-25b"){.coalaweb-docs}
 
@@ -742,7 +744,9 @@ If you want the same link to be used for all of the **Share This** icons all of 
 
 #### Part 1 - Facebook
 
-Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to display the Facebook tab you will need to create a Facebook application **first** and then copy and paste the **ID** into the **Component** options under the **General** tab. The option below will override the component if needed. For more info on how this is done read below. *\[Figure-25d\]*
+Facebook has announced that they have deprecated the **Sharer** code in preference of their new **Share Dialog** system, which requires a Facebook App ID. If you plan to use the new Share Dialog you will need to create a Facebook application **first** and then copy and paste the **ID** into the **Component** options under the **General** tab. The option below will override the component if needed. For more info on how this is done read below.
+
+If you don't want to create a Facebook application you can set the component option **Share System** to (Old) Sharer but keep in mind that Facbook could completely remove support for Sharer system in the future. *\[Figure-25d\]*
 
 ![Figure-25d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-share2.png "Figure-25d"){.coalaweb-docs}
 
@@ -764,7 +768,7 @@ To make finding the social media icons easier I have broken them up into groups 
 
 ![Figure-25f](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-follow1.png "Figure-25f"){.coalaweb-docs}
 
-<div class="uk-alert">When adding links use the domain without the http:// for example <em>www.facebook.com</em> or for <em>Mail Us</em> email@social.com </div>
+<div class="uk-alert">When adding links use the domain without the http:// for example <em>www.facebook.com</em> or for <em>Contact Us</em> email@social.com </div>
 
 ### <a name="mod-tabs-follow-cus"></a>Follow Us Custom
 
