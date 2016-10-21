@@ -19,7 +19,7 @@
 
 ## <a name="options"></a>Options
 
-The CoalaWeb Gears module has a long list of options so we have broken them up into 7 sections which are explained in detail below.
+The CoalaWeb Gears plugin has a long list of options so we have broken them up into 8 sections which are explained in detail below.
 
 ### <a name="opt-general"></a>General
 
