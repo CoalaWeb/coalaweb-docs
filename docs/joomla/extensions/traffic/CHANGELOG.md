@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 1.0.7 November 2016
+
+#### Component - Traffic
+- **(B)** Fixed missing framework call in Known IP edit
+
 ### Version 1.0.6 October 2016
 
 #### Component - Traffic

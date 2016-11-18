@@ -1,5 +1,17 @@
 ## Change Log
 
+### Version 1.0.9 November 2016
+
+#### Component - Contact
+- **(C)** Updated guide link
+
+#### Module - Contact
+- **(C)** Removed unneeded TOS reference
+
+#### Module - Contact Tab \[Pro\]
+- **(B)** Fixed issue with mobile device display
+- **(C)** Mobile detection is now done through Gears helper file
+
 ### Version 1.0.8 October 2016
 
 #### Component - Contact

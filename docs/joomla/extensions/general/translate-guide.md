@@ -30,4 +30,4 @@ For the CoalaWeb Core extensions you obviously get to use it in your chosen lang
 
 ### <a name="more-help"></a> Need more help?
 
-If you have any further questions feel free to use the [Contact Form](https://coalaweb.com/support/get-in-touch/contact-us) or drop by the [Forum](https://coalaweb.com/forum).
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
