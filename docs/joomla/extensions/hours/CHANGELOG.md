@@ -1,5 +1,13 @@
 ## Change Log
 
+### Version 1.0.5 November 2016
+
+#### Module - Hours
+- **(B)** All 7 days now display using inline layout \[Pro\]
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.6
+
 ### Version 1.0.4 August 2016
 
 #### Module - Hours

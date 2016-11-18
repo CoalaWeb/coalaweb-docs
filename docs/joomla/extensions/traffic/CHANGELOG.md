@@ -1,5 +1,42 @@
 ## Change Log
 
+### Version 1.0.8 December 2016
+
+#### Component - Traffic
+- **(B)** Fixed auto DB clean up system
+- **(C)** Fixed OVH server IP detection
+- **(A)** New option to store DB errors in a log file
+- **(A)** New option to store DEBUG info in a log file
+- **(A)** Integrated new DEBUG log option into iptools helper file
+- **(A)** Display Pro fields in core version
+- **(A)** 6 new Robots added to auto populate list \[Pro\]
+- **(L)** New and updated language strings
+
+#### Module - Traffic
+- **(A)** Integrated new DB log option for all queries
+- **(A)** Display Pro fields in core version
+- **(L)** New and updated language strings
+
+#### Module - Traffic Pro
+- **(A)** Integrated new DB log option for all queries
+- **(A)** Added custom CSS file option
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Count
+- **(A)** Integrated new DB log option for all queries
+
+#### Plugin(S) - Traffic Online
+- **(A)** Integrated new DB log option for all queries
+
+#### Plugin(S) - Traffic Clean
+- **(B)** Fixed auto DB clean up system
+- **(A)** Integrated new DB log option for all queries
+
+### Version 1.0.7 November 2016
+
+#### Component - Traffic
+- **(B)** Fixed missing framework call in Known IP edit
+
 ### Version 1.0.6 October 2016
 
 #### Component - Traffic

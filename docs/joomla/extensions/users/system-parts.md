@@ -1,22 +1,22 @@
 ## Table of Contents
 1.  [Overview](#overview)
 2.  [Plugins](#plugins)
-    -   [System - Facebook JS](#plg-facebookjs)
+    -   [User - Users](#plg-users)
     -   [System - Gears](#plg-gears)
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-**CoalaWeb Facebook JS** loads the Facebook SDK making sure it has only be loaded once and only where it is needed.
+**CoalaWeb Users** allows users to select a user group while registering and redirect them after successful login based on their assigned group.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
 ## <a name="plugins"></a>Plugins
 
-### <a name="plg-facebookjs"></a>System - Facebook JS
+### <a name="plg-users"></a>User - Users
 
-**CoalaWeb Facebook JS** loads the Facebook SDK making sure it has only be loaded once and only where it is needed. It works in conjunction with the System - CW Gears plugin storing each page's URL with information on whether Facebook should be loaded or not. The CoalaWeb Social Links and Comments extensions depend on it for the correct functioning of Facebook related options. *\[Figure 1\]*
+**CoalaWeb Users** gives website administrators the ability to included a user group field in their Joomla registration form. It also allows the redirection of users after they login based on their assigned user group. *\[Figure 1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/facebookjs/cw-facebookjs.png "Figure-1"){.coalaweb-docs}
+![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/users/cw-users.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="plg-gears"></a>System - Gears
 

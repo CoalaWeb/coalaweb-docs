@@ -1,8 +1,7 @@
 ## Table of Contents
 1.  [Overview](#overview)
-2.  [Modules](#modules)
-    -   [Hours](#mod-hours)
-3.  [Plugins](#plugins)
+2.  [Plugins](#plugins)
+    -   [System - Print](#plg-print)
     -   [System - Gears](#plg-gears)
 
 ## <a class="doc-top" name="overview"></a>Overview
@@ -11,15 +10,13 @@
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
-## <a name="modules"></a>Modules
-
-### <a name="mod-hours"></a>Hours
-
-The **CoalaWeb Hours** module gives you an easy way to display your support or opening hours. The content is fully responsive using the power of UIkit and it's packed full of configuration options to make it as flexible as possible. *\[Figure-1\]*
-
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/hours/system-parts/mod-hours.png "Figure-1"){.coalaweb-docs}
-
 ## <a name="plugins"></a>Plugins
+
+### <a name="plg-print"></a>System - Print
+
+**CoalaWeb Print** is a system plugin that is included with all CoalaWeb extensions. Think of it as a Swiss army knife full of great little tools that you can use with or without a CoalaWeb extension. *\[Figure 2\]*
+
+![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears.png "Figure-2"){.coalaweb-docs}
 
 ### <a name="plg-gears"></a>System - Gears
 
