@@ -1,6 +1,21 @@
 ## Change Log
 
+### Version 1.0.6 December 2016
+
+#### Module - News
+- **(C)** Updated guide link
+- **(C)** Limited dynamic filter cats to number of articles \[pro\]
+- **(A)** Display Pro fields in core version
+
+#### Module - News Set \[Pro\]
+- **(N)** Integrated into the CoalaWeb News extension
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.7
+
 ### Version 1.0.5 June 2016
+
+#### Module - News
 - **(A)** Option to strip out HTML from articles
 - **(A)** Article HTML cleaned by PHP Tidy
 - **(L)** New language strings.
@@ -22,7 +37,7 @@
 - **(C)** Margin outer is now extended and using numbers
 - **(A)** Pro updates with Joomla updater using a download ID
 - **(A)** Exclude articles based on ID (Pro)
-- **(A)** New dynamic filtering based on category (Pro)
+- **(A)** New dynamic filtering based on category \[pro\]
 - **(A)** Match column heights (Pro)
 - **(A)** Two new margin inner sizes
 
