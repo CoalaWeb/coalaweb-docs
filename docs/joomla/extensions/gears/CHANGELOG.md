@@ -1,5 +1,12 @@
 ##Change Log
 
+### Version 0.2.7 December 2016
+- **(A)** Added UIkit slide set support
+- **(C)** Improved version field
+- **(A)** New option to store DB errors in a log file
+- **(A)** New tools helper file for multi extension support
+- **(L)** New language strings
+
 ### Version 0.2.6 October 2016
 - **(C)** Iptools class has improved IP detection and validation
 - **(C)** Updated UIkit to version 2.27.1
