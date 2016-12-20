@@ -54,11 +54,11 @@ To make it easy to explain I have broken this section up into four parts.
 
 **Part 1 Categories**
 
-The first option you have in this section allows you to choose which categories you want to use as the source for your displayed articles. *\[Figure-1a\]*
+The first option you have in this section allows you to choose which categories you want to use as the source for your articles. *\[Figure-1a\]*
 
 ![Figure-1a](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png "Figure-1a"){.coalaweb-docs}
 
-The second option allows you to display a linked list of categories that coincides with the current articles being displayed. *\[Figure-1b\]*
+The second options allows you to display a linked list of categories that coincides with the current articles being displayed. *\[Figure-1b\]*
 
 ![Figure-1b](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-1b.png "Figure-1b"){.coalaweb-docs}
 

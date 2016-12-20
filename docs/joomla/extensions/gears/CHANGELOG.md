@@ -1,5 +1,8 @@
 ##Change Log
 
+### Version 0.2.8 December 2016
+- **(B)** Fixed Pinterest issue when social share buttons are hidden
+
 ### Version 0.2.7 December 2016
 - **(A)** Added UIkit slide set support
 - **(C)** Improved version field
