@@ -1,5 +1,10 @@
 ##Change Log
 
+### Version 0.2.9 January 2017
+- **(C)** Updated copyright to 2017
+- **(A)** Added UIkit tooltip support
+- **(A)** Added UIkit date picker support
+
 ### Version 0.2.8 December 2016
 - **(B)** Fixed Pinterest issue when social share buttons are hidden
 
