@@ -1,5 +1,31 @@
 ## Change Log
 
+### Version 1.0.9 January 2017
+
+#### Component - Traffic
+- **(C)** Updated all Core V1 GEO database system files
+- **(C)** Improved V1 GEO data retrieval and storing
+- **(C)** Improved validation of GEO data retrieval
+- **(C)** Updated copyright to 2017
+
+#### Module - Traffic
+- **(C)** Updated copyright to 2017
+
+#### Module - Traffic Pro
+- **(C)** Updated copyright to 2017
+
+#### Plugin(S) - Traffic Count
+- **(C)** Updated copyright to 2017
+
+#### Plugin(S) - Traffic Online
+- **(C)** Updated copyright to 2017
+
+#### Plugin(S) - Traffic Clean
+- **(C)** Updated copyright to 2017
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.2.9
+
 ### Version 1.0.8 December 2016
 
 #### Component - Traffic
