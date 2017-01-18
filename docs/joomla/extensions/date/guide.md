@@ -8,7 +8,7 @@
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-**CoalaWeb Date** gives Joomla administrators the power to display the current **Date** and **Pro** subscribers the current **Year** or **Copyright** information in any Joomla content item.
+**CoalaWeb Date** gives Joomla administrators the power to display the current **Date** and **Pro** subscribers the current **Year** and or **Copyright** information in any Joomla content item.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
@@ -56,20 +56,20 @@ To display the current year use the plugin code **{cwdate year}** To display cop
 
 To make it easier to follow I have broken up this section into two parts.
  
- #### Date
-  
- In this section you can choose what format you want the date to display in. **Core** users have **4** options while **Pro** subscribers have **11** options to choose from.
- 
- The options with a **(J)** come from the core **Joomla** language files. The options with a **(CW)** are extended options provided by **CoalaWeb** and are contained in this extension's language file. *\[Figure 2\]*
-                                                                                                ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/date/cw-date-f1.png "Figure-2"){.coalaweb-docs}
- 
- #### Copyright 
- 
- **Pro** subscribers also get the option to display **Copyright** information quickly and easily. The first option allows you to add a predefined **From Year** to be display before the current one but if you don't want one just leave this field blank.
-  
- The copyright text comes from a language string in the CoalaWeb Date extension's language files. The current website name as defined in your Joomla settings and the website root will be substitued into the copyright text unless you want to custimize them. To customize either of these items select **Custom** and a new custom field will appear allowing you to enter a website name and or a complete URL for **Name Link**. If you don't want the name to be a link you can also set the **Name Link** option to none. *\[Figure 2a\]*
+#### Date
 
-![Figure-2a](http://cdn.coalaweb.com/images/docs/joomla-extensions/date/cw-date-f1.png "Figure-2a"){.coalaweb-docs}
+In this section you can choose what format you want the date to display in. **Core** users have **4** options while **Pro** subscribers have **11** options to choose from.
+
+The options with a **(J)** come from the core **Joomla** language files. The options with a **(CW)** are extended options provided by **CoalaWeb** and are contained in this extension's language file. *\[Figure 2\]*
+                                                                                            ![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/date/cw-date-f1.png "Figure-2"){.coalaweb-docs}
+
+#### Copyright 
+
+**Pro** subscribers also get the option to display **Copyright** information quickly and easily. The first option allows you to add a predefined **From Year** to be display before the current one but if you don't want one just leave this field blank.
+
+The copyright text comes from a language string in the CoalaWeb Date extension's language files. The current website name as defined in your Joomla settings and the website root will be substitued into the copyright text unless you want to custimize them. To customize either of these items select **Custom** and a new custom field will appear allowing you to enter a website name and or a complete URL for **Name Link**. If you don't want the name to be a link you can also set the **Name Link** option to none. *\[Figure 2a\]*
+
+![Figure-2a](http://cdn.coalaweb.com/images/docs/joomla-extensions/date/cw-date-f2.png "Figure-2a"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 
