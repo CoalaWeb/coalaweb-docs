@@ -12,7 +12,7 @@
 
 ## <a name="plugins"></a>Plugins
 
-### <a name="plg-facebookjs"></a>System - Facebook JS
+### <a name="plg-date"></a>Content - CoalaWeb Date
 
 **CoalaWeb Date** Display the current date or for **Pro** subscribers the current **Year** and or **Copyright** information. It's very easy to install and get up and running with just a simple bit of plugin code in your Joomla content items such as articles and or custom modules. It comes packed with options making it very flexible. *\[Figure 1\]*
 
