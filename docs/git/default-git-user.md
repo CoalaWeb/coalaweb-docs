@@ -62,15 +62,15 @@ If it does not exist feel free to create it in my case I will create it with the
 
 Enter your password to gain root privileges and you should now be confronted with a terminal editor so all you have to do is add your user details as mentioned earlier. *\[Figure 1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/git/default-git-user/default-git-user-2.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-2.png "Figure-1"){.coalaweb-docs}
 
 To save and exit just hit **ctrl x** then for the first question choose **y** and next click **enter** *\[Figure 2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/git/default-git-user/default-git-user-3.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-3.png "Figure-2"){.coalaweb-docs}
 
 For the last question just hit **enter** *\[Figure 3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/git/default-git-user/default-git-user-4.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-4.png "Figure-3"){.coalaweb-docs}
 
 If you want you can check the file was created with the right content by just using Nano. Open the file again as we did in the first step and once you are happy hit **ctrl x**. If you leave without making any changes it will automatically drop out of the editor window.
 

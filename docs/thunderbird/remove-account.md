@@ -14,15 +14,15 @@ What is Thunderbird? Thunderbird is a free email application that’s easy to se
 
 Lets start by opening up our **Account Settings** by clicking **Edit** from the top menu and then **Account Settings** *\[Figure 1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/thunderbird/remove-account/remove-account-1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/thunderbird/remove-account/remove-account-1.png "Figure-1"){.coalaweb-docs}
 
 Next select the account you wish to delete from the list on the left. *\[Figure 2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/thunderbird/remove-account/remove-account-2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/thunderbird/remove-account/remove-account-2.png "Figure-2"){.coalaweb-docs}
 
 Next select **Account Actions** from the bottom left and then click the **Remove Account** option from the drop down list. *\[Figure 3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/thunderbird/remove-account/remove-account-3.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/thunderbird/remove-account/remove-account-3.png "Figure-3"){.coalaweb-docs}
 
 ### All Done
 

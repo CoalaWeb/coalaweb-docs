@@ -17,26 +17,26 @@ There are lots of reasons why you might want to disable a plugin ranging from no
 
 The first way we are going to discuss is the method you will use in most cases and it involves using the **Plugin Manager**. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt1-1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt1-1.png "Figure-1"){.coalaweb-docs}
 
 
 The hardest part of this method is finding the plugin you're looking for, in our example we are going to be disabling the **System - CW Gears** plugin. The easiest way to find it would be to type **Gears** in the search box. *\[Figure-1a\]*
 
-![Figure-1a](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt1-2.png "Figure-1a"){.coalaweb-docs}
+![Figure-1a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt1-2.png "Figure-1a"){.coalaweb-docs}
 
 #### What If you aren’t exactly sure what the plugin is called? 
 
 To start with you can use some of the filters to reduce the amount of plugins you will have to look through. For example if you are trying to disable a plugin we can assume it is currently enabled so setting the **Select Status** filter to **Enabled** would help. *\[Figure-1b\]*
 
-![Figure-1b](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt1-3.png "Figure-1b"){.coalaweb-docs}
+![Figure-1b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt1-3.png "Figure-1b"){.coalaweb-docs}
 
 Once you have found the plugin you are looking for its just a matter of clicking the **Status** icon to **Disable** or **Enable** it. *\[Figure-1c\]*
 
-![Figure-1c](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt1-4.png "Figure-1c"){.coalaweb-docs}
+![Figure-1c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt1-4.png "Figure-1c"){.coalaweb-docs}
 
 If you want to disable **multiple** plugins at the same time you use the **check-boxes** next to each of them and then use the **Disable** or **Enable** button from the top menu. *\[Figure-1d\]*
 
-![Figure-1d](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt1-5.png "Figure-1d"){.coalaweb-docs}
+![Figure-1d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt1-5.png "Figure-1d"){.coalaweb-docs}
 
 ## 2. <a name="opt-2"></a>Edit Extension Files
 
@@ -48,7 +48,7 @@ If a plugin is for example stopping you from accessing the **Plugin Manager** yo
 
 For this example I will be access the root of my website and then the plugins directory via **FTP** and it will look something like the image below. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt2-1.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt2-1.png "Figure-2"){.coalaweb-docs}
 
 Once again we will be using the **System - CW Gears plugin** for this example so we will need to drill down through the following directories.
 
@@ -59,11 +59,11 @@ The main two plugin files will be the **php** and **xml** files with the same na
 -   cwgears.php
 -   cwgears.xml
 
-![Figure-2a](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt2-2.png "Figure-2a"){.coalaweb-docs}
+![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt2-2.png "Figure-2a"){.coalaweb-docs}
 
 To disable it we want to rename or remove the php file. In my opinion its better to rename it and once you get access to your site again you can always uninstall it through the **Plugin Manager**. For this example we will rename it to **cwgears.php-off**. *\[Figure-2b\]*
 
-![Figure-2b](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt2-3.png "Figure-2b"){.coalaweb-docs}
+![Figure-2b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt2-3.png "Figure-2b"){.coalaweb-docs}
 
 Now you should be able to gain access your website and take the appropriate action.
 
@@ -75,19 +75,19 @@ In this example we will be using **phpMyAdmin** to access the database as it is 
 
 Once you have logged into to **phpMyAdmin** select the database associated with your website from the left. You should now be looking at a list of all your website's tables but the one we are interested in is the **Extensions** table so once you have found it click on it.  *\[Figure-3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt3-1.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt3-1.png "Figure-3"){.coalaweb-docs}
 
 In the next window you will see a list of all the extension installed on your website including the components, modules and plugins so to make it easier to find the one we are looking for we are going to use the **Search** tab from the top. *\[Figure-3a\]*
 
-![Figure-3a](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt3-2.png "Figure-3a"){.coalaweb-docs}
+![Figure-3a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt3-2.png "Figure-3a"){.coalaweb-docs}
 
 In the next window you have several ways to filter the extensions I prefer to use the **Element** field as its the same as the directory the plugin is stored in but you could use type(plugin) and or folder(system) for example to help find the one you are looking for. When you are ready click the **Go** button in the bottom right to start the search which in my case returned the plugin I was looking for with the search field I used highlighted. You may also notice that it has a **1** in the **Enabled** column telling us that it is currently enabled. *\[Figure-3b\]*
 
-![Figure-3b](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt3-3.png "Figure-3b"){.coalaweb-docs}
+![Figure-3b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt3-3.png "Figure-3b"){.coalaweb-docs}
 
 Now to disable the plugin in question just click the **Inline Edit** button to the left which will allow us to make quick changes to the table. *\[Figure-3c\]*
 
-![Figure-3c](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/opt3-4.png "Figure-3c"){.coalaweb-docs}
+![Figure-3c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/opt3-4.png "Figure-3c"){.coalaweb-docs}
 
 In the next window look for the column titled **enabled** and change the **1** to a **0** and click **Save**. Thats it the plugin is now disabled and you should have gained access again to your website. If you need to disable more plugins just repeats these steps.
 
@@ -97,7 +97,7 @@ In the next window look for the column titled **enabled** and change the **1** t
 
 If you see an **Error Message** take note of the **File** that is causing the problem as there is a good chance it will tell you which plugin is to blame. *\[Figure-4\]*
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-tips/disable-plugin/tips-1.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-tips/disable-plugin/tips-1.png "Figure-4"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 

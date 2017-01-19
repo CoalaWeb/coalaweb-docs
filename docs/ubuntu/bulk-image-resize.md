@@ -16,7 +16,7 @@ What is Nautilus Image Converter? It’s an extension to mass re-size or rotate 
 ### <a name="install"></a>Install
 In Ubuntu open up the software center and type **nautilus-image-converter** into the search window and you should see the package we want listed in the window. *\[Figure 1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/ubuntu/bulk-image-resize/bulk-image-resize-1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/ubuntu/bulk-image-resize/bulk-image-resize-1.png "Figure-1"){.coalaweb-docs}
 
 Next click install and enter your password if prompted then let Ubuntu weave its magic. Now to use this fabulous extension you will have to restart Nautilus and to do this with out having to log out open up your terminal and type:
 
@@ -32,11 +32,11 @@ If Nautilus doesn't automatically reopen try this. From the Unity menu (press th
 
 Now we should have the **Nautilus Image Converter** installed and ready to use so lets navigate to the directory containing the images you wish to re-size. Next select all the images you want to re-size and **right click** you should now see two new entries in the option list **Re-size Images** and **Rotate Images**. *\[Figure 2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/ubuntu/bulk-image-resize/bulk-image-resize-2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/ubuntu/bulk-image-resize/bulk-image-resize-2.png "Figure-2"){.coalaweb-docs}
 
 Lets try it out by scrolling down and select **Re-size Images** You will be confronted with a re-size image options window. *\[Figure 3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/ubuntu/bulk-image-resize/bulk-image-resize-3.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/ubuntu/bulk-image-resize/bulk-image-resize-3.png "Figure-3"){.coalaweb-docs}
 
 You have two main option the first is **Image Size** here you can choose the following methods of resizing.
 
