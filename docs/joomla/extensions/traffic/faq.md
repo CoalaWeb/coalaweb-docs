@@ -55,7 +55,7 @@ If this directory is empty then the component wouldn't be functioning at all. I'
 
 Once you have found the right location it should have files similar to this including the assets directory. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/traffic/faq/cw-traffic-faq-geo-1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/faq/cw-traffic-faq-geo-1.png "Figure-1"){.coalaweb-docs}
 
 Then I recommend using the updated [Guide](/support/documentation/category/extensions) and follow the steps exactly.
 

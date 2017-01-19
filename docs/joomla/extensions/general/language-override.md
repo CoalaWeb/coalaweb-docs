@@ -33,7 +33,7 @@ When we deal with language overrides the system will take care of formating the 
 
 I want to change the **Custom 1** field in my contact form to **Phone Number** and I have a website with both **English** and **Spanish**. To do this I will be updating the custom field's label. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-1.png "Figure-1"){.coalaweb-docs}
 
 The **Constant** that we will be applying the override to is:
 
@@ -53,27 +53,27 @@ Next select **Overrides** from the side menu. For this example I want to create 
 
 To get started I first select **Spanish (español) - Administrator** from the bottom left menu and then **New** from the top menu. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-2.png "Figure-2"){.coalaweb-docs}
 
 Next enter the **Language Constant** to be overridden. *\[Figure-3\]*
 
     COM_CWCONTACT_LABEL_CUSTOM1
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-3.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-3.png "Figure-3"){.coalaweb-docs}
 
 Next enter the text to be displayed instead of the original text.  *\[Figure-4\]*
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-4.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-4.png "Figure-4"){.coalaweb-docs}
 
 Next tick the **For both locations** option because although the language string is stored in the **Administrator** language location we want it to be applied to the **Site** part where the module is displayed. *\[Figure-5\]*
 
-![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-5.png "Figure-5"){.coalaweb-docs}
+![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-5.png "Figure-5"){.coalaweb-docs}
 
 Now after you save your new override it will be displayed in the list of **Spanish (español) - Administrator** and **Spanish (español) - Site** overrides .
 
 Now try refreshing your site to see the contact form with its new label in action. *\[Figure-6\]*
 
-![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-6.png "Figure-6"){.coalaweb-docs}
+![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-6.png "Figure-6"){.coalaweb-docs}
 
 <div class="uk-alert">Note: You would also have to repeat the process for the other two associated language strings.</div>
 
@@ -84,42 +84,42 @@ Now try refreshing your site to see the contact form with its new label in actio
 
 In this case it gets a bit more complicated because the language file that contains the **Constant** and **Value** that I want to override is **English - Administrator** and the override will need to be applied to **Spanish**. Now to find out the correct **Constant** we will first select **English - Administrator** from the side menu and then **New** from the top menu. *\[Figure-7\]*
 
-![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-7.png "Figure-7"){.coalaweb-docs}
+![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-7.png "Figure-7"){.coalaweb-docs}
 
 
 Now I'm not sure what the exact language **Constant** is so I'm going to use the search option to the right. For example if I wanted to see what the **Constant** for the **Custom 1** label is I could set the **Search For** option to **Value** and then type **Custom 1** in the search field and click search.  *\[Figure-8\]*
 
-![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-8.png "Figure-8"){.coalaweb-docs}
+![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-8.png "Figure-8"){.coalaweb-docs}
 
 In most cases you will have to have a look through the returned option to get the exact one you are looking for. *\[Figure-9\]*
 
-![Figure-9](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-9.png "Figure-9"){.coalaweb-docs}
+![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-9.png "Figure-9"){.coalaweb-docs}
 
 Now that we have our **Constant** we can select **Spanish (español) - Administrator** from the bottom left menu and then **New** from the top menu. *\[Figure-10\]*
 
 <div class="uk-alert">Note: We will also make sure it is applied to the front end in a future step.</div>
 
-![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-2.png "Figure-10"){.coalaweb-docs}
+![Figure-10](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-2.png "Figure-10"){.coalaweb-docs}
 
 Next enter the **Language Constant** to be overridden. *\[Figure-11\]*
 
     COM_CWCONTACT_LABEL_CUSTOM1
 
-![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-3.png "Figure-11"){.coalaweb-docs}
+![Figure-11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-3.png "Figure-11"){.coalaweb-docs}
 
 Next enter the text to be displayed instead of the original text.  *\[Figure-12\]*
 
-![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-4.png "Figure-12"){.coalaweb-docs}
+![Figure-12](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-4.png "Figure-12"){.coalaweb-docs}
 
 Next tick the **For both locations** option because although the language string is stored in the **Administrator** language location we want it to be applied to the **Site** part where the module is displayed. *\[Figure-13\]*
 
-![Figure-13](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-5.png "Figure-13"){.coalaweb-docs}
+![Figure-13](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-5.png "Figure-13"){.coalaweb-docs}
 
 Now after you save your new override it will be displayed in the list of **Spanish (español) - Administrator** overrides.
 
 Now try refreshing your site to see the contact form with its new label in action.  *\[Figure-14\]*
 
-![Figure-14](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/lang-override/image-6.png "Figure-14"){.coalaweb-docs}
+![Figure-14](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/lang-override/image-6.png "Figure-14"){.coalaweb-docs}
 
 <div class="uk-alert">Note: You would also have to repeat the process for the other two associated language strings.</div>
 

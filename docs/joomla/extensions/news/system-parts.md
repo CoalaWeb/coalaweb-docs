@@ -18,13 +18,13 @@
 
 The **CoalaWeb News** module gives you the power to display all your latest news items where and when you want. The content is fully responsive using the power of UIkit and it's packed full of configuration options to make it as flexible as possible. \[Pro\] subscribers get extra layout and style options plus category based filtering. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/system-parts/news.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/system-parts/news.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="mod-news-set"></a>News Set \[Pro\]
 
 The **CoalaWeb News Set** module gives you the power to display all your latest news items in a slide set with navigation and category based filtering. The content is fully responsive using the power of UIkit and it's packed full of configuration options to make it as flexible as possible. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/system-parts/news-set.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/system-parts/news-set.png "Figure-2"){.coalaweb-docs}
 
 ## <a name="plugins"></a>Plugins
 
@@ -32,4 +32,4 @@ The **CoalaWeb News Set** module gives you the power to display all your latest 
 
 **CoalaWeb Gears** is a system plugin that is included with all CoalaWeb extensions. Think of it as a Swiss army knife full of great little tools that you can use with or without a CoalaWeb extension. *\[Figure 3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears.png "Figure-3"){.coalaweb-docs}

@@ -2,9 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/steven.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/gears/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/gears/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/contact/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/contact/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/date/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/date/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/date/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/date/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/facebookjs/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/facebookjs/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/facebookjs/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/facebookjs/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/flair/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/flair/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/flair/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/flair/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/gears/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/gears/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/general/install-uninstall.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/general/install-uninstall.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/general/language-override.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/general/language-override.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/general/updates.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/general/updates.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/hours/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/hours/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/hours/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/hours/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/news/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/news/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/news/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/news/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/print/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/print/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/print/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/print/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/fb-app-guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/fb-app-guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/fb-share-guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/fb-share-guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/traffic/faq.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/traffic/faq.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/traffic/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/traffic/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/traffic/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/traffic/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/users/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/users/guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/users/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/users/system-parts.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,12 +86,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guide.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="guide.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/guide.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="2147">
                 <caret line="113" column="49" lean-forward="false" selection-start-line="113" selection-start-column="49" selection-end-line="113" selection-end-column="49" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guide.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="177">
+                <caret line="52" column="12" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -113,19 +151,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guide.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/facebookjs/guide.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/date/CHANGELOG.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -155,9 +180,15 @@
     </leaf>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://cdn.coalaweb.com</find>
+    </findStrings>
     <replaceStrings>
       <replace>https://d1tgoab1lhw0tx.cloudfront.net</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/docs/joomla/extensions</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -177,6 +208,7 @@
         <option value="$PROJECT_DIR$/docs/joomla/extensions/date/system-parts.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/gears/guide.md" />
+        <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md" />
       </list>
     </option>
   </component>
@@ -274,32 +306,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="joomla" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extensions" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gears" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -389,7 +395,7 @@
       <updated>1481224785035</updated>
       <workItem from="1481224786506" duration="42000" />
       <workItem from="1484416519136" duration="2096000" />
-      <workItem from="1484521516686" duration="11677000" />
+      <workItem from="1484521516686" duration="12359000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -433,11 +439,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484756022954</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Testing https from cloudfront for images">
+      <created>1484833693374</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1484833693374</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13815000" />
+    <option name="totallyTimeSpent" value="14497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-26" width="1920" height="1106" extended-state="6" />
@@ -447,6 +460,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -457,7 +471,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -475,7 +488,8 @@
     <MESSAGE value="Small changes to CoalaWeb Date guide" />
     <MESSAGE value="Small changes to CoalaWeb Date system parts" />
     <MESSAGE value="Added CoalaWeb Date to TOC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added CoalaWeb Date to TOC" />
+    <MESSAGE value="Testing https from cloudfront for images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing https from cloudfront for images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -657,6 +671,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2147">
             <caret line="113" column="49" lean-forward="false" selection-start-line="113" selection-start-column="49" selection-end-line="113" selection-end-column="49" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="177">
+            <caret line="52" column="12" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />

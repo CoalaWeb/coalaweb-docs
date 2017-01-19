@@ -17,7 +17,7 @@
 
 The **CoalaWeb Hours** module gives you an easy way to display your support or opening hours. The content is fully responsive using the power of UIkit and it's packed full of configuration options to make it as flexible as possible. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/hours/system-parts/mod-hours.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/system-parts/mod-hours.png "Figure-1"){.coalaweb-docs}
 
 ## <a name="plugins"></a>Plugins
 
@@ -25,4 +25,4 @@ The **CoalaWeb Hours** module gives you an easy way to display your support or o
 
 **CoalaWeb Gears** is a system plugin that is included with all CoalaWeb extensions. Think of it as a Swiss army knife full of great little tools that you can use with or without a CoalaWeb extension. *\[Figure 2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears.png "Figure-2"){.coalaweb-docs}

@@ -22,7 +22,7 @@ extension you want to install. *\[Figure-1\]*
 
 <span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/download-pack.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/download-pack.png "Figure-1"){.coalaweb-docs}
 
 Next log into the backend of your Joomla installation and open up the 
 **Extension Manager** and then select the **Upload Package File** option.
@@ -31,12 +31,12 @@ It can be found in this location. *\[Figure-2\]*
 
     Extensions → Extension Manager → Upload Package File
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/upload-2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/upload-2.png "Figure-2"){.coalaweb-docs}
 
 Then use the **Browse** button to find and select the package you downloaded in the first 
 step. *\[Figure-3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/upload-3.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/upload-3.png "Figure-3"){.coalaweb-docs}
 
 Lastly select **Upload & Install** to start the process. The install script
 used by CoalaWeb extensions will take care of installing all the related parts of 
@@ -45,7 +45,7 @@ finished you will receive conformation. *\[Figure-3\]*
 
 <div class="uk-alert">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-4"){.coalaweb-docs}
 
 ### <a name="directory"></a>Install from Directory
 
@@ -61,7 +61,7 @@ installing an extension is that we need it unzipped so you may as well do it now
 
 <div class="alert">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/download-pack.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/download-pack.png "Figure-1"){.coalaweb-docs}
 
 Next we need to get the freshly downloaded package onto our server and into the
 **tmp** directory so lets start by checking its location. Log into the backend 
@@ -72,7 +72,7 @@ It can be found in this location. *\[Figure-2\]*
 
     System → Global Configuration → Server → Path to Temp Folder
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/directory-2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/directory-2.png "Figure-2"){.coalaweb-docs}
 
 Now that we know where we want the package to go it's time to fire up your FTP client 
 and navigate to the directory we just checked. Once we have found it upload the 
@@ -80,7 +80,7 @@ package we download in the first step into the **tmp** directory. *\[Figure-3\]*
 
 <span class="alert" markdown="1">Note: Make sure the package is unzipped/extracted.</div>
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/directory-3.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/directory-3.png "Figure-3"){.coalaweb-docs}
 
 Now back to your Joomla administration area and open up the 
 **Extension Manager** and then select the **Install from Directory** option.
@@ -93,7 +93,7 @@ The **tmp** directory location should already be filled in for you and it should
 same as the directory we check in a previous step. Next add the the package name 
 to the end making sure it's exactly same as the folder you uploaded with FTP. *\[Figure-4\]*
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/directory-4.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/directory-4.png "Figure-4"){.coalaweb-docs}
 
 Lastly select **Install** to start the process. The install script
 used by CoalaWeb extensions will take care of installing all the related parts of 
@@ -102,7 +102,7 @@ finished you will receive conformation. *\[Figure-5\]*
 
 <div class="uk-alert">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
-![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-5"){.coalaweb-docs}
+![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-5"){.coalaweb-docs}
 
 ### <a name="url"></a>Install From URL
 
@@ -117,7 +117,7 @@ Once you have logged in over at [CoalaWeb](http://coalaweb.com) proceed to the
 **Downloads** area the same as for the previous two methods of installing 
 extensions and you will notice a new **Direct Link** option. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/url-1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/url-1.png "Figure-1"){.coalaweb-docs}
 
 Now copy this link and head back over to your Joomla administration area and open up the 
 **Extension Manager** and then select the **Install from URL** option.
@@ -129,7 +129,7 @@ It can be found in this location.
 Next copy and paste the link from the previous step into the **Install URL** 
 field. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/url-2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/url-2.png "Figure-2"){.coalaweb-docs}
 
 Lastly select **Install** to start the process. The install script
 used by CoalaWeb extensions will take care of installing all the related parts of 
@@ -138,7 +138,7 @@ finished you will receive conformation. *\[Figure-3\]*
 
 <div class="uk-alert" markdown="1">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-3"){.coalaweb-docs}
 
 ### <a name="web"></a>Install from Web J3.+
 
@@ -158,18 +158,18 @@ It can be found in this location.
 Next in the **Search** box type **coalaweb** and click the magnifying glass. 
 You should now see a list of our extensions. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/web-1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/web-1.png "Figure-1"){.coalaweb-docs}
 
 For this example we will install the **CoalaWeb Social Links** extension so 
 click the title of the extension you want to install. You should now see a 
 description page along with some links included an **Install** link. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/web-2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/web-2.png "Figure-2"){.coalaweb-docs}
 
 Next click **Install** and you will be taken to a confirmation page with basic
 details about the extension and its download link. *\[Figure-3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/web-3.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/web-3.png "Figure-3"){.coalaweb-docs}
 
 If you are happy select **Install** again to start the process. The install script
 used by CoalaWeb extensions will take care of installing all the related parts of 
@@ -178,7 +178,7 @@ finished you will receive conformation. *\[Figure-4\]*
 
 <div class="uk-alert">Note: Installing an extension can take some time due to consisting of several smaller extensions so please be patient.</div>
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/install-confirm.png "Figure-4"){.coalaweb-docs}
 
 ## <a name="uninstall"></a>Uninstallation Guides
 
@@ -197,18 +197,18 @@ It can be found in this location.
 
     Extensions → Extension Manager → Manage
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/uninstall-all-1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/uninstall-all-1.png "Figure-1"){.coalaweb-docs}
 
 Next to make sure we only have components listed change the filter **Type** to 
 **Components** now you should only have components listed to the right. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/uninstall-all-2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/uninstall-all-2.png "Figure-2"){.coalaweb-docs}
 
 Next to filter down the extensions even more lets use the search box and search 
 for **coalaweb** In the case of this guide we will be uninstalling the 
 CoalaWeb Social Links extension. *\[Figure-3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/uninstall-all-3.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/uninstall-all-3.png "Figure-3"){.coalaweb-docs}
 
 Now select it from the list and click **Uninstall** from the top menu. The uninstall script
 used by CoalaWeb extensions will take care of uninstalling all the related parts of 
@@ -217,7 +217,7 @@ finished you will receive conformation. *\[Figure-4\]*
 
 <div class="uk-alert">Note: Uninstalling an extension can take some time due to having to uninstall several smaller extensions at the same time so please be patient.</div>
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/uninstall-all-4.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/uninstall-all-4.png "Figure-4"){.coalaweb-docs}
 
 Now if you have other CoalaWeb extension installed on your system than thats it
 you have finished. If this was the only CoalaWeb extension you had installed 
@@ -228,12 +228,12 @@ CoalaWeb extension needs it it isn't automatically uninstalled.
 Let make it easy to find by doing some filtering, select **Plugin** from the 
 **Filter** menu and then type **CW Gears** in the search field. *\[Figure-5\]*
 
-![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/uninstall-all-5.png "Figure-5"){.coalaweb-docs}
+![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/uninstall-all-5.png "Figure-5"){.coalaweb-docs}
 
 Select the **CW Gears** plugin and then click **Uninstall** from the top menu. When it 
 has finished you will receive confirmation and you are done. *\[Figure-6\]*
 
-![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/install/uninstall-all-6.png "Figure-6"){.coalaweb-docs}
+![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/install/uninstall-all-6.png "Figure-6"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 

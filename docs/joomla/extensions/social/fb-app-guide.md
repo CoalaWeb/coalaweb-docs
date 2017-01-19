@@ -28,15 +28,15 @@ When you are creating your Facebook App use the setting below where applicable. 
 
 <div class="uk-alert">Use the top level domain in the App Domains and Site URL options then you can also use it for sub domains.</div>
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-1.png "Figure-1"){.coalaweb-docs}
 
 You can now copy your **App ID** and paste it into the Facebook App ID field under the **General** tab in the CoalaWeb Social Links component settings. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-2.png "Figure-2"){.coalaweb-docs}
 
 If you are CoalaWeb Social Links Pro subscriber and you want to get Facebook counts using the inbuilt count system you can also add your new Facebook **App ID** and **Secret** to the Facebook options under the **Counts** tab. *\[Figure-3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-3.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-3.png "Figure-3"){.coalaweb-docs}
 
 ## <a name="extra"></a>Extra Security
 
@@ -47,11 +47,11 @@ The **Extra Security** setting in the CoalaWeb Social Links Pro count system use
 - Scroll down to the **Security** section.
 - Find the toggle for **App Secret Proof** for Server API calls and click it to enable it.
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-4.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-4.png "Figure-4"){.coalaweb-docs}
 
 Now that the Facebook App is ready you can head back to the Social Links component options and turn on **FB Extra Security** under the **Counts** tab. *\[Figure-5\]*
 
-![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-5.png "Figure-5"){.coalaweb-docs}
+![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-5.png "Figure-5"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 

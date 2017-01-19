@@ -17,11 +17,11 @@ For **Pro** subscribers you will need to make sure you still have a **Valid Subs
 
 <div class="uk-alert">Not sure where to find your Download ID? Click <a href="#dl-id">HERE</a> for more info.</div>
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/cw-contact-config-updates1.png "Figure-1"){.coalaweb-docs}
 
  Or through the component configuration options under **Updates**. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/cw-contact-config-updates2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/cw-contact-config-updates2.png "Figure-2"){.coalaweb-docs}
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
 
@@ -37,11 +37,11 @@ For **Pro** subscribers you will need to make sure you still have a **Valid Subs
 
 <div class="uk-alert">Not sure where to find your Download ID? Click <a href="#dl-id">HERE</a> for more info.</div>
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-3"){.coalaweb-docs}
 
 Inside the **CW Gears** plugin options your will find a tab titled **Updates** and under it a **Download ID** input field. I recommend you copy and paste your **Download ID** into this field to reduce the risk of a typo and also to check for no spaces at the end.  *\[Figure-4\]*
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-4"){.coalaweb-docs}
 
 <div class="uk-alert">The CW Gears plugin will take care of the Download ID for any CoalaWeb extensions that doesn't come with a component.</div>
 
@@ -67,7 +67,7 @@ To see your **Download ID** you will need to log into [coalaweb.com](http://coal
 
 You will then see the ID displayed in the module titled **Download ID**. *\[Figure-5\]*
 
-![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-5"){.coalaweb-docs}
+![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-5"){.coalaweb-docs}
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 

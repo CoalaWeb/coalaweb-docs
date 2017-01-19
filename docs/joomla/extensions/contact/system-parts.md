@@ -20,7 +20,7 @@
 
 The Component makes setting up the plugins a breeze by having a centralized location for all their associated configuration options. It also provides quick access to help and support plus current version information. The other great thing the component does is take care of the installing, updating and uninstalling of all the associated parts of the system which makes the process much more streamlined. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/com-contact.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/system-parts/com-contact.png "Figure-1"){.coalaweb-docs}
 
 ## <a name="modules"></a>Modules
 
@@ -30,13 +30,13 @@ The Component makes setting up the plugins a breeze by having a centralized loca
 
 The **CoalaWeb Contact** module makes placing a contact form on your website a breeze. You can publish one or more modules even with different styles in any one of your available module positions. You can even create your own styles in a few easy steps making integration of CoalaWeb Contact into your website a painless process. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-contact.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/system-parts/mod-contact.png "Figure-2"){.coalaweb-docs}
 
 ### <a name="mod-tab"></a>Contact Tab \[Pro Version\]
 
 The **CoalaWeb Contact Tab** module gives you a fast and easy way to set-up a contact form that is displayed in a slide out window which saves valuable screen space. You can display it on either side top or bottom plus its packed full of other options making it very flexible. *\[Figure-2b\]*
 
-![Figure-2b](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/mod-tab.png "Figure-2b"){.coalaweb-docs}
+![Figure-2b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/system-parts/mod-tab.png "Figure-2b"){.coalaweb-docs}
 
 ## <a name="plugins"></a>Plugins
 
@@ -44,22 +44,22 @@ The **CoalaWeb Contact Tab** module gives you a fast and easy way to set-up a co
 
 The **CoalaWeb Contact** content plugin gives you even more flexibility by allowing you to place one or more contact forms anywhere you wish within your content. It's packed full of configuration options to make integrating it into your website a breeze. *\[Figure-3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/plg-contact.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/system-parts/plg-contact.png "Figure-3"){.coalaweb-docs}
 
 ### <a name="plg-button"></a>Editor XTD - BTN Contact \[Pro Version\]
 
 The **CoalaWeb BTN Contact** editor xtd plugin makes adding a contact form to your Joomla content a one click process just place the cursor where you want the form and then click the Insert Contact button displayed at the bottom of the editor. *\[Figure-4\]*
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/plg-btncontact.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/system-parts/plg-btncontact.png "Figure-4"){.coalaweb-docs}
 
 ### <a name="plg-check"></a>System - Mail Check
 
 **CoalaWeb Mail Check** is a system plugin designed to help you test your mail settings to make sure you emails are being sent correctly. It allows you to try various setting and check their validity with out having to save each time. *\[Figure 14\]*
 
-![Figure-14](http://cdn.coalaweb.com/images/docs/joomla-extensions/contact/system-parts/plg-mailcheck.png "Figure-14"){.coalaweb-docs}
+![Figure-14](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/system-parts/plg-mailcheck.png "Figure-14"){.coalaweb-docs}
 
 ### <a name="plg-gears"></a>System - Gears
 
 **CoalaWeb Gears** is a system plugin that is included with all CoalaWeb extensions. Think of it as a Swiss army knife full of great little tools that you can use with or without a CoalaWeb extension. *\[Figure 13\]*
 
-![Figure-13](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears.png "Figure-13"){.coalaweb-docs}
+![Figure-13](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears.png "Figure-13"){.coalaweb-docs}

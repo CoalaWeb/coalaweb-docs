@@ -76,11 +76,11 @@
 
 The **Control Panel** as seen below it is designed to be an easy starting point, think of it as the components head quarters. While carrying out tasks you can easily jump from the **Control Panel** to the different sections and then return before moving onto the next one. *\[Figure-1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-cpanel.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-cpanel.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="com-counts"></a>Counts
 
-![Figure-31](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-counts1.png "Figure-31"){.coalaweb-docs}
+![Figure-31](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-counts1.png "Figure-31"){.coalaweb-docs}
 
 <div class="uk-alert">To make it easier to follow I have broken up the <em>Counts</em> information into two parts.</div>
 
@@ -100,7 +100,7 @@ If you have chosen to turn on share counts in the component options then you wil
 -   R = Reddit
 -   S = Stumbleupon
 
-![Figure-31a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-counts2.png "Figure-31a"){.coalaweb-docs}
+![Figure-31a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-counts2.png "Figure-31a"){.coalaweb-docs}
 
 If you are familiar with the latest versions of Joomla you will already know what features are avaliable in the **Counts** view and how to use them but if your not read on to get a brief summary.
 
@@ -108,11 +108,11 @@ In the **Counts** view you can filter by any column and search by title and publ
 
 One last cool feature is the **Magnifying Glass** next to an item's name which provides a quick way to see the exact page **URL** that the counts relate too. *\[Figure-31b\]*
 
-![Figure-31b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-counts3.png "Figure-31b"){.coalaweb-docs}
+![Figure-31b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-counts3.png "Figure-31b"){.coalaweb-docs}
 
 One thing to note is if you send items to the **Trash** remember to **Empty Trash** to stop them from interfering with new counts. You can do this by clicking the **Search Tools** button and then filtering by **Trashed** in the drop down selector. Next select all the items and click the **Empty Trash** button from the top. *\[Figure-31c\]*
 
-![Figure-31c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-counts4.png "Figure-31c"){.coalaweb-docs}
+![Figure-31c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-counts4.png "Figure-31c"){.coalaweb-docs}
 
 #### Count \[Edit\]
 
@@ -122,37 +122,37 @@ Once in the edit screen you can see all the information related to a particular 
 
 You can also make changes to the counts but keep in mind that any changes you make will get updated when the **Locktime** has elapsed. You can also change an items **Status** and check or update the last person that **Modified** the item and the time it was modified. *\[Figure-31d\]*
 
-![Figure-31d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-counts5.png "Figure-31d"){.coalaweb-docs}
+![Figure-31d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-counts5.png "Figure-31d"){.coalaweb-docs}
 
 ### <a name="com-purge"></a>Purge \[Pro\]
 
-![Figure-32a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-purge1.png "Figure-32a"){.coalaweb-docs}
+![Figure-32a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-purge1.png "Figure-32a"){.coalaweb-docs}
 
 Pro subscribers also get a **Purge** button will delete all of the count records current stored in the Social Links database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
 
-![Figure-32b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-purge2.png "Figure-32b"){.coalaweb-docs}
+![Figure-32b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-purge2.png "Figure-32b"){.coalaweb-docs}
 
 After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
 
-![Figure-32c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-purge3.png "Figure-32c"){.coalaweb-docs}
+![Figure-32c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-purge3.png "Figure-32c"){.coalaweb-docs}
 
 ### <a name="com-optimize"></a>Optimize and Repair \[Pro\]
 
-![Figure-33a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-optimize1.png "Figure-33a"){.coalaweb-docs}
+![Figure-33a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-optimize1.png "Figure-33a"){.coalaweb-docs}
 
 Pro subscribers also get an **Optimize** button will attempt to repair and optimize all the Social Links database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-33b\]*
 
-![Figure-33b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-optimize2.png "Figure-33b"){.coalaweb-docs}
+![Figure-33b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-optimize2.png "Figure-33b"){.coalaweb-docs}
 
 After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
 
-![Figure-33c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-optimize3.png "Figure-33c"){.coalaweb-docs}
+![Figure-33c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-optimize3.png "Figure-33c"){.coalaweb-docs}
 
 ### <a name="help"></a>Inbuilt Help
 
 In the control panel or the tool menu you have a help icon that when clicked will open a pop up wrapper of this specific guide. This gives you an easy way of checking the functionality of a particular item with out leaving the control panel. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-help.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-help.png "Figure-2"){.coalaweb-docs}
 
 ### <a name="options"></a>Extension Options
 
@@ -164,23 +164,23 @@ In the control panel or the tool menu you have a help icon that when clicked wil
 
 The first option in this section allows you to load the Facebook JavaScript library through a specifically designed plugin that will ensure it's only loaded once and can be used by all the parts of the Social Links system. *\[Figure-26\]*
 
-![Figure-26](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra5.png "Figure-26"){.coalaweb-docs}
+![Figure-26](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra5.png "Figure-26"){.coalaweb-docs}
 
 The next option is the **Facebook Application ID** which will be used through out the Social Links system both by it's associated **Modules** and **Plugins**. This is a centralized location making it quick and easy to add the ID once and have the whole system use it. This can be overridden in some cases such as the Social Links module if needed.  *\[Figure-26a\]*
 
-![Figure-26a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra6.png "Figure-26a"){.coalaweb-docs}
+![Figure-26a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra6.png "Figure-26a"){.coalaweb-docs}
 
 The next option allows you to choose which method you wish to use when sharing with Facebook. This option will affect the sharing of the Social Links and Tabs modules as well as the Share content plugin.  You can choose between the new Share Dialog (Official but requires an App ID ) or the old Sharer (Depreciated but more features). *\[Figure-26b\]*
 
 <div class="uk-alert">I recommend at least setting up the new system by creating a Facebook App then if Facebook decides to completely remove the Sharer system you can easily switch over.</div>
 
-![Figure-26b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra8.png "Figure-26b"){.coalaweb-docs}
+![Figure-26b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra8.png "Figure-26b"){.coalaweb-docs}
 
 #### Twitter
 
 If you want a Twitter username to be added to the end of Tweets generated by the Social Links system with the pre text **via** add it here in the following format @username otherwise leave this option blank. *\[Figure-26c\]*
 
-![Figure-26c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra7.png "Figure-26c"){.coalaweb-docs}
+![Figure-26c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra7.png "Figure-26c"){.coalaweb-docs}
 
 #### URL Shortener
 
@@ -192,7 +192,7 @@ To check if you have cURL installed open up your **PHP Information** page found 
 
 and scroll down or search the page looking for something similar to *\[Figure-24\]*
 
-![Figure-24](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra1.png "Figure-24"){.coalaweb-docs}
+![Figure-24](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra1.png "Figure-24"){.coalaweb-docs}
 
 Now that we have made sure cURL is installed lets move onto the configuration options. The first option 
 is whether to turn on the shortening system and which service you wish to use (Currently only Google is available).
@@ -205,7 +205,7 @@ Next you can choose which URL's you wish to have shortened keeping in mind that 
 
 <div class="uk-alert">I recommend at least turning it for the Social Links module as there aren't any visible counts.</div>
 
-![Figure-24a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra2.png "Figure-24a"){.coalaweb-docs}
+![Figure-24a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra2.png "Figure-24a"){.coalaweb-docs}
 
 #### How do I get an API Key? (Google)
 
@@ -219,15 +219,15 @@ Next you can choose which URL's you wish to have shortened keeping in mind that 
 -   Next select **Credentials** from the left menu.
 -   Next select **Add credentials → API Key** from the top drop down menu. *\[Figure-24b\]*
 
-![Figure-24b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra3.png "Figure-24b"){.coalaweb-docs}
+![Figure-24b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra3.png "Figure-24b"){.coalaweb-docs}
 
 -   Lastly select **Server Key** from the popup window. *\[Figure-24c\]*
 
-![Figure-24c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra9.png "Figure-24c"){.coalaweb-docs}
+![Figure-24c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra9.png "Figure-24c"){.coalaweb-docs}
 
 -   When the window closes you should now have your new **API Key** displayed in the list of keys. *\[Figure-24d\]*
 
-![Figure-24d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-extra4.png "Figure-24d"){.coalaweb-docs}
+![Figure-24d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra4.png "Figure-24d"){.coalaweb-docs}
 
 ### 2. <a name="options-content"></a>Like Plugin Options \[Pro Version\]
 
@@ -241,23 +241,23 @@ The first option is to turn on or off the display of the like social buttons. Th
 
 The next option allows you to choose if you want the social buttons to be displayed everywhere for example in each of the articles displayed in a blog layout or only when you have selected a particular article. This will affect the display of the buttons in both Joomla and K2. *\[Figure-3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-like1.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-like1.png "Figure-3"){.coalaweb-docs}
 
 Next you have an opportunity to select which categories you wish the buttons to be displayed in. If you wish to select more than one just hold down **Shift** on your keyboard and select the categories with your mouse. If you want to exclude any articles use the last input field by entering their IDs one per line. *\[Figure-3a\]*
 
-![Figure-3a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-like2.png "Figure-3a"){.coalaweb-docs}
+![Figure-3a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-like2.png "Figure-3a"){.coalaweb-docs}
 
 #### Part 2 - Layout
 
 Next are the **Layout Options** here you can choose to display the buttons above the content, below the content or both. The buttons also have style options associated with them, you can display them in **Vertical** \[Bubble\], **Horizontal** or with **No Count**. The **Mail** and **Twitter** buttons are only avaliable in the **Horizontal** layout so they don't appear in the list. *\[Figure-3b\]*
 
-![Figure-3b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-like3.png "Figure-3b"){.coalaweb-docs}
+![Figure-3b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-like3.png "Figure-3b"){.coalaweb-docs}
 
 #### Part 3 - Social
 
 Next are the **Social Options** here you can chose which social networks you wish to display. These options will affect the display of the buttons in Joomla, K2 and Zoo. *\[Figure-3c\]*
 
-![Figure-3c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-like4.png "Figure-3c"){.coalaweb-docs}
+![Figure-3c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-like4.png "Figure-3c"){.coalaweb-docs}
 
 ### 3. <a name="options-share"></a>Share Plugin Options \[Pro Version\]
 
@@ -271,23 +271,23 @@ The first option is to turn on or off the display of the share social buttons. T
 
 The next option allows you to choose if you want the social buttons to be displayed everywhere for example in each of the articles displayed in a blog layout or only when you have selected a particular article. This will affect the display of the buttons in both Joomla and K2. *\[Figure-27\]*
 
-![Figure-27](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-share1.png "Figure-27"){.coalaweb-docs}
+![Figure-27](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-share1.png "Figure-27"){.coalaweb-docs}
 
 Next you have an opportunity to select which categories you wish the buttons to be displayed in. If you wish to select more than one just hold down **Shift** on your keyboard and select the categories with your mouse. If you want to exclude any articles use the last input field by entering their IDs one per line. *\[Figure-27a\]*
 
-![Figure-27a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-share2.png "Figure-27a"){.coalaweb-docs}
+![Figure-27a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-share2.png "Figure-27a"){.coalaweb-docs}
 
 #### Part 2 - General
 
 Next are the **General Options** here you can choose to display the buttons above the content, below the content or both depending on the current layout. If you want the links to be set to No Follow select **Yes** for the next option. Lastly if you want them to be opened in a popup window select **Yes** for the **Use Popup** option. *\[Figure-27b\]*
 
-![Figure-27b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-share3.png "Figure-27b"){.coalaweb-docs}
+![Figure-27b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-share3.png "Figure-27b"){.coalaweb-docs}
 
 #### Part 3 - Button Style
 
 Next are the **Button Style Options** here you can choose to the icon/button style it's size and if it should have a count or not. Depending on which style you choose you have a few specific options such as **Labels** for the **UIkit** style.*\[Figure-27d\]*
 
-![Figure-27d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-share5.png "Figure-27d"){.coalaweb-docs}
+![Figure-27d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-share5.png "Figure-27d"){.coalaweb-docs}
 
 <div class="uk-alert">The counts for the share buttons depend on your settings in the **Count** tab.</div>
 
@@ -298,7 +298,7 @@ buttons in Joomla and K2. If you plan to display the Facebook button you will ne
 
 <div class="uk-alert">Note: The WhatsApp button will only display on mobile devices.</div>
 
-![Figure-27c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-share4.png "Figure-27c"){.coalaweb-docs}
+![Figure-27c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-share4.png "Figure-27c"){.coalaweb-docs}
 
 #### Create Facebook Application
 
@@ -306,7 +306,7 @@ To get a **Facebook App ID** requires you to first create a Facebook Application
 
 ### 4. <a name="options-panel"></a>Panel Plugin Options \[Pro Version\]
 
-![Figure-23](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-panel1.png "Figure-23"){.coalaweb-docs}
+![Figure-23](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel1.png "Figure-23"){.coalaweb-docs}
 
 <div class="uk-alert">To make it easier to follow I have broken up the <em>Social Panel Plugin Options</em> into five parts.</div>
 
@@ -314,7 +314,7 @@ To get a **Facebook App ID** requires you to first create a Facebook Application
 
 To make it easy to turn on or off the Social Panel plugin completely I have included a **Load Panel** option this will save you having to open up the plugin manager to disable it. Next you have an opportunity to select which categories you wish the buttons to be displayed in. If you wish to select more than one just hold down **Shift** on your keyboard and select the categories with your mouse. If you want to exclude any articles use the last input field by entering their IDs one per line. *\[Figure-23a\]*
 
-![Figure-23a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-panel2.png "Figure-23a"){.coalaweb-docs}
+![Figure-23a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel2.png "Figure-23a"){.coalaweb-docs}
 
 #### Part 2 - Layout & Style
 
@@ -340,13 +340,13 @@ The last option listed under Layout and Style is Top Space this is theamount of 
 
 <div class="uk-alert">The Fixed Style will automatically convert to <em>Collapse</em> when the page reaches a certain size.</div>
 
-![Figure-23b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-panel3.png "Figure-23b"){.coalaweb-docs}
+![Figure-23b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel3.png "Figure-23b"){.coalaweb-docs}
 
 #### Part 3 - Fixed Style
 
 The next couple of option only affect the Fixed panel style. First you can choose the Convert Width if the page is reduced smaller than the width entered here it will automatically convert to the Collapse style. The last option in this section is the side space this is the amount of space between the side of the page and the panel it is measured in % so just enter a number, 5 is the default and works well in most situations. *\[Figure-23c\]*
 
-![Figure-23c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-panel4.png "Figure-23c"){.coalaweb-docs}
+![Figure-23c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel4.png "Figure-23c"){.coalaweb-docs}
 
 #### Part 4 - Collapse Style
 
@@ -355,7 +355,7 @@ display of the panel. If you choose **Text** in the next option you can decide t
 
 The next few options control the slide effect of the panel. The first two options control the amount of time the panel takes to open and close. Durations are given in milliseconds; higher values indicate slower animations, not faster ones. The default duration is 400 milliseconds. The last two options affect the animation style, you have a lot to choose from so experiment until you find the ones you like. *\[Figure-23d\]*
 
-![Figure-23d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-panel5.png "Figure-23d"){.coalaweb-docs}
+![Figure-23d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel5.png "Figure-23d"){.coalaweb-docs}
 
 #### Part 5 - Social Options
 
@@ -363,7 +363,7 @@ Next are the **Social Options** here you can chose which social networks
 you wish to display. These options will affect the display of both the
 buttons in Joomla and K2. *\[Figure-23e\]*
 
-![Figure-23e](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-panel6.png "Figure-23e"){.coalaweb-docs}
+![Figure-23e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel6.png "Figure-23e"){.coalaweb-docs}
 
 ### 5. <a name="options-og"></a>Metadata Plugin Options \[Pro Version\]
 
@@ -375,13 +375,13 @@ The **CoalaWeb Metadata** system will help generate meta data in the **Open Grap
 
 The first option **Only Articles** allows you to choose if you want to add **Metadata** information to only the article views or to **Category Blog** and **Featured** views as well. If you select **No** for **Only Articles** you will also have the option for **Featured** layout to use the CoalaWeb menu editor tab to assign tags or to use the first article displayed. *\[Figure-4\]*
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata1.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata1.png "Figure-4"){.coalaweb-docs}
 
 #### Part 2 - CDN
 
 This section allows you to use a CDN when generating the image URLs. You have three options the first is to turn it on or off the second controls the CDN root and the last option is the CDN domain for example **cdn.coalaweb.com**. *\[Figure-4f\]*
 
-![Figure-4f](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata7.png "Figure-4f"){.coalaweb-docs}
+![Figure-4f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata7.png "Figure-4f"){.coalaweb-docs}
 
 #### Part 3 - Meta Selection
 
@@ -469,7 +469,7 @@ This option allows you to add the Open Graph protocol **namespaces** to our **<h
     xmlns:og="http://ogp.me/ns#"
     xmlns:fb="http://ogp.me/ns/fb#"
 
-![Figure-4b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata3.png "Figure-4b"){.coalaweb-docs}
+![Figure-4b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata3.png "Figure-4b"){.coalaweb-docs}
 
 #### Part 4 - Twitter \[Twitter Card\]
 
@@ -485,7 +485,7 @@ Here you can enter the Twitter **@username** for the website used in the card fo
 
 Here you can enter the Twitter **@username** for the content author. *\[Figure-4c\]*
 
-![Figure-4c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata4.png "Figure-4c"){.coalaweb-docs}
+![Figure-4c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata4.png "Figure-4c"){.coalaweb-docs}
 
 #### Part 5 Google \[Schema.org\]
 
@@ -495,7 +495,7 @@ Here you can enter the Twitter **@username** for the content author. *\[Figure-4
 
 The first option is to turn on or off the inclusion of **Schema (microdata)** meta tags. The next two options are for a **fallback** image for when no other image is avaliable as Google expects one. Two more things that Google expects are a **Publisher** and **Publisher Logo** so the next three options cover these. If they are left blank the system will resort to using a generic image and the site name as the publisher. *\[Figure-4d\]*
 
-![Figure-4d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata5.png "Figure-4d"){.coalaweb-docs}
+![Figure-4d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata5.png "Figure-4d"){.coalaweb-docs}
 
 #### Part 6 Fallback
 
@@ -505,7 +505,7 @@ The **Fallback (Everywhere)** option gives you the ability to use the fallback s
 
 If you have choose yes to fallback everywhere and you want to exclude certain extensions from using the fallback settings you can add them into the **Fallback Exclude** field separated by a comma. For example: com_k2,com_contact *\[Figure-4e\]*
 
-![Figure-4e](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata6.png "Figure-4e"){.coalaweb-docs}
+![Figure-4e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata6.png "Figure-4e"){.coalaweb-docs}
 
 #### Part 7 Default
 
@@ -513,25 +513,25 @@ If you want certain information to always be used within the meta tags set it be
 
 <div class="uk-alert">Note: It's recommend to leave these options blank.</div>
 
-![Figure-4a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata2.png "Figure-4a"){.coalaweb-docs}
+![Figure-4a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata2.png "Figure-4a"){.coalaweb-docs}
 
 ### <a name="options-count"></a>6. Count
 
 CoalaWeb Social links has a count system builtin that can check a page's social counts based on it's URL and then store the information in the database. This allows the counts to be retrieved from the database when displaying the buttons removing the need to check each social network on every page load. *\[Figure-30\]*
 
-![Figure-30](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-count1.png "Figure-30"){.coalaweb-docs}
+![Figure-30](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-count1.png "Figure-30"){.coalaweb-docs}
 
 The count system currently supports **Joomla**, **K2** and **Zoo** content to varying degrees. You can choose to check an individual page's count with the **Check Count(Article)** option for all three while **Joomla** and **K2** give you the option to **Check Count (Category/Featured/List)** which will check all the articles on the page at once. **Joomla** and **K2** also have a few more options to exclude individual articles/items or categories from being counted.  *\[Figure-30a\]*
 
-![Figure-30a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-count2.png "Figure-30a"){.coalaweb-docs}
+![Figure-30a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-count2.png "Figure-30a"){.coalaweb-docs}
 
 The next group of options are **what to check** which give you option to choose which social networks to check so if you only plan to display a **Facebook** and **Google** button you could just turn those two on. Keep in mind the counts are independent of the displayed buttons in the front end so you could display no buttons and turn on the counts here to monitor from the Social Links control panel what your page counts are. *\[Figure-30b\]*
 
-![Figure-30b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-count3.png "Figure-30b"){.coalaweb-docs}
+![Figure-30b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-count3.png "Figure-30b"){.coalaweb-docs}
 
  The last option in this section is **when to check** which controls how long a page's information is stored before it is checked again. The **locktime** is set in minutes and the default is **1440** which is one day. *\[Figure-30c\]*
 
-![Figure-30c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-config-count4.png "Figure-30c"){.coalaweb-docs}
+![Figure-30c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-count4.png "Figure-30c"){.coalaweb-docs}
 
 ### <a name="options-updates"></a>7. Update
 
@@ -539,11 +539,11 @@ The CoalaWeb Social Links extension integrates with the inbuilt **Joomla Update*
 
 For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** in either the **Control Panel** input field. *\[Figure-28\]*
 
-![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png "Figure-28"){.coalaweb-docs}
+![Figure-28](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png "Figure-28"){.coalaweb-docs}
 
  Or through the component configuration options under **Updates**. *\[Figure-28a\]*
 
-![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png "Figure-28a"){.coalaweb-docs}
+![Figure-28a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png "Figure-28a"){.coalaweb-docs}
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
 
@@ -555,7 +555,7 @@ To see your **Download ID** you will need to log into [coalaweb.com](http://coal
 
 You will then see the ID displayed in the module titled **Download ID**. *\[Figure-28b\]*
 
-![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-28b"){.coalaweb-docs}
+![Figure-28b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-28b"){.coalaweb-docs}
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
@@ -564,7 +564,7 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 The last tab contains the permission settings for the CoalaWeb Social
 Links component. *\[Figure-8\]*
 
-![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/generic/coalaweb-permissions.png "Figure-8"){.coalaweb-docs}
+![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-permissions.png "Figure-8"){.coalaweb-docs}
 
 ## <a name="module"></a>Social Links \[M\]
 
@@ -578,13 +578,13 @@ In this section you can choose the icon style, size and alignment, title alignme
 
 <div class="uk-alert">Want to create a custom theme? Have a look at <a href="/support/documentation/item/coalaweb-social-links-guide#mod-custom-theme">Creating a Custom Theme</a></div>
 
-![Figure-9](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-general1.png "Figure-9"){.coalaweb-docs}
+![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-general1.png "Figure-9"){.coalaweb-docs}
 
 #### Part 2
 
 You also have the option to turn on or off the display of the **Share This** or **Follow Us** sections. *Note: individual items are controlled in later sections.* You can also choose if you want borders around the different sections of the module as well as their width, the modules overall width as a percentage and for the *PRO* users you can also select the module layout. *\[Figure-9a\]*
 
-![Figure-9a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-general2.png "Figure-9a"){.coalaweb-docs}
+![Figure-9a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-general2.png "Figure-9a"){.coalaweb-docs}
 
 ### <a name="mod-custom-theme"></a>Creating a Custom Theme
 
@@ -598,7 +598,7 @@ Give the theme a different name, edit the files as needed and of course add your
 
 The last General Display options control if the buttons should be opened in a **Popup Window**. I recommend having it on for the Share buttons and off for the Follow Us buttons. *\[Figure-9b\]*
 
-![Figure-9b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-general3.png "Figure-9b"){.coalaweb-docs}
+![Figure-9b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-general3.png "Figure-9b"){.coalaweb-docs}
 
 ### <a name="mod-bookmark-gen"></a>Share This General
 
@@ -610,7 +610,7 @@ If you want the same title to be used for all of the **Share This** icons all of
 
 If you want the same link to be used for all of the **Share This** icons all of the time add it here. If left blank the current URL will be used. - Note: When adding your link use the domain minus the http:// only add the link in the following format www.socialmedia.com. You can also add a default description that will be used in the email produced by the **Share This** email button. *\[Figure-10\]*
 
-![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-bookmark1.png "Figure-10"){.coalaweb-docs}
+![Figure-10](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-bookmark1.png "Figure-10"){.coalaweb-docs}
 
 #### Part 2 - Display
 
@@ -622,7 +622,7 @@ You can also choose the color of the title and the border color but only if you 
 **General Display Options** section. This border will surround the **Share This** part of the module. You can enter a \# followed by a
 color reference code such as \#000000 for black or you can use the color chooser box to the right of the input field. The last option is used to display some text above the **Share This** section of the module. *\[Figure-10a\]*
 
-![Figure-10a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-bookmark2.png "Figure-10a"){.coalaweb-docs}
+![Figure-10a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-bookmark2.png "Figure-10a"){.coalaweb-docs}
 
 ### <a name="mod-bookmark-soc"></a>Share This Social
 
@@ -634,7 +634,7 @@ Facebook has announced that they have deprecated the **Sharer** code in preferen
 
 If you don't want to create a Facebook application you can set the component option **Share System** to (Old) Sharer but keep in mind that Facbook could completely remove support for Sharer system in the future. *\[Figure-10b\]*
 
-![Figure-10b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-bookmark3.png "Figure-10b"){.coalaweb-docs}
+![Figure-10b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-bookmark3.png "Figure-10b"){.coalaweb-docs}
 
 ### <a name="mod-bookmark-fbapp"></a>Create Facebook Application
 
@@ -646,7 +646,7 @@ For the social bookmark options themselves, scroll down the list ticking the one
 
 <div class="uk-alert">Note: The WhatsApp button will only display on mobile devices.</div>
 
-![Figure-10c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-bookmark4.png "Figure-10c"){.coalaweb-docs}
+![Figure-10c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-bookmark4.png "Figure-10c"){.coalaweb-docs}
 
 ### <a name="mod-follow-gen"></a>Follow Us General
 
@@ -658,13 +658,13 @@ displayed.
 
 You can also choose the color of the title and the border color but only if you selected yes to **Display Borders** in the **General Display Options** section. This border will surround the **Follow Us** part of the module. You can enter a \# followed by a color reference code such as \#000000 for black or you can use the color chooser box to the right of the input field. The last option is used to display some text above the **Follow Us** section of the module. *\[Figure-11\]*
 
-![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-follow1.png "Figure-11"){.coalaweb-docs}
+![Figure-11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-follow1.png "Figure-11"){.coalaweb-docs}
 
 ### <a name="mod-follow-az"></a>Follow Us A-Z
 
 To make finding the social media icons easier I have broken them up into groups of 5 letters organized alphabetically. For example if you are look for Facebook just select the F -J group. Just work your way through the groups ticking the ones you want to display and adding their corresponding links. *\[Figure-11a\]*
 
-![Figure-11a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-follow2.png "Figure-11a"){.coalaweb-docs}
+![Figure-11a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-follow2.png "Figure-11a"){.coalaweb-docs}
 
 <div class="uk-alert">When adding links use the domain without the http:// for example <em>www.facebook.com</em> or for <em>Mail Us</em> email@social.com </div>
 
@@ -681,7 +681,7 @@ The next couple of options help you get the all important icon displaying, you c
 -   When using an external icon use the complete URL for example http://coalaweb.com/images/example.png
 -   When choosing a icon keep in mind what size you selected in the **General Options** section.
 
-![Figure-11b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-follow3.png "Figure-11b"){.coalaweb-docs}
+![Figure-11b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-follow3.png "Figure-11b"){.coalaweb-docs}
 
 ### <a name="mod-advanced"></a>Advanced
 
@@ -690,7 +690,7 @@ The CoalaWeb Social Links module also has a few of what I consider **Advanced Op
 There is also an option to turn off the **Module CSS** if you want to add your own styling. Turn on **Link Text** if you want to have text appear where buttons normally would on screen readers and or systems that don't load CSS. Lastly is the **NoFollow** option that provides a way to tell
 search engines not to follow a particular link. *\[Figure-12\]*
 
-![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-advanced1.png "Figure-12"){.coalaweb-docs}
+![Figure-12](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-advanced1.png "Figure-12"){.coalaweb-docs}
 
 ## <a name="module-tabs"></a>Social Tabs \[M\] \[Pro\]
 
@@ -698,7 +698,7 @@ search engines not to follow a particular link. *\[Figure-12\]*
 
 The first thing you will need to do to ensure that the Social Tabs module functions correctly is to publish it to the correct **Position**. I recommend using **debug** as it won't affect the display of your other content and it's an available in the majority of templates. If you are using a **RocketTheme** template I have had success using the **utility-a** position. *\[Figure-25\]*
 
-![Figure-25](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-first.png "Figure-25"){.coalaweb-docs}
+![Figure-25](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-first.png "Figure-25"){.coalaweb-docs}
 
 ### <a name="mod-tabs-general"></a>General Display
 
@@ -708,19 +708,19 @@ The first thing you will need to do to ensure that the Social Tabs module functi
 
 In this section you can choose which **Side** you want the module to display on, the **Offset** (the amount of space from the top or bottom of the page) and either **Top** or **Bottom**. *\[Figure-25a\]*
 
-![Figure-25a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-general1.png "Figure-25a"){.coalaweb-docs}
+![Figure-25a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-general1.png "Figure-25a"){.coalaweb-docs}
 
 #### Part 2
 
 This section covers **Waypoints** which allow you to use HTML elements on the page to trigger the appearance and disappearance of the tabs. With the first option you can turn this feature on or off. For the next two options you have to enter the waypoints that you want to use to trigger Tabs.  can be any HTML element's an ID **\#example** or a Class **\.example** I recommend using an **ID** as it's unique. *\[Figure-25j\]*
 
-![Figure-25j](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-general4.png "Figure-25j"){.coalaweb-docs}
+![Figure-25j](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-general4.png "Figure-25j"){.coalaweb-docs}
 
 #### Part 3
 
 In this section you can choose to disable Tabs on either **Mobiles** or **Mobiles and Tablets**. Then if you want to keep displaying Tabs on mobiles device you also have the option to move them to the bottom and if you want then to expand to the full width of the page. *\[Figure-25b\]*
 
-![Figure-25b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-general2.png "Figure-25b"){.coalaweb-docs}
+![Figure-25b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-general2.png "Figure-25b"){.coalaweb-docs}
 
 <div class="uk-alert">Note: If Social Tabs using jQuery is loaded on a device with a screen size smaller than <em>1024</em> the slide out effect is disabled.</div>
 
@@ -728,7 +728,7 @@ In this section you can choose to disable Tabs on either **Mobiles** or **Mobile
 
 The last General Display options control if the buttons should be opened in a **Popup Window**. I recommend having it on for the Share buttons and off for the Follow Us buttons. *\[Figure-25c\]*
 
-![Figure-25c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-general3.png "Figure-25c"){.coalaweb-docs}
+![Figure-25c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-general3.png "Figure-25c"){.coalaweb-docs}
 
 ### <a name="mod-tabs-share-gen"></a>General Share
 
@@ -736,7 +736,7 @@ If you want the same title to be used for all of the **Share This** icons all of
 
 If you want the same link to be used for all of the **Share This** icons all of the time add it here. If left blank the current URL will be used. - Note: When adding your link use the domain minus the http:// only add the link in the following format www.socialmedia.com. You can also add a default description that will be used in the email produced by the **Share This** email button. *\[Figure-25c\]*
 
-![Figure-25c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-share1.png "Figure-25c"){.coalaweb-docs}
+![Figure-25c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-share1.png "Figure-25c"){.coalaweb-docs}
 
 ### <a name="mod-tabs-share-az"></a>Share A-Z
 
@@ -748,7 +748,7 @@ Facebook has announced that they have deprecated the **Sharer** code in preferen
 
 If you don't want to create a Facebook application you can set the component option **Share System** to (Old) Sharer but keep in mind that Facbook could completely remove support for Sharer system in the future. *\[Figure-25d\]*
 
-![Figure-25d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-share2.png "Figure-25d"){.coalaweb-docs}
+![Figure-25d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-share2.png "Figure-25d"){.coalaweb-docs}
 
 ### <a name="mod-tabs-fbapp"></a>Create Facebook Application
 
@@ -758,7 +758,7 @@ To get a **Facebook App ID** requires you to first create a Facebook Application
 
 For the social share options themselves, scroll down the list ticking the ones you want to display and that's it for the **Share** section.*\[Figure-25e\]*
 
-![Figure-25e](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-share3.png "Figure-25e"){.coalaweb-docs}
+![Figure-25e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-share3.png "Figure-25e"){.coalaweb-docs}
 
 ### <a name="mod-tabs-follow-az"></a>Follow Us A-Z
 
@@ -766,7 +766,7 @@ To make finding the social media icons easier I have broken them up into groups 
 
 <div class="uk-alert">Note: The WhatsApp button will only display on mobile devices.</div>
 
-![Figure-25f](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-follow1.png "Figure-25f"){.coalaweb-docs}
+![Figure-25f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-follow1.png "Figure-25f"){.coalaweb-docs}
 
 <div class="uk-alert">When adding links use the domain without the http:// for example <em>www.facebook.com</em> or for <em>Contact Us</em> email@social.com </div>
 
@@ -783,13 +783,13 @@ The next couple of options help you get the all important icon displaying, you c
 -   When using an external icon use the complete URL for example http://coalaweb.com/images/example.png
 -   When choosing a icon keep in mind the standard icons are 48px png images with a clear background.
 
-![Figure-25g](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-follow2.png "Figure-25g"){.coalaweb-docs}
+![Figure-25g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-follow2.png "Figure-25g"){.coalaweb-docs}
 
 ### <a name="mod-tabs-colors"></a>Tab Colors
 
 In this section you have two option to choose for each of the tabs including the custom ones. The first one is the default background color of a particular tab and the second one is the hover color that the tab will change to when hovered over. You can click the input to use a popup color selector or enter the colors **Hex** code minus the **#**. *\[Figure-25h\]*
 
-![Figure-25h](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-colors.png "Figure-25h"){.coalaweb-docs}
+![Figure-25h](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-colors.png "Figure-25h"){.coalaweb-docs}
 
 ### <a name="mod-tabs-order"></a>Tab Order
 
@@ -803,7 +803,7 @@ To make it easy to identify which tab is which I have added a key letter to the 
 * [F]=Follow
 * [C]=Custom
 
-![Figure-25i](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-order.png "Figure-25i"){.coalaweb-docs}
+![Figure-25i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-order.png "Figure-25i"){.coalaweb-docs}
 
 ### <a name="mod-tabs-advanced"></a>Advanced
 
@@ -811,7 +811,7 @@ First you get the choice to use **CSS** for the rendering of the module or **jQu
 
 Next you have the option to assign a **Unique Module ID** to stop conflicts. You can also give the it a **Module Class Suffix** or choose whether to use **Cache** including the **Cache Time**. The last option is **NoFollow** that provides a way to tell search engines not to follow a particular link. *\[Figure-25d\]*
 
-![Figure-25d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-advanced1.png "Figure-25d"){.coalaweb-docs}
+![Figure-25d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-advanced1.png "Figure-25d"){.coalaweb-docs}
 
 ## <a name="module-page"></a>Page \[M\]
 
@@ -833,7 +833,7 @@ The first option in this section allows you to add your Facebook page. The easie
 
 <div class="uk-alert">Note: The URL should be in the following format https://www.facebook.com/CoalaWeb.</div>
 
-![Figure-29](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-page-mod-config-general.png "Figure-29"){.coalaweb-docs}
+![Figure-29](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-page-mod-config-general.png "Figure-29"){.coalaweb-docs}
 
 ### <a name="mod-page-layout"></a>Layout
 
@@ -845,19 +845,19 @@ The next option is the **Module Width** not to be confused with the **Widget Wid
 
 Set the last option to Yes if your template is having trouble configuring the right height for the content. *\[Figure 29a\]*
 
-![Figure-29a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-page-mod-config-layout.png "Figure-29a"){.coalaweb-docs}
+![Figure-29a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-page-mod-config-layout.png "Figure-29a"){.coalaweb-docs}
 
 ### <a name="mod-page-style"></a>Style
 
 In the this section you have three options the first gives you the choice of displaying the **Profile Photos** of people who have liked this particular page. The second option allows you to turn on or off the display of the page's **Header Image** in the background. The last option is the choice of turning on or off the display of a **Stream** of the latest posts from your Page's wall. *\[Figure-29b\]*
 
-![Figure-29b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-page-mod-config-style.png "Figure-29b"){.coalaweb-docs}
+![Figure-29b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-page-mod-config-style.png "Figure-29b"){.coalaweb-docs}
 
 ### <a name="mod-lb-advanced"></a>Advanced
 
 The Page module also has a few of what I consider **Advanced Options** such as the option to assign a **Module Class Suffix** or whether to use **Cache** including the **Cache Time**. There is also an option to turn off the **Module css** if you want to add your own styling. *\[Figure-29c\]*
 
-![Figure-29c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-page-mod-config-advanced.png "Figure-29c"){.coalaweb-docs}
+![Figure-29c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-page-mod-config-advanced.png "Figure-29c"){.coalaweb-docs}
 
 ## <a name="module-gplus"></a>Google Plus \[M\]\[Pro\]
 
@@ -877,7 +877,7 @@ The first thing you will need to decide is what type of badge you want to displa
 
 <div class="uk-alert">Note: If you need more than one type of badge just create another module.</div>
 
-![Figure-18](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-general.png "Figure-18"){.coalaweb-docs}
+![Figure-18](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-general.png "Figure-18"){.coalaweb-docs}
 
 ### <a name="mod-gplus-layout"></a>Layout & Style
 
@@ -893,20 +893,20 @@ Next you have the option to choose the width of the badge in pixels. The followi
 
 The next option specifies whether or not to show the tag line and the last option is whether or not to display the cover photo in the badge. Note: Only if the photo exists. *\[Figure-18a\]*
 
-![Figure-18a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-layout1.png "Figure-18a"){.coalaweb-docs}
+![Figure-18a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-layout1.png "Figure-18a"){.coalaweb-docs}
 
 #### Part 2
 
 The next option is to Display Owners this is only aplicable to the Community type badge. The last option is the Module Alignment here you can choose one of three options Left, Right or Center. *\[Figure-18b\]*
 
-![Figure-18b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-layout2.png "Figure-18b"){.coalaweb-docs}
+![Figure-18b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-layout2.png "Figure-18b"){.coalaweb-docs}
 
 ### <a name="mod-gplus-advanced"></a>Advanced
 
 The CoalaWeb G Plus module also has a few of what I consider **Advanced Options** such as the option to assign a **Module Class Suffix** or choose
 whether to use **Cache** including the **Cache Time**. There is also options to turn on or off the **Module CSS** and **Google JS**if you want. *\[Figure-18c\]*
 
-![Figure-18c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-advanced1.png "Figure-18c"){.coalaweb-docs}
+![Figure-18c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-advanced1.png "Figure-18c"){.coalaweb-docs}
 
 ## <a name="module-tweet"></a>Tweet \[M\]
 
@@ -916,7 +916,7 @@ CoalaWeb Tweet is a social module designed to display a particular Twitter users
 
 The fist option in the section is the most important one and it's your **Twitter** username. For **Pro** subscriber that also get a variety of **Panel Styles** to choose from. The last option is how many tweets to display. *\[Figure-34\]*
 
-![Figure-34](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-general.png "Figure-34"){.coalaweb-docs}
+![Figure-34](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-general.png "Figure-34"){.coalaweb-docs}
 
 ### <a name="mod-tweet-tweet"></a>Tweet
 
@@ -932,37 +932,37 @@ This section contains all the options that control the look and layout of the **
 
 <div class="uk-alert">Note: The icon size is proportionate to the title Format.</div>
 
-![Figure-34a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-1.png "Figure-34a"){.coalaweb-docs}
+![Figure-34a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-1.png "Figure-34a"){.coalaweb-docs}
 
 #### Part 2 - Date \[Pro\]
 
 This section is for **Pro** subscribers and contains all the options that control the look and layout of the **Date** part of each tweet. You can choose to display a **Date** or not, it's **Prefix**, **Icon** and **Alignment**. *\[Figure-34b\]*
 
-![Figure-34b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-2.png "Figure-34b"){.coalaweb-docs}
+![Figure-34b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-2.png "Figure-34b"){.coalaweb-docs}
 
 #### Part 3 - Content
 
 In this section you can choose the **Format** and **Alignment** of the Tweet's text. If you have limited space or you have chosen to use a large format you may have to employ the last option in this section **Break Links** to to break any content links. *\[Figure-34c\]*
 
-![Figure-34c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-3.png "Figure-34c"){.coalaweb-docs}
+![Figure-34c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-3.png "Figure-34c"){.coalaweb-docs}
 
 #### Part 4 - Links \[Pro\]
 
 This section is for **Pro** subscribers and contains all the options that control the look and layout of the **Links** part of each tweet. You can choose to display the **Links** or not and their **Alignment**. The links include **Reply**, **Retweet** and **Favorite**. *\[Figure-34d\]*
 
-![Figure-34d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-4.png "Figure-34d"){.coalaweb-docs}
+![Figure-34d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-tweet-4.png "Figure-34d"){.coalaweb-docs}
 
 ### <a name="mod-tweet-footer"></a>Footer \[Pro\]
 
 This section is for **Pro** subscribers and allows the display of a module **Footer** with the username of the Twitter feed and an editable **Subtitle**. *\[Figure-34e\]*
 
-![Figure-34e](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-footer.png "Figure-34e"){.coalaweb-docs}
+![Figure-34e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-footer.png "Figure-34e"){.coalaweb-docs}
 
 ### <a name="mod-twitter-advanced"></a>Advanced
 
 The CoalaWeb Tweet module also has a few of what I consider **Advanced Options** such as the **UIkit Prefix** option for when you are using a YooTheme template you can set it to **UK** otherwise I recommend leaving it with the default **CW**. In this section you can also choose to not load the module's **CSS** as well as the option to assign a **Module Class Suffix** and choose whether to use **Cache** including the **Cache Time**.  *\[Figure-34d\]*
 
-![Figure-34d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-advanced.png "Figure-34d"){.coalaweb-docs}
+![Figure-34d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tweet-mod-config-advanced.png "Figure-34d"){.coalaweb-docs}
 
 ## <a name="plg"></a>Plugins
 
@@ -977,7 +977,7 @@ accompanying component under **Extension Options**. If you can't see the
 buttons make sure you have the plugin installed and published and that
 you have selected the appropriate configuration options. *\[Figure-19\]*
 
-![Figure-19](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-content.png "Figure-19"){.coalaweb-docs}
+![Figure-19](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-plg-content.png "Figure-19"){.coalaweb-docs}
 
 ### <a name="plg-share"></a>Social Share \[Pc\]\[Pro\]
 
@@ -985,7 +985,7 @@ The **CoalaWeb Social Share** plugin is a content plugin designed to display all
 
 All of the configuration options for this particular plugin can be found in the accompanying component under **Extension Options**. If you can't see the buttons make sure you have the plugin installed and published and that you have selected the appropriate configuration options. *\[Figure-19a\]*
 
-![Figure-19a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-share.png "Figure-19a"){.coalaweb-docs}
+![Figure-19a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-plg-share.png "Figure-19a"){.coalaweb-docs}
 
 ### <a name="plg-panel"></a>Social Panel \[Pc\]\[Pro\]
 
@@ -1001,7 +1001,7 @@ accompanying component under **Extension Options**. If you can't see the
 buttons make sure you have the plugin installed and published and that
 you have selected the appropriate configuration options. *\[Figure-20\]*
 
-![Figure-20](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-panel.png "Figure-20"){.coalaweb-docs}
+![Figure-20](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-plg-panel.png "Figure-20"){.coalaweb-docs}
 
 ### <a name="plg-og"></a>Open Graph \[Pc\]\[Pro\]
 
@@ -1036,7 +1036,7 @@ The CoalaWeb Metadata plugin allows you to add default values for the parameters
 -   fb:app\_id (Optional)
 -   fb:admins (Optional)
 
-![Figure-21](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-opengraph.png "Figure-21"){.coalaweb-docs}
+![Figure-21](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-plg-opengraph.png "Figure-21"){.coalaweb-docs}
 
 #### Part 2 - Twitter Card
 
@@ -1057,7 +1057,7 @@ The CoalaWeb Metadata system allows you to add default values for the parameters
 -   twitter:card
 
 
-![Figure-21a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-twittercard.png "Figure-21a"){.coalaweb-docs}
+![Figure-21a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-plg-twittercard.png "Figure-21a"){.coalaweb-docs}
 
 #### Part 3 - Schema.org
 
@@ -1102,7 +1102,7 @@ The CoalaWeb Metadata system dynamically populates a series of JSON-LD \[JavaScr
         }
 
 
-![Figure-21c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-schema.png "Figure-21c"){.coalaweb-docs}
+![Figure-21c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-plg-schema.png "Figure-21c"){.coalaweb-docs}
 
 ### <a name="plg-mf"></a>Meta Fields \[Pc\]\[Pro & J3.+\]
 
@@ -1120,11 +1120,11 @@ Keep in mind that all these settings are optional and you can feel free to leave
 
 <div class="uk-alert">Note: This is really handy for articles that don't have any images but you still want one in your OG tags.</div>
 
-![Figure-28](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mf-plg-article.png "Figure-28"){.coalaweb-docs}
+![Figure-28](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-mf-plg-article.png "Figure-28"){.coalaweb-docs}
 
 The second section gives you the opportunity to add Open Graph **Video** tags to your articles. If you want to add video tags please fill in all the options which included **Type**, **URL**, **Secure URL**, **Width** and **Height**. *\[Figure-28a\]*
 
-![Figure-28a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mf-plg-article2.png "Figure-28a"){.coalaweb-docs}
+![Figure-28a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-mf-plg-article2.png "Figure-28a"){.coalaweb-docs}
 
 Typical video settings would look something like this:
 
@@ -1142,19 +1142,19 @@ You will have the opportunity to add a specific **Type**, **Title**, **Descripti
 
 Keep in mind that all these settings are optional and you can feel free to leave one or all of them blank to let the system decide for you. Example use would be setting the **Type** in the component or your categories options to **Blog** and for your articles to **Article**. *\[Figure-28b\]*
 
-![Figure-28b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mf-plg-article.png "Figure-28b"){.coalaweb-docs}
+![Figure-28b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-mf-plg-article.png "Figure-28b"){.coalaweb-docs}
 
 ### <a name="plg-mm"></a>Menu Meta \[Ps\]\[Pro & J3.+]
 
 The **CoalaWeb Menu Meta** system plugin allows you to add **Open Graph** and **Twitter Card** tags to basically any menu item. To stop conflicts with the other CoalaWeb content meta data plugins these tags will not be displayed for regular Joomla content items such as Categories and or Articles. If you want to override the automatic creation of meta tags for a Joomla Article or Category please use the CoalaWeb tab displayed in their respective editors. *\[Figure-29\]*
 
-![Figure-29](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-mm-plg.png "Figure-29"){.coalaweb-docs}
+![Figure-29](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-mm-plg.png "Figure-29"){.coalaweb-docs}
 
 ### <a name="plg-fbjs"></a>Facebook JS \[Ps\]
 
 This plugin has been specifically designed to load the Facebook JavaScript library making it available to all the parts of the **Social Links** system while ensuring it is only loaded once. It also incorporates the Facebook **Application ID** entered in the component configuration options. *\[Figure-21b\]*
 
-![Figure-21b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-slinks-plg-fbjs.png "Figure-21b"){.coalaweb-docs}
+![Figure-21b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-plg-fbjs.png "Figure-21b"){.coalaweb-docs}
 
 ### <a name="plg-zoo"></a>Zoo Elements \[Ps\]\[Pro\]
 
@@ -1168,7 +1168,7 @@ This custom element integrates a variety of popular social vote and or share but
 
 Open up **Zoo** and click the small **Gear Icon**. *\[Figure-22\]*
 
-![Figure-22](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config1.png "Figure-22"){.coalaweb-docs}
+![Figure-22](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config1.png "Figure-22"){.coalaweb-docs}
 
 #### Step 2
 
@@ -1176,7 +1176,7 @@ Now select the **App** you want to add the CoalaWeb Social Likes button
 too for this example we will choose Blog so click **Blog** and then
 select **Article \> Edit Elements**. *\[Figure-22a\]*
 
-![Figure-22a](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config2.png "Figure-22a"){.coalaweb-docs}
+![Figure-22a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config2.png "Figure-22a"){.coalaweb-docs}
 
 #### Step 3
 
@@ -1184,7 +1184,7 @@ If the plugin was installed and published properly you should now have a
 new element available under **Social** called **CoalaWeb Social Likes**
 click it once to add it to your **Article** layout. *\[Figure-22b\]*
 
-![Figure-22b](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config3.png "Figure-22b"){.coalaweb-docs}
+![Figure-22b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config3.png "Figure-22b"){.coalaweb-docs}
 
 #### Step 4
 
@@ -1192,7 +1192,7 @@ Now give your new element a **Name**, **Description** and choose the
 appropriate settings for the other options, when you are ready click
 **Save & Close**. *\[Figure-22c\]*
 
-![Figure-22c](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config4.png "Figure-22c"){.coalaweb-docs}
+![Figure-22c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config4.png "Figure-22c"){.coalaweb-docs}
 
 #### Step 5
 
@@ -1200,7 +1200,7 @@ Now we need to add the newly available element to our **Template** for
 this example we are using the **Default template** and the **Full
 Layout**. *\[Figure-22d\]*
 
-![Figure-22d](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config5.png "Figure-22d"){.coalaweb-docs}
+![Figure-22d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config5.png "Figure-22d"){.coalaweb-docs}
 
 #### Step 6
 
@@ -1209,7 +1209,7 @@ Social** Custom element over to your desired location in this example I have cho
 **Bottom**. Feel free to turn on or off the **Label** or even give it an
 **Alternative Label**. When you are happy click **Save & Close**. *\[Figure-22e\]*
 
-![Figure-22e](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config6.png "Figure-22e"){.coalaweb-docs}
+![Figure-22e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config6.png "Figure-22e"){.coalaweb-docs}
 
 #### Step 7
 
@@ -1217,7 +1217,7 @@ Now in each of your **Articles** you will have a new option named what you
 chose back at the start in our case **CoalaWeb Social**. Just set it to **Yes**
 and the buttons will magically appear. *\[Figure-22f\]*
 
-![Figure-22f](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config7.png "Figure-22f"){.coalaweb-docs}
+![Figure-22f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config7.png "Figure-22f"){.coalaweb-docs}
 
 #### <a name="plg-zoo-og"></a>Custom Layout - Open Graph
 
@@ -1255,27 +1255,27 @@ Setting up the **CW Open Graph Extension Layout** is easy just follow the steps 
 
 Open up **Zoo** and click the small **Gear Icon**. *\[Figure-22g\]*
 
-![Figure-22g](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config1.png "Figure-22g"){.coalaweb-docs}
+![Figure-22g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config1.png "Figure-22g"){.coalaweb-docs}
 
 #### Step 2
 
 Now select the **App** you want to add the **Open Graph** tags too for this example we will be using **Blog**. In the next screen you should now see a new **Article Extension Layout** called **CW Open Graph** select it to move onto the next step. *\[Figure-22h\]*
 
-![Figure-22h](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config8.png "Figure-22h"){.coalaweb-docs}
+![Figure-22h](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config8.png "Figure-22h"){.coalaweb-docs}
 
 #### Step 3
 
 In this step you will need to **Drag and Drop** the relevant **Core** and **Custom** items over to their **Open Graph Positions**. If you are not sure what to place where use the image below as a guide. *\[Figure-22i\]*
 
-![Figure-22i](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config9.png "Figure-22i"){.coalaweb-docs}
+![Figure-22i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config9.png "Figure-22i"){.coalaweb-docs}
 
 Now if you check the source code of one of your **Zoo Content Items** you should now see **Open Graph** tags and depending on your other setting **Twitter Card** tags as well. *\[Figure-22j\]*
 
-![Figure-22j](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config10.png "Figure-22j"){.coalaweb-docs}
+![Figure-22j](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config10.png "Figure-22j"){.coalaweb-docs}
 
 If you have chosen to display **Schema (microdata)** you will also be able to see it displayed in your page's source code.   *\[Figure-22k\]*
 
-![Figure-22k](http://cdn.coalaweb.com/images/docs/joomla-extensions/social-links/cw-zoo-plg-config11.png "Figure-22k"){.coalaweb-docs}
+![Figure-22k](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-zoo-plg-config11.png "Figure-22k"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 

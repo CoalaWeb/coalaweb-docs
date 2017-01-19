@@ -17,7 +17,7 @@
 
 CoalaWeb Flair is a module that lets you display your flair from several Stack Exchange sites individually or combined into one. It also comes with 4 style variations to give your flair some individuality. *\[Figure 1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/flair/cw-flair.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair.png "Figure-1"){.coalaweb-docs}
 
 ## <a name="plugins"></a>Plugins
 
@@ -25,4 +25,4 @@ CoalaWeb Flair is a module that lets you display your flair from several Stack E
 
 **CoalaWeb Gears** is a system plugin that is included with all CoalaWeb extensions. Think of it as a Swiss army knife full of great little tools that you can use with or without a CoalaWeb extension. *\[Figure 2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears.png "Figure-2"){.coalaweb-docs}

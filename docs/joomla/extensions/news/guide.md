@@ -24,11 +24,11 @@ For **Pro** subscribers you will need to make sure you still have a valid subscr
 
 <div class="uk-alert">Not sure where to find your Download ID? Click <a href="#options-downloadid">HERE</a> for more info.</div>
 
-![Figure-11](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-11"){.coalaweb-docs}
+![Figure-11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-11"){.coalaweb-docs}
 
 Inside the **CW Gears** plugin options your will find a tab titled **Updates** and under it a **Download ID** input field. I recommend you copy and paste your **Download ID** into this field to reduce the risk of a typo and also to check for no spaces at the end.  *\[Figure-11a\]*
 
-![Figure-11a](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-11a"){.coalaweb-docs}
+![Figure-11a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-11a"){.coalaweb-docs}
 
 <div class="uk-alert">The CW Gears plugin will take care of the Download ID for any CoalaWeb extensions that doesn't come with a component.</div>
 
@@ -40,7 +40,7 @@ To see your **Download ID** you will need to log into [coalaweb.com](http://coal
 
 You will then see the ID displayed in the module titled **Download ID**. *\[Figure-11b\]*
 
-![Figure-11b](http://cdn.coalaweb.com/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-11b"){.coalaweb-docs}
+![Figure-11b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-11b"){.coalaweb-docs}
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
@@ -56,11 +56,11 @@ To make it easy to explain I have broken this section up into four parts.
 
 The first option you have in this section allows you to choose which categories you want to use as the source for your articles. *\[Figure-1a\]*
 
-![Figure-1a](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png "Figure-1a"){.coalaweb-docs}
+![Figure-1a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png "Figure-1a"){.coalaweb-docs}
 
 The second options allows you to display a linked list of categories that coincides with the current articles being displayed. *\[Figure-1b\]*
 
-![Figure-1b](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-1b.png "Figure-1b"){.coalaweb-docs}
+![Figure-1b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1b.png "Figure-1b"){.coalaweb-docs}
 
 **Part 2 Articles**
 
@@ -68,7 +68,7 @@ The first options allows you to turn on or off the display of an article title. 
 
 In the next input field you can enter a number to control the maximum amount of articles you wish to be displayed. The next option allows you to control the maximum amount of characters that will be displayed for each article. The next two options affect the ordering of the articles. The last option is for excluding articles from being displayed, just enter the article ID's separated by a comma to have them excluded. *\[Figure-2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-2.png "Figure-2"){.coalaweb-docs}
 
 **Part 3 Read More**
 
@@ -92,7 +92,7 @@ Below is an example CSS class.
 
 >   btn btn-primary
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-3.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-3.png "Figure-3"){.coalaweb-docs}
 
 **Part 4 Links**
 
@@ -100,7 +100,7 @@ CoalaWeb News also gives you the option to display links to more articles. The f
 
 Next you can chose to display a heading for this section and also select a style for it from the drop down list. The last option allows you to turn on or off the display of a creation date next to each link. *\[Figure-4\]*
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-general-4.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-4.png "Figure-4"){.coalaweb-docs}
 
 ### <a name="mod-layout"></a>Module Layout Options
 
@@ -112,21 +112,21 @@ The first option in this section allows you to choose a layout for the module. I
 
 The next two options affect the margins used by the module. The first option affects the spacing around and between panels and the second affects the spacing within each individual panel. *\[Figure-5\]*
 
-![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-1.png "Figure-5"){.coalaweb-docs}
+![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-1.png "Figure-5"){.coalaweb-docs}
 
 **Part 2 Dynamic Filter**
 
 Pro subscribers get the option to display a menu at the top of the module made up of the categories of the currently display articles. If one of these menu items is selected than the articles will dynamically rearranged to only display the articles that belong to that particular category. *\[Figure-12\] and \[Figure-12a\]*
 
-![Figure-12](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-4.png "Figure-12"){.coalaweb-docs}
+![Figure-12](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-4.png "Figure-12"){.coalaweb-docs}
 
-![Figure-12a](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-5.png "Figure-12a"){.coalaweb-docs}
+![Figure-12a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-5.png "Figure-12a"){.coalaweb-docs}
 
 **Part 3 Alignment**
 
 Depending on what settings you choose and how you want your individual panels to look you might want to tweak the alignment of different elements. This next section will help you get the panels looking just how you want by allowing you to align the **Title**, **Details**, **Article Text** and the **Read More** link. *\[Figure-6\]*
 
-![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-2.png "Figure-6"){.coalaweb-docs}
+![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-2.png "Figure-6"){.coalaweb-docs}
 
 **Part 4 Columns**
 
@@ -138,7 +138,7 @@ You can also choose how many columns you want to use with the added power to cho
 
 These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live. *\[Figure-7\]*
 
-![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-layout-3.png "Figure-7"){.coalaweb-docs}
+![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-3.png "Figure-7"){.coalaweb-docs}
 
 ### <a name="mod-images"></a>Image Options
 
@@ -152,7 +152,7 @@ To make it easy to explain I have broken this section up into 3 parts.
 
 The first option option is an easy one it allows you to turn on or off the display of images. The next option allows you to choose which type of article image to use either the **Intro** or **Full** article image. The next option is to turn on the display of any **Captions** you have added to your article images. *\[Figure-8\]*
 
-![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-1a.png "Figure-8"){.coalaweb-docs}
+![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-1a.png "Figure-8"){.coalaweb-docs}
 
 **Part 2 Widths**
 
@@ -160,7 +160,7 @@ The first option option is an easy one it allows you to turn on or off the displ
 
 In this section you can choose how much space you want your images to use within the panel with the added power to choose based on the size of the screen being used. These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live.  *\[Figure-8a\]*
 
-![Figure-8a](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-2.png "Figure-8a"){.coalaweb-docs}
+![Figure-8a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-2.png "Figure-8a"){.coalaweb-docs}
 
 ### Example Scenario
 
@@ -174,7 +174,7 @@ In this section you can choose how much space you want your images to use within
 -   Layout: Compact Square
 -   Panel Style: Secondary
 
-![Figure-8b](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-3.png "Figure-8b"){.coalaweb-docs}
+![Figure-8b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-3.png "Figure-8b"){.coalaweb-docs}
 
 **Tablet:** When viewing the module on a tablet I want two items per column with the image at the top of the panel. *\[Figure-8c\]*
 
@@ -186,7 +186,7 @@ In this section you can choose how much space you want your images to use within
 -   Layout: Compact Square
 -   Panel Style: Secondary
 
-![Figure-8c](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-4.png "Figure-8c"){.coalaweb-docs}
+![Figure-8c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-4.png "Figure-8c"){.coalaweb-docs}
 
 **Mobile:** When viewing the module on a tablet I want one item per column with the image at the top of the panel. *\[Figure-8d\]*
 
@@ -198,31 +198,31 @@ In this section you can choose how much space you want your images to use within
 -   Layout: Compact Square
 -   Panel Style: Secondary
 
-![Figure-8d](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-5.png "Figure-8d"){.coalaweb-docs}
+![Figure-8d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-5.png "Figure-8d"){.coalaweb-docs}
 
 **Part 2 Alignment**
 
 The last option in this section controls the alignment of the images within their allocated space. *\[Figure-8e\]* 
 
-![Figure-8e](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-6.png "Figure-8e"){.coalaweb-docs}
+![Figure-8e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-6.png "Figure-8e"){.coalaweb-docs}
 
 To make this more clear I will give you an example of left, center and right.
 
 **Left** *\[Figure-8f\]*
 
-![Figure-8f](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-7.png "Figure-8f"){.coalaweb-docs}
+![Figure-8f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-7.png "Figure-8f"){.coalaweb-docs}
 
 **Center** *\[Figure-8g\]*
 
-![Figure-8g](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-8.png "Figure-8g"){.coalaweb-docs}
+![Figure-8g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-8.png "Figure-8g"){.coalaweb-docs}
 
 **Right** *\[Figure-8h\]*
 
-![Figure-8h](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-9.png "Figure-8h"){.coalaweb-docs}
+![Figure-8h](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-9.png "Figure-8h"){.coalaweb-docs}
 
 This setting becomes more useful when using a multi column layout and you have small images being display at the top of their panels. *\[Figure-8i\]*
 
-![Figure-8i](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-images-10.png "Figure-8i"){.coalaweb-docs}
+![Figure-8i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-10.png "Figure-8i"){.coalaweb-docs}
  
 ### <a name="mod-details"></a>Details Options
 
@@ -230,7 +230,7 @@ In this section you have the ability to turn on or off a variety of article deta
 
 <div class="uk-alert">Note: The location of the article details will be affected by the <em>Layout</em> you have chosen.</div>
 
-![Figure-9](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-details-1.png "Figure-9"){.coalaweb-docs}
+![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-details-1.png "Figure-9"){.coalaweb-docs}
 
 ### <a name="mod-advanced"></a>Advanced Options
 
@@ -238,7 +238,7 @@ The CoalaWeb News module also has a few of what I consider **Advanced Options** 
 
 <div class="uk-alert">If you have chosen to leave HTML in your articles you will need to have PHP Tidy installed to ensure it's correct functionality.</div>
 
-![Figure-10](http://cdn.coalaweb.com/images/docs/joomla-extensions/news/cw-news-mod-advanced-1.png "Figure-10"){.coalaweb-docs}
+![Figure-10](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-advanced-1.png "Figure-10"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 

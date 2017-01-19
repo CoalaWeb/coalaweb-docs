@@ -15,4 +15,4 @@
 
 **CoalaWeb Gears** is a system plugin that is included with all CoalaWeb extensions. Think of it as a Swiss army knife full of great little tools that you can use with or without a CoalaWeb extension. *\[Figure 1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears.png "Figure-1"){.coalaweb-docs}
