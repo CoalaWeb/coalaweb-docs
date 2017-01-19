@@ -29,13 +29,13 @@ The next option **Gzip help** is designed to help with a know issue where Facebo
 
 The last option **reCAPTCHA Compact** gives you the ability to display the captcha produced by the inbuilt Joomla reCAPTCHA plugin in either a **Standard** or **Compact** layout. *\[Figure 1\]*
 
-![Figure-1](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f1.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f1.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="opt-jquery"></a>jQuery
 
 This section is designed to help you safely included jQuery on your site with a few cool features. You can choose to load a local copy or from a remote location such as Google's CDN. You can choose which version to included and also if you want **No Conflict** and or **Migrate** turned on. *\[Figure 2\]*
 
-![Figure-2](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f2.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f2.png "Figure-2"){.coalaweb-docs}
 
 ### <a name="opt-async"></a>Async
 
@@ -47,7 +47,7 @@ This section is designed to help you safely included jQuery on your site with a 
 
 In this section you can decided if you want to add **Asnyc** and or **Defer** to your scripts including an input box to choose which scripts should be included. *\[Figure 3\]*
 
-![Figure-3](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f3.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f3.png "Figure-3"){.coalaweb-docs}
 
 ### <a name="opt-uikit"></a>Uikit
 
@@ -55,7 +55,7 @@ In this section you have the option to turn on a CoalaWeb specific version of Ui
 
 <div class="uk-alert">This option is only going to apply to a select group of CoalaWeb extensions. Unless otherwise asked to I recommend leaving this option set to <em>Yes</em> to ensure certain CoalaWeb extensions function correctly.</div>
 
-![Figure-4](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f4.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f4.png "Figure-4"){.coalaweb-docs}
 
 ### <a name="opt-css"></a>Custom CSS
 
@@ -78,7 +78,7 @@ You can also include a **Custom File** if needed, just enter the location of the
 
     /media/mycss/custom.css
 
-![Figure-5](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f5.png "Figure-5"){.coalaweb-docs}
+![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f5.png "Figure-5"){.coalaweb-docs}
 
 ### <a name="opt-js"></a>Custom JS
 
@@ -86,7 +86,7 @@ In this section you have the option to add custom JS to your website which is gr
 
 You can choose to include code added to the **Custom Code** input field and then you have a few options to make small changes to it before it's included in your website. You can **Minimize** it to make it load as fast as possible also with the option to **Remove Comments** on the fly.
 
-![Figure-6](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f6.png "Figure-6"){.coalaweb-docs}
+![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f6.png "Figure-6"){.coalaweb-docs}
 
 ### <a name="opt-cache"></a>Cache
 
@@ -101,7 +101,7 @@ Would turn off caching for **com_content** article view. You can also use the **
     
     option=com_content&amp;view=article&amp;id=?
 
-![Figure-7](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f7.png "Figure-7"){.coalaweb-docs}
+![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f7.png "Figure-7"){.coalaweb-docs}
 
 ### <a name="opt-assets"></a>Assets
 
@@ -111,7 +111,7 @@ There are two options in this section related to keeping the database clean of o
 
 <div class="uk-alert">Ref: The Lock Time is in minutes and the default value of 1440 min = 1 day.</div> 
 
-![Figure-8](http://cdn.coalaweb.com/images/docs/joomla-extensions/gears/cw-gears-f8.png "Figure-8"){.coalaweb-docs}
+![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f8.png "Figure-8"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 
