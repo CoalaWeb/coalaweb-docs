@@ -8,7 +8,7 @@
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-**CoalaWeb Date** gives Joomla administrators the power to display the current **Date** and **Pro** subscribers the current **Year** and or **Copyright** information in any Joomla content item.
+**CoalaWeb Date** gives Joomla administrators the power to display the current **Date** and **Pro** subscribers the date **Format** current **Year** and or **Copyright** information in any Joomla content item.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
@@ -44,11 +44,15 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 
 ####Core and Pro
 
-To display the current date use the plugin code **{cwdate date}** in your joomla content items such as articles and or custom modules.
+To display the current date use the plugin code **{cwdate date}** or for the current year use **{cwdate year}** in your joomla content items such as articles and or custom modules.
 
 ####Pro Only
 
-To display the current year use the plugin code **{cwdate year}** To display copyright information use the plugin code **{cwdate copy}**
+To display the current date use the plugin code **{cwdate date}** or in a specific format use **{cwdate date LC4}**. 
+
+<div class="uk-alert">Date Formats: <em>LC1</em> = Saturday, 27 October 2017, <em>LC2</em> = Saturday, 27 October 2017 12:40, <em>LC3</em> = 27 October 2017, <em>LC4</em> = 2017-10-27, <em>JS1</em> = 17-10-27, <em>LC4US</em> = 2017-27-10, <em>JS1US</em> = 17-27-10, <em>LC4R</em> = 27-10-2017, <em>JS1R</em> = 27-10-17, <em>LC4RUS</em> = 10-27-2017, <em>JS1RUS</em> = 10-27-17.</div>
+
+To display copyright information use the plugin code **{cwdate copy}**
 
 <div class="uk-alert">TIP: If you are using the plugin code in a custom module make sure that the <em>Prepare Content</em> option found under the module's <em>Options</em> tab is set to <em>Yes</em>.</div>
 
