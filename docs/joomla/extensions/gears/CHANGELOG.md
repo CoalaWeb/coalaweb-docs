@@ -1,5 +1,9 @@
 ##Change Log
 
+### Version 0.3.0 January 2017
+- **(A)** Added CoalaWeb Date Pro to download ID system
+- **(A)** Added CoalaWeb Date to version field
+
 ### Version 0.2.9 January 2017
 - **(C)** Updated copyright to 2017
 - **(A)** Added UIkit tooltip support

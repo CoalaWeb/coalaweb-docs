@@ -8,7 +8,7 @@
 
 ## <a class="doc-top" name="overview"></a>Overview
 
-**CoalaWeb Date** gives Joomla administrators the power to display the current **Date** and **Pro** subscribers the date **Format** current **Year** and or **Copyright** information in any Joomla content item.
+**CoalaWeb Date** gives Joomla administrators the power to display the current **Date** and **Year** in their Joomla content. **Pro** subscribers can **Format** the date for each use and or add **Copyright** information to any Joomla content item.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
