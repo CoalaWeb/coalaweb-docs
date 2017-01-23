@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/date/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/date/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/date/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/date/system-parts.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,12 +21,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="783">
+              <first_editor relative-caret-position="1695">
                 <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="system-parts.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/date/system-parts.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="18" column="98" lean-forward="false" selection-start-line="18" selection-start-column="98" selection-end-line="18" selection-end-column="98" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -75,13 +87,13 @@
       <list>
         <option value="$PROJECT_DIR$/docs/joomla/extensions/traffic/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/date/CHANGELOG.md" />
-        <option value="$PROJECT_DIR$/docs/joomla/extensions/date/system-parts.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/gears/guide.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md" />
         <option value="$PROJECT_DIR$/docs/amazon/update-files-cloudfront.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/date/guide.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/docs/joomla/extensions/date/system-parts.md" />
       </list>
     </option>
   </component>
@@ -320,7 +332,7 @@
       <updated>1481224785035</updated>
       <workItem from="1481224786506" duration="42000" />
       <workItem from="1484416519136" duration="2096000" />
-      <workItem from="1484521516686" duration="17918000" />
+      <workItem from="1484521516686" duration="19285000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -392,11 +404,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484861099661</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Changes to date guide and updated change log for Gears.">
+      <created>1485178403383</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1485178403383</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20056000" />
+    <option name="totallyTimeSpent" value="21423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-26" width="1920" height="1106" extended-state="6" />
@@ -438,7 +457,8 @@
     <MESSAGE value="changed to https (cloudfront) for images" />
     <MESSAGE value="More image links changed to https (cloudfront)" />
     <MESSAGE value="Changes to date guide to cover new date format options" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes to date guide to cover new date format options" />
+    <MESSAGE value="Changes to date guide and updated change log for Gears." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes to date guide and updated change log for Gears." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -549,17 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/date/system-parts.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/news/guide.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -640,8 +649,19 @@
     <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="783">
+          <first_editor relative-caret-position="1695">
             <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/date/system-parts.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="18" column="98" lean-forward="false" selection-start-line="18" selection-start-column="98" selection-end-line="18" selection-end-column="98" />
             <folding />
           </first_editor>
           <second_editor />

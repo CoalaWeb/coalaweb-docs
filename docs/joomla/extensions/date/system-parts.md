@@ -16,7 +16,7 @@
 
 **CoalaWeb Date** Display the current date or for **Pro** subscribers the current **Year** and or **Copyright** information. It's very easy to install and get up and running with just a simple bit of plugin code in your Joomla content items such as articles and or custom modules. It comes packed with options making it very flexible. *\[Figure 1\]*
 
-![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/date/cw-date.png "Figure-1"){.coalaweb-docs}
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/date/system-parts/cw-date.png "Figure-1"){.coalaweb-docs}
 
 ### <a name="plg-gears"></a>System - Gears
 
