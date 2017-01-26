@@ -1,5 +1,18 @@
 ## Change Log
 
+### Version 1.0.7 January 2017
+
+#### Module - News
+- **(C)** Updated copyright to 2017
+- **(C)** Updated READMORE
+
+#### Module - News Set \[Pro\]
+- **(L)** Fixed small bug in language files
+- **(C)** Updated copyright to 2017
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.1
+
 ### Version 1.0.6 December 2016
 
 #### Module - News
