@@ -1,8 +1,16 @@
 ##Change Log
 
+### Version 1.0.1 January 2017
+
+#### Plugin(C) - Date
+ - **(C)** README information updated and improved
+
+##### Plugin(S) - Gears
+ - **(C)** Updated to version 0.3.1
+
 ### Version 1.0.0 January 2017
 
-#### Plugin(C) - CW Date
+#### Plugin(C) - Date
 
 - **(N)** Initial release
 

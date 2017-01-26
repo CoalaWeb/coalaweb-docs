@@ -1,5 +1,15 @@
 ## Change Log
 
+### Version 1.1.0 January 2017
+
+#### Component - Traffic
+- **(C)** City and country counts now check for non empty or NULL values
+- **(A)** New GEO refresh option \[Pro\]
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.1
+
 ### Version 1.0.9 January 2017
 
 #### Component - Traffic

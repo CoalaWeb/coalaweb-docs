@@ -1,5 +1,10 @@
 ##Change Log
 
+### Version 0.3.1 January 2017
+- **(R)** Removed unneeded reference to element in fields
+- **(A)** Added missing JEXEC to helper file
+- **(C)** Updated Mobile Detect Library to version 2.8.24
+
 ### Version 0.3.0 January 2017
 - **(A)** Added CoalaWeb Date Pro to download ID system
 - **(A)** Added CoalaWeb Date to version field
