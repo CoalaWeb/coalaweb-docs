@@ -1,5 +1,8 @@
 ##Change Log
 
+### Version 0.3.2 January 2017
+- **(A)** Added new cwfolderlist form field
+
 ### Version 0.3.1 January 2017
 - **(R)** Removed unneeded reference to element in fields
 - **(A)** Added missing JEXEC to helper file
