@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,12 +21,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="3534">
                 <caret line="186" column="14" lean-forward="false" selection-start-line="186" selection-start-column="14" selection-end-line="186" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="783">
+                <caret line="1002" column="14" lean-forward="false" selection-start-line="1002" selection-start-column="14" selection-end-line="1002" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -52,7 +65,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="38">
-                <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="30" />
+                <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -134,6 +147,7 @@
         <option value="$PROJECT_DIR$/docs/joomla/extensions/date/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/news/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md" />
       </list>
     </option>
   </component>
@@ -280,6 +294,32 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="social" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cw-docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cw-docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="news" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -344,7 +384,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw-print" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw-facebookjs" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
@@ -425,7 +465,7 @@
       <workItem from="1481224786506" duration="42000" />
       <workItem from="1484416519136" duration="2096000" />
       <workItem from="1484521516686" duration="20486000" />
-      <workItem from="1485446208393" duration="2059000" />
+      <workItem from="1485446208393" duration="3560000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -525,11 +565,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485456427994</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updated Gears change log">
+      <created>1485544481553</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1485544481553</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24683000" />
+    <option name="totallyTimeSpent" value="26184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-26" width="1920" height="1106" extended-state="6" />
@@ -575,7 +622,8 @@
     <MESSAGE value="Changes to date system parts" />
     <MESSAGE value="Updated Traffic, Date and Gears change logs" />
     <MESSAGE value="Updated News change log" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated News change log" />
+    <MESSAGE value="Updated Gears change log" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Gears change log" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -790,7 +838,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
-            <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="30" />
+            <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
@@ -802,6 +850,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3534">
             <caret line="186" column="14" lean-forward="false" selection-start-line="186" selection-start-column="14" selection-end-line="186" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="783">
+            <caret line="1002" column="14" lean-forward="false" selection-start-line="1002" selection-start-column="14" selection-end-line="1002" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />

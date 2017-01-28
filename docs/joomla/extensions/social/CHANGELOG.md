@@ -1,5 +1,22 @@
 ##Change Log
 
+### Version 0.3.5 January 2017
+
+#### General
+- **(C)** Updated copyright to 2017
+
+#### Component - Social Links
+- **(B)** Added missing MySQL update back in version 0.2.0
+- **(B)** Change joomla form field folderlist to new cwfolderlist
+- **(B)** Fixed Counts layout formatting
+- **(B)** Fixed Square RC Fadein CSS bug
+
+#### Module - Social Links
+- **(B)** Change joomla form field folderlist to new cwfolderlist
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.2
+
 ### Version 0.3.4 October 2016
 
 #### Component - Social Links
