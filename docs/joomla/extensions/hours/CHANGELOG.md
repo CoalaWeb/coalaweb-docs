@@ -1,5 +1,18 @@
 ## Change Log
 
+### Version 1.0.6 January 2017
+
+#### General
+- **(C)** Updated copyright to 2017
+
+#### Module - Hours
+- **(A)** Added second schedule per day \[Pro\]
+- **(A)** Break displays between schedules of the same day \[Pro\]
+- **(L)** New language strings.
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.2
+
 ### Version 1.0.5 November 2016
 
 #### Module - Hours
