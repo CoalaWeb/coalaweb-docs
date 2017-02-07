@@ -1,5 +1,41 @@
 ## Change Log
 
+### Version 1.1.0 February 2017
+
+#### General
+- **(C)** Updated copyright to 2017
+
+#### Component - Contact
+- **(A)** Added new custom email template system \[Pro\]
+- **(A)** Added three demo templates \[Pro\]
+- **(A)** Added Created/Created By to custom form fields \[Pro\]
+- **(L)** New and updated language strings
+
+#### Module - Contact
+- **(B)** Fixed missing name when using Joomla mail setting
+- **(B)** Undefined variable in helper
+- **(B)** Fixed bug when TOS left blank \[Pro\]
+- **(C)** Added from name to sender
+- **(A)** Module can override email format
+- **(A)** Integrated new custom mail template system \[Pro\]
+- **(L)** New and updated language strings
+
+#### Module - Contact Tab \[Pro\]
+- **(B)** Fixed missing name when using Joomla mail setting
+- **(B)** Fixed bug when TOS left blank
+- **(C)** Added from name to sender
+- **(A)** Module can override email format
+- **(A)** Integrated new custom mail template system
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Contact \[Pro\]
+- **(B)** Fixed bug when TOS left blank
+- **(C)** Added from name to sender
+- **(A)** Integrated new custom mail template system
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.2
+
 ### Version 1.0.9 November 2016
 
 #### Component - Contact
