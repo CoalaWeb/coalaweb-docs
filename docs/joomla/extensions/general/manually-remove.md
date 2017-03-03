@@ -13,18 +13,18 @@
 Sometimes a component will fail to install correctly for a variety of reasons such as a server timeout, insufficient resources or a permissions issue just to name a few. Another scenario is that the system does not completely remove all the related component data while uninstalling. In cases such as these you can do it manually with the following steps.
  
 ### <a name="database-records"></a>Database Records
-To manually remove all references to component in the database a series of SQl quries can be executed using a tool such as phpMyAdmin. Before doing this, it's important that you are familar with the basic principals and commands of SQL.
+To manually remove all references to component in the database a series of SQl queries can be executed using a tool such as phpMyAdmin. Before doing this, it's important that you are familiar with the basic principals and commands of SQL.
  
-<div class="uk-alert">Note: Change the #__ to your current Joomla database prefix, e.g. #__extensions to jos_extensions</div>
+<div class="uk-alert">Note: Change the <em>#__</em> to your current Joomla database prefix, e.g. #__extensions to jos_extensions</div>
   
 #### <a name="db-example"></a>Example
 
  Here is an example for removing the database records related to the CoalaWeb Traffic component.
 
-    -- Experinced databse users only
-    -- Run these queries in database editor such phpMyAdmin
+    -- Experienced database users only
+    -- Run these queries in a database editor such phpMyAdmin
      
-    -- Manual removal of CoalaWeb Traffic component from Joomla database
+    -- Manual removal of CoalaWeb Traffic component from a Joomla database
     -- Change the #__ to your current Joomla database prefix
      
     DELETE FROM `#__schemas` WHERE `extension_id` = (SELECT `extension_id` FROM `#__extensions` WHERE `type` = 'component' AND `name` = 'com_coalawebtraffic');
@@ -37,8 +37,8 @@ To manually remove all references to component in the database a series of SQl q
 
 Occasionally component menu links are not displayed in Joomla components menu to fix this try running these SQL queries:
  
-     -- Experinced databse users only
-     -- Run these queries in database editor such phpMyAdmin
+     -- Experienced database users only
+     -- Run these queries in a database editor such phpMyAdmin
 
     -- Manually publishing of the CoalaWeb Traffic component menu items
     -- Change the #__ to your current Joomla database prefix
@@ -53,12 +53,11 @@ If you are removing the component manually, it is possible that some files and f
 
 <div class="uk-alert">Note: Be careful not to remove any other parts of the system. I reommend that you have at least basic Joomla filesystem knowledge to make these changes.</div>
 
-<div class="uk-alert">Note: Only ever delete the last folder in the path, for example if the path is: administrator/components/com_coalawebtraffic, you should only delete the com_coalawebtraffic folder.</div>
+<div class="uk-alert">Note: Only ever delete the last folder in the path, for example if the path is: administrator/components/com_coalawebtraffic, you should only delete the <em>com_coalawebtraffic</em> folder.</div>
  
- #### <a name="file-example"></a>Example
+#### <a name="file-example"></a>Example
  
 For example, if you wanted to remove the CoalaWeb Traffic component you would delete the following folders:
- 
 
     components/com_coalawebtraffic
     administrator/components/com_coalawebtraffic
@@ -71,7 +70,7 @@ and these files:
     administrator/language/en-GB/en-GB.com_coalawebtraffic.ini
     administrator/language/en-GB/en-GB.com_coalawebtraffic.sys.ini
 
- #### <a name="tmp-directory"></a>TMP Folder
+#### <a name="tmp-directory"></a>TMP Folder
  
 Sometimes you may need to empty the main **tmp** folder which is normally found in root of your Joomla installation but if you are not sure of its exact location you can check by going to:
 
