@@ -70,7 +70,7 @@ and these files:
     administrator/language/en-GB/en-GB.com_coalawebtraffic.ini
     administrator/language/en-GB/en-GB.com_coalawebtraffic.sys.ini
 
-#### <a name="tmp-directory"></a>TMP Folder
+### <a name="tmp-directory"></a>TMP Folder
  
 Sometimes you may need to empty the main **tmp** folder which is normally found in root of your Joomla installation but if you are not sure of its exact location you can check by going to:
 
