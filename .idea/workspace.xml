@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -491,7 +489,7 @@
       <workItem from="1485446208393" duration="4369000" />
       <workItem from="1485786452196" duration="3035000" />
       <workItem from="1488461043982" duration="7713000" />
-      <workItem from="1489414733300" duration="34000" />
+      <workItem from="1489414733300" duration="557000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -647,11 +645,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488553162875</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Gears v3.3 change log, manuall remove guide change">
+      <created>1489414825161</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1489414825161</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37775000" />
+    <option name="totallyTimeSpent" value="38298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-26" width="1920" height="1106" extended-state="6" />
@@ -704,7 +709,8 @@
     <MESSAGE value="Updated Traffic FAQ" />
     <MESSAGE value="New how to manually remove a component guide" />
     <MESSAGE value="Tweaks to manually remove a component guide" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tweaks to manually remove a component guide" />
+    <MESSAGE value="Gears v3.3 change log, manuall remove guide change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gears v3.3 change log, manuall remove guide change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
