@@ -1,5 +1,40 @@
 ##Change Log
 
+### Version 0.3.6 March 2017
+
+#### Module - Social Links
+- **(B)** Fixed space in mail subject and body to pass W3C
+
+#### Module - Social Tabs \[Pro\]
+- **(B)** Fixed space in mail subject and body to pass W3C
+- **(A)** Option to not display while in an Iframe
+- **(C)** Now using a sprite for images
+- **(L)** New and updated language strings
+
+#### Module - Page
+- **(B)** Unique ID to surrounding div to pass W3C for multiple display
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(B)** Fixed space in mail subject and body to pass W3C
+- **(B)** Fixed space in Pinterest subject to pass W3C
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(B)** Fixed space in mail subject and body to pass W3C
+
+#### Plugin(C) - Social Panel \[Pro\]
+- **(B)** Fixed space in mail subject and body to pass W3C
+- **(B)** Fixed space in Pinterest subject to pass W3C
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(C)** When no image found the fulltext and text fields will also be scrapped
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(B)** Fixed space in mail subject and body to pass W3C
+- **(B)** Fixed space in Pinterest subject to pass W3C
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.3
+
 ### Version 0.3.5 January 2017
 
 #### General
