@@ -35,7 +35,7 @@ To manually remove all references to component in the database a series of SQl q
 
 ### <a name="menu-fix"></a>Menu Fix
 
-Occasionally component menu links are not displayed in Joomla components menu to fix this try running these SQL queries:
+Occasionally component menu links are not displayed in the Joomla components menu, to fix this try running these SQL queries:
  
      -- Experienced database users only
      -- Run these queries in a database editor such phpMyAdmin

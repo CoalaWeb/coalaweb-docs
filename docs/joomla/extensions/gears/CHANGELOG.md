@@ -1,5 +1,9 @@
 ##Change Log
 
+### Version 0.3.3 March 2017
+- **(C)** Changed Cpanel CSS to accommodate longer labels
+- **(A)** Added support for CoalaWeb Members
+
 ### Version 0.3.2 January 2017
 - **(A)** Added new cwfolderlist form field
 

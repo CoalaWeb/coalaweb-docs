@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,77 +22,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3534">
-                <caret line="186" column="14" lean-forward="false" selection-start-line="186" selection-start-column="14" selection-end-line="186" selection-end-column="14" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="18506">
-                <caret line="974" column="0" lean-forward="false" selection-start-line="974" selection-start-column="0" selection-end-line="974" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/hours/CHANGELOG.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="30" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="31" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="faq.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/traffic/faq.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="484">
-                <caret line="81" column="37" lean-forward="false" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manually-remove.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manually-remove.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="397">
-                <caret line="72" column="3" lean-forward="false" selection-start-line="72" selection-start-column="3" selection-end-line="72" selection-end-column="3" />
+              <first_editor relative-caret-position="506">
+                <caret line="37" column="82" lean-forward="false" selection-start-line="37" selection-start-column="82" selection-end-line="37" selection-end-column="82" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -99,51 +35,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="install-uninstall.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/general/install-uninstall.md">
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-3534">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="translate-guide.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/general/translate-guide.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="updates.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/general/updates.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="551">
-                <caret line="29" column="158" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="158" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="guide.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/guide.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="25" />
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -188,13 +85,13 @@
         <option value="$PROJECT_DIR$/docs/joomla/extensions/traffic/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/date/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/news/CHANGELOG.md" />
-        <option value="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/hours/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/traffic/faq.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove-component.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md" />
+        <option value="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
       </list>
     </option>
   </component>
@@ -226,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -504,6 +400,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -593,7 +490,8 @@
       <workItem from="1484521516686" duration="20486000" />
       <workItem from="1485446208393" duration="4369000" />
       <workItem from="1485786452196" duration="3035000" />
-      <workItem from="1488461043982" duration="5493000" />
+      <workItem from="1488461043982" duration="7713000" />
+      <workItem from="1489414733300" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -742,17 +640,24 @@
       <option name="project" value="LOCAL" />
       <updated>1488553112396</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Tweaks to manually remove a component guide">
+      <created>1488553162875</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1488553162875</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35521000" />
+    <option name="totallyTimeSpent" value="37775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-26" width="1920" height="1106" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2230523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22465315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -811,6 +716,17 @@
     <module2generated>rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVzaG9sZHhwP0AAAAAAAAB3CAAAABAAAAAAeA==</module2generated>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -827,7 +743,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="18506">
             <caret line="974" column="0" lean-forward="false" selection-start-line="974" selection-start-column="0" selection-end-line="974" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -838,7 +753,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
             <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="30" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -849,7 +763,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -860,7 +773,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="10013">
             <caret line="527" column="14" lean-forward="false" selection-start-line="527" selection-start-column="14" selection-end-line="527" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -871,7 +783,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
             <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="30" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -882,7 +793,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="437">
             <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -893,7 +803,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
             <caret line="18" column="109" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="109" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -904,7 +813,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="855">
             <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -926,7 +834,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -937,7 +844,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="10013">
             <caret line="527" column="14" lean-forward="false" selection-start-line="527" selection-start-column="14" selection-end-line="527" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -948,7 +854,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
             <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="30" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -959,7 +864,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="437">
             <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -970,7 +874,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
             <caret line="18" column="109" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="109" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -981,7 +884,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="855">
             <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1003,7 +905,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1014,7 +915,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="855">
             <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1036,7 +936,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
             <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="30" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1137,7 +1036,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="855">
             <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1148,7 +1046,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
             <caret line="18" column="109" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="109" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1159,7 +1056,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="437">
             <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1170,7 +1066,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="10013">
             <caret line="527" column="14" lean-forward="false" selection-start-line="527" selection-start-column="14" selection-end-line="527" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1181,18 +1076,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
             <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="30" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3534">
-            <caret line="186" column="14" lean-forward="false" selection-start-line="186" selection-start-column="14" selection-end-line="186" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1203,7 +1086,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="18506">
             <caret line="974" column="0" lean-forward="false" selection-start-line="974" selection-start-column="0" selection-end-line="974" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1214,7 +1096,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
             <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="30" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1225,7 +1106,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
             <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="31" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1236,7 +1116,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="484">
             <caret line="81" column="37" lean-forward="false" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1247,7 +1126,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="19">
             <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="25" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1258,7 +1136,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-3534">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1269,7 +1146,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1280,7 +1156,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="551">
             <caret line="29" column="158" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="158" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1289,8 +1164,19 @@
     <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="397">
-            <caret line="72" column="3" lean-forward="false" selection-start-line="72" selection-start-column="3" selection-end-line="72" selection-end-column="3" />
+          <first_editor relative-caret-position="506">
+            <caret line="37" column="82" lean-forward="false" selection-start-line="37" selection-start-column="82" selection-end-line="37" selection-end-column="82" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
             <folding />
           </first_editor>
           <second_editor />
