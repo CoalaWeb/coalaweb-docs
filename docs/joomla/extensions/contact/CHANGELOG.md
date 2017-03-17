@@ -1,6 +1,46 @@
 ## Change Log
 
+### Version 1.1.1 March 2017
+
+#### General
+- **(C)** Updated all coalaweb.com references to https
+- **(L)** Changed update help link
+
+#### Component - Contact
+- **(C)** Updated state field for custom fields and email templates \[Pro\]
+- **(C)** Updated form themes to included file field styling
+- **(C)** Changed joomla form field folderlist to new cwfolderlist
+- **(A)** Added new beta attachment/upload option \[Pro\]
+- **(L)** New and updated language strings
+
+#### Module - Contact
+- **(C)** Changed joomla form field folderlist to new cwfolderlist
+- **(C)** Improved validation of success/fail when sending mail
+- **(A)** Integrated new beta attachment/upload option \[Pro\]
+- **(A)** Added check to see is mail is enabled in Joomla configuration
+- **(L)** New and updated language strings
+
+#### Module - Contact Tab \[Pro\]
+- **(C)** Changed joomla form field folderlist to new cwfolderlist
+- **(C)** Improved validation of success/fail when sending mail
+- **(A)** Added check to see is mail is enabled in Joomla configuration
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Contact \[Pro\]
+- **(C)** Improved validation of success/fail when sending mail
+- **(A)** Added check to see is mail is enabled in Joomla configuration
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.3
+
 ### Version 1.1.0 February 2017
+
+#### Component - Contact
+- **(L)** New and updated language strings
+- **(L)** Added language string to custom field editor tab \[Pro\]
+- **(C)** Added message to custom field editor \[Pro\]
+- **(R)** Removed unneeded form fields from email template form \[Pro\]
+- **(C)** Changed custom field tab label to language string \[Pro\]
 
 #### General
 - **(C)** Updated copyright to 2017

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,12 +47,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="38">
-                <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="28" />
+                <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="28" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="783">
+                <caret line="452" column="14" lean-forward="false" selection-start-line="452" selection-start-column="14" selection-end-line="452" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -97,12 +111,12 @@
         <option value="$PROJECT_DIR$/docs/joomla/extensions/date/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/news/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/hours/CHANGELOG.md" />
-        <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/traffic/faq.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove-component.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md" />
       </list>
     </option>
   </component>
@@ -502,7 +516,7 @@
       <workItem from="1485446208393" duration="4369000" />
       <workItem from="1485786452196" duration="3035000" />
       <workItem from="1488461043982" duration="7713000" />
-      <workItem from="1489414733300" duration="1177000" />
+      <workItem from="1489414733300" duration="1367000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -676,7 +690,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38918000" />
+    <option name="totallyTimeSpent" value="39108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-26" width="1920" height="1106" extended-state="6" />
@@ -791,6 +805,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1120,16 +1135,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/traffic/faq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1206,7 +1211,18 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
-            <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="28" />
+            <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="783">
+            <caret line="452" column="14" lean-forward="false" selection-start-line="452" selection-start-column="14" selection-end-line="452" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
