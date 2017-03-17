@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -516,7 +515,7 @@
       <workItem from="1485446208393" duration="4369000" />
       <workItem from="1485786452196" duration="3035000" />
       <workItem from="1488461043982" duration="7713000" />
-      <workItem from="1489414733300" duration="1367000" />
+      <workItem from="1489414733300" duration="1622000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -686,11 +685,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489423790818</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Contact v1.1.1 change log">
+      <created>1489763415114</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1489763415114</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39108000" />
+    <option name="totallyTimeSpent" value="39363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-26" width="1920" height="1106" extended-state="6" />
@@ -745,7 +751,8 @@
     <MESSAGE value="Tweaks to manually remove a component guide" />
     <MESSAGE value="Gears v3.3 change log, manuall remove guide change" />
     <MESSAGE value="Social Links v0.3.6 change log" />
-    <option name="LAST_COMMIT_MESSAGE" value="Social Links v0.3.6 change log" />
+    <MESSAGE value="Contact v1.1.1 change log" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contact v1.1.1 change log" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
