@@ -2,7 +2,7 @@
 1.  [Overview](#overview)
 2.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
-    -   [Custom Fields](#com-custom)
+    -   [Custom Fields \[Pro\]](#com-custom)
         - [1. Field Options](#com-custom-field)
         - [2. Multilingual Example](#com-custom-example)
     -   [Help](#help)
@@ -52,9 +52,9 @@ The **Control Panel** as seen below is designed to be an easy starting point, th
 
 ![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/system-parts/com-contact.png "Figure-1"){.coalaweb-docs}
 
-### <a name="com-custom"></a>Custom Fields
+### <a name="com-custom"></a>Custom Fields \[Pro\]
 
-Create unlimited **Custom Fields** in a variety of formats and with complete language support which you can then use in your contact forms. To get started click the **Custom Fields** button in the control panel. *\[Figure-27\]*
+Pro subscribers can create unlimited **Custom Fields** in a variety of formats and with complete language support which you can then use in your contact forms. To get started click the **Custom Fields** button in the control panel. *\[Figure-27\]*
 
 ![Figure-27](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/com-custom1.png "Figure-27"){.coalaweb-docs}
 
