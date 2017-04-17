@@ -1,5 +1,8 @@
 ##Change Log
 
+### Version 0.3.4 April 2017
+- **(C)** Changed plugin name cwdate to coalawebdate
+
 ### Version 0.3.3 March 2017
 - **(C)** Changed Cpanel CSS to accommodate longer labels
 - **(A)** Added support for CoalaWeb Members

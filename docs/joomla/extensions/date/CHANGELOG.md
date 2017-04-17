@@ -1,5 +1,14 @@
 ##Change Log
 
+### Version 1.0.2 April 2017
+
+#### Plugin(C) - Date
+ - **(C)** Renamed from cwdate to coalawebdate
+ - **(L)** Language files changed from CWDATE to CONTENT_COALAWEBDATE
+
+##### Plugin(S) - Gears
+ - **(C)** Updated to version 0.3.4
+ 
 ### Version 1.0.1 January 2017
 
 #### Plugin(C) - Date
