@@ -306,7 +306,7 @@ To get a **Facebook App ID** requires you to first create a Facebook Application
 
 ### 4. <a name="options-panel"></a>Panel Plugin Options \[Pro Version\]
 
-<div class="uk-alert uk-alert-warning">Note: The Panel plugin is no longer under active development. For a more flexible, modern and mobile friendly alternative try the CoalaWeb Tabs module.</div>
+<div class="uk-alert uk-alert-warning">The Panel plugin is no longer under active development. For a more flexible, modern and mobile friendly alternative try the CoalaWeb Tabs module.</div>
 
 ![Figure-23](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel1.png "Figure-23"){.coalaweb-docs}
 
@@ -991,7 +991,7 @@ All of the configuration options for this particular plugin can be found in the 
 
 ### <a name="plg-panel"></a>Social Panel \[Pc\]\[Pro\]
 
-<div class="uk-alert uk-alert-warning">Note: The Panel plugin is no longer under active development. For a more flexible, modern and mobile friendly alternative try the CoalaWeb Tabs module.</div>
+<div class="uk-alert uk-alert-warning">The Panel plugin is no longer under active development. For a more flexible, modern and mobile friendly alternative try the CoalaWeb Tabs module.</div>
 
 <div class="uk-alert">Social Panel needs jQuery to function correctly. If you don't already have it loaded use the System - <em>CW Gears</em> plugin.</div>
 

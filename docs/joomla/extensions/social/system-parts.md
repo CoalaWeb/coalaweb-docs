@@ -67,7 +67,7 @@ The **CoalaWeb Social Likes** content plugin will display a variety of social ne
 
 ### <a name="plg-panel"></a>Content - Social Panel \[Pro Version\]
 
-<div class="uk-alert uk-alert-warning">Note: The Panel plugin is no longer under active development. For a more flexible, modern and mobile friendly alternative try the CoalaWeb Tabs module.</div>
+<div class="uk-alert uk-alert-warning">The Panel plugin is no longer under active development. For a more flexible, modern and mobile friendly alternative try the CoalaWeb Tabs module.</div>
 
 The **CoalaWeb Social Panel** content plugin will display a variety of social network like buttons in your Joomla and K2 content. They will be displayed in a vertical collapsible bar to the side of the article content. *\[Figure-7\]*
 

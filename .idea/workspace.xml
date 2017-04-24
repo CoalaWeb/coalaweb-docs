@@ -27,7 +27,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="540">
-                <caret line="69" column="37" lean-forward="false" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+                <caret line="69" column="39" lean-forward="false" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -38,8 +38,8 @@
       <file leaf-file-name="comparison.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../cw-general/articles/sociallinks/comparison.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="370" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="595" selection-end-column="6" />
+            <state relative-caret-position="160">
+              <caret line="368" column="10" lean-forward="true" selection-start-line="368" selection-start-column="10" selection-end-line="368" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#td#1;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#2;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="true" />
@@ -56,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/social/guide.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="347">
-                <caret line="993" column="196" lean-forward="false" selection-start-line="993" selection-start-column="196" selection-end-line="993" selection-end-column="196" />
+              <first_editor relative-caret-position="680">
+                <caret line="308" column="39" lean-forward="false" selection-start-line="308" selection-start-column="39" selection-end-line="308" selection-end-column="39" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -109,8 +109,8 @@
         <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/date/CHANGELOG.md" />
-        <option value="$PROJECT_DIR$/docs/joomla/extensions/social/system-parts.md" />
         <option value="$PROJECT_DIR$/../cw-general/articles/sociallinks/comparison.html" />
+        <option value="$PROJECT_DIR$/docs/joomla/extensions/social/system-parts.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/social/guide.md" />
       </list>
     </option>
@@ -536,7 +536,7 @@
       <workItem from="1488461043982" duration="7713000" />
       <workItem from="1489414733300" duration="1989000" />
       <workItem from="1492346987341" duration="1537000" />
-      <workItem from="1492553756292" duration="1293000" />
+      <workItem from="1492553756292" duration="1514000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -727,11 +727,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492443493468</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Message for Social Links Panel plugin in regards to stopping development.">
+      <created>1493036515335</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1493036515335</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42560000" />
+    <option name="totallyTimeSpent" value="42781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-26" width="1920" height="1106" extended-state="6" />
@@ -762,7 +769,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated Change Log for Traffic version 1.0.9" />
     <MESSAGE value="New CoalaWeb Date extension add to CoalaWeb docs" />
     <MESSAGE value="Small changes to CoalaWeb Date guide" />
     <MESSAGE value="Small changes to CoalaWeb Date system parts" />
@@ -787,7 +793,8 @@
     <MESSAGE value="Contact v1.1.1 change log" />
     <MESSAGE value="Contact guide updates" />
     <MESSAGE value="Updated change log for Date and Gears" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated change log for Date and Gears" />
+    <MESSAGE value="Message for Social Links Panel plugin in regards to stopping development." />
+    <option name="LAST_COMMIT_MESSAGE" value="Message for Social Links Panel plugin in regards to stopping development." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1298,8 +1305,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../cw-general/articles/sociallinks/comparison.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="370" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="595" selection-end-column="6" />
+        <state relative-caret-position="160">
+          <caret line="368" column="10" lean-forward="true" selection-start-line="368" selection-start-column="10" selection-end-line="368" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#td#1;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="true" />
@@ -1314,8 +1321,8 @@
     <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/social/guide.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="347">
-            <caret line="993" column="196" lean-forward="false" selection-start-line="993" selection-start-column="196" selection-end-line="993" selection-end-column="196" />
+          <first_editor relative-caret-position="680">
+            <caret line="308" column="39" lean-forward="false" selection-start-line="308" selection-start-column="39" selection-end-line="308" selection-end-column="39" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1326,7 +1333,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="540">
-            <caret line="69" column="37" lean-forward="false" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+            <caret line="69" column="39" lean-forward="false" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
             <folding />
           </first_editor>
           <second_editor />
