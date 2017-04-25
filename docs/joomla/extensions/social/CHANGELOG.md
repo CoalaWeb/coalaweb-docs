@@ -1,5 +1,74 @@
 ##Change Log
 
+### Version 0.3.7 April 2017
+
+#### General
+- **(C)** Updated coalaweb.com and JED links to https
+
+#### Component - Social Links
+- **(L)** Fixed update help link \[Pro\]
+- **(A)** New panel width option \[Pro\]
+- **(A)** New text and code clean up functions
+
+#### Module - Social Tabs \[Pro\]
+- **(B)** Improved option to not display while in an Iframe
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(C)** Code improvements
+- **(C)** Using new helper text and code clean up
+- **(C)** Extended dependency check
+- **(L)** New language loading method
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(C)** Code improvements
+- **(C)** Using new helper text and code clean up
+- **(C)** Extended dependency check
+- **(L)** New language loading method
+
+#### Plugin(C) - Social Panel \[Pro\]
+- **(R)** Removed unneeded variables
+- **(C)** CSS update for button layouts
+- **(C)** Code improvements
+- **(C)** Using new helper text and code clean up
+- **(C)** Extended dependency check
+- **(L)** New language loading method
+- **(A)** New panel width option implementation
+- **(N)** No longer under active development use Tabs module as alternative
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(C)** Code improvements
+- **(C)** Using new helper text and code clean up
+- **(C)** Extended dependency check
+- **(L)** New language loading method
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(C)** Code improvements
+- **(C)** Using new helper text and code clean up
+- **(C)** Extended dependency check
+- **(L)** New language loading method
+
+#### Plugin(C) - Share Count \[Pro\]
+- **(C)** Code improvements
+- **(C)** Using new helper text and code clean up
+- **(C)** Extended dependency check
+- **(L)** New language loading method
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(C)** Code improvements
+- **(C)** Using new helper text and code clean up
+- **(C)** Extended dependency check
+- **(L)** New language loading method
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(B)** Catch peer certificate errors on mismatched/non existent subdomains
+- **(C)** Code improvements
+- **(C)** Using new helper text and code clean up
+- **(C)** Extended dependency check
+- **(L)** New language loading method
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.5
+
 ### Version 0.3.6 March 2017
 
 #### Module - Social Links

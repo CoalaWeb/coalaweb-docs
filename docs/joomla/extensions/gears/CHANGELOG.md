@@ -1,5 +1,9 @@
 ##Change Log
 
+### Version 0.3.5 April 2017
+- **(C)** Updated coalaweb.com and JED links to https
+- **(A)** New help fix form field
+
 ### Version 0.3.4 April 2017
 - **(C)** Changed plugin name cwdate to coalawebdate
 

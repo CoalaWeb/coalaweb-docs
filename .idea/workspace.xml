@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/system-parts.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/system-parts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="system-parts.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="system-parts.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/social/system-parts.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -35,11 +35,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="3960">
+                <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="comparison.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../cw-general/articles/sociallinks/comparison.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="368" column="10" lean-forward="true" selection-start-line="368" selection-start-column="10" selection-end-line="368" selection-end-column="10" />
+              <caret line="368" column="10" lean-forward="false" selection-start-line="368" selection-start-column="10" selection-end-line="368" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#td#1;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#2;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="true" />
@@ -48,6 +61,19 @@
                 <element signature="e#6817#6822#0" expanded="true" />
                 <element signature="e#11742#11747#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="22120">
+                <caret line="1106" column="14" lean-forward="false" selection-start-line="1106" selection-start-column="14" selection-end-line="1106" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -104,14 +130,14 @@
         <option value="$PROJECT_DIR$/docs/joomla/extensions/traffic/faq.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove-component.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md" />
-        <option value="$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md" />
-        <option value="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/date/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/../cw-general/articles/sociallinks/comparison.html" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/social/system-parts.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/social/guide.md" />
+        <option value="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md" />
       </list>
     </option>
   </component>
@@ -536,7 +562,7 @@
       <workItem from="1488461043982" duration="7713000" />
       <workItem from="1489414733300" duration="1989000" />
       <workItem from="1492346987341" duration="1537000" />
-      <workItem from="1492553756292" duration="1514000" />
+      <workItem from="1492553756292" duration="2181000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -734,11 +760,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493036515335</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Updated Message for Social Links Panel plugin in regards to stopping development.">
+      <created>1493036709349</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1493036709349</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42781000" />
+    <option name="totallyTimeSpent" value="43448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-26" width="1920" height="1106" extended-state="6" />
@@ -769,7 +802,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="New CoalaWeb Date extension add to CoalaWeb docs" />
     <MESSAGE value="Small changes to CoalaWeb Date guide" />
     <MESSAGE value="Small changes to CoalaWeb Date system parts" />
     <MESSAGE value="Added CoalaWeb Date to TOC" />
@@ -794,7 +826,8 @@
     <MESSAGE value="Contact guide updates" />
     <MESSAGE value="Updated change log for Date and Gears" />
     <MESSAGE value="Message for Social Links Panel plugin in regards to stopping development." />
-    <option name="LAST_COMMIT_MESSAGE" value="Message for Social Links Panel plugin in regards to stopping development." />
+    <MESSAGE value="Updated Message for Social Links Panel plugin in regards to stopping development." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Message for Social Links Panel plugin in regards to stopping development." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1270,17 +1303,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3880">
-            <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/date/CHANGELOG.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1292,21 +1314,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="40">
-            <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../cw-general/articles/sociallinks/comparison.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="368" column="10" lean-forward="true" selection-start-line="368" selection-start-column="10" selection-end-line="368" selection-end-column="10" />
+          <caret line="368" column="10" lean-forward="false" selection-start-line="368" selection-start-column="10" selection-end-line="368" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#td#1;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="true" />
@@ -1334,6 +1345,28 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="540">
             <caret line="69" column="39" lean-forward="false" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3960">
+            <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22120">
+            <caret line="1106" column="14" lean-forward="false" selection-start-line="1106" selection-start-column="14" selection-end-line="1106" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
