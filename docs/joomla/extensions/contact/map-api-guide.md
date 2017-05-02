@@ -15,24 +15,24 @@ Before we get started I would like to point out that the Google API interface do
 
 Following the steps outlined below to create and implement a free [Google Maps API Key]( https://developers.google.com/maps/documentation/javascript/get-api-key)
 
-Start Google’s [Get a Key](https://console.developers.google.com/flows/enableapi?apiid=maps_backend,static_maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend,roads,street_view_image_backend,maps_embed_backend,places_backend,geolocation,timezone_backend,maps_android_backend,maps_ios_backend,placesandroid,placesios&keyType=CLIENT_SIDE&reusekey=true) process and then log into your Google account (or create a new one).
+1. Start Google’s [Get a Key](https://console.developers.google.com/flows/enableapi?apiid=maps_backend,static_maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend,roads,street_view_image_backend,maps_embed_backend,places_backend,geolocation,timezone_backend,maps_android_backend,maps_ios_backend,placesandroid,placesios&keyType=CLIENT_SIDE&reusekey=true) process and then log into your Google account (or create a new one).
 
-Click **Agree and continue** to create a new project for your specific website. *\[Figure-1\]*
+2. Click **Agree and continue** to create a new project for your specific website. *\[Figure-1\]*
 
 ![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/api-key/cw-api-key-figure1.png "Figure-1"){.coalaweb-docs}
 
-Under **Accept requests**, add the two entries below (replacing yourname.com with your own domain). Type the first entry then hit enter on your keyboard to add it. Repeat to add the second entry. Having both entries (with asterisks) will help ensure your maps work on any URL related to your website.  *\[Figure-2\]*
+3. Under **Accept requests**, add the two entries below (replacing yourname.com with your own domain). Type the first entry then hit enter on your keyboard to add it. Repeat to add the second entry. Having both entries (with asterisks) will help ensure your maps work on any URL related to your website.  *\[Figure-2\]*
 
     yourname.com/*
     *.yourname.com/*
 
 ![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/api-key/cw-api-key-figure2.png "Figure-2"){.coalaweb-docs}
 
-Click **Create** and then **Copy** your newly created key that will display in the next screen. *\[Figure-3\]*
+4. Click **Create** and then **Copy** your newly created key that will display in the next screen. *\[Figure-3\]*
 
 ![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/api-key/cw-api-key-figure3.png "Figure-3"){.coalaweb-docs}
 
-Now you have your new API Key it's time to use it by pasting it into the **API Key** field found in the CoalaWeb Contact **Component Options** under the **Map** tab. *\[Figure-4\]*
+5. Now you have your new API Key it's time to use it by pasting it into the **API Key** field found in the CoalaWeb Contact **Component Options** under the **Map** tab. *\[Figure-4\]*
 
 ![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/api-key/cw-api-key-figure4.png "Figure-4"){.coalaweb-docs}
 
