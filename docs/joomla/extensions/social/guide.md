@@ -302,7 +302,7 @@ buttons in Joomla and K2. If you plan to display the Facebook button you will ne
 
 #### Create Facebook Application
 
-To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this [GUIDE](http://coalaweb.com/support/documentation/item/create-facebook-application "Facebook App Guide").
+To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this [GUIDE](https://coalaweb.com/support/documentation/item/create-facebook-application "Facebook App Guide").
 
 ### 4. <a name="options-panel"></a>Panel Plugin Options \[Pro Version\]
 
@@ -551,7 +551,7 @@ For **Pro** subscribers you will need to make sure you still have a valid subscr
 
 #### <a name="options-downloadid"></a> Where can I find my Download ID?
 
-To see your **Download ID** you will need to log into [coalaweb.com](http://coalaweb.com) and then go to:
+To see your **Download ID** you will need to log into [coalaweb.com](https://coalaweb.com) and then go to:
 
     Members -> My Subscriptions
 
@@ -640,7 +640,7 @@ If you don't want to create a Facebook application you can set the component opt
 
 ### <a name="mod-bookmark-fbapp"></a>Create Facebook Application
 
-To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this [GUIDE](http://coalaweb.com/support/documentation/item/create-facebook-application "Facebook App Guide").
+To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this [GUIDE](https://coalaweb.com/support/documentation/item/create-facebook-application "Facebook App Guide").
 
 #### Part 2 - Social A - Z
 
@@ -676,11 +676,11 @@ Due to popular demand there is now a **Custom Option** and for *PRO* users **Thr
 
 First lets decided if we want a custom button to display at all. Next is the **Hover Text** this displays when the icon is hovered over by a mouse. Now we have an important one the link to the place you want the user to visit if they click the button. The next options allows you to choose it you want the link to open in the same window maybe for a contact form on your site or in a new window if they are leaving your site. 
 
-The next couple of options help you get the all important icon displaying, you can select the **Custom Icon** that you want to display from your local images directory or use an external one by entering in the complete URL for example http://coalaweb.com/images/example.png. *\[Figure-11b\]*
+The next couple of options help you get the all important icon displaying, you can select the **Custom Icon** that you want to display from your local images directory or use an external one by entering in the complete URL for example https://coalaweb.com/images/example.png. *\[Figure-11b\]*
 
 #### Tips
 -   When adding your link use the domain without the http:// for example **www.facebook.com**
--   When using an external icon use the complete URL for example http://coalaweb.com/images/example.png
+-   When using an external icon use the complete URL for example https://coalaweb.com/images/example.png
 -   When choosing a icon keep in mind what size you selected in the **General Options** section.
 
 ![Figure-11b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-mod-config-follow3.png "Figure-11b"){.coalaweb-docs}
@@ -754,7 +754,7 @@ If you don't want to create a Facebook application you can set the component opt
 
 ### <a name="mod-tabs-fbapp"></a>Create Facebook Application
 
-To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this [GUIDE](http://coalaweb.com/support/documentation/item/create-facebook-application "Facebook App Guide").
+To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this [GUIDE](https://coalaweb.com/support/documentation/item/create-facebook-application "Facebook App Guide").
 
 #### Part 2 - Social A - Z
 
@@ -778,11 +778,11 @@ Due to popular demand there are now two **Custom Option** to help with those sit
 
 First lets decided if we want a custom tab to display at all. Now we have an important one the link to the place you want the user to visit if they click the tab. The next options allows you to choose it you want the link to open in the same window maybe for a contact form on your site or in a new window if they are leaving your site. 
 
-The next couple of options help you get the all important icon displaying, you can select the **Custom Icon** that you want to display from your local images directory or use an external one by entering in the complete URL for example http://coalaweb.com/images/example.png. *\[Figure-25g\]*
+The next couple of options help you get the all important icon displaying, you can select the **Custom Icon** that you want to display from your local images directory or use an external one by entering in the complete URL for example https://coalaweb.com/images/example.png. *\[Figure-25g\]*
 
 #### Tips
 -   When adding your link use the domain without the http:// for example **www.facebook.com**
--   When using an external icon use the complete URL for example http://coalaweb.com/images/example.png
+-   When using an external icon use the complete URL for example https://coalaweb.com/images/example.png
 -   When choosing a icon keep in mind the standard icons are 48px png images with a clear background.
 
 ![Figure-25g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-tabs-mod-config-follow2.png "Figure-25g"){.coalaweb-docs}
@@ -1283,6 +1283,6 @@ If you have chosen to display **Schema (microdata)** you will also be able to se
 
 ## <a name="more-help"></a>Need More Help
 
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="http://coalaweb.com/support/documentation/category/social-links" target="_self">FAQ</a></div>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="https://coalaweb.com/support/documentation/category/social-links" target="_self">FAQ</a></div>
 
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="https://coalaweb.com/forum/index" target="_self">Forum</a></div>

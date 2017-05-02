@@ -101,4 +101,4 @@ If you see an **Error Message** take note of the **File** that is causing the pr
 
 ## <a name="more-help"></a>Need More Help
 
-<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Then it's time to drop by the [Forum](http://coalaweb.com/forum/index) I'm sure we can help.</span>
+<span class="tip" markdown="1">Do you have a question that wasn't covered by the GUIDE? Then it's time to drop by the [Forum](https://coalaweb.com/forum/index) I'm sure we can help.</span>

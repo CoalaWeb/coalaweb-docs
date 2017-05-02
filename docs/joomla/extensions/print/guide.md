@@ -117,4 +117,4 @@ The CoalaWeb Hours module also has a few of what I consider **Advanced Options**
 
 ## <a name="more-help"></a>Need More Help
 
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Then it's time to drop by the <a href="https://coalaweb.com/forum/index" target="_self">Forum</a></div>

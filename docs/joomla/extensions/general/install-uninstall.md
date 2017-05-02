@@ -17,7 +17,7 @@ The first method of installing a CoalaWeb extension we are going to cover is the
 extensions so it's a good place to start.
 
 The first thing we need is a zipped up extension package ready to install so 
-drop by the **Downloads** section of [CoalaWeb](http://coalaweb.com) and grab a copy of the 
+drop by the **Downloads** section of [CoalaWeb](https://coalaweb.com) and grab a copy of the 
 extension you want to install. *\[Figure-1\]*
 
 <span class="alert" markdown="1">Note: Before attempting to install a CoalaWeb extension make sure your system meets the minimum requirements.</div>
@@ -55,7 +55,7 @@ packages on system with limited resources. If your system timed out using the
 first method then this is the next logical step.
 
 The first thing we need is an extension package ready to install so 
-drop by the **Downloads** section of [CoalaWeb](http://coalaweb.com) and grab 
+drop by the **Downloads** section of [CoalaWeb](https://coalaweb.com) and grab 
 a copy of the extension you want to install. The difference with this method of 
 installing an extension is that we need it unzipped so you may as well do it now. *\[Figure-1\]*
 
@@ -113,7 +113,7 @@ download it first.
 
 <div class="alert">Note: To use this method you will need to be a registered and logged in user to access the link.</div>
 
-Once you have logged in over at [CoalaWeb](http://coalaweb.com) proceed to the 
+Once you have logged in over at [CoalaWeb](https://coalaweb.com) proceed to the 
 **Downloads** area the same as for the previous two methods of installing 
 extensions and you will notice a new **Direct Link** option. *\[Figure-1\]*
 
@@ -237,4 +237,4 @@ has finished you will receive confirmation and you are done. *\[Figure-6\]*
 
 ## <a name="more-help"></a>Need More Help
 
-<div class="uk-alert">Do you have a question that wasn't covered by the GUIDE? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
+<div class="uk-alert">Do you have a question that wasn't covered by the GUIDE? Then it's time to drop by the <a href="https://coalaweb.com/forum/index" target="_self">Forum</a></div>

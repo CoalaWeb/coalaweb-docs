@@ -34,7 +34,7 @@ Inside the **CW Gears** plugin options your will find a tab titled **Updates** a
 
 #### <a name="options-downloadid"></a> Where can I find my Download ID?
 
-To see your **Download ID** you will need to log into [coalaweb.com](http://coalaweb.com) and then go to:
+To see your **Download ID** you will need to log into [coalaweb.com](https://coalaweb.com) and then go to:
 
     Members -> My Subscriptions
 
@@ -242,4 +242,4 @@ The CoalaWeb News module also has a few of what I consider **Advanced Options** 
 
 ## <a name="more-help"></a>Need More Help
 
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Then it's time to drop by the <a href="https://coalaweb.com/forum/index" target="_self">Forum</a></div>

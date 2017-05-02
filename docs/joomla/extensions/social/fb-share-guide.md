@@ -50,7 +50,7 @@ To make sure what Facebook shares is as accurate as possible you will need to in
 
 ### <a name="og-pro"></a>CoalaWeb Pro Subscribers
 
-For CoalaWeb Social Links Pro subscribers you will already have a plugin to take care of adding all of this info for your automatically based on the page details. To learn more check out this [Guide Link](http://coalaweb.com/support/documentation/item/coalaweb-social-links-guide#options-og) 
+For CoalaWeb Social Links Pro subscribers you will already have a plugin to take care of adding all of this info for your automatically based on the page details. To learn more check out this [Guide Link](https://coalaweb.com/support/documentation/item/coalaweb-social-links-guide#options-og) 
 
 The main thing you will need to ensure is that it is turned on so open up the CoalaWeb Social Links **Component Options** and make sure that under the **Metadata Plugin** tab in the **Facebook Only** section the **Add Open Graph** option is set to **Yes**
 
@@ -116,6 +116,6 @@ Next is a great way to actually see what will be shared when a button is clicked
 
 ## <a name="more-help"></a>Need More Help
 
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="http://coalaweb.com/support/documentation/category/social-links" target="_self">FAQ</a></div>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="https://coalaweb.com/support/documentation/category/social-links" target="_self">FAQ</a></div>
 
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="https://coalaweb.com/forum/index" target="_self">Forum</a></div>

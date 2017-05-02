@@ -318,7 +318,7 @@ For **Pro** subscribers you will need to make sure you still have a valid subscr
 
 #### <a name="options-downloadid"></a> Where can I find my Download ID?
 
-To see your **Download ID** you will need to log into [coalaweb.com](http://coalaweb.com) and then go to:
+To see your **Download ID** you will need to log into [coalaweb.com](https://coalaweb.com) and then go to:
 
     Members -> My Subscriptions
 
@@ -639,6 +639,6 @@ The **Editor XTD** plugin makes adding a contact form to your Joomla content a o
 
 ### <a name="more-help"></a>Need more help?
 
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="http://coalaweb.com/support/documentation/category/contact" target="_self">FAQ</a></div>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Try the <a href="https://coalaweb.com/support/documentation/category/contact" target="_self">FAQ</a></div>
 
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="http://coalaweb.com/forum/index" target="_self">Forum</a></div>
+<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE or the FAQ? Then it's time to drop by the <a href="https://coalaweb.com/forum/index" target="_self">Forum</a></div>

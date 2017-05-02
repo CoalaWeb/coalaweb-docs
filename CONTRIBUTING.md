@@ -15,4 +15,4 @@ The licence must remain in all derivatives of this work.
 
 ![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-**CoalaWeb Documentation** by [Steven Palmer](http://coalaweb.com) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+**CoalaWeb Documentation** by [Steven Palmer](https://coalaweb.com) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).

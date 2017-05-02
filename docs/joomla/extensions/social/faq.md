@@ -88,7 +88,7 @@ The problem is that whatever **URL** you are currently hosting your Application 
 3.  Select **Website**
 4.  Put your website URL under **Site URL**
 
-You can see more details in Step 9 of this [Guide](http://coalaweb.com/support/documentation/item/create-facebook-application)
+You can see more details in Step 9 of this [Guide](https://coalaweb.com/support/documentation/item/create-facebook-application)
 
 ***
 
