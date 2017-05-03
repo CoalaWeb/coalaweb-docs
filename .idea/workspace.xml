@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="Gears and Social change logs updated">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/joomla/extensions/contact/map-api-guide.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENCE.md" afterPath="$PROJECT_DIR$/LICENCE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/amazon/update-files-cloudfront.md" afterPath="$PROJECT_DIR$/docs/amazon/update-files-cloudfront.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/git/default-git-user.md" afterPath="$PROJECT_DIR$/docs/git/default-git-user.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/date/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/date/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/facebookjs/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/facebookjs/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/flair/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/flair/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/gears/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/gears/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/general/install-uninstall.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/general/install-uninstall.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/general/language-override.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/general/language-override.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/general/manually-remove.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/general/translate-guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/general/translate-guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/general/updates.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/general/updates.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/hours/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/hours/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/news/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/news/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/print/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/print/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/faq.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/faq.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/fb-app-guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/fb-app-guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/fb-share-guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/fb-share-guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/social/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/social/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/traffic/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/traffic/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/users/guide.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/users/guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/tips/disable-plugin.md" afterPath="$PROJECT_DIR$/docs/joomla/tips/disable-plugin.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/tips/warp-k2-pagination.md" afterPath="$PROJECT_DIR$/docs/joomla/tips/warp-k2-pagination.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/thunderbird/remove-account.md" afterPath="$PROJECT_DIR$/docs/thunderbird/remove-account.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/ubuntu/bulk-image-resize.md" afterPath="$PROJECT_DIR$/docs/ubuntu/bulk-image-resize.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/gears/CHANGELOG.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,7 +39,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="580">
-                <caret line="29" column="72" lean-forward="true" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="87" />
+                <caret line="29" column="72" lean-forward="false" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="87" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -78,12 +47,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map-api-guide.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="map-api-guide.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/map-api-guide.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="1060">
-                <caret line="38" column="218" lean-forward="false" selection-start-line="38" selection-start-column="218" selection-end-line="38" selection-end-column="218" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="560">
+                <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -91,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -236,8 +205,8 @@
         <option value="$PROJECT_DIR$/docs/joomla/extensions/social/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/guide.md" />
         <option value="$PROJECT_DIR$/CONTRIBUTING.md" />
-        <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/map-api-guide.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/docs/joomla/extensions/contact/map-api-guide.md" />
       </list>
     </option>
   </component>
@@ -292,6 +261,72 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cw-docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cw-docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cw-docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cw-docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cw-docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cw-docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contact" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -417,7 +452,7 @@
       <workItem from="1492346987341" duration="1537000" />
       <workItem from="1492553756292" duration="3385000" />
       <workItem from="1493556370597" duration="599000" />
-      <workItem from="1493730650928" duration="5146000" />
+      <workItem from="1493730650928" duration="5926000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -629,11 +664,25 @@
       <option name="project" value="LOCAL" />
       <updated>1493126207413</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="New Google API Key guide and chnaged http to https for coalaweb.com links">
+      <created>1493736673460</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1493736673460</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Small changes to the Google API Key guide">
+      <created>1493736818457</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1493736818457</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50397000" />
+    <option name="totallyTimeSpent" value="51177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-26" width="1920" height="1106" extended-state="6" />
@@ -664,8 +713,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Small changes to CoalaWeb Date system parts" />
-    <MESSAGE value="Added CoalaWeb Date to TOC" />
     <MESSAGE value="Testing https from cloudfront for images" />
     <MESSAGE value="changed to https (cloudfront) for images" />
     <MESSAGE value="More image links changed to https (cloudfront)" />
@@ -689,7 +736,9 @@
     <MESSAGE value="Message for Social Links Panel plugin in regards to stopping development." />
     <MESSAGE value="Updated Message for Social Links Panel plugin in regards to stopping development." />
     <MESSAGE value="Gears and Social change logs updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gears and Social change logs updated" />
+    <MESSAGE value="New Google API Key guide and chnaged http to https for coalaweb.com links" />
+    <MESSAGE value="Small changes to the Google API Key guide" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small changes to the Google API Key guide" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1080,12 +1129,12 @@
         <state relative-caret-position="7360">
           <caret line="368" column="10" lean-forward="false" selection-start-line="368" selection-start-column="10" selection-end-line="368" selection-end-column="10" />
           <folding>
-            <element signature="n#style#0;n#td#1;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#8;n#tbody#0;n#table#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#8;n#tbody#0;n#table#1;n#!!top" expanded="true" />
-            <element signature="e#6817#6822#0" expanded="true" />
-            <element signature="e#11742#11747#0" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#2;n#tr#7;n#tbody#0;n#table#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#1;n#tr#8;n#tbody#0;n#table#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#2;n#tr#8;n#tbody#0;n#table#1;n#!!top" expanded="false" />
+            <element signature="e#6817#6822#0" expanded="false" />
+            <element signature="e#11742#11747#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1204,18 +1253,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="580">
-            <caret line="29" column="72" lean-forward="true" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="87" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/map-api-guide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1060">
-            <caret line="38" column="218" lean-forward="false" selection-start-line="38" selection-start-column="218" selection-end-line="38" selection-end-column="218" />
+            <caret line="29" column="72" lean-forward="false" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="87" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1227,6 +1265,17 @@
         <state relative-caret-position="200">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/map-api-guide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="560">
+            <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
