@@ -1,5 +1,55 @@
 ## Change Log
 
+### Version 1.1.2 May 2017
+
+#### General
+- **(C)** Minimum Joomla version is now 3.6
+- **(L)** Converted "\_QQ_" to \\" in Joomla 3.7 +
+
+#### Component - Contact
+- **(A)** New delimiter option for custom select lists
+- **(A)** New delimiter reminder messages
+- **(A)** Added Google Map API key option
+- **(A)** New cancel button option
+- **(C)** Removed underscore from custom field display in emails
+- **(C)** Centralized helper class for plugin and modules
+- **(C)** Code improvements and streamlining to core functions
+- **(L)** New and updated language strings
+
+#### Module - Contact
+- **(A)** Integrated Google Map API key
+- **(A)** New cancel button option
+- **(A)** Popup validation messages
+- **(A)** Use new delimiter option for custom select lists
+- **(C)** Removed underscore from custom field display in emails
+- **(C)** Using Centralized helper class
+- **(C)** Code improvements and streamlining to helper class
+- **(L)** New and updated language strings
+
+#### Module - Contact Tab \[Pro\]
+- **(A)** New cancel button option
+- **(A)** Popup validation messages
+- **(A)** Use new delimiter option for custom select lists
+- **(A)** Name field now available
+- **(A)** New modal popup option
+- **(C)** Removed underscore from custom field display in emails
+- **(C)** Using Centralized helper class
+- **(C)** Code improvements and streamlining to helper class
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Contact \[Pro\]
+- **(A)** Integrated Google Map API key
+- **(A)** New cancel button option
+- **(A)** Popup validation messages
+- **(A)** Use new delimiter option for custom select lists
+- **(B)** Fixed some spacing issues between field attributes
+- **(C)** Removed underscore from custom field display in emails
+- **(C)** Using Centralized helper class
+- **(C)** Code improvements
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.6
+
 ### Version 1.1.1 March 2017
 
 #### General
