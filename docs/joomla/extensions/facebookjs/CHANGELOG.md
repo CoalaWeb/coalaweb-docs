@@ -1,5 +1,21 @@
 ##Change Log
 
+### Version 1.0.5 May 2017
+
+#### General
+- **(C)** Updated copyright to 2017
+- **(C)** Minimum Joomla version is now 3.6
+- **(C)** Updated coalaweb.com http to https
+- **(L)** Converted "\_QQ_" to \\" for Joomla 3.7 +
+
+#### Plugin(S) - Facebook JS
+- **(C)** Code improvements
+- **(L)** Fixed language strings in install script
+- **(L)** Improved language file loading
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.6
+
 ### Version 1.0.4 May 2016
 
 #### Plugin(S) - Facebook JS
