@@ -1,5 +1,10 @@
 ##Change Log
 
+### Version 0.3.7 May 2017
+- **(B)** Fixed time form field styling for Joomla 3.7 +
+- **(C)** Updated UIkit to version 2.27.3
+- **(C)** CSS updated for Control Panel layout in Joomla 3.7 +
+
 ### Version 0.3.6 May 2017
 - **(C)** Minimum Joomla version is now 3.6
 - **(C)** Updated Mobile Detect class to 2.8.25

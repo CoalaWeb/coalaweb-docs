@@ -1,5 +1,22 @@
 ## Change Log
 
+### Version 1.0.7 May 2017
+
+#### General
+- **(C)** Improved install script
+- **(C)** Minimum Joomla version is now 3.6
+- **(C)** Updated coalaweb.com http to https
+- **(L)** Converted "\_QQ_" to \\" in Joomla 3.7 +
+
+#### Module - Hours
+- **(A)** New holiday/away system \[Pro\]
+- **(C)** Helper code improvements
+- **(L)** Improved language file loading
+- **(L)** New and updated language strings.
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.7
+
 ### Version 1.0.6 January 2017
 
 #### General
