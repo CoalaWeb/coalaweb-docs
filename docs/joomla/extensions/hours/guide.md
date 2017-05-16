@@ -207,11 +207,7 @@ For **Pro** subscribers you get an additional **Custom 1** zone where you can sp
 
 The CoalaWeb Hours module also has a few of what I consider **Advanced Options** such as choosing which **Uikit Prefix** to use, the option to assign a **Module Class Suffix** or to choose whether to use **Cache** including the **Cache Time**.  *\[Figure-4a\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-4a.png">
-
-![Figure-4a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-4a.png "Figure-4a"){.uk-thumbnail .uk-thumbnail-mini}
-
-</a>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-4a.png">![Figure-4a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-4a.png "Figure-4a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="more-help"></a>Need More Help
 
