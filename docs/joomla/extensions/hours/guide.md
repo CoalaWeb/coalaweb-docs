@@ -17,6 +17,8 @@
 
 <div class="uk-alert">All CoalaWeb extensions have descriptions added to each input field which provide informative tooltips explaining it's purpose and use. To see one just hover over the form field label.</div>
 
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip">![Figure-Tooltip](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png "Figure-Tooltip"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
 ## <a name="mod-hours"></a>Hours Module
 
 The **CoalaWeb Hours** module has a huge list of options so we have broken them up into several sections which are explained in detail below.
