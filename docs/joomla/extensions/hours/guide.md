@@ -75,7 +75,7 @@ These settings are fully responsive which you can test by minimizing your browse
 
 Pro subscribers also get an **Inline** layout that comes with a text format option and **Hours** and **Title** alignment options. In this section your also get to choose the width by % for the **Hours** container with the added power to choose based on the size of the screen being used. You can for example have 40% on a nice big desktop screen and then 100% on a small mobile device. *\[Figure-2c\]*
 
-![Figure-2c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2c.png "Figure-2c"){.uk-thumbnail}
+![Figure-2c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2c.png "Figure-2c"){.uk-thumbnail .uk-thumbnail-mini}
 
 **Part 4 Days**
 
