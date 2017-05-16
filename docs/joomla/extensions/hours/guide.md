@@ -3,6 +3,8 @@
 2.  [Module Hours](#mod-hours)
     -   [General Options](#mod-general)
     -   [Hours Options](#mod-hours-opt)
+    -   [Schedule Options \[Pro\]](#mod-schedule-opt)
+    -   [Holiday Options \[Pro\]](#mod-holiday-opt)
     -   [Zones Options](#mod-zones)
     -   [Advanced Options](#mod-advanced)
 3.  [Need More Help?](#more-help)
@@ -12,6 +14,8 @@
 **CoalaWeb Hours** gives users an easy way to display their support or opening hours. It's completely responsive harnessing the power of UIkit with desktop, tablet, and mobile layouts plus a tonne of other options. There are two versions available a Core (Free) and Pro (Paid Subscription) version that comes with extend functionality.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
+
+<div class="uk-alert">All CoalaWeb extensions have descriptions added to each input field which provide informative tooltips explaining it's purpose and use. To see one just hover over the form field label.</div>
 
 ## <a name="mod-hours"></a>Hours Module
 
@@ -45,19 +49,19 @@ The next three options are avaliable for both **Core** and **Pro** users and wil
 
 ### <a name="mod-hours-opt"></a>Hours Options
 
-To make it easy to explain I have broken this section up into 3 parts.
+To make it easy to explain I have broken this section up into 4 parts.
 
 **Part 1 General**
 
-The first few option in this section control how the **Title** and **Hours** text will be displayed such as their format and for **Pro** users the option of an icon can also be displayed. *\[Figure-2a\]*
+The first few option in this section are for **Pro** subscribers and they control if the **Title** and **Hours** icons should be displayed. *\[Figure-2a\]*
 
 ![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2a.png "Figure-2a"){.coalaweb-docs}
 
-**Part 2 Columns**
+**Part 2 Layout - Default**
 
 <div class="uk-alert">Width Guide: Desktop = 960px, Tablet = 768px and Mobile = 480px</div>
 
-In this section you can choose how many columns you want to use with the added power to choose based on the size of the screen being used. You can for example have three columns on a nice big desktop screen and then one column on a small mobile device. *\[Figure-2b\]*
+In this section you can choose the **Title** and **Hours** formats plus how many columns you want to use with the added power to choose based on the size of the screen being used. You can for example have three columns on a nice big desktop screen and then one column on a small mobile device. *\[Figure-2b\]*
 
 These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live. 
 
@@ -65,13 +69,48 @@ These settings are fully responsive which you can test by minimizing your browse
 
 ![Figure-2b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2b.png "Figure-2b"){.coalaweb-docs}
 
-**Part 3 Days**
+**Part 3 Layout - Inline \[Pro\]**
 
-<div class="uk-alert">Note: If your site is multilingual leave blank and use the language files or a language override.</div>
+<div class="uk-alert">Width Guide: Desktop = 960px, Tablet = 768px and Mobile = 480px</div>
 
-In this section you set the specific information you want to be displayed for each of your avaliable **Days**. **Pro** users get three options while **Core** get two. You can choose to turn a day on or off as well as set the text for the **Title** and **Hours** for example **Monday - Friday** and **9am - 5pm**. *\[Figure-2c\]*
+Pro subscribers also get an **Inline** layout that comes with a text format option and **Hours** and **Title** alignment options. In this section your also get to choose the width by % for the **Hours** container with the added power to choose based on the size of the screen being used. You can for example have 40% on a nice big desktop screen and then 100% on a small mobile device. *\[Figure-2c\]*
 
 ![Figure-2c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2c.png "Figure-2c"){.coalaweb-docs}
+
+**Part 4 Days**
+
+<div class="uk-alert">Note: If your site is multilingual leave text fields blank and use the language files or a language override.</div>
+
+In this section you set the specific information you want to be displayed for each of your avaliable **Days**. **Pro** users get seven options while **Core** get three. You can choose to turn a day on or off as well as set the text for the **Title** and **Hours** for example **Monday - Friday** and **9am - 5pm**. *\[Figure-2d\]*
+
+![Figure-2d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2d.png "Figure-2d"){.coalaweb-docs}
+
+### <a name="mod-schedule-opt"></a>Schedule Options \[Pro\]
+
+To make it easy to explain I have broken this section up into 2 parts.
+
+<div class="uk-alert">Note: If your site is multilingual leave text fields blank and use the language files or a language override.</div>
+
+**Part 1 Sign**
+
+This options in this section affect the open/closed sign display at the top. You can choose to turn it on or off, it's size and a series of text options to be display at different times based on your schedule settings. *\[Figure-5a\]* 
+
+![Figure-5a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-5a.png "Figure-5a"){.coalaweb-docs}
+
+**Part 2 Day Schedule**
+
+In this section you have two closing and opening times per day which will control whether the sign will display open/break/closed. The time between the ending of the **First Schedule** and the starting of the **Second Schedule** will display as a **Break**. To not use the **Second Schedule** leave them blank. *\[Figure-5b\]*
+
+![Figure-5b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-5b.png "Figure-5b"){.coalaweb-docs}
+
+### <a name="mod-holiday-opt"></a>Holiday Options \[Pro\]
+
+Each holiday has a series of options to help control when and how the holiday message will display. You can turn each holiday on or off, choose an icon type to be displayed with the title and the title and description text. 
+
+The last two options are the **Start** and **End** dates which will not only control the display of the holiday message but will also **override** the open/close sign setting it to closed throughout the holiday. *\[Figure-6a\]*
+
+![Figure-6a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-6a.png "Figure-6a"){.coalaweb-docs}
+
 
 ### <a name="mod-zones"></a>Zones Options
 
@@ -97,7 +136,7 @@ These settings are fully responsive which you can test by minimizing your browse
 
 **Part 3 Zones**
 
-<div class="uk-alert">Note: If your site is multilingual leave blank and use the language files or a language override.</div>
+<div class="uk-alert">Note: If your site is multilingual leave text fields blank and use the language files or a language override.</div>
 
 In this section you set the specific information you want to be displayed for each of your avaliable **Zones**. **Pro** users get three options while **Core** get two. You can choose to turn a zone on or off as well as choose the **Title** text and turn on or off the individual parts **Date**, **Time** and **Zone**. *\[Figure-3c\]*
 
@@ -111,7 +150,7 @@ For **Pro** subscribers you get an additional **Custom 1** zone where you can sp
 
 ### <a name="mod-advanced"></a>Advanced Options
 
-The CoalaWeb Hours module also has a few of what I consider **Advanced Options** such as the option to assign a **Module Class Suffix** or choose whether to use **Cache** including the **Cache Time**.  *\[Figure-4a\]*
+The CoalaWeb Hours module also has a few of what I consider **Advanced Options** such as choosing which **Uikit Prefix** to use, the option to assign a **Module Class Suffix** or to choose whether to use **Cache** including the **Cache Time**.  *\[Figure-4a\]*
 
 ![Figure-4a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-4a.png "Figure-4a"){.coalaweb-docs}
 
