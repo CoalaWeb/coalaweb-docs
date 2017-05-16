@@ -15,7 +15,7 @@
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
-<div class="uk-alert">All CoalaWeb extensions have descriptions added to each input field which provide informative tooltips explaining it's purpose and use. To see one just hover over the form field label.</div>
+<div class="uk-alert">All CoalaWeb extensions have descriptions added to each input field which provide informative tooltips explaining it's purpose and use. To see one just hover over the form field label. [Figure-Tooltip]</div>
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png">![Figure-Tooltip](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png "Figure-Tooltip"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
