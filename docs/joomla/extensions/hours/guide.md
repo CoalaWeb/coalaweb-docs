@@ -83,7 +83,7 @@ Pro subscribers also get an **Inline** layout that comes with a text format opti
 
 In this section you set the specific information you want to be displayed for each of your avaliable **Days**. **Pro** users get seven options while **Core** get three. You can choose to turn a day on or off as well as set the text for the **Title** and **Hours** for example **Monday - Friday** and **9am - 5pm**. *\[Figure-2d\]*
 
-<a href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2d.png" data-uk-lightbox="">
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2d.png">
 
 ![Figure-2d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2d.png "Figure-2d"){.coalaweb-docs}
 
