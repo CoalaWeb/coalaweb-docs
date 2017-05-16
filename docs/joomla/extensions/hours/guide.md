@@ -75,7 +75,7 @@ These settings are fully responsive which you can test by minimizing your browse
 
 Pro subscribers also get an **Inline** layout that comes with a text format option and **Hours** and **Title** alignment options. In this section your also get to choose the width by % for the **Hours** container with the added power to choose based on the size of the screen being used. You can for example have 40% on a nice big desktop screen and then 100% on a small mobile device. *\[Figure-2c\]*
 
-![Figure-2c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2c.png "Figure-2c"){.coalaweb-docs}
+![Figure-2c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2c.png "Figure-2c"){.uk-thumbnail}
 
 **Part 4 Days**
 
@@ -83,7 +83,11 @@ Pro subscribers also get an **Inline** layout that comes with a text format opti
 
 In this section you set the specific information you want to be displayed for each of your avaliable **Days**. **Pro** users get seven options while **Core** get three. You can choose to turn a day on or off as well as set the text for the **Title** and **Hours** for example **Monday - Friday** and **9am - 5pm**. *\[Figure-2d\]*
 
+<a href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2d.png" data-uk-lightbox="">
+
 ![Figure-2d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/hours/cw-hours-mod-hours-2d.png "Figure-2d"){.coalaweb-docs}
+
+</a>
 
 ### <a name="mod-schedule-opt"></a>Schedule Options \[Pro\]
 
