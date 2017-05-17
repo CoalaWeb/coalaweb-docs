@@ -29,11 +29,11 @@ For **Pro** subscribers you will need to make sure you still have a valid subscr
 
 <div class="uk-alert">Not sure where to find your Download ID? Click <a href="#options-downloadid">HERE</a> for more info.</div>
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png">![Figure-11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-11"){.uk-thumbnail .uk-thumbnail-mini}</a>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png">![Figure-11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-11"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Inside the **CW Gears** plugin options your will find a tab titled **Updates** and under it a **Download ID** input field. I recommend you copy and paste your **Download ID** into this field to reduce the risk of a typo and also to check for no spaces at the end.  *\[Figure-11a\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png">![Figure-11a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-11a"){.uk-thumbnail .uk-thumbnail-mini}</a>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png">![Figure-11a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-11a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">The CW Gears plugin will take care of the Download ID for any CoalaWeb extensions that doesn't come with a component.</div>
 
@@ -45,7 +45,7 @@ To see your **Download ID** you will need to log into [coalaweb.com](https://coa
 
 You will then see the ID displayed in the module titled **Download ID**. *\[Figure-11b\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png">![Figure-11b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-11b"){.uk-thumbnail .uk-thumbnail-mini}</a>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png ">![Figure-11b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-11b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
