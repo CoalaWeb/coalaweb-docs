@@ -119,7 +119,7 @@ There are two options in this section related to keeping the database clean of o
 
 ### <a name="opt-updates"></a>Updates
 
-<div class="uk-alert">This option is for CoalaWeb extensions that don't come packaged with a Component.</div>
+<div class="uk-alert">This option is for CoalaWeb Pro extensions that don't come packaged with a <em>Component</em>.</div>
 
 To install the latest **Pro** versions through the Joomla updater you will need to enter your **Download ID** in this section. If you install any additional CoalaWeb Pro extension that don't come packaged with a component you will need to **open and save** the **CW Gears** plugin options again to allow the settings to catch up and be applied to the new extension. *\[Figure 11\]*
 

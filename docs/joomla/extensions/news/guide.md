@@ -16,9 +16,13 @@
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
+<div class="uk-alert">All CoalaWeb extensions have descriptions added to each input field which provide informative tooltips explaining it's purpose and use. To see one just hover over the form field label. [Figure-Tooltip]</div>
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png">![Figure-Tooltip](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png "Figure-Tooltip"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
 ## <a name="updates"></a>Updates
 
-The CoalaWeb News extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
+The **CoalaWeb News** extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
 
 For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** into the **System - CW Gears** plugin. *\[Figure-11\]*
 
