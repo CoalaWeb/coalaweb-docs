@@ -9,6 +9,8 @@
     -   [Custom JS](#opt-js)
     -   [Cache](#opt-cache)
     -   [Assets](#opt-assets)
+    -   [Updates \[Pro\]](#opt-updates)
+        - [Where is my Download ID?](#opt-downloadid)
 3.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="overview"></a>Overview
@@ -17,25 +19,27 @@
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png">![Figure-Tooltip](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png "Figure-Tooltip"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
 ## <a name="options"></a>Options
 
 The CoalaWeb Gears plugin has a long list of options so we have broken them up into 8 sections which are explained in detail below.
 
 ### <a name="opt-general"></a>General
 
-In the **General** section you have three option the first helps when using **Zoo** by YooTheme by expanding the editor window, making it easier to work on your content. The second option will display a demo of what your system messages will look like, which is great for customizing their style and layout. 
+In the **General** section you have several options the first helps when using **Zoo** by YooTheme by expanding the editor window, making it easier to work on your content. The second option will display a demo of what your system messages will look like, which is great for customizing their style and layout. 
 
 The next option **Gzip help** is designed to help with a know issue where Facebook is unable to access some Joomla sites while using Gzip compression. Not to go into to much detail but it has to do with Facebook only looking at a certain amount of a page and it is misinterpreting some Gzipped sites as being too large. If you turn this option on it will try to detect Facebook and Linking bots and disable Gzip for the duration of their visit. 
 
-The last option **reCAPTCHA Compact** gives you the ability to display the captcha produced by the inbuilt Joomla reCAPTCHA plugin in either a **Standard** or **Compact** layout. *\[Figure 1\]*
+Next is the **reCAPTCHA Compact** option which gives you the ability to display the captcha produced by the inbuilt Joomla reCAPTCHA plugin in either a **Standard** or **Compact** layout. The last option is to turn on or off the logging of SQL errors which is very useful for debugging. *\[Figure 1\]*
 
-![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f1.png "Figure-1"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f1.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f1.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="opt-jquery"></a>jQuery
 
 This section is designed to help you safely included jQuery on your site with a few cool features. You can choose to load a local copy or from a remote location such as Google's CDN. You can choose which version to included and also if you want **No Conflict** and or **Migrate** turned on. *\[Figure 2\]*
 
-![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f2.png "Figure-2"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f2.png">![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f2.png "Figure-2"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="opt-async"></a>Async
 
@@ -47,7 +51,7 @@ This section is designed to help you safely included jQuery on your site with a 
 
 In this section you can decided if you want to add **Asnyc** and or **Defer** to your scripts including an input box to choose which scripts should be included. *\[Figure 3\]*
 
-![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f3.png "Figure-3"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f3.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f3.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="opt-uikit"></a>Uikit
 
@@ -55,7 +59,7 @@ In this section you have the option to turn on a CoalaWeb specific version of Ui
 
 <div class="uk-alert">This option is only going to apply to a select group of CoalaWeb extensions. Unless otherwise asked to I recommend leaving this option set to <em>Yes</em> to ensure certain CoalaWeb extensions function correctly.</div>
 
-![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f4.png "Figure-4"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f4.png">![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f4.png "Figure-4"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="opt-css"></a>Custom CSS
 
@@ -78,7 +82,7 @@ You can also include a **Custom File** if needed, just enter the location of the
 
     /media/mycss/custom.css
 
-![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f5.png "Figure-5"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f5.png">![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f5.png "Figure-5"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="opt-js"></a>Custom JS
 
@@ -86,7 +90,7 @@ In this section you have the option to add custom JS to your website which is gr
 
 You can choose to include code added to the **Custom Code** input field and then you have a few options to make small changes to it before it's included in your website. You can **Minimize** it to make it load as fast as possible also with the option to **Remove Comments** on the fly.
 
-![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f6.png "Figure-6"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f6.png">![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f6.png "Figure-6"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="opt-cache"></a>Cache
 
@@ -101,7 +105,7 @@ Would turn off caching for **com_content** article view. You can also use the **
     
     option=com_content&amp;view=article&amp;id=?
 
-![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f7.png "Figure-7"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f7.png">![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f7.png "Figure-7"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="opt-assets"></a>Assets
 
@@ -111,7 +115,30 @@ There are two options in this section related to keeping the database clean of o
 
 <div class="uk-alert">Ref: The Lock Time is in minutes and the default value of 1440 min = 1 day.</div> 
 
-![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f8.png "Figure-8"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f8.png">![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f8.png "Figure-8"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+### <a name="opt-updates"></a>Updates
+
+<div class="uk-alert">This option is for CoalaWeb extensions that don't come packaged with a Component.</div>
+
+To install the latest **Pro** versions through the Joomla updater you will need to enter your **Download ID** in this section. If you install any additional CoalaWeb Pro extension that don't come packaged with a component you will need to **open and save** the **CW Gears** plugin options again to allow the settings to catch up and be applied to the new extension. *\[Figure 11\]*
+
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f11.png">![Figure-11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f11.png "Figure-11"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+#### <a name="opt-downloadid"></a> Where can I find my Download ID?
+
+To see your **Download ID** you will need to log into [coalaweb.com](https://coalaweb.com) and then go to:
+
+    Members -> My Subscriptions
+
+You will then see the **ID** displayed in the module titled **Download ID**. *\[Figure-11a\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png">![Figure-11a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-11a"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
+
 
 ## <a name="more-help"></a>Need More Help
 
