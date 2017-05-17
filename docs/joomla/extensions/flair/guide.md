@@ -1,6 +1,6 @@
 ## Table of Contents
 1.  [Overview](#overview)
-1.  [StackExchange Account](#account)
+1.  [StackExchange Accounts](#account)
     -   [Combined](#account-com)
     -   [Individual](#account-ind)
 2.  [Module Flair](#mod-flair)
@@ -15,21 +15,25 @@
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
 
+<div class="uk-alert">All CoalaWeb extensions have descriptions added to each input field which provide informative tooltips explaining it's purpose and use. To see one just hover over the form field label. [Figure-Tooltip]</div>
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png">![Figure-Tooltip](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/generic/coalaweb-tooltip.png "Figure-Tooltip"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
 ## <a class="doc-top" name="account"></a>Stack Exchange Account Details
 
-Before we get onto setting up the extension first lets have a look at how to retrieve your profile ID numbers.
+Before we get onto setting up the extension first lets have a look at how to retrieve your profile **ID numbers**.
 
 ### <a name="account-com"></a>Combined
 
-<span class="alert" markdown="1">Please note that only sites where you have more than 200 reputation will appear in the combined layout, and that flair is only updated once every 24-36 hours.</div>
+<div class="uk-alert">Please note that only sites where you have more than 200 reputation will appear in the combined layout, and that flair is only updated once every 24-36 hours.</div>
 
 To use the combined option you will need your **Combined Account ID** so log into one of your **StackExchange** accounts and in your profile area click the **Network Profile** link in the top right. *\[Figure 1\]*
 
-![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f1.png "Figure-1"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f1.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f1.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Next select **Flair** from the bottom right menu. *\[Figure 2\]*
 
-![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f2.png "Figure-2"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f2.png">![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f2.png "Figure-2"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Inside the code snippet at the bottom under the sentence.
 
@@ -37,17 +41,17 @@ Inside the code snippet at the bottom under the sentence.
 
 You will find your ID directly after **users** in the **stackexchange.com** link. *\[Figure 3\]*
 
-![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f3.png "Figure-3"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f3.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f3.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="account-ind"></a>Individual
 
 You need the user ID for each of the individual accounts that you want to list in CoalaWeb Flair. To find out what these are log into StackExchange then go to the profile page of the account you wish to add and the user ID can be found in the top right hand corner. *\[Figure 4\]*
 
-![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f4.png "Figure-4"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f4.png">![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f4.png "Figure-4"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Your second option is click **flair** from the menu at the top of your profile information. *\[Figure 5\]*
 
-![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f5.png "Figure-5"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f5.png">![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f5.png "Figure-5"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Inside the first code snippet at the bottom under the sentence.
 
@@ -55,17 +59,17 @@ Inside the first code snippet at the bottom under the sentence.
 
 You will find your **ID** directly after **users** in the **currentprofile.com** link. *\[Figure 6\]*
 
-![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f6.png "Figure-6"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f6.png">![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f6.png "Figure-6"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="mod-flair"></a>Module Settings
 
-<span class="alert" markdown="1">Please note that the StackExchange flair system feeds in a pre created image with a width 208px and a height of 58px so your module position will need sufficient space to accommodate images of this size.</div>
+<div class="uk-alert">Please note that the StackExchange flair system feeds in a pre created image with a width 208px and a height of 58px so your module position will need sufficient space to accommodate images of this size.</div>
 
 ### <a name="mod-gen"></a>General Display Options
 
 In this section you can choose whether you want the module to display your combined flair or your individual accounts separately. If you choose the combined option you will need to enter your combined profile ID and your combined profile name in this section. *\[Figure 7\]*
 
-![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f7.png "Figure-7"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f7.png">![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f7.png "Figure-7"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-ind"></a>Individual Settings
 
@@ -80,15 +84,13 @@ You have four options:
 
 These settings are the same fo each of the individual profiles so once you have entered all the information for the accounts you wish to display move onto the next section.
 
-![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f8.png "Figure-8"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f8.png">![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f8.png "Figure-8"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-adv"></a>Advanced Options
 
-The CoalaWeb Flair module also has a few what I consider **Advanced Options** such as the option to assign a unique module ID to stop conflicts, a module class suffix or weather to use cache including the cache time. There is also an option to turn off the module css if you want to add your own styling. 
+The CoalaWeb Flair module also has a few what I consider **Advanced Options** such as the option to assign a unique module ID to stop conflicts, a module class suffix or weather to use cache including the cache time. There is also an option to turn off the module css if you want to add your own styling. *\[Figure 9\]*
 
-The last option is to on or off the display of a link back to CoalaWeb as always it's appreciated but its up to you plus you can choose what text to display next to the link. **Note: If your site is multilingual leave blank and use the language files.** *\[Figure 9\]*
-
-![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f9.png "Figure-9"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f9.png">![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/flair/cw-flair-f9.png "Figure-9"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="more-help"></a>Need More Help
 
