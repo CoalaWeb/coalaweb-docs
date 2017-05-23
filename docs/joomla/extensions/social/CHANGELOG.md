@@ -1,5 +1,47 @@
 ##Change Log
 
+### Version 0.3.8 May 2017
+
+#### General
+- **(C)** Minimum Joomla version is now 3.6
+- **(C)** Updated more HTTP links to HTTPS
+- **(L)** Converted "\_QQ_" to \\" in Joomla 3.7 +
+- **(L)** New and updated language strings
+- **(L)** Converted CW_YES and CW_NO to JYES and JNO
+
+#### Module - Social Links
+- **(C)** Code improvements and streamlining to core functions
+- **(A)** HTTPS options for Contact Us, RSS and Custom options
+- **(L)** Improved language file loading
+
+#### Module - Social Tabs \[Pro\]
+- **(C)** Code improvements and streamlining to core functions
+- **(A)** HTTPS options for Contact Us, RSS and Custom options
+- **(L)** Improved language file loading
+
+#### Module - Tweet
+- **(C)** Code improvements and streamlining to core functions
+- **(C)** Twitter Fetcher has been updated to v17.0.0
+- **(L)** Improved language file loading
+
+#### Module - Page
+- **(C)** Code improvements and streamlining to core functions
+- **(L)** Improved language file loading
+
+#### Module - G Plus
+- **(C)** Code improvements and streamlining to core functions
+- **(L)** Improved language file loading
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(C)** Fixed mislabelled function
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(B)** Fixed missing URL root when using fallback image
+- **(C)** Better handling of PHP warnings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.7
+
 ### Version 0.3.7 April 2017
 
 #### General
@@ -1046,7 +1088,7 @@
 
 #### Module - Social Links
 - **(A)** Added Instagram to follow us options.
-- **(L)** Updated language strings replacing " with "_QQ_".
+- **(L)** Updated language strings replacing "_QQ_" with \".
 
 ### Version 0.0.7 February 2013
 
