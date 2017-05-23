@@ -1,5 +1,13 @@
 ##Change Log
 
+### Version 0.3.9 May 2017
+
+#### Module - Social Links
+- **(B)** Fixed incorrect mobile detect class call
+
+#### Module - Social Tabs \[Pro\]
+- **(B)** Fixed incorrect mobile detect class call
+
 ### Version 0.3.8 May 2017
 
 #### General
