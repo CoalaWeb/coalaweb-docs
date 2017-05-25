@@ -1,5 +1,16 @@
 ## Change Log
 
+### Version 1.0.8 May 2017
+
+#### General
+- **(L)** Fixed wrong language string in install script
+- **(B)** Fixed update URL issue
+
+#### Module - Hours
+- **(A)** 2 Additional holidays \[Pro\]
+- **(C)** Code improvements
+- **(L)** New and updated language strings.
+
 ### Version 1.0.7 May 2017
 
 #### General
