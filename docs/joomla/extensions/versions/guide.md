@@ -20,11 +20,11 @@ For **Pro** subscribers you will need to make sure you still have a valid subscr
 
 <div class="uk-alert">Not sure where to find your Download ID? Click <a href="#options-downloadid">HERE</a> for more info.</div>
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
+![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-1"){.coalaweb-docs}
 
 Inside the **CW Gears** plugin options your will find a tab titled **Updates** and under it a **Download ID** input field. I recommend you copy and paste your **Download ID** into this field to reduce the risk of a typo and also to check for no spaces at the end.  *\[Figure-1a\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-10.png">![Figure-1a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-1a"){.uk-thumbnail .uk-thumbnail-mini}</a>
+![Figure-1a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-1a"){.coalaweb-docs}
 
 <div class="uk-alert">The CW Gears plugin will take care of the Download ID for any CoalaWeb extensions that doesn't come with a component.</div>
 
@@ -36,7 +36,7 @@ To see your **Download ID** you will need to log into [coalaweb.com](https://coa
 
 You will then see the ID displayed in the module titled **Download ID**. *\[Figure-1b\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png">![Figure-1b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-1b"){.uk-thumbnail .uk-thumbnail-mini}</a>
+![Figure-1b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-1b"){.coalaweb-docs}
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
@@ -65,8 +65,8 @@ To make it easier to follow I have broken up this section into two parts.
 In this section you can choose what format you want the date to display in. **Core** users have **4** options while **Pro** subscribers have **11** options to choose from.
 
 The options with a **(J)** come from the core **Joomla** language files. The options with a **(CW)** are extended options provided by **CoalaWeb** and are contained in this extension's language file. *\[Figure 2\]*
-                                                                                            
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/date/cw-date-f1.png ">![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/date/cw-date-f1.png "Figure-2"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/date/cw-date-f1.png "Figure-2"){.coalaweb-docs}
 
 #### Copyright 
 
@@ -74,8 +74,7 @@ The options with a **(J)** come from the core **Joomla** language files. The opt
 
 The copyright text comes from a language string in the CoalaWeb Date extension's language files. The current website name as defined in your Joomla settings and the website root will be substitued into the copyright text unless you want to custimize them. To customize either of these items select **Custom** and a new custom field will appear allowing you to enter a website name and or a complete URL for **Name Link**. If you don't want the name to be a link you can also set the **Name Link** option to none. *\[Figure 2a\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/date/cw-date-f2.png ">![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/date/cw-date-f2.png "Figure-2a"){.uk-thumbnail .uk-thumbnail-mini}</a>
-
+![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/date/cw-date-f2.png "Figure-2a"){.coalaweb-docs}
 
 ## <a name="more-help"></a>Need More Help
 
