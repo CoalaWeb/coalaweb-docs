@@ -1,5 +1,20 @@
 ##Change Log
 
+### Version 1.0.3 June 2017
+
+#### Plugin(C) - Date
+- **(B)** Fixed bug in version file
+- **(C)** Code improvements
+- **(C)** Minimum Joomla version is now 3.6
+- **(C)** Updated GNU General Public License URL
+- **(C)** Updated all coalaweb.com references to https
+- **(L)** Improved language file loading
+- **(L)** New and updated language strings
+- **(L)** Converted "\_QQ_" to \\" in language files for Joomla 3.7 +
+
+##### Plugin(S) - Gears
+ - **(C)** Updated to version 0.3.8
+
 ### Version 1.0.2 April 2017
 
 #### Plugin(C) - Date

@@ -14,6 +14,7 @@ This is the official documentation for CoalaWeb projects, written by [Steven Pal
         - [Hours](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/hours)
         - [News](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/news)
         - [Date](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/date)
+        - [Versions](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/versions)
         - [General](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/extensions/general)
             - [Install - Uninstall Extension](https://github.com/CoalaWeb/coalaweb-docs/blob/master/docs/joomla/extensions/general/install-uninstall.md)
     - [Tips](https://github.com/CoalaWeb/coalaweb-docs/tree/master/docs/joomla/tips)
