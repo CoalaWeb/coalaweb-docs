@@ -1,5 +1,9 @@
 ##Change Log 
 
+### Version 0.3.9 June 2017
+- **(C)** Help fix moved to Component CSS form field
+- **(C)** Updates to GNU General Public License URL
+
 ### Version 0.3.8 June 2017
 - **(C)** Updated GNU General Public License URL
 - **(C)** Code improvements
