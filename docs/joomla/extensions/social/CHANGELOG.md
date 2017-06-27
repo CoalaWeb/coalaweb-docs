@@ -1,5 +1,41 @@
 ##Change Log
 
+### Version 0.4.0 June 2017
+
+#### General
+- **(C)** Updated GNU General Public License URL
+
+#### Component - Social Links
+- **(B)** Fixed help link form field
+- **(A)** Schema Author type \[Pro\]
+- **(C)** Convert tables to utf8mb4 character set with utf8mb4_unicode_ci collation
+- **(C)** Improved session token check when saving Download ID \[Pro\]
+- **(C)** Improved session token check for Purge and Optimize \[Pro\]
+- **(L)** New and updated language strings
+
+#### Module - Social Links
+- **(C)** Set root domain default option to http
+- **(L)** Fixed component language strings being loaded in module
+- **(L)** New and updated language strings
+
+#### Module - Social Tabs \[Pro\]
+- **(C)** Set root domain default option to http
+- **(L)** Fixed component language strings being loaded in module
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(A)** Schema Author type
+- **(C)** Improved schema image handling
+- **(C)** Improved Open Graph image handling
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(A)** Schema Author type
+- **(C)** Improved schema image handling
+- **(C)** Improved Open Graph image handling
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.3.9
+
 ### Version 0.3.9 May 2017
 
 #### Module - Social Links
