@@ -1,9 +1,8 @@
-## Change Log
+##Change Log
 
 ### Version 1.0.0 June 2017
 
-#### Plugin(C) - Versions
-
+#### Plugin(C) - CoalaWeb Versions
 - **(N)** Initial release
 
 ### Key
