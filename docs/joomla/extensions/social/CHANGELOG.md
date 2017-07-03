@@ -1,5 +1,12 @@
 ## Change Log
 
+### Version 0.4.1 July 2017
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(B)** Fixed location dependent loading of tags
+- **(B)** Fixed Twitter card display
+- **(C)** Code improvements
+
 ### Version 0.4.0 June 2017
 
 #### General
