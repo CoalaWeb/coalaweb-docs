@@ -54,7 +54,7 @@ This module displays the recorded visitors to your site, current visitor informa
 
 This module displays site visitor Country and City counts. The content of the module is fully responsive and it comes packed with with style and layout options to make it as flexible as possible.*\[Figure-8\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-places-module.png">![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-places-module.png "Figure-8"){.uk-thumbnail .uk-thumbnail-mini}</a>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-module-places.png">![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-module-places.png "Figure-8"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="plugins"></a>Plugins
 
