@@ -28,7 +28,7 @@ The Component makes setting up the system plugins a breeze as well as seeing in 
 
 ## <a name="modules"></a>Modules
 
-## <a name="modules-admin"></a>Modules Admin
+## <a name="modules-admin"></a>Modules - Admin
 
 ### <a name="mod-traffic-stats"></a>Traffic Stats \[Pro\]
 
@@ -36,7 +36,7 @@ This module displays CoalaWeb Traffic information in the Joomla control panel ma
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-module-stats.png">![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-module-stats.png "Figure-9"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-## <a name="modules-site"></a>Modules Site
+## <a name="modules-site"></a>Modules - Site
 
 ### <a name="mod-traffic"></a>Traffic
 

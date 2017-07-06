@@ -65,11 +65,11 @@
 
 The **Control Panel** as seen below it is designed to be an easy starting point, think of it as the components head quarters. While carrying out tasks you can easily jump from the **Control Panel** to the different sections and then return before moving onto the next one. *\[Figure-1\]*
 
-![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-cpanel.png "Figure-1"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-cpanel.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-cpanel.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="visitors"></a>Visitors
 
-![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors.png "Figure-2"){.coalaweb-docs}
+![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors.png "Figure-2"){.uk-thumbnail}
 
 The Visitors section is where all the visitors to your site are listed. The visitors are displayed with the following information.
 
@@ -94,31 +94,31 @@ Both **Core** and **Pro** users have sort and search options. To sort the visito
 
 You also have a search box where you can choose to enter an **IP** or **Date** to search for specific visitor information. *\[Figure-2a\]*
 
-![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors-1.png "Figure-2a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors-1.png">![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors-1.png "Figure-2a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **Pro** subscribers also get **Filter** options which can be used by clicking the **Search Tools** button at the top and include **Browser**, **Platform** and **Country** select lists. *\[Figure-2b\]*
 
-![Figure-2b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors-2.png "Figure-2b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors-2.png">![Figure-2b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors-2.png "Figure-2b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="ip-cats"></a>IP Categories
 
-![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-ip-cats.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-ip-cats.png "Figure-3"){.uk-thumbnail}
 
 To make it easier to organize your **Know IPs** you can create categories to associated them with. For example you could create a category called **Robots** and then add all the known robots in your **Knownips** list to this category. *\[Figure-3a\]*
 
-![Figure-3a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-ip-cats-1.png "Figure-3a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-ip-cats-1.png">![Figure-3a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-ip-cats-1.png "Figure-3a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="knownips"></a>Known IPs
 
-![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-knownips.png "Figure-4"){.coalaweb-docs}
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-knownips.png "Figure-4"){.uk-thumbnail}
 
 The next section is the **Known IPs** section which contains some powerful tools for controlling what is counted by **Traffic**.  *\[Figure-4a\]*.
 
-![Figure-4a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-knownips-1.png "Figure-4a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-knownips-1.png">![Figure-4a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-knownips-1.png "Figure-4a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="ki-ips"></a>IP Formats
 
-![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-knownips-2.png "Figure-3"){.coalaweb-docs}
+![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-knownips-2.png "Figure-3"){.uk-thumbnail}
 
 When adding IPs to a Known IP entry you have several options, you can specify an IP or IP range in the following formats:
 
@@ -146,7 +146,7 @@ If you want to stop a robot from being counted by **Traffic** based on it's **Na
 
 CoalaWeb Traffic gives you the option to identify your visitors **Countries** and **Cities** of origin based on their IP addresses. *\[Figure-5\]*.
 
-![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-1.png "Figure-5"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-1.png">![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-1.png "Figure-5"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### How Geo Location Works
 
@@ -166,11 +166,11 @@ This could cause some IP addresses to be identified as coming from the wrong loc
 
 If you don’t have the **GeoLiteCity** database installed you will receive a notice message. To take advantage of CoalaWeb Traffics inbuilt ability to tell you a visitors country and sometimes their city follow the steps below. *\[Figure-5a\]*.
 
-![Figure-5a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-2.png "Figure-5a"){.coalaweb-docs}
+![Figure-5a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-2.png "Figure-5a"){.uk-thumbnail}
 
 To make it easier to know if you will need to upload the database manually I have added a **Upload Minimum Requirements** check list that will display under the **Requirements** tab. *\[Figure-5b\]*. 
 
-![Figure-5b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-3.png "Figure-5b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-3.png">![Figure-5b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-3.png "Figure-5b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">Don't meet the minimum requirements? The system will attempt to increase the limits temporarily while installing so I recommend giving it a try anyway.</div>
  
@@ -184,15 +184,15 @@ To make it easier to know if you will need to upload the database manually I hav
 
 Now that we know what happens lets try to install the **Geo Database** by clicking the **Install Geo Database** button. *\[Figure-5c\]*.
 
-![Figure-5c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-4.png "Figure-5c"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-4.png">![Figure-5c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-4.png "Figure-5c"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 If everything goes according to plan you will receive a confirmation message that the file was installed correctly. *\[Figure-5d\]*.
 
-![Figure-5d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-5.png "Figure-5d"){.coalaweb-docs}
+![Figure-5d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-5.png "Figure-5d"){.uk-thumbnail}
 
 The message under the **Current Version** tab will also turn green and contain today's date. *\[Figure-5e\]*.
 
-![Figure-5e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-6.png "Figure-5e"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-6.png">![Figure-5e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-6.png "Figure-5e"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Now CoalaWeb Traffic will automatically add country and city information to your visitor records as they are collected. To keep the location information as accurate as possible just carry out this procedure at regular intervals.
 
@@ -206,11 +206,11 @@ If you re using the **Core** version of **Traffic** and you couldn't install the
 
 Download the latest MaxMind **GeoLiteCity** database [HERE](http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz). *\[Figure-5g\]*.
 
-![Figure-5g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-8.png "Figure-5g"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-8.png">![Figure-5g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-8.png "Figure-5g"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Now that you have the database downloaded the next step is to extract it. Once it has completed the extraction process you will have a file named **GeoLiteCity.dat** *\[Figure-5i\]*.
 
-![Figure-5i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-10.png "Figure-5i"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-10.png">![Figure-5i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-10.png "Figure-5i"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 The last step is to upload the database file to the following location:
 
@@ -218,7 +218,7 @@ The last step is to upload the database file to the following location:
 
 The database file should have 644 permissions. *\[Figure-5k\]*.
 
-![Figure-5k](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12.png "Figure-5k"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12.png">![Figure-5k](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12.png "Figure-5k"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
 
@@ -230,11 +230,11 @@ If you re using the **Pro** version of **Traffic** and you  couldn't install the
 
 Download the latest MaxMind **GeoLite2 City** database [HERE](http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.mmdb.gz). *\[Figure-5g-a\]*.
 
-![Figure-5g-a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-8a.png "Figure-5g-a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-8a.png">![Figure-5g-a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-8a.png "Figure-5g-a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Now that you have the database downloaded the next step is to extract it. Once it has completed the extraction process you will have a file named **GeoLite2-City.mmdb** *\[Figure-5i-a\]*.
 
-![Figure-5i-a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-10a.png "Figure-5i-a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-10a.png">![Figure-5i-a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-10a.png "Figure-5i-a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 The last step is to upload the database file to the following location:
 
@@ -242,7 +242,7 @@ The last step is to upload the database file to the following location:
 
 The database file should have 644 permissions. *\[Figure-5k-a\]*.
 
-![Figure-5k-a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12a.png "Figure-5k-a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12a.png">![Figure-5k-a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12a.png "Figure-5k-a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
 
@@ -254,43 +254,43 @@ Pro subscribers also get access to a series of **Charts** which allow you to qui
 
 A quick summary of your visitors displayed in a graph based on quantity and date accompanied by a summary table. *\[Figure-14\]*.
 
-![Figure-14](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-1.png "Figure-14"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-1.png">![Figure-14](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-1.png "Figure-14"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Countries
 
 A color coded map visual representing your visitors and their countries accompanied by a summary table. *\[Figure-14a\]*.
 
-![Figure-14a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-2.png "Figure-14a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-2.png">![Figure-14a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-2.png "Figure-14a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Cities
 
 A color coded pie chart representing your visitors and their cities accompanied by a summary table. *\[Figure-14b\]*.
 
-![Figure-14b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-3.png "Figure-14b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-3.png">![Figure-14b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-3.png "Figure-14b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Browsers
 
 A color coded pie chart representing your visitors and their browsers accompanied by a summary table. *\[Figure-14c\]*.
 
-![Figure-14c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-4.png "Figure-14c"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-4.png">![Figure-14c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-4.png "Figure-14c"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Platforms
 
 A color coded pie chart representing your visitors and their platforms accompanied by a summary table. *\[Figure-14d\]*.
 
-![Figure-14d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-5.png "Figure-14d"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-5.png">![Figure-14d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-chart-5.png "Figure-14d"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="help"></a>Inbuilt Help
 
-![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-help-1.png "Figure-7"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-help-1.png">![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-help-1.png "Figure-7"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 In the control panel or the tool menu you have a help icon that when clicked will open a pop up wrapper of this specific guide. This gives you an easy way of checking the functionality of a particular item without leaving the control panel. *\[Figure-7a\]*
 
-![Figure-7a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-help-2.png "Figure-7a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-help-2.png">![Figure-7a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-help-2.png "Figure-7a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="options"></a>Extension Options
 
-![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options.png "Figure-8"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options.png">![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options.png "Figure-8"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">In the control panel or the tool menu you have a <em>Options</em> icon that when clicked will open a series of extension options.</div>
 
@@ -302,7 +302,7 @@ The next option is **Week Start** which allows you to choose which day you want 
 
 The last option in this section is the **Preset Counter** this number will be added to the current **Total** so its good for when you move a site or to bump up the visitors. This only affects the total count in the front end module and the back end statistics area of the control panel. *\[Figure-8a\]*
 
-![Figure-8a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-1.png "Figure-8a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-1.png">![Figure-8a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-1.png "Figure-8a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="options-storage"></a>2. Storage \[Pro\]
 
@@ -310,25 +310,25 @@ The first option in th is section is to turn on or off the storing of IPs in **R
 
 The second option is to turn on or off the storing of Geo location information. Even if you are not storing IPs in their raw format you can still have Geo information recorded as long as you have uploaded a Geo database. *\[Figure-8e\]*
 
-![Figure-8e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-6.png "Figure-8e"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-6.png">![Figure-8e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-6.png "Figure-8e"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="options-robots"></a>3. Robots \[Pro\]
 
 The option in this section will use Joomla's JApplicationWebClient class to block a few well known robots from being counted. This will only detects basic robots if you wish to block additional robots use the KnownIPs list. *\[Figure-8f\]*
 
-![Figure-8f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-7.png "Figure-8f"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-7.png">![Figure-8f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-7.png "Figure-8f"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="options-cleanup"></a>4. Cleanup
 
 In this section you can control the automatic clean up of the database to stop the tables filling up with data. I recommend having this set to on and the second option of how many **Records to Keep** will depend on your circumstances. *\[Figure-8b\]*
 
-![Figure-8b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-2.png "Figure-8b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-2.png">![Figure-8b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-2.png "Figure-8b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="options-honeypot"></a>5. Project Honeypot
 
 Project Honeypot is a collective effort to detect spammers, email harversters and crackers. Its HTTP:BL service allows participants to query the IP addresses of their visitors and figure out if it is a malicious user behind it. If you enable this feature, CoalaWeb Traffic will check the IP address of each visitor and, if it is a malicious user, it will not count them. *\[Figure-8b\]*
 
-![Figure-8b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-3.png "Figure-8b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-3.png">![Figure-8b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-3.png "Figure-8b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">Note: CoalaWeb Traffic does not block visitors from your site only from being counted by the Traffic system.</div>
 
@@ -360,7 +360,7 @@ Project Honeypot is a collective effort to detect spammers, email harversters an
 
 The options in this section control the amount of records displayed in the **Charts**. *\[Figure-8c\]*
 
-![Figure-8c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-8.png "Figure-8c"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-8.png">![Figure-8c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-8.png "Figure-8c"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="options-updates"></a>7. Updates
 
@@ -368,11 +368,11 @@ The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** sys
 
 For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** in either the **Control Panel** input field. *\[Figure-28\]*
 
-![Figure-28](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png "Figure-28"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png ">![Figure-28](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png  "Figure-28"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
  Or through the component configuration options under **Updates**. *\[Figure-28a\]*
 
-![Figure-28a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png "Figure-28a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png">![Figure-28a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png "Figure-28a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
 
@@ -384,7 +384,8 @@ To see your **Download ID** you will need to log into [coalaweb.com](https://coa
 
 You will then see the ID displayed in the module titled **Download ID**. *\[Figure-28b\]*
 
-![Figure-28b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-28b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png">![Figure-28b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-28b"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
@@ -392,7 +393,7 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 
 Lastly you have the permissions used to control access tothe CoalaWeb Traffic component. *\[Figure-8d\]*
 
-![Figure-8d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-5.png "Figure-8d"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-5.png">![Figure-8d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-5.png "Figure-8d"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="manage"></a>Manage
 
@@ -402,39 +403,39 @@ The manage area has some handy tools broken up into sections which are explained
 
 #### <a name="com-purge"></a>Purge
 
-![Figure-32a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge1.png "Figure-32a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge1.png">![Figure-32a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge1.png "Figure-32a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 The **Purge** button will delete all of the traffic records current stored in the Traffic database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
 
-![Figure-32b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge2.png "Figure-32b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge2.png">![Figure-32b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge2.png "Figure-32b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
 
-![Figure-32c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge3.png "Figure-32c"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge3.png">![Figure-32c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge3.png "Figure-32c"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="com-optimize"></a>Optimize and Repair \[Pro\]
 
-![Figure-33a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-optimize1.png "Figure-33a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-optimize1.png">![Figure-33a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-optimize1.png "Figure-33a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Pro subscribers also get an **Optimize** button which will attempt to repair and optimize all the Traffic database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-33b\]*
 
-![Figure-33b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-optimize2.png "Figure-33b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-optimize2.png">![Figure-33b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-optimize2.png "Figure-33b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-33c\]*
 
-![Figure-33c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-optimize3.png "Figure-33c"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-optimize3.png">![Figure-33c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-optimize3.png "Figure-33c"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="com-robots"></a>Add Robots \[Pro\]
 
-![Figure-32a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-robots-1.png "Figure-32a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-robots-1.png">![Figure-32a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-robots-1.png "Figure-32a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 The **Add Robots** button allows **Pro** subscribers to auto populate the **Known IP** list with a list of known **Robots** instantly stopping them from being counted. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32b\]*
 
-![Figure-32b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-robots-2.png "Figure-32b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-robots-2.png">![Figure-32b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-robots-2.png "Figure-32b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
 
-![Figure-32c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-robots-3.png "Figure-32c"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-robots-3.png">![Figure-32c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-robots-3.png "Figure-32c"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">The <em>Add Robots</em> system will compare the current list to what you have stored and add any new robots so I recommend running it after each update.</div>
 
@@ -444,19 +445,19 @@ After it has completed you get a confirmation message or an error message if it 
 
 If you want to export the visitors currently stored in your database start by clicking the **CSV Report** button in the **Control Panel**.
 
-![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-1.png "Figure-6"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-1.png">![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-1.png "Figure-6"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 You should get a pop up that similar to the image below if not make sure it's not being blocked by something such as your browser settings. *\[Figure-6c\]*
 
-![Figure-6c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-4.png "Figure-6c"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-4.png">![Figure-6c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-4.png "Figure-6c"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Next save the file to your local computer and then open it with your application of choice. In this example I will be using **LibreOffice** but the procedure will be similar with other applications. First I have to import it before I can work with the data so after a double click I'm confronted with the window below. *\[Figure-6d\]*
 
-![Figure-6d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-5.png "Figure-6d"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-5.png">![Figure-6d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-5.png "Figure-6d"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 I have chosen to import it with the default settings which results in the data being laid out in a sheet.  *\[Figure-6e\]*
 
-![Figure-6e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-6.png "Figure-6e"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-6.png">![Figure-6e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-export-6.png "Figure-6e"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 You can now format, filter and save the data as you wish.
 
@@ -464,7 +465,7 @@ You can now format, filter and save the data as you wish.
 
 Pro subscribers have the option to to create a complete backup of all the Traffic database tables including their structure and content which is then exported as a **.sql** formatted file. To create the backup just click the **Backup Database** button and then choose a location to save the generated **.sql** file to. *\[Figure-34\]*
 
-![Figure-34](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-backup-1.png "Figure-34"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-backup-1.png">![Figure34](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-backup-1.png "Figure-34"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="man-restore"></a>Restore \[Pro\]
 
@@ -472,15 +473,15 @@ Pro subscribers also have the option to delete the current Traffic data and repl
 
 <div class="uk-alert">Note: Only use .sql files created through the Traffic backup system.</div>
 
-![Figure-35](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-restore-1.png "Figure-35"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-restore-1.png">![Figure35](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-restore-1.png "Figure-35"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 To restore just browse to the location of the saved **.sql** file that was created through the Traffic backup system and then click **Restore Database**. You will be prompted by a popup asking you to confirm that you want to replace the current data with a backed-up copy. *\[Figure-35a\]*
 
-![Figure-35a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-restore-2.png "Figure-35a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-restore-2.png">![Figure35a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-restore-2.png "Figure-35a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 After you click **Yes, Restore it!** all the data will be replaced by the backed-up copy and on completion you will receive a confirmation message. *\[Figure-35b\]*
 
-![Figure-35b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-restore-3.png "Figure-35b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-restore-3.png">![Figure35b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-restore-3.png "Figure-35b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="module"></a>CoalaWeb Traffic \[M\]
 
@@ -496,7 +497,7 @@ The CoalaWeb Traffic module has a huge list of options so we have broken them up
 
 First you can choose if you want to display the digital counter section at all maybe you only want to display individual counters. Next you can choose how many digits you want to be displayed. The last option in this section is to choose a theme for your digital counter. *\[Figure-9\]*
 
-![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-1.png "Figure-9"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-1.png">![Figure9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-1.png "Figure-9"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Part 2 Individual Counters
 
@@ -505,7 +506,7 @@ First you can choose if you want to display the individual counters section at a
 Next you have the ability to turn on or off the display for today, yesterday, this week, this month and total it's up to you which ones you
 want to display. Under each of these options is a text box where you can assign a word to be displayed next to the item. *\[Figure-9a\]*
 
-![Figure-9a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-2.png "Figure-9a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-2.png">![Figure9a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-general-2.png "Figure-9a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-layout"></a>Module Layout Options
 
@@ -520,7 +521,7 @@ The next option is the module layout you have three options to choose from.
 The next option is the horizontal text this will display to the left of both the horizontal and compact layouts. The last option is the
 separator that will display between items in both the horizontal and compact layouts. *\[Figure-10\]*
 
-![Figure-10](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-layout-1.png "Figure-10"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-layout-1.png">![Figure10](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-layout-1.png "Figure-10"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-visitor"></a>Visitor Display Options
 
@@ -532,7 +533,7 @@ This section controls what information about the visitor will be displayed withi
 
 First you can choose if you want to display the visitor information section at all. Next are the **Title** configuration options, you can to choose to display one including the title text, it's format and it's alignment. The next option allows you to turn on or off a horizontal line at the bottom of the visitor section. *\[Figure-11\]*
 
-![Figure-11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-visitor-1.png "Figure-11"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-visitor-1.png">![Figure11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-visitor-1.png "Figure-11"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Part 2
 
@@ -542,7 +543,7 @@ In this section you have the option to turn on or off the following items as wel
 -   Browser
 -   Operating System
 
-![Figure-11a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-visitor-2.png "Figure-11a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-visitor-2.png">![Figure11a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-visitor-2.png "Figure-11a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-who"></a>Who is Online Options
 
@@ -550,7 +551,7 @@ Due to the flaws in the Joomla method of telling who is online I have created my
 
 First you can choose if you want to display the who is online section at all. Next are the **Title** configuration options, you can choose to display them including their title text, their format and alignment. The next option allows you to turn on or off a horizontal line at the bottom of the who is online section. *\[Figure-12\]*
 
-![Figure-12](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-who-1.png "Figure-12"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-who-1.png">![Figure12](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-who-1.png "Figure-12"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-advanced"></a>Advanced Options
 
@@ -560,13 +561,13 @@ The CoalaWeb Traffic module also has a few of what I consider **Advanced Options
 
 and then selecting it with the **Custom CSS** option. This next option allows you to display the **Date and Time** at the bottom of the module as well as choosing its **Format**. You can also assign a **Module Class Suffix** or whether to use **Cache** including the **Cache Time** in this section. *\[Figure-13\]*
 
-![Figure-13](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-advanced-1.png "Figure-13"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-advanced-1.png">![Figure13](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-advanced-1.png "Figure-13"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="module-pro"></a>CoalaWeb Traffic Pro \[M\]
 
 The CoalaWeb Traffic Pro module has a huge list of options so we have broken them up into several sections which are explained in detail below.
 
-![Figure-18](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-pro-module-small.png "Figure-18"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/traffic-pro-module-small.png">![Figure18](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/traffic-pro-module-small.png "Figure-18"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text or create a separate module for each language.</div>
 
@@ -580,13 +581,13 @@ This section controls the outer container style and title plus the digital count
 
 The first option in this section is the choice of **Panel** style for the outer container the holds the other sections of the module. The next part is a series of options to control the style and layout of the main container title which includes whether to display it, it's format, alignment and which icon to use next to it. *\[Figure-18a\]*
 
-![Figure-18a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-general-1.png "Figure-18a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-general-1.png">![Figure18a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-general-1.png "Figure-18a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Part 2 Digital Counter
 
 This section cover the display and style of the **Digital** counter. It can be turned on or off as well as the amount of digits to display and its size. There are also four style options to choose from and the size of the margin below can also be selected. *\[Figure-18b\]*
 
-![Figure-18b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-general-2.png "Figure-18b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-general-2.png">![Figure18b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-general-2.png "Figure-18b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-pro-layout"></a>Layout Options
 
@@ -596,7 +597,7 @@ This section controls the layout of the different sections of the module and how
 
 The three inner sections of the module can be displayed along side each other depending on avaliable screen size or in one column. These setting will be the default but the module being fully responsive will adapt to the current screen size and changes made to it. *\[Figure-18c\]*
 
-![Figure-18c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-layout-1.png "Figure-18c"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-layout-1.png">![Figure18c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-layout-1.png "Figure-18c"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-pro-traffic"></a>Traffic Options
 
@@ -608,17 +609,17 @@ This section controls the inner **Traffic** section which contains the individua
 
 The first series of option in this section control the look and feel of the **Traffic** container which includes it's display and panel style. It also has a series of option to change the style and layout of the **Title** displayed at the top of the panel including it's icon. *\[Figure-18d\]*
 
-![Figure-18d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18d"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png">![Figure18d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18d"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Part 2 Counters
 
 The next series of options control the alignment and layout of the individual counters. They included the alignment of the counters, their overall size and the width of the three parts that make up each counter. The first part of a counter is the **Icon** then the **Text** and lastly the **Counter**. You can adjust these widths to suit their content and your avaliable space. *\[Figure-18e\]*
 
-![Figure-18e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-2.png "Figure-18e"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-2.png">![Figure18e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-2.png "Figure-18e"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Next are the individual counter options which allow you to turn them on or off, their text, style and lastly which icon to display with the counter. *\[Figure-18f\]*
 
-![Figure-18f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-3.png "Figure-18f"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-3.png">![Figure18f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-3.png "Figure-18f"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-pro-visitor"></a>Visitor Options
 
@@ -630,17 +631,17 @@ This section controls the inner **Visitors** section which contains the current 
 
 The first series of option in this section control the look and feel of the **Visitors** container which includes it's display and panel style. It also has a series of option to change the style and layout of the **Title** displayed at the top of the panel including it's icon. *\[Figure-18g\]*
 
-![Figure-18g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18g"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png">![Figure18g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18g"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Part 2 Counters
 
 The next series of options control the alignment and layout of the individual counters. They included the alignment of the counters, their overall size and the width of the three parts that make up each counter. The first part of a counter is the **Icon** then the **Text** and lastly the **Counter**. You can adjust these widths to suit their content and your avaliable space. *\[Figure-18h\]*
 
-![Figure-18h](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-2.png "Figure-18h"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-2.png">![Figure18h](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-2.png "Figure-18h"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Next are the individual counter options which allow you to turn them on or off, their text, style, which icon to display with the counter and for the date counter the date format. *\[Figure-18i\]*
 
-![Figure-18i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-visitor-1.png "Figure-18i"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-visitor-1.png">![Figure18i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-visitor-1.png "Figure-18i"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 
 ### <a name="mod-pro-who"></a>Who is Online Options
@@ -653,31 +654,31 @@ This section controls the inner **Who Is Online** section which contains the cur
 
 The first series of option in this section control the look and feel of the **Who Is Online** container which includes it's display and panel style. It also has a series of option to change the style and layout of the **Title** displayed at the top of the panel including it's icon. *\[Figure-18j\]*
 
-![Figure-18j](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18j"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png">![Figure18j](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-traffic-1.png "Figure-18j"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Part 2 Counters
 
 The next series of options control the alignment and size of the who is online counter. *\[Figure-18k\]*
 
-![Figure-18k](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-1.png "Figure-18k"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-1.png">![Figure18k](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-1.png "Figure-18k"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Part 3 Who Is Online
 
 Next are the **Who Is Online** counter options which allow you to turn it on or off, it's text, style and lastly which icon to display with the counter.  *\[Figure-18l\]*
 
-![Figure-18l](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-2.png "Figure-18l"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-2.png">![Figure18l](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-2.png "Figure-18l"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### Part 4 Flags
 
 Next are the **Flag** options which allow you to turn them on or off, the maximum amount to display, their alignment and the section's related title option. *\[Figure-18m\]*
 
-![Figure-18m](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-3.png "Figure-18m"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-3.png">![Figure18m](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-who-3.png "Figure-18m"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-pro-advanced"></a>Advanced Options
 
 The CoalaWeb Traffic Pro module also has a few of what I consider **Advanced Options** such as which **UIkit prefix** to use, by default it is set to **CW** but if you are using a **YooTheme** template you may want to change it to **UK**. You can also assign a **Module Class Suffix** or whether to use **Cache** including the **Cache Time** in this section. *\[Figure-18n\]*
 
-![Figure-18n](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-advanced-1.png "Figure-18n"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-advanced-1.png">![Figure18n](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-mod-pro-advanced-1.png "Figure-18n"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="plg"></a>Plugins
 
@@ -691,7 +692,7 @@ This plugin also takes care of blocking visitors from being counted based on you
 
 <div class="uk-alert">Note: To ensure proper functionality of CoalaWeb Traffic please make sure this plugin is installed and publish.</div>
 
-![Figure-15](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-count.png "Figure-15"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-count.png">![Figure15](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-count.png "Figure-15"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="plg-clean"></a>System Plugin - Clean
 
@@ -701,7 +702,7 @@ on.   *\[Figure-16\]*
 
 <div class="uk-alert">Have you chosen automatic database clean up? Then this plugin needs to be installed and published.</div>
 
-![Figure-16](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-clean.png "Figure-16"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-clean.png">![Figure16](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-clean.png "Figure-16"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="plg-online"></a>System Plugin - Online
 
@@ -709,7 +710,7 @@ This plugin will check who is online, record it to a cookie and to the database 
 
 <div class="uk-alert">Have you chosen to display <em>Who is Online?</em> Then this plugin needs to be installed and published.</div>
 
-![Figure-17](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-online.png "Figure-17"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-online.png">![Figure17](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/system-parts/traffic-plg-online.png "Figure-17"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="more-help"></a>Need More Help
 
