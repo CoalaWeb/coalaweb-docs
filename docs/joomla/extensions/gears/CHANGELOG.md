@@ -1,5 +1,14 @@
 ## Change Log 
 
+### Version 0.4.0 July 2017
+- **(C)** New formatting for version form field
+- **(C)** Streamlining of CSS loading form fields
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(C)** CSS updates and streamlining
+- **(R)** Removed unneeded CSS
+- **(L)** New and updated language strings
+
 ### Version 0.3.9 June 2017
 - **(C)** Help fix moved to Component CSS form field
 - **(C)** Updates to GNU General Public License URL

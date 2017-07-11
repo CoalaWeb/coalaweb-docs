@@ -3,15 +3,19 @@
 2.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
     -   [Visitors](#visitors)
+    -   [Locations \[Pro\]](#locations)
     -   [IP Categories](#ip-cats)
     -   [Known IPs](#knownips)
         - [1. IP Formats](#ki-ips)
         - [2. Scenarios](#ki-scenarios)
-    -   [GEO Location](#geo)
+    -   [GEO Manage](#geo)
         - [1. Install](#geo-install)
         - [2. Easy Install](#geo-easy)
         - [3. Manual Install](#geo-manual-core)
         - [4. Manual Install \[Pro\]](#geo-manual-pro)
+        - [5. Refresh](#geo-refresh)
+        - [6. Remove](#geo-remove)
+    -   [GEO DB Update \[Pro\]](#geo-update)
     -   [Charts \[Pro\]](#com-charts)
     -   [Help](#help)
     -   [Options](#options)
@@ -26,14 +30,15 @@
         - [8. Permissions](#options-permissions)
     -   [Manage](#manage)
         -   [Tools](#man-tools)
-            -   [Purge](#com-purge)
+            -   [Purge Visitors](#com-purge)
+            -   [Purge Locations \[Pro\]](#com-purge-locations)
+            -   [Sync Locations \[Pro\]](#com-sync-locations)
             -   [Optimize \[Pro\]](#com-optimize)
             -   [Add Robots \[Pro\]](#com-robots)
         -   [Reports](#man-reports)
             -   [CSV Report](#export-csv)
         -   [Backup \[Pro\]](#man-backup)
         -   [Restore \[Pro\]](#man-restore)
-
 3.  [Traffic \[M\]](#module)
     -   [General](#mod-general)
     -   [Layout](#mod-layout)
@@ -47,11 +52,13 @@
     -   [Visitor](#mod-pro-visitor)
     -   [Who is Online](#mod-pro-who)
     -   [Advanced](#mod-pro-advanced)
-5.  [Plugins](#plg)
+5.  [Stats \[ADMIN M\]\[Pro\]](#module-traffic-stats)
+6.  [Places \[M\]\[Pro\]](#module-places)
+7.  [Plugins](#plg)
     -   [System Plugin - Count](#plg-count)
     -   [System Plugin - Clean](#plg-clean)
     -   [System Plugin - Online](#plg-online)
-6.  [Need More Help?](#more-help)
+8.  [Need More Help?](#more-help)
 
 ## <a class="doc-top"  name="overview"></a>Overview
 
@@ -70,6 +77,7 @@ The **Control Panel** as seen below it is designed to be an easy starting point,
 ### <a name="visitors"></a>Visitors
 
 ![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors.png "Figure-2"){.uk-thumbnail}
+
 
 The Visitors section is where all the visitors to your site are listed. The visitors are displayed with the following information.
 
@@ -100,6 +108,47 @@ You also have a search box where you can choose to enter an **IP** or **Date** t
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors-2.png">![Figure-2b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-visitors-2.png "Figure-2b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
+### <a name="locations"></a>Locations \[Pro\]
+
+![Figure-36](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-locations.png "Figure-36"){.uk-thumbnail}
+
+To make it easier to follow I have broken this section up into two parts.
+
+<div class="uk-alert">Note: Unpublished items will continue to be counted but will not display in charts or front end module.</div>
+
+#### Part 1 - List View
+
+The Locations section is where all the locations counts for countries and cities are listed. The locations are displayed with the following information.
+
+-   Status
+-   Type
+-   Country
+-   City
+-   Count
+-   ID
+
+To sort the location information you can click the column **Heading** or use the **Select list** in the top right. The avaliable sorting options are:
+
+-   Country
+-   City
+-   Type
+-   Count
+-   ID
+
+You also have a search box where you can search for specific location information. *\[Figure-36a\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-locations-1.png">![Figure-36a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-locations-1.png "Figure-36a"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+**Filter** options are also avaliable which can be used by clicking the **Search Tools** button at the top and include **Status**, **Type** **Country** and **City** select lists. *\[Figure-36b\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-locations-2.png">![Figure-36b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-locations-2.png "Figure-36b"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+#### Part 2 - Edit View
+
+Each location listed can be edited and or new locations can be added. In the edit view you can choose if its a **Country** or **City** type, it's **Country** from the list and it's current count. You can also choose if you want the status set to published or not which will stop it from being display in the charts and front end modules but it will continue to be counted. *\[Figure-36c\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-locations-3.png">![Figure-36c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-locations-3.png "Figure-36c"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
 ### <a name="ip-cats"></a>IP Categories
 
 ![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-ip-cats.png "Figure-3"){.uk-thumbnail}
@@ -118,7 +167,7 @@ The next section is the **Known IPs** section which contains some powerful tools
 
 ### <a name="ki-ips"></a>IP Formats
 
-![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-knownips-2.png "Figure-3"){.uk-thumbnail}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-knownips-2.png">![Figure3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-knownips-2.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 When adding IPs to a Known IP entry you have several options, you can specify an IP or IP range in the following formats:
 
@@ -142,7 +191,7 @@ If you want to stop a robot from being counted by **Traffic** based on it's **Na
 
 <div class="uk-alert" >Note: The most reliable way to identify visitors is by their IP the name information comes from their <em>user agent string</em> which isn't always supplied.</div>
 
-### <a name="geo"></a>GEO Location
+### <a name="geo"></a>GEO Manage
 
 CoalaWeb Traffic gives you the option to identify your visitors **Countries** and **Cities** of origin based on their IP addresses. *\[Figure-5\]*.
 
@@ -166,7 +215,7 @@ This could cause some IP addresses to be identified as coming from the wrong loc
 
 If you don’t have the **GeoLiteCity** database installed you will receive a notice message. To take advantage of CoalaWeb Traffics inbuilt ability to tell you a visitors country and sometimes their city follow the steps below. *\[Figure-5a\]*.
 
-![Figure-5a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-2.png "Figure-5a"){.uk-thumbnail}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-2.png">![Figure5a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-2.png "Figure-5a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 To make it easier to know if you will need to upload the database manually I have added a **Upload Minimum Requirements** check list that will display under the **Requirements** tab. *\[Figure-5b\]*. 
 
@@ -245,6 +294,24 @@ The database file should have 644 permissions. *\[Figure-5k-a\]*.
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12a.png">![Figure-5k-a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12a.png "Figure-5k-a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
+
+#### <a name="geo-refresh"></a>Refresh
+
+This option will clear and **regenerate location data** associated with your stored visitors. This can be useful for example after you have updated the GEO database. *\[Figure-5l\]*.
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-14.png">![Figure-5l](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-14.png "Figure-5l"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+#### <a name="geo-remove"></a>Remove
+
+If you are having problems with the GEO database or no longer want to use the GEO location feature you can use the button in this section to **remove** the GEO database from your system. It's also helpful if you suspect the GEO database if corrupted and you want a clean start before trying to install it again. *\[Figure-5m\]*.
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-15.png">![Figure-5m](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-15.png "Figure-5m"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+### <a name="geo-update"></a>GEO DB Update \[Pro\]
+
+**Pro subscribers** get a button in the control panel called **GEO DB Update** which when pressed will install the lastest version of the GEO database. This button makes keeping the GEO DB up to date a quick and easy process which in-turn keeps the location data as acurrate as possible. *\[Figure-5n\]*.
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-update.png">![Figure-5n](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-update.png "Figure-5n"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="com-charts"></a>Charts \[Pro\]
 
@@ -401,7 +468,7 @@ The manage area has some handy tools broken up into sections which are explained
 
 ### <a name="man-tools"></a>Tools
 
-#### <a name="com-purge"></a>Purge
+#### <a name="com-purge"></a>Visitor Purge
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge1.png">![Figure-32a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge1.png "Figure-32a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
@@ -412,6 +479,32 @@ The **Purge** button will delete all of the traffic records current stored in th
 After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32c\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge3.png">![Figure-32c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge3.png "Figure-32c"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+#### <a name="com-purge-locations"></a>Location Purge
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-1.png">![Figure-32d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-1.png "Figure-32d"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+The **Purge** button will delete all of the location records current stored in the Traffic database tables. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32e\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-2.png">![Figure-32e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-2.png "Figure-32e"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32f\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-3.png.png">![Figure-32f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-3.png "Figure-32f"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+#### <a name="com-sync-locations"></a>Sync Locations
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-1.png">![Figure-32d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-1.png "Figure-32d"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+<div class="uk-alert">This function is only designed to be run once so after it has finished the button will dissappear.</div>
+
+If you have upgrade from a version before the **Location** system was integrated into **CoalaWeb Traffic Pro** or you have counted vistors before turning on locations tracking you can synronize the current vistors to the location counts with this button. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32e\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-2.png">![Figure-32e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-2.png "Figure-32e"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32f\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-3.png.png">![Figure-32f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-3.png "Figure-32f"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="com-optimize"></a>Optimize and Repair \[Pro\]
 
