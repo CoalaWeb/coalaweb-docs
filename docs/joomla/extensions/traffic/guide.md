@@ -490,21 +490,21 @@ The **Purge** button will delete all of the location records current stored in t
 
 After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32f\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-3.png.png">![Figure-32f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-3.png "Figure-32f"){.uk-thumbnail .uk-thumbnail-mini}</a>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-3.png.png">![Figure-32f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-3.png "Figure-32f"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="com-sync-locations"></a>Sync Locations
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-1.png">![Figure-32d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-1.png "Figure-32d"){.uk-thumbnail .uk-thumbnail-mini}</a>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-sync-locations-1.png">![Figure-32d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-sync-locations-1.png "Figure-32d"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">This function is only designed to be run once so after it has finished the button will dissappear.</div>
 
 If you have upgrade from a version before the **Location** system was integrated into **CoalaWeb Traffic Pro** or you have counted vistors before turning on locations tracking you can synronize the current vistors to the location counts with this button. To make sure you haven't accidentally press it you will get a popup asking you to confirm your choice. *\[Figure-32e\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-2.png">![Figure-32e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-2.png "Figure-32e"){.uk-thumbnail .uk-thumbnail-mini}</a>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-sync-locations-2.png">![Figure-32e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-sync-locations-2.png "Figure-32e"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32f\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-3.png.png">![Figure-32f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-purge-locations-3.png "Figure-32f"){.uk-thumbnail .uk-thumbnail-mini}</a>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-sync-locations-3.png.png">![Figure-32f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-sync-locations-3.png "Figure-32f"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="com-optimize"></a>Optimize and Repair \[Pro\]
 
