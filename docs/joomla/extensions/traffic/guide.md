@@ -504,7 +504,7 @@ If you have upgrade from a version before the **Location** system was integrated
 
 After it has completed you get a confirmation message or an error message if it was unable to carry out the task. *\[Figure-32f\]*
 
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-sync-locations-3.png.png">![Figure-32f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/w-traffic-sync-locations-3.png "Figure-32f"){.uk-thumbnail .uk-thumbnail-mini}</a>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-sync-locations-3.png.png">![Figure-32f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-sync-locations-3.png "Figure-32f"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 #### <a name="com-optimize"></a>Optimize and Repair \[Pro\]
 
