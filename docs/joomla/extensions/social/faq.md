@@ -143,13 +143,13 @@ In newer JA T3 templates the Debug module position exists but you have to assign
 
 #### <a name="q12"></a> Wrong image and or information is being shared?
 
-Are you using the **Free (Core)** version or the **Pro** version of CoalaWeb Social Links?
+<div class="uk-alert">Are you using the <strong>Free (Core)</strong> version or the <strong>Pro</strong> version of CoalaWeb Social Links?</div>
 
-The **Pro** version comes with a meta tags system that auto generates **Open Graph**, **Twitter Card** and **Schema** tags which can also be overridden on a per item basis [Read More](https://coalaweb.com/support/documentation/item/coalaweb-social-links-guide).
+The **Pro** version comes with a meta tags system that auto generates **Open Graph**, **Twitter Card** and **Schema** tags which can also be overridden on a per item basis - [Read More](https://coalaweb.com/support/documentation/item/coalaweb-social-links-guide).
 
 If you are using the **Core** version no problem there are loads of free **Open Graph** extension over on **JED** [Here](https://extensions.joomla.org/extensions/extension?searchall=open+graph&filter%5Btags%5D%5B%5D=&filter%5Bcore_catid%5D=&filter%5Bincludes%5D=&filter%5Bversions%5D=&filter%5Btype%5D=free&filter%5Bhasdemo%5D=&order=&filter%5Bnewupdated%5D=&filter%5Bscore%5D=&filter%5Bfavourites%5D=&dir=DESC&limitstart=0&controller=filter&view=extension&layout=list&Itemid=145&clearorders=0&clearfilters=1) is a link filtered for free Open Graph extensions.
 
-To understand more about the sharing system I have also written a [Guide](https://coalaweb.com/support/documentation/item/coalaweb-docs-facebook-sharing-guide) with tips and info on the subject.
+<div class="uk-alert">To understand more about the sharing system I have also written a <a href="https://coalaweb.com/support/documentation/item/coalaweb-docs-facebook-sharing-guide">Guide</a> with tips and info on the subject.</div>
 
 ##### Quick Tips:
 
