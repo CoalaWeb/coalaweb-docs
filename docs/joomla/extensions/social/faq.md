@@ -9,8 +9,8 @@
 8.  [I'm using a RocketTheme template and the Tabs module isn't displaying?](#q8)
 9.  [The CoalaWeb Meta tab isn't displaying in my article editor?](#q9)
 10. [Why did my Likebox disappear after updating to version 0.2.5?](#q10)
-11. [I'm using a JA T3 template and the Tabs module isn't displaying?](#11)
-12. [Wrong image and or information is being shared?](#12)
+11. [I'm using a JA T3 template and the Tabs module isn't displaying?](#q11)
+12. [Wrong image and or information is being shared?](#q12)
 
 ***
 
