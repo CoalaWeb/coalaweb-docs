@@ -480,7 +480,7 @@ After it has completed you get a confirmation message or an error message if it 
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge3.png">![Figure-32c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge3.png "Figure-32c"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-#### <a name="com-purge-locations"></a>Location Purge
+#### <a name="com-purge-locations"></a>Location Purge \[Pro\]
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-1.png">![Figure-32d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-1.png "Figure-32d"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
@@ -492,7 +492,7 @@ After it has completed you get a confirmation message or an error message if it 
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-3.png.png">![Figure-32f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-purge-locations-3.png "Figure-32f"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-#### <a name="com-sync-locations"></a>Sync Locations
+#### <a name="com-sync-locations"></a>Sync Locations \[Pro\]
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-sync-locations-1.png">![Figure-37](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-sync-locations-1.png "Figure-37"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
@@ -659,8 +659,6 @@ and then selecting it with the **Custom CSS** option. This next option allows yo
 ## <a name="module-pro"></a>CoalaWeb Traffic Pro \[M\]
 
 The CoalaWeb Traffic Pro module has a huge list of options so we have broken them up into several sections which are explained in detail below.
-
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/traffic-pro-module-small.png">![Figure18](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/traffic-pro-module-small.png "Figure-18"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">If you have a multilingual website please leave text fields found through out the module configuration blank and instead use language files to control the text or create a separate module for each language.</div>
 

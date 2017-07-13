@@ -6,9 +6,10 @@
 5.  [I'm having problems validating my webiste with W3C what can I do?](#q5)
 6.  [Facebook error - Given URL is not allowed by the Application](#q6)
 7.  [My custom Follow Us image isn't displaying correctly?](#q7)
-8.  [I'm using a RocketTheme template and Tabs doesn't display correctly?](#q8)
+8.  [I'm using a RocketTheme template and the Tabs module isn't displaying?](#q8)
 9.  [The CoalaWeb Meta tab isn't displaying in my article editor?](#q9)
 10. [Why did my Likebox disappear after updating to version 0.2.5?](#q10)
+11. [I'm using a JA T3 template and the Tabs module isn't displaying?](#11)
 
 ***
 
@@ -102,7 +103,7 @@ This will normally be for one of two reasons:
 
 ***
 
-#### <a name="q8"></a> I'm using a Rocket Theme template and Tabs doesn't display correctly?
+#### <a name="q8"></a> I'm using a Rocket Theme template and the Tabs module isn't displaying?
 
 Try publishing the **Tabs** module to one of the **utility** positions rather than **debug** for example **utility-a**. Also make sure you have set some of the Tabs to display.
 
@@ -121,5 +122,20 @@ This is because the Meta options contained in the CoalaWeb tab extend the articl
 #### <a name="q10"></a> Why did my Likebox disappear after updating to version 0.2.5?
 
 The CoalaWeb Likebox module was superseded by the Page module in Version 0.2.1 June 2015. Starting with version 0.2.5 the obsolete CoalaWeb Likebox module is no longer packaged with the Social Links extension and or supported so please if you haven’t already started using the CoalaWeb Page module you will need to start as of version 0.2.5.
+
+***
+
+#### <a name="q11"></a> I'm using a JA T3 template and the Tabs module isn't displaying?
+
+In newer JA T3 templates the Debug module position exists but you have to assign it to a location.
+
+##### For example:
+
+- Open up your JA template (I'm using the T3 BS3 Blank template) options and choose the **Layout** tab from the top.
+- Next scroll down to the **Footer** positions and select **6** from the footer **pagination** so you can see footer-6 (I chose the last one to make sure it's not being used).
+- Next click the **gear** icon in the **top right** corner then click in the select a position box and choose **Debug**.  *\[Figure-1\]*
+- Lastly **Save** your template settings and the debug position should now display as expected.
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/faq/cw-social-links-faq-f1.png">![Figure1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/faq/cw-social-links-faq-f1.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ***
