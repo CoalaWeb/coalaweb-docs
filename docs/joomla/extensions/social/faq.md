@@ -11,6 +11,7 @@
 10. [Why did my Likebox disappear after updating to version 0.2.5?](#q10)
 11. [I'm using a JA T3 template and the Tabs module isn't displaying?](#q11)
 12. [Wrong image and or information is being shared?](#q12)
+13. [How to display Tabs module when using JA Builder?](#q13)
 
 ***
 
@@ -156,5 +157,27 @@ If you are using the **Core** version no problem there are loads of free **Open 
 > If the image referenced by the Open Graph tags is too small Facebook will move onto another image that it finds on the page that meets the minimum size restrictions. FB will only use images that are at least 200 x 200px and prefers images that are measured in multiples of 100 and are in a square format.
 
 > Facebook stores page information for up to 24 hours so any changes you make or if you have just brought your site online can take up to 24 hours to catch up.
+
+***
+
+#### <a name="q13"></a> How to display Tabs module when using JA Builder?
+
+Here is a work around to get Social Tabs displaying on a site built with JA Builder.
+
+- Open up a page in the JA Builder editor
+- Add a block to the **Footer**
+- Choose type **Spotlight**
+- A 6-6 layout is fine (we will only be using one)
+- Click **Select Widget** (either one is fine) and then **Settings** (cog icon)
+    - Content type = **Module**
+    - Module = **Social Tabs**
+    - Style = **None**
+
+Then from the side of the block select the **Settings** (cog icon) for the entire block.
+
+- Container = **fluid**
+- Padding = **None**
+
+Then **Publish** the page and you should now have a hidden module position and the Social Tabs should be displaying as expected. The footer is display on all the pages so you should only have to add it once.
 
 ***
