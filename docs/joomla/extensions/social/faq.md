@@ -10,6 +10,7 @@
 9.  [The CoalaWeb Meta tab isn't displaying in my article editor?](#q9)
 10. [Why did my Likebox disappear after updating to version 0.2.5?](#q10)
 11. [I'm using a JA T3 template and the Tabs module isn't displaying?](#11)
+12. [Wrong image and or information is being shared?](#12)
 
 ***
 
@@ -131,11 +132,29 @@ In newer JA T3 templates the Debug module position exists but you have to assign
 
 ##### For example:
 
-- Open up your JA template (I'm using the T3 BS3 Blank template) options and choose the **Layout** tab from the top.
-- Next scroll down to the **Footer** positions and select **6** from the footer **pagination** so you can see footer-6 (I chose the last one to make sure it's not being used).
-- Next click the **gear** icon in the **top right** corner then click in the select a position box and choose **Debug**.  *\[Figure-1\]*
+- Open up your JA template options (I'm using the T3 BS3 Blank template) and choose the **Layout** tab from the top.
+- Next scroll down to the **Footer** positions and select **6** from the footer **pagination** so you can see footer-6 (to make sure it's not being used).
+- Next click the **gear** icon in the **top right** corner then click in the **Select a Position** box and then **Debug** from the list.  *\[Figure-1\]*
 - Lastly **Save** your template settings and the debug position should now display as expected.
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/faq/cw-social-links-faq-f1.png">![Figure1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/faq/cw-social-links-faq-f1.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+***
+
+#### <a name="q12"></a> Wrong image and or information is being shared?
+
+Are you using the **Free (Core)** version or the **Pro** version of CoalaWeb Social Links?
+
+The **Pro** version comes with a meta tags system that auto generates **Open Graph**, **Twitter Card** and **Schema** tags which can also be overridden on a per item basis [Read More](https://coalaweb.com/support/documentation/item/coalaweb-social-links-guide).
+
+If you are using the **Core** version no problem there are loads of free **Open Graph** extension over on **JED** [Here](https://extensions.joomla.org/extensions/extension?searchall=open+graph&filter%5Btags%5D%5B%5D=&filter%5Bcore_catid%5D=&filter%5Bincludes%5D=&filter%5Bversions%5D=&filter%5Btype%5D=free&filter%5Bhasdemo%5D=&order=&filter%5Bnewupdated%5D=&filter%5Bscore%5D=&filter%5Bfavourites%5D=&dir=DESC&limitstart=0&controller=filter&view=extension&layout=list&Itemid=145&clearorders=0&clearfilters=1) is a link filtered for free Open Graph extensions.
+
+To understand more about the sharing system I have also written a [Guide](https://coalaweb.com/support/documentation/item/coalaweb-docs-facebook-sharing-guide) with tips and info on the subject.
+
+##### Quick Tips:
+
+> If the image referenced by the Open Graph tags is too small Facebook will move onto another image that it finds on the page that meets the minimum size restrictions. FB will only use images that are at least 200 x 200px and prefers images that are measured in multiples of 100 and are in a square format.
+
+> Facebook stores page information for up to 24 hours so any changes you make or if you have just brought your site online can take up to 24 hours to catch up.
 
 ***
