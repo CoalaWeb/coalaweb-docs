@@ -5,6 +5,7 @@
 
 #### <a class="doc-top"  name="v1"></a>Synchronizing current visitor info to the location count system - V1.1.1+ \[Pro\]
 
-<div>{dd_yt_video}videoid:0pPD1lnWIL8{/dd}</div>
+{dd_yt_video}videoid:0pPD1lnWIL8{/dd}
+
     
 ***
