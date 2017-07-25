@@ -1,5 +1,4 @@
 ## Table of Contents
-
 1.  [Intro](#intro)
 2.  [Guide](#guide)
     -   [Per Project](#project)
