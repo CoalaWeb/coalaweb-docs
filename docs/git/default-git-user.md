@@ -4,24 +4,33 @@
 2.  [Guide](#guide)
     -   [Per Project](#project)
     -   [Globally](#global)
-5.  [Things to note](#notes)
-6.  [Need More Help?](#more-help)
+5.  [Tips](#tips)
+6.  [System Information](#system-info)
+7.  [Need More Help?](#more-help)
 
 ## <a name="intro"></a>Intro
 
-Git has two kinds of config files that affect what is set for the default **author/commiter**.
+Git has two kinds of config files that affect what is set for the default **author/committer**.
 
 ## <a name="guide"></a>Guide
 
 ### <a name="project"></a>Per Project
 
-The first is the local **config** file which can be found in each of the projects that you have set up with git. The default location for a **Netbeans** project would be something like this:
+The first is the local **config** file which can be found in each of the projects that you have set up with git. Here are some example locations.
+ 
+#### NetBeans
+The default location for a **NetBeans** project would be something like this:
 
     ~/NetBeansProjects/example-project/.git
+    
+#### PhpStorm
+The default location for a **PhpStorm** project would be something like this:
 
-<div class="uk-alert">Note: The <em>~/</em> is the short form for your <em>home/username</em> directory</div>
+    ~/PhpstormProjects//example-project/.git
 
-Below is an example of a  typical project config file which you might note is missing a reference to a user which means the system will look elsewhere for this info.
+<div class="uk-alert">Note: The <strong>~/</strong> is the short form for your <strong>home/username</strong> directory</div>
+
+Below is an example of a typical project config file which you might note is missing a reference to a user which means the system will look elsewhere for this info.
 
     [core]
         repositoryformatversion = 0
@@ -37,7 +46,7 @@ Below is an example of a  typical project config file which you might note is mi
     [pack]
         buildbitmaps = false
 
-If we wanted to set the default **Author** and **Commiter** for this particular project all we need to do is amend this to the end:
+If we wanted to set the default **Author** and **Committer** for this particular project all we need to do is amend this to the end:
 
     [user]
         name = Your Name
@@ -62,15 +71,15 @@ If it does not exist feel free to create it in my case I will create it with the
 
 Enter your password to gain root privileges and you should now be confronted with a terminal editor so all you have to do is add your user details as mentioned earlier. *\[Figure 1\]*
 
-![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-2.png "Figure-1"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-2.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-2.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 To save and exit just hit **ctrl x** then for the first question choose **y** and next click **enter** *\[Figure 2\]*
 
-![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-3.png "Figure-2"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-3.png">![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-3.png "Figure-2"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 For the last question just hit **enter** *\[Figure 3\]*
 
-![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-4.png "Figure-3"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-4.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/default-git-user/default-git-user-4.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 If you want you can check the file was created with the right content by just using Nano. Open the file again as we did in the first step and once you are happy hit **ctrl x**. If you leave without making any changes it will automatically drop out of the editor window.
 
@@ -78,12 +87,17 @@ If you want you can check the file was created with the right content by just us
 
 That should be it, now when committing both the **Author** and **Commiter** should be auto populated with your chosen details.
 
-## <a name="notes"></a>Things to note
+## <a name="tips"></a>Tips
 
--   Git version 1.9.1
--   Linux version: Ubuntu 14.04.2 LTS
--   Netbeans version: 8.0.2
--   Nano version: 2.2.6
+If you are using **PhpStorm** you will notice that after you have made the local project changes and restarted your IDE that the **Author** field is **Blank** but this field is only needed when you want to override the configuration file. You can check this by leaving it blank, pushing your commits and then check the **Author** over on **GitHub** or where ever you are storing your files.
+
+## <a name="system-info"></a>System Information
+
+-   Git: 2.7.4
+-   Ubuntu: 16.04 LTS
+-   Netbeans: 8.2
+-   PhpStorm: 2017.2
+-   Nano: 2.5.3
 
 ## <a name="more-help"></a>Need More Help
 
