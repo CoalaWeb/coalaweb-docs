@@ -1,5 +1,16 @@
 ## Change Log
 
+### Version 1.0.2 July 2017
+
+#### Module - Flair
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(C)** New format for install script
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.0
+
 ### Version 1.0.1 May 2017
 
 #### General
