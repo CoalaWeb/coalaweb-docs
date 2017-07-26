@@ -1,5 +1,76 @@
 ## Change Log
 
+### Version 1.1.1 July 2017
+
+#### General
+- **(C)** Minimum Joomla version is now 3.6
+- **(C)** Convert tables to utf8mb4 character set with utf8mb4_unicode_ci collation
+- **(L)** Converted "\_QQ_" to \\" in language files for Joomla 3.7 +
+- **(C)** Updated GNU General Public License URL
+
+#### Component - Traffic
+- **(B)** Fixed country filter in visitors view \[Pro\]
+- **(A)** New location count system \[Pro\]
+- **(A)** New location count view\[Pro\]
+- **(A)** Known IPs and Locations added to DB backup/restore \[Pro\]
+- **(A)** New GEO database remove option
+- **(A)** New Purge Locations option \[Pro\]
+- **(A)** New Location Sync option \[Pro\]
+- **(A)** New Location Purge option \[Pro\]
+- **(C)** Improved token checks
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(C)** Charts and Statistics now use location count system \[Pro\]
+- **(C)** The GEO Upload view is now known as GEO Manage
+- **(C)** Moved GEO refresh button to new GEO Manage view \[Pro\]
+- **(C)** Code improvements
+- **(R)** Removed unneeded JS from manage view
+- **(R)** Removed unneeded CSS
+- **(L)** New and updated language strings
+
+#### Module - Traffic
+- **(C)** CSS update to keep counter images inline
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Updated Project Honeypot link
+- **(C)** Code improvements and streamlining to core functions
+- **(L)** New and updated language strings
+
+#### Module - Traffic Pro \[Pro\]
+- **(C)** Shorten outer container ID
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(C)** Code improvements and streamlining to core functions
+- **(L)** New and updated language strings
+
+#### Module - Traffic Stats \[Pro\]\[Admin\]
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** New and updated language strings
+
+#### Module - Places \[Pro\]
+- **(N)** Integrated into the CoalaWeb Traffic extension
+
+#### Plugin(S) - Traffic Count
+- **(A)** New location count system \[Pro\]
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(C)** Code improvements
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Clean
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Online
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.0
+
 ### Version 1.1.0 January 2017
 
 #### Component - Traffic
