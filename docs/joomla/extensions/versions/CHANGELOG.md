@@ -1,5 +1,12 @@
 ##Change Log
 
+### Version 1.0.2 July 2017
+
+#### Plugin(C) - CoalaWeb Versions
+- **(B)** Fix help link
+- **(C)** Updated format for messages
+- **(L)** Updatedand updated language strings
+
 ### Version 1.0.1 July 2017
 
 #### Plugin(C) - CoalaWeb Versions

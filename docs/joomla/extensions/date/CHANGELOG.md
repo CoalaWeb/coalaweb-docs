@@ -1,5 +1,19 @@
-## Change Log
+##Change Log
 
+### Version 1.0.4 July 2017
+
+#### Plugin(C) - Date
+- **(C)** Update old copyright dates
+- **(C)** Updated GNU General Public License URL
+- **(C)** Code improvements
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(C)** New format for install script
+- **(L)** New and updated language strings
+
+##### Plugin(S) - Gears
+ - **(C)** Updated to version 0.4.0
+ 
 ### Version 1.0.3 June 2017
 
 #### Plugin(C) - Date
