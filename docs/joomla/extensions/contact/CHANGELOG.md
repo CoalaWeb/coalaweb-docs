@@ -1,5 +1,47 @@
 ## Change Log
 
+### Version 1.1.3 August 2017
+
+#### Component - Contact
+- **(A)** Additional info messages
+- **(A)** Latest release check integration
+- **(C)** Renaming of helper class to stop possible conflicts
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(C)** New format for install script
+- **(L)** New and updated language strings
+
+#### Module - Contact
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** New and updated language strings
+
+#### Module - Contact Tab \[Pro\]
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Contact \[Pro\]
+- **(B)** Fixed missing variable from subject function call
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** New and updated language strings
+
+#### Plugin(S) - CW Mail Check
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** New and updated language strings
+- **(L)** Improved language file loading
+
+#### Plugin(E) - Button CW Contact \[Pro\]
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** New and updated language strings
+- **(L)** Improved language file loading
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.0
+
 ### Version 1.1.2 May 2017
 
 #### General
