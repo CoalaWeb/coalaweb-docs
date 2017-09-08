@@ -1,4 +1,11 @@
-## Change Log 
+## Change Log
+
+### Version 0.4.1 September 2017
+- **(A)** Added support for CoalaWeb Video
+- **(A)** Added support for CoalaWeb Offline
+- **(C)** Updated warning messages
+- **(L)** Escaped several inverted commas
+- **(L)** New and updated language strings
 
 ### Version 0.4.0 July 2017
 - **(C)** New formatting for version form field
