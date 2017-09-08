@@ -1,5 +1,26 @@
 ## Change Log
 
+### Version 1.1.2 September 2017
+
+#### General
+- **(R)** Removed unneeded functions from install scripts
+- **(C)** Updated GNU/GPL licence location
+
+#### Component - Traffic
+- **(B)** Fixed missing helper call
+- **(A)** Additional info messages
+- **(C)** Updated warning messages
+- **(C)** Updated guide links
+- **(C)** Location helper checks existence of server side GEO database
+- **(L)** Fixed language loading issue
+- **(L)** New and updated language strings
+
+#### Module - Traffic Pro \[Pro\]
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.1
+
 ### Version 1.1.1 July 2017
 
 #### General
