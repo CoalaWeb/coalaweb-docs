@@ -1,5 +1,25 @@
 ## Change Log
 
+### Version 1.0.9 September 2017
+
+#### General
+- **(C)** Updated GNU/GPL licence location
+- **(R)** New format for install script
+
+#### Module - News
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** New and updated language strings
+
+#### Module - News Set \[Pro\]
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(A)** Added auto play options
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.1
+
 ### Version 1.0.8 May 2017
 
 #### General
