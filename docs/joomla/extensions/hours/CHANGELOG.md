@@ -1,5 +1,17 @@
 ## Change Log
 
+### Version 1.0.9 September 2017
+
+#### Module - Hours
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(C)** New format for install script
+- **(C)** Updated GNU/GPL licence location
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.1
+
 ### Version 1.0.8 May 2017
 
 #### General
