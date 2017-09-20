@@ -1,5 +1,9 @@
 ## Change Log
 
+### Version 0.4.2 September 2017
+- **(C)** Improved sort field
+- **(C)** Sort field now supports Social Pro module
+
 ### Version 0.4.1 September 2017
 - **(A)** Added support for CoalaWeb Video
 - **(A)** Added support for CoalaWeb Offline

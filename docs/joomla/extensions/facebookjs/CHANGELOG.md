@@ -1,4 +1,17 @@
-## Change Log
+##Change Log
+
+### Version 1.0.6 September 2017
+
+#### Plugin(S) - Facebook JS
+- **(C)** Updated GNU General Public License URL
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(C)** Updated SDK to version 2.10
+- **(C)** New format for install script
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.2
 
 ### Version 1.0.5 May 2017
 
