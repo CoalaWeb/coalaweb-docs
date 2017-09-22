@@ -204,7 +204,7 @@ While using the **CoalaWeb Page** module with the **Timeline** displayed you may
 
 ##### Background
 
-> The **X-Frame-Options** HTTP response header can be used to indicate whether or not a browser should be allowed to  render a page in a \<frame>, \<iframe> or \<object> . Sites can use this to avoid clickjacking attacks, by ensuring that their content is not embedded into other sites.
+> The **X-Frame-Options** HTTP response header can be used to indicate whether or not a browser should be allowed to  render a page in a \<frame>, \<iframe> or \<object> . Sites can use this to avoid **clickjacking attacks**, by ensuring that their content is not embedded into other sites.
 
 So basically when the **Timeline** is feed into the **Page** module some parts are held back due to the settings on the Facebook site. The module and it's content will continue to be displayed as expected this is just a warning that some of it's content is not displayed due to X-Frame-Options.
 
