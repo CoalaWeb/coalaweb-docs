@@ -12,6 +12,8 @@
 11. [I'm using a JA T3 template and the Tabs module isn't displaying?](#q11)
 12. [Wrong image and or information is being shared?](#q12)
 13. [How to display Tabs module when using JA Builder?](#q13)
+14. [Lost my Facebook feed in Page module after upgrade to 0.4.2?](#q14)
+15. [Browser inspector error: Load denied by X-Frame-Options?](#q15)
 
 ***
 
@@ -179,5 +181,41 @@ Then from the side of the block select the **Settings** (cog icon) for the entir
 - Padding = **None**
 
 Then **Publish** the page and you should now have a hidden module position and the Social Tabs should be displaying as expected. The footer is display on all the pages so you should only have to add it once.
+
+***
+
+#### <a name="q14"></a> Lost my Facebook feed in Page module after upgrade to 0.4.2?
+
+### Background
+
+Facebook has depreciated the **Post** option and replaced it with **Tabs** which allows users to display a series of tabs such as **Timeline**, **Messages** and or **Events**.
+
+### Fix
+
+As of Social Links version **0.4.2** the old system has been replaced by **Tabs** which is a multi select field where you will need to choose one or more of the tabs that you want to be displayed.
+
+<div class="uk-alert">Note: This field can be left blank for users who don't want to display any tabs.</div>
+
+***
+
+#### <a name="q15"></a> Browser inspector error: Load denied by X-Frame-Options?
+
+While using the **CoalaWeb Page** module with the **Timeline** displayed you may have seen this error being displayed in the browser inspector.
+
+## Background
+
+> The **X-Frame-Options** HTTP response header can be used to indicate whether or not a browser should be allowed to  render a page in a <frame>, <iframe> or <object> . Sites can use this to avoid clickjacking attacks, by ensuring that their content is not embedded into other sites.
+
+So basically when the **Timeline** is feed into the **Page** module some parts are held back due to the settings on the Facebook site. The module and it's content will continue to be displayed as expected this is just a warning that some of it's content is not displayed due to X-Frame-Options.
+
+<div class="uk-alert">Note: This error will display even if you generate code from the <a href="https://developers.facebook.com/docs/plugins/page-plugin/" target="_blank">Facebook Page Plugin</a> page and paste it into your site.</div>
+
+## Fix
+
+Firstly the module content will continue to be displayed as expected so you can feel free to leave it as is. If you want to stop this warning from displaying the only option currently is to turn off the **Timeline** by removing it from the **Tabs** module option.
+
+## Extra Info
+
+I will continue to follow this up with the Facebook developers and update this FAQ with any new info I get but if anyone else has extra info on the subject please [Contact Me](https://coalaweb.com/support/get-in-touch/contact-us).
 
 ***

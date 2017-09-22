@@ -1,5 +1,6 @@
 ## List of Questions
 1.  [How can I update the text starting: Do you have any idea in mind?](#q1)
+2.  [CoalaWeb Contact form disappeared after upgrading to Joomla 3.8.0?](#q2)
 
 ***
 
@@ -14,5 +15,15 @@ I have a feeling you got CoalaWeb Contact with your template and the text you ar
 This text isn't actually part of the original extension (I wouldn't hard code text into my extensions as it doesn't support multiple languages) but to remove or change it you will have to open up the following location and search for the text in question.
 
     templates/your-template-name/html/mod_coalawebcontact
+
+***
+
+#### <a class="doc-top" name="q2"></a>CoalaWeb Contact form disappeared after upgrading to Joomla **3.8.0**?
+
+Please try clearing your Joomla cache if you are not sure how [here](https://docs.joomla.org/Help37:Site_Maintenance_Clear_Cache) here is more info.
+
+    System → Clear Cache
+    
+I also highly recommend using Regular Labs awesome extension [Cache Cleaner](https://www.regularlabs.com/extensions/cachecleaner) which I install on all my sites and makes clearing cache after making changes or installing updates a breeze.
 
 ***
