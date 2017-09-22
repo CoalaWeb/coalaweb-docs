@@ -20,10 +20,10 @@ This text isn't actually part of the original extension (I wouldn't hard code te
 
 #### <a class="doc-top" name="q2"></a>CoalaWeb Contact form disappeared after upgrading to Joomla **3.8.0**?
 
-Please try clearing your Joomla cache if you are not sure how [here](https://docs.joomla.org/Help37:Site_Maintenance_Clear_Cache) here is more info.
+Please try clearing your **Joomla Cache** if you are not sure how [here](https://docs.joomla.org/Help37:Site_Maintenance_Clear_Cache) here is more info.
 
     System → Clear Cache
     
-I also highly recommend using Regular Labs awesome extension [Cache Cleaner](https://www.regularlabs.com/extensions/cachecleaner) which I install on all my sites and makes clearing cache after making changes or installing updates a breeze.
+I also highly recommend using **Regular Labs** awesome extension [Cache Cleaner](https://www.regularlabs.com/extensions/cachecleaner) which I install on all my sites and makes clearing cache after making changes or installing updates a breeze.
 
 ***
