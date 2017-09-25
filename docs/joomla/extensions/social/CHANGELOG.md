@@ -1,5 +1,93 @@
 ## Change Log
 
+### Version 0.4.2 September 2017
+
+#### General
+- **(C)** Updated GNU/GPL licence location
+
+#### Component - Social Links
+- **(A)** Additional info messages
+- **(A)** Latest release check integration
+- **(A)** Twitter hashtag option
+- **(C)** Improved missing Gears warning
+- **(C)** Improved install script
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(B)** Fixed upgrade link
+- **(R)** Removed unneeded functions from install scripts
+- **(L)** Removed, added and updated language strings
+
+#### Module - Social Links
+- **(A)** Twitter hashtag option
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Module - Social Tabs \[Pro\]
+- **(A)** Twitter hashtag option
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Module - Tweet
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Module - Page
+- **(C)** Posts has been replaced by tabs as of 1.4.0.
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Module - G Plus
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(A)** Twitter hashtag option
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(C) - Share Count \[Pro\]
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(B)** Turned off Zoo language loading due to conflict
+- **(C)** New description style and layout
+- **(C)** New format for messages
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.3
+
+#### Plugin(S) - Facebook JS
+- **(C)** Updated to version 1.0.6
+
 ### Version 0.4.1 July 2017
 
 #### Plugin(S) - Menu Meta \[Pro\]
