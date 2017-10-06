@@ -1,5 +1,11 @@
 ## Change Log
 
+### Version 0.4.3 October 2017
+- **(C)** Overhaul of dependent form field
+- **(C)** Improved component CSS
+- **(A)** Added support for CoalaWeb Video component
+- **(A)** Added support for CoalaWeb Analytic plugin
+
 ### Version 0.4.2 September 2017
 - **(C)** Improved sort field
 - **(C)** Sort field now supports Social Pro module
