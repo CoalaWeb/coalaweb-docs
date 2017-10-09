@@ -1,7 +1,7 @@
 ## Table of Contents
 1.  [Overview](#overview)
 2.  [Plugins](#plugins)
-    -   [Content - CoalaWeb Versions](#plg-analytics)
+    -   [System - CoalaWeb Analytics](#plg-analytics)
     -   [System - Gears](#plg-gears)
 
 ## <a class="doc-top" name="overview"></a>Overview
