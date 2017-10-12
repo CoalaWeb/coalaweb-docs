@@ -1,7 +1,6 @@
 ## List of Questions
 1.  [Can I install a CoalaWeb extension on multiple domains?](#q1)
 2.  [Can I keep using a CoalaWeb extension when my subscription runs out?](#q2)
-3.  [Can I remove the Powered by CoalaWeb from the module?](#q3)
 
 ***
 
@@ -17,8 +16,3 @@
 
 ***
 
-#### <a name="q3"></a>Can I remove the Powered by CoalaWeb from the module?
-
-**YES** - You can turn the link off in the Free or Pro versions by opening up the module configuration and its under **Advanced Options -> Display link to author**.
-
-***
