@@ -9,8 +9,6 @@
 
 ## <a class="doc-top" name="guide"></a>Guide
 
-<div class="uk-alert">Not everyone has or wants a PayPal account which is fine but that doesn't mean that you cant pay with your Debit/Credit card using PayPal checkout.</div>
-
 ### Step 1
 
 Below is the standard PayPal check out window but one thing you may have missed is that if you want to pay with your credit/debit card, without signing up to PayPal you can click the **Pay with Debit or Credit Card** button down the bottom of the form.  This will trigger what is known as the **PayPal Guest Checkout** *\[Figure 1\]*
