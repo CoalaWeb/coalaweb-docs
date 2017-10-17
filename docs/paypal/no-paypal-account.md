@@ -1,7 +1,7 @@
 ## Table of Contents
 1.  [Guide](#guide)
 2.  [Possible Issues](#issues)
-    1.  [I wasn't offered the option to Pay with Debit or Credit Card?](#q1)
+    1.  [I wasn't offered the option to pay with debit or credit card?](#q1)
     2.  [PayPal isn't accepting my card?](#q2)
 3.  [Extra Information](#extra)
 4.  [Need More Help?](#more-help)
@@ -26,7 +26,7 @@ Afterwards, you will be asked whether you want to create a PayPal account. If yo
 
 ## <a name="issues"></a>Issues
 
-#### <a name="q1"></a>I wasn't offered the option to Pay with Debit or Credit Card?
+#### <a name="q1"></a>I wasn't offered the option to pay with debit or credit card?
 
 If the option wasn't not offered to you it may be that your country doesn't support this kind of payment. Unfortunately this is out side of our control but it may help to clear your browsing data and cookies in case the system has made a mistake about your location.
 

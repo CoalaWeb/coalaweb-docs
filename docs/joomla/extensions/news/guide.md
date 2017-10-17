@@ -24,15 +24,15 @@
 
 The **CoalaWeb News** extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
 
-For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** into the **System - CW Gears** plugin. *\[Figure-11\]*
+For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** into the **System - CW Gears** plugin. *\[Figure-1\]*
 
 <div class="uk-alert">Not sure where to find your Download ID? Click <a href="#options-downloadid">HERE</a> for more info.</div>
 
-![Figure-11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-11"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-Inside the **CW Gears** plugin options your will find a tab titled **Updates** and under it a **Download ID** input field. I recommend you copy and paste your **Download ID** into this field to reduce the risk of a typo and also to check for no spaces at the end.  *\[Figure-11a\]*
+Inside the **CW Gears** plugin options your will find a tab titled **Updates** and under it a **Download ID** input field. I recommend you copy and paste your **Download ID** into this field to reduce the risk of a typo and also to check for no spaces at the end.  *\[Figure-1a\]*
 
-![Figure-11a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-11a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png">![Figure-1a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-1a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">The CW Gears plugin will take care of the Download ID for any CoalaWeb extensions that doesn't come with a component.</div>
 
@@ -42,9 +42,9 @@ To see your **Download ID** you will need to log into [coalaweb.com](https://coa
 
     Members -> My Subscriptions
 
-You will then see the ID displayed in the module titled **Download ID**. *\[Figure-11b\]*
+You will then see the ID displayed in the module titled **Download ID**. *\[Figure-1b\]*
 
-![Figure-11b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-11b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png">![Figure-1b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-1b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
@@ -58,21 +58,22 @@ To make it easy to explain I have broken this section up into four parts.
 
 **Part 1 Categories**
 
-The first option you have in this section allows you to choose which categories you want to use as the source for your articles. *\[Figure-1a\]*
+The first option you have in this section allows you to choose which categories you want to use as the source for your articles. *\[Figure-2a\]*
 
-![Figure-1a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png "Figure-1a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png">![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png "Figure-2a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-The second options allows you to display a linked list of categories that coincides with the current articles being displayed. *\[Figure-1b\]*
 
-![Figure-1b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1b.png "Figure-1b"){.coalaweb-docs}
+The second options allows you to display a linked list of categories that coincides with the current articles being displayed. *\[Figure-2b\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1b.png">![Figure-2b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1b.png "Figure-2b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **Part 2 Articles**
 
 The first options allows you to turn on or off the display of an article title. Next you have the option of making the title a link to the associated article or not. With the next option you can select a style for the article title. 
 
-In the next input field you can enter a number to control the maximum amount of articles you wish to be displayed. The next option allows you to control the maximum amount of characters that will be displayed for each article. The next two options affect the ordering of the articles. The last option is for excluding articles from being displayed, just enter the article ID's separated by a comma to have them excluded. *\[Figure-2\]*
+In the next input field you can enter a number to control the maximum amount of articles you wish to be displayed. The next option allows you to control the maximum amount of characters that will be displayed for each article. The next two options affect the ordering of the articles. The last option is for excluding articles from being displayed, just enter the article ID's separated by a comma to have them excluded. *\[Figure-3\]*
 
-![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-2.png "Figure-2"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-2.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-2.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **Part 3 Read More**
 
@@ -90,21 +91,21 @@ The next couple of options depends on what version you are using, for the **Core
 -   Just Link
 -   Custom
 
-The button options above are controlled by UIkit but if you are a **Pro** user and would like to use your own CSS class then chose **Custom** for the **Type** and then enter the CSS class in the next field labeled **Custom Button**. *\[Figure-3\]*
+The button options above are controlled by UIkit but if you are a **Pro** user and would like to use your own CSS class then chose **Custom** for the **Type** and then enter the CSS class in the next field labeled **Custom Button**. *\[Figure-4\]*
 
 Below is an example CSS class.
 
 >   btn btn-primary
 
-![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-3.png "Figure-3"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-3.png">![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-3.png "Figure-4"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **Part 4 Links**
 
 CoalaWeb News also gives you the option to display links to more articles. The first option in this section turns on or off the links section. The second option allows you to enter a number for the amount of links you want displayed.
 
-Next you can chose to display a heading for this section and also select a style for it from the drop down list. The last option allows you to turn on or off the display of a creation date next to each link. *\[Figure-4\]*
+Next you can chose to display a heading for this section and also select a style for it from the drop down list. The last option allows you to turn on or off the display of a creation date next to each link. *\[Figure-5\]*
 
-![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-4.png "Figure-4"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-4.png">![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-4.png "Figure-5"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-layout"></a>Module Layout Options
 
@@ -114,23 +115,23 @@ To make it easy to explain I have broken this section up into 4 parts.
 
 The first option in this section allows you to choose a layout for the module. If you are a **Core** user you get to use the default layout which is very flexible and for **Pro** subscribers you will get several options to choose from including the default. The next option controls the style of the panel used to contain your individual articles. If you are a **Core** user you get to use the default panel and for **Pro** subscribers you will get several options to choose from including the default.
 
-The next two options affect the margins used by the module. The first option affects the spacing around and between panels and the second affects the spacing within each individual panel. *\[Figure-5\]*
+The next two options affect the margins used by the module. The first option affects the spacing around and between panels and the second affects the spacing within each individual panel. *\[Figure-6\]*
 
-![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-1.png "Figure-5"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-1.png">![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-1.png "Figure-6"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **Part 2 Dynamic Filter**
 
 Pro subscribers get the option to display a menu at the top of the module made up of the categories of the currently display articles. If one of these menu items is selected than the articles will dynamically rearranged to only display the articles that belong to that particular category. *\[Figure-12\] and \[Figure-12a\]*
 
-![Figure-12](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-4.png "Figure-12"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-4.png">![Figure-12](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-4.png "Figure-12"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-![Figure-12a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-5.png "Figure-12a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-5.png">![Figure-12a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-5.png "Figure-12a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **Part 3 Alignment**
 
-Depending on what settings you choose and how you want your individual panels to look you might want to tweak the alignment of different elements. This next section will help you get the panels looking just how you want by allowing you to align the **Title**, **Details**, **Article Text** and the **Read More** link. *\[Figure-6\]*
+Depending on what settings you choose and how you want your individual panels to look you might want to tweak the alignment of different elements. This next section will help you get the panels looking just how you want by allowing you to align the **Title**, **Details**, **Article Text** and the **Read More** link. *\[Figure-7\]*
 
-![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-2.png "Figure-6"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-2.png">![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-2.png "Figure-7"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **Part 4 Columns**
 
@@ -140,9 +141,9 @@ The first option in this section is to turn on or off the matching of **Column H
 
 You can also choose how many columns you want to use with the added power to choose based on the size of the screen being used. You can for example have three columns on a nice big desktop screen and then one column on a small mobile device. 
 
-These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live. *\[Figure-7\]*
+These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live. *\[Figure-8\]*
 
-![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-3.png "Figure-7"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-3.png">![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-3.png "Figure-8"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-images"></a>Image Options
 
@@ -154,21 +155,21 @@ To make it easy to explain I have broken this section up into 3 parts.
 
 <div class="uk-alert">All the options below with affect the default layout but may only partially affect certain other layouts. This is to preserve their intended look and feel.</div>
 
-The first option option is an easy one it allows you to turn on or off the display of images. The next option allows you to choose which type of article image to use either the **Intro** or **Full** article image. The next option is to turn on the display of any **Captions** you have added to your article images. *\[Figure-8\]*
+The first option option is an easy one it allows you to turn on or off the display of images. The next option allows you to choose which type of article image to use either the **Intro** or **Full** article image. The next option is to turn on the display of any **Captions** you have added to your article images. *\[Figure-9\]*
 
-![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-1a.png "Figure-8"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-1a.png">![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-1a.png "Figure-9"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **Part 2 Widths**
 
 <div class="uk-alert">Width Guide: Desktop = 960px, Tablet = 768px and Mobile = 480px</div>
 
-In this section you can choose how much space you want your images to use within the panel with the added power to choose based on the size of the screen being used. These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live.  *\[Figure-8a\]*
+In this section you can choose how much space you want your images to use within the panel with the added power to choose based on the size of the screen being used. These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live.  *\[Figure-9a\]*
 
-![Figure-8a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-2.png "Figure-8a"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-2.png">![Figure-9a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-2.png "Figure-9a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### Example Scenario
 
-**Desktop:** When viewing the module on a desktop I want one item per column with the image to the side of the panel. *\[Figure-8b\]*
+**Desktop:** When viewing the module on a desktop I want one item per column with the image to the side of the panel. *\[Figure-9b\]*
 
 **Settings**
 -   Image: Yes
@@ -178,9 +179,9 @@ In this section you can choose how much space you want your images to use within
 -   Layout: Compact Square
 -   Panel Style: Secondary
 
-![Figure-8b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-3.png "Figure-8b"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-3.png">![Figure-9b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-3.png "Figure-9b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-**Tablet:** When viewing the module on a tablet I want two items per column with the image at the top of the panel. *\[Figure-8c\]*
+**Tablet:** When viewing the module on a tablet I want two items per column with the image at the top of the panel. *\[Figure-9c\]*
 
 **Settings**
 -   Image: Yes
@@ -190,9 +191,9 @@ In this section you can choose how much space you want your images to use within
 -   Layout: Compact Square
 -   Panel Style: Secondary
 
-![Figure-8c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-4.png "Figure-8c"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-4.png">![Figure-9c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-4.png "Figure-9c"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-**Mobile:** When viewing the module on a tablet I want one item per column with the image at the top of the panel. *\[Figure-8d\]*
+**Mobile:** When viewing the module on a tablet I want one item per column with the image at the top of the panel. *\[Figure-9d\]*
 
 **Settings**
 -   Image: Yes
@@ -202,47 +203,47 @@ In this section you can choose how much space you want your images to use within
 -   Layout: Compact Square
 -   Panel Style: Secondary
 
-![Figure-8d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-5.png "Figure-8d"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-5.png">![Figure-9d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-5.png "Figure-9d"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **Part 2 Alignment**
 
-The last option in this section controls the alignment of the images within their allocated space. *\[Figure-8e\]* 
+The last option in this section controls the alignment of the images within their allocated space. *\[Figure-9e\]* 
 
-![Figure-8e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-6.png "Figure-8e"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-6.png">![Figure-9e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-6.png "Figure-9e"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 To make this more clear I will give you an example of left, center and right.
 
-**Left** *\[Figure-8f\]*
+**Left** *\[Figure-9f\]*
 
-![Figure-8f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-7.png "Figure-8f"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-7.png">![Figure-9f](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-7.png "Figure-9f"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-**Center** *\[Figure-8g\]*
+**Center** *\[Figure-9g\]*
 
-![Figure-8g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-8.png "Figure-8g"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-8.png">![Figure-9g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-8.png "Figure-9g"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-**Right** *\[Figure-8h\]*
+**Right** *\[Figure-9h\]*
 
-![Figure-8h](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-9.png "Figure-8h"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-9.png">![Figure-9h](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-9.png "Figure-9h"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-This setting becomes more useful when using a multi column layout and you have small images being display at the top of their panels. *\[Figure-8i\]*
+This setting becomes more useful when using a multi column layout and you have small images being display at the top of their panels. *\[Figure-9i\]*
 
-![Figure-8i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-10.png "Figure-8i"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-10.png">![Figure-9i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-10.png "Figure-9i"){.uk-thumbnail .uk-thumbnail-mini}</a>
  
 ### <a name="mod-details"></a>Details Options
 
-In this section you have the ability to turn on or off a variety of article details for example the **Author**, **Category**, **Creation Date** and or it's amount of **Hits**.  You can also display an accompanying **Title** or turn on or off the section completely. *\[Figure-9\]*
+In this section you have the ability to turn on or off a variety of article details for example the **Author**, **Category**, **Creation Date** and or it's amount of **Hits**.  You can also display an accompanying **Title** or turn on or off the section completely. *\[Figure-10\]*
 
 <div class="uk-alert">Note: The location of the article details will be affected by the <em>Layout</em> you have chosen.</div>
 
-![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-details-1.png "Figure-9"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-details-1.png">![Figure-10](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-details-1.png "Figure-10"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="mod-advanced"></a>Advanced Options
 
-The CoalaWeb News module also has a few of what I consider **Advanced Options** such as the UIkit prefix option for when you are using a YooTheme template you can set it to **UK** otherwise I recommend leaving it with the default **CW**. In this section you can also choose to not have **HTML stripped** out of the articles text as well as the option to assign a **Module Class Suffix** and choose whether to use **Cache** including the **Cache Time**. 
+The CoalaWeb News module also has a few of what I consider **Advanced Options** such as the UIkit prefix option for when you are using a YooTheme template you can set it to **UK** otherwise I recommend leaving it with the default **CW**. In this section you can also choose to not have **HTML stripped** out of the articles text as well as the option to assign a **Module Class Suffix** and choose whether to use **Cache** including the **Cache Time**.  *\[Figure-11\]*
 
 <div class="uk-alert">If you have chosen to leave HTML in your articles you will need to have PHP Tidy installed to ensure it's correct functionality.</div>
 
-![Figure-10](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-advanced-1.png "Figure-10"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-advanced-1.png">![Figure-11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-advanced-1.png "Figure-11"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="more-help"></a>Need More Help
 
