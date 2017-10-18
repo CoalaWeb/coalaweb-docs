@@ -6,9 +6,16 @@
     -   [General Options](#mod-general)
     -   [Layout Options](#mod-layout)
     -   [Image Options](#mod-images)
+            -   [Example Scenarios](#mod-images-examples)
     -   [Details Options](#mod-details)
     -   [Advanced Options](#mod-advanced)
-4.  [Need More Help?](#more-help)
+4.  [Module News Set](#mod-news-set)
+    -   [General Options](#mod-general)
+    -   [Layout Options](#mod-layout)
+    -   [Image Options](#mod-images)
+    -   [Details Options](#mod-details)
+    -   [Advanced Options](#mod-advanced)
+5.  [Need More Help?](#more-help)
 
 ## <a class="doc-top" name="overview"></a>Overview
 
@@ -54,14 +61,13 @@ The **CoalaWeb News** module has a huge list of options so we have broken them u
 
 ### <a name="mod-general"></a>General Options
 
-To make it easy to explain I have broken this section up into four parts.
+To make it easy to explain I have broken this section up into several parts.
 
 **Part 1 Categories**
 
 The first option you have in this section allows you to choose which categories you want to use as the source for your articles. *\[Figure-2a\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png">![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png "Figure-2a"){.uk-thumbnail .uk-thumbnail-mini}</a>
-
 
 The second options allows you to display a linked list of categories that coincides with the current articles being displayed. *\[Figure-2b\]*
 
@@ -71,11 +77,17 @@ The second options allows you to display a linked list of categories that coinci
 
 The first options allows you to turn on or off the display of an article title. Next you have the option of making the title a link to the associated article or not. With the next option you can select a style for the article title. 
 
-In the next input field you can enter a number to control the maximum amount of articles you wish to be displayed. The next option allows you to control the maximum amount of characters that will be displayed for each article. The next two options affect the ordering of the articles. The last option is for excluding articles from being displayed, just enter the article ID's separated by a comma to have them excluded. *\[Figure-3\]*
+In the next input field you can enter a number to control the maximum amount of articles you wish to be displayed. The next option allows you to control the maximum amount of characters that will be displayed for each article. The next two options affect the ordering of the articles. *\[Figure-3\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-2.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-2.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-**Part 3 Read More**
+**Part 4 Exclusions**
+
+The first option in this section is for excluding articles by ID from being displayed, just enter their article ID's separated by a comma to have them excluded. Next is exclusion by date, you can exclude all article before or after a given date or only display articles from between two dates. The calculations can be done by using either the article's **Published** or **Created** date. *\[Figure-3a\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-5.png">![Figure-3a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-5.png "Figure-3a"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+**Part 4 Read More**
 
 <div class="uk-alert">Note: The Read More code used in your articles will need to be in the following format.</div>
 
@@ -91,7 +103,7 @@ The next couple of options depends on what version you are using, for the **Core
 -   Just Link
 -   Custom
 
-The button options above are controlled by UIkit but if you are a **Pro** user and would like to use your own CSS class then chose **Custom** for the **Type** and then enter the CSS class in the next field labeled **Custom Button**. *\[Figure-4\]*
+The button options above are controlled by UIkit but if you are a **Pro** user and would like to use your own CSS class then choose **Custom** for the **Type** and then enter the CSS class in the next field labeled **Custom Button**. *\[Figure-4\]*
 
 Below is an example CSS class.
 
@@ -99,7 +111,7 @@ Below is an example CSS class.
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-3.png">![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-3.png "Figure-4"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-**Part 4 Links**
+**Part 5 Links**
 
 CoalaWeb News also gives you the option to display links to more articles. The first option in this section turns on or off the links section. The second option allows you to enter a number for the amount of links you want displayed.
 
@@ -121,7 +133,7 @@ The next two options affect the margins used by the module. The first option aff
 
 **Part 2 Dynamic Filter**
 
-Pro subscribers get the option to display a menu at the top of the module made up of the categories of the currently display articles. If one of these menu items is selected than the articles will dynamically rearranged to only display the articles that belong to that particular category. *\[Figure-12\] and \[Figure-12a\]*
+Pro subscribers get the option to display a menu at the top of the module made up of **Categories or Months** based on the currently displayed articles. If **Months** is chosen the calculations can be done by using either the article's **Published** or **Created** date. Once one of these menu items is selected the articles will dynamically rearranged to only display the articles that belong to that particular group. *\[Figure-12\] and \[Figure-12a\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-4.png">![Figure-12](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-4.png "Figure-12"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
@@ -155,7 +167,7 @@ To make it easy to explain I have broken this section up into 3 parts.
 
 <div class="uk-alert">All the options below with affect the default layout but may only partially affect certain other layouts. This is to preserve their intended look and feel.</div>
 
-The first option option is an easy one it allows you to turn on or off the display of images. The next option allows you to choose which type of article image to use either the **Intro** or **Full** article image. The next option is to turn on the display of any **Captions** you have added to your article images. *\[Figure-9\]*
+The first option option is an easy one it allows you to turn on or off the display of images. The next option can make each image a link to the article or not. The next option allows you to choose which type of article image to use either the **Intro** or **Full** article image. The next option is to turn on the display of any **Captions** you have added to your article images. *\[Figure-9\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-1a.png">![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-1a.png "Figure-9"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
@@ -167,7 +179,7 @@ In this section you can choose how much space you want your images to use within
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-2.png">![Figure-9a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-2.png "Figure-9a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-### Example Scenario
+### <a name="mod-images-examples"></a>Example Scenarios
 
 **Desktop:** When viewing the module on a desktop I want one item per column with the image to the side of the panel. *\[Figure-9b\]*
 
@@ -229,6 +241,147 @@ This setting becomes more useful when using a multi column layout and you have s
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-10.png">![Figure-9i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-10.png "Figure-9i"){.uk-thumbnail .uk-thumbnail-mini}</a>
  
+### <a name="mod-details"></a>Details Options
+
+In this section you have the ability to turn on or off a variety of article details for example the **Author**, **Category**, **Creation Date** and or it's amount of **Hits**.  You can also display an accompanying **Title** or turn on or off the section completely. *\[Figure-10\]*
+
+<div class="uk-alert">Note: The location of the article details will be affected by the <em>Layout</em> you have chosen.</div>
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-details-1.png">![Figure-10](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-details-1.png "Figure-10"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+### <a name="mod-advanced"></a>Advanced Options
+
+The CoalaWeb News module also has a few of what I consider **Advanced Options** such as the UIkit prefix option for when you are using a YooTheme template you can set it to **UK** otherwise I recommend leaving it with the default **CW**. In this section you can also choose to not have **HTML stripped** out of the articles text as well as the option to assign a **Module Class Suffix** and choose whether to use **Cache** including the **Cache Time**.  *\[Figure-11\]*
+
+<div class="uk-alert">If you have chosen to leave HTML in your articles you will need to have PHP Tidy installed to ensure it's correct functionality.</div>
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-advanced-1.png">![Figure-11](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-advanced-1.png "Figure-11"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+## <a name="mod-news-set"></a>News Set Module
+
+The **CoalaWeb News Set** module has a huge list of options so we have broken them up into several sections which are explained in detail below.
+
+### <a name="mod-general"></a>General Options
+
+To make it easy to explain I have broken this section up into several parts.
+
+**Part 1 Categories**
+
+The first option you have in this section allows you to choose which categories you want to use as the source for your articles. *\[Figure-2a\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png">![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1a.png "Figure-2a"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+The second options allows you to display a linked list of categories that coincides with the current articles being displayed. *\[Figure-2b\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1b.png">![Figure-2b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-1b.png "Figure-2b"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+**Part 2 Articles**
+
+The first options allows you to turn on or off the display of an article title. Next you have the option of making the title a link to the associated article or not. With the next option you can select a style for the article title. 
+
+In the next input field you can enter a number to control the maximum amount of articles you wish to be displayed. The next option allows you to control the maximum amount of characters that will be displayed for each article. The next two options affect the ordering of the articles. *\[Figure-3\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-2.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-2.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+**Part 4 Exclusions**
+
+The first option in this section is for excluding articles by ID from being displayed, just enter their article ID's separated by a comma to have them excluded. Next is exclusion by date, you can exclude all article before or after a given date or only display articles from between two dates. The calculations can be done by using either the article's **Published** or **Created** date. *\[Figure-3a\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-5.png">![Figure-3a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-5.png "Figure-3a"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+**Part 4 Read More**
+
+<div class="uk-alert">Note: The Read More code used in your articles will need to be in the following format.</div>
+
+    <hr id="system-readmore" />
+
+In this section we have some options to control if and how a read more link or button will be displayed. The first option is to turn on or off the display of a read more link. The second option control what text will be used for the link or button. 
+
+For the button you have the **following options**:
+
+-   Button Primary
+-   Button Success
+-   Button Danger
+-   Just Link
+-   Custom
+
+The button options above are controlled by UIkit but if you would like to use your own CSS class then choose **Custom** for the **Type** and then enter the CSS class in the next field labeled **Custom Button**. *\[Figure-4\]*
+
+Below is an example CSS class.
+
+>   btn btn-primary
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-3.png">![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-general-3.png "Figure-4"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+### <a name="mod-layout"></a>Module Layout Options
+
+To make it easy to explain I have broken this section up into 4 parts.
+
+**Part 1 General**
+
+The first option in this section allows you to choose a layout for the module. The next option controls the style of the panel used to contain your individual articles. For the panel you get several options to choose from.
+
+The next two options affect the margins used by the module. The first option affects the spacing around and between panels and the second affects the spacing within each individual panel. *\[Figure-13\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-newsset-mod-layout-1.png">![Figure-13](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-newsset-mod-layout-1.png "Figure-13"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+**Part 2 Auto Play**
+
+If you want to the slides to automatically start playing on page load set this option to **Yes**. *\[Figure-13b\]*                                
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-newsset-mod-layout-2.png">![Figure-13b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-newsset-mod-layout-2.png "Figure-13b"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+**Part 3 Dynamic Filter**
+
+This option will display a menu at the top of the module made up of **Categories or Months** based on the currently displayed articles. If **Months** is chosen the calculations can be done by using either the article's **Published** or **Created** date. Once one of these menu items is selected the articles will dynamically rearranged to only display the articles that belong to that particular group. *\[Figure-12\] and \[Figure-12a\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-4.png">![Figure-12](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-4.png "Figure-12"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-5.png">![Figure-12a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-5.png "Figure-12a"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+**Part 4 Alignment**
+
+Depending on what settings you choose and how you want your individual panels to look you might want to tweak the alignment of different elements. This next section will help you get the panels looking just how you want by allowing you to align the **Title**, **Details**, **Article Text** and the **Read More** link. *\[Figure-7\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-2.png">![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-layout-2.png "Figure-7"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+**Part 5 Slides**
+
+<div class="uk-alert">Width Guide: Desktop = 960px, Tablet = 768px and Mobile = 480px</div>
+
+The first option in this section is to turn on or off the matching of **Slide Heights**. This will make all the displayed slides the height of the largest one making them balanced and symmetrical.
+
+You can also choose how many slides you want to use with the added power to choose based on the size of the screen being used. You can for example have three slides on a nice big desktop screen and then one slide on a small mobile device. 
+
+These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live. *\[Figure-13c\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-newsset-mod-layout-3.png">![Figure-13c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-newsset-mod-layout-3.png "Figure-13c"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+### <a name="mod-images"></a>Image Options
+
+This section is dedicated to the display of images with your article content and contains some powerful features to get your content looking just how you want it. 
+
+To make it easy to explain I have broken this section up into 3 parts.
+
+**Part 1 General**
+
+<div class="uk-alert">All the options below with affect the default layout but may only partially affect certain other layouts. This is to preserve their intended look and feel.</div>
+
+The first option option is an easy one it allows you to turn on or off the display of images. The next option can make each image a link to the article or not. The next option allows you to choose which type of article image to use either the **Intro** or **Full** article image. The next option is to turn on the display of any **Captions** you have added to your article images. *\[Figure-9\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-1a.png">![Figure-9](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-1a.png "Figure-9"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+**Part 2 Widths**
+
+<div class="uk-alert">Width Guide: Desktop = 960px, Tablet = 768px and Mobile = 480px</div>
+
+In this section you can choose how much space you want your images to use within the panel with the added power to choose based on the size of the screen being used. These settings are fully responsive which you can test by minimizing your browser screen on your desktop to simulate different screen sizes and see the changes live.  *\[Figure-9a\]*
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-2.png">![Figure-9a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-news-mod-images-2.png "Figure-9a"){.uk-thumbnail .uk-thumbnail-mini}</a>
+
+### Example Scenario
+
+To see some examples click [Here](#mod-images-examples)
+
 ### <a name="mod-details"></a>Details Options
 
 In this section you have the ability to turn on or off a variety of article details for example the **Author**, **Category**, **Creation Date** and or it's amount of **Hits**.  You can also display an accompanying **Title** or turn on or off the section completely. *\[Figure-10\]*
