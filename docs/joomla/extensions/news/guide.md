@@ -6,7 +6,7 @@
     -   [General Options](#mod-general)
     -   [Layout Options](#mod-layout)
     -   [Image Options](#mod-images)
-            -   [Example Scenarios](#mod-images-examples)
+        -   [Example Scenarios](#mod-images-examples)
     -   [Details Options](#mod-details)
     -   [Advanced Options](#mod-advanced)
 4.  [Module News Set](#mod-news-set)
@@ -327,7 +327,8 @@ The next two options affect the margins used by the module. The first option aff
 
 **Part 2 Auto Play**
 
-If you want to the slides to automatically start playing on page load set this option to **Yes**. *\[Figure-13b\]*                                
+If you want to the slides to automatically start playing on page load set this option to **Yes**. *\[Figure-13b\]*
+
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-newsset-mod-layout-2.png">![Figure-13b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/news/cw-newsset-mod-layout-2.png "Figure-13b"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **Part 3 Dynamic Filter**
@@ -380,7 +381,7 @@ In this section you can choose how much space you want your images to use within
 
 ### Example Scenario
 
-To see some examples click [Here](#mod-images-examples)
+To see some examples [click here](#mod-images-examples)
 
 ### <a name="mod-details"></a>Details Options
 
