@@ -1,5 +1,24 @@
 ## Change Log
 
+### Version 1.1.0 October 2017
+
+#### Module - News
+- **(C)** Code improvements
+- **(A)** New dynamic filter by months \[Pro\]
+- **(A)** 4 new date based exclusion options \[Pro\]
+- **(L)** language support for month filter \[Pro\]
+- **(L)** New and updated language strings
+
+#### Module - News Set \[Pro\]
+- **(C)** Code improvements
+- **(A)** New dynamic filter by months
+- **(A)** 4 new date based exclusion options
+- **(L)** language support for month filter 
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.3
+
 ### Version 1.0.9 September 2017
 
 #### General
@@ -7,6 +26,7 @@
 - **(R)** New format for install script
 
 #### Module - News
+- **(C)** Improved helper class loading
 - **(C)** New description style and layout
 - **(C)** New format for messages
 - **(L)** New and updated language strings
