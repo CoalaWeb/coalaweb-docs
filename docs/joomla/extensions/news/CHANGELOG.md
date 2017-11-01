@@ -1,5 +1,15 @@
 ## Change Log
 
+### Version 1.1.1 November 2017
+
+#### Module - News
+- **(A)** New article skip option \[Pro\]
+- **(L)** New and updated language strings
+
+#### Module - News Set \[Pro\]
+- **(A)** New article skip option \[Pro\]
+- **(L)** New and updated language strings
+
 ### Version 1.1.0 October 2017
 
 #### Module - News
