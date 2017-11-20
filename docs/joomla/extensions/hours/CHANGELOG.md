@@ -1,5 +1,17 @@
 ## Change Log
 
+### Version 1.1.0 November 2017
+
+#### Module - Hours
+- **(B)** Fixed prefix for button group
+- **(C)** Updated JSTZ Timezone detection to V1.0.7 
+- **(A)** Popup modal option \[Pro\]
+- **(A)** New go pro info
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.3
+
 ### Version 1.0.9 September 2017
 
 #### Module - Hours
