@@ -29,17 +29,17 @@ There is a known issue with Joomla 3.+, Gzip and Facebook. It is basically due t
 
 To use this option open up your plugin manager and search for **gears**. *\[Figure-1\]*
 
-![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure1.png "Figure-1"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure1.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure1.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Then under the **General** tab turn on the **Gzip Help** option and save and close the plugin options. Its always a good idea to clear your Joomla cache after making changes to make sure they catch up. *\[Figure-2\]*
 
-![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure2.png "Figure-2"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure2.png">![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure2.png "Figure-2"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="og"></a>Open Graph
 
 **Tip:** Facebook stores page information for up to 24 hours so any changes you make or if you have just brought your site back online can take up to 24 hours to catch up.
 
-To make sure what Facebook shares is as accurate as possible you will need to include Open Graph meta tags in the head of each of your pages you have a share button published on. They tipically included the follow tags:
+To make sure what Facebook shares is as accurate as possible you will need to include Open Graph meta tags in the head of each of your pages you have a share button published on. They typically included the follow tags:
 
 -   og:title
 -   og:type
@@ -62,11 +62,11 @@ There are loads of free Open Graph plugins over in JED so have a look around to 
 
 To check that the Open Graph tags are being included start by opening up one of your articles then right click the page and finally select **View Page Source** If all has gone according to plan you should see something like this in the head of the page. *\[Figure-3\]*
 
-![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure3.png "Figure-3"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure3.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure3.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ### <a name="og-not"></a>Not using Open Graph
 
-If you aren't using OPen Graph tags and your site is reachable by Facebook they will try to retrieve page details as best they can by using such things as normal meta tags and scrapping the page to find usable images.
+If you aren't using Open Graph tags and your site is reachable by Facebook they will try to retrieve page details as best they can by using such things as normal meta tags and scrapping the page to find usable images.
 
 Can I see what Facebook sees when looking at my website?
 
@@ -76,23 +76,23 @@ Can I see what Facebook sees when looking at my website?
 
 Facebook provides a great tool for fault finding issues called the [Debugger](https://developers.facebook.com/tools/debug/) it allows you to quickly and easily identify any issues with a particular web page. To get started enter in the URL of a page you want to check and click **Debug**. *\[Figure-4\]*
 
-![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure4.png "Figure-4"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure4.png">![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure4.png "Figure-4"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 On the next page you have a tonne of helpful information but lets start at the top with the title **When and how we last scraped the URL** here you can see if there were any problem reaching your page, the last time it was scrapped and even current **Likes** and **Shares** for that particular page. *\[Figure-5\]*
 
-![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure5.png "Figure-5"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure5.png">![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure5.png "Figure-5"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 In the next section you can see what raw tags were seen by Facebook when checking your page in our case they retrieved our Open Graph tags. *\[Figure-6\]*
 
-![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure6.png "Figure-6"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure6.png">![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure6.png "Figure-6"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Next Facebook takes the raw tags and constructs a series of definitive Open Graph tags for the page. If the Open Graph tags in the head of the page were displayed correctly they should coincide with this section. *\[Figure-7\]*
 
-![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure7.png "Figure-7"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure7.png">![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure7.png "Figure-7"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 Next is a great way to actually see what will be shared when a button is clicked on that page. *\[Figure-8\]*
 
-![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure8.png "Figure-8"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure8.png">![Figure-8](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure8.png "Figure-8"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 **How do I update what Facebook has stored?**
 
