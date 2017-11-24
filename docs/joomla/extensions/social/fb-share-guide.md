@@ -39,7 +39,7 @@ Then under the **General** tab turn on the **Gzip Help** option and save and clo
 
 **Tip:** Facebook stores page information for up to 24 hours so any changes you make or if you have just brought your site back online can take up to 24 hours to catch up.
 
-To make sure what Facebook shares is as accurate as possible you will need to include Open Graph meta tags in the head of each of your pages you have a share button published on. They typically included the follow tags:
+To make sure what Facebook shares is as accurate as possible you will need to include **Open Graph** meta tags in the head of each of your pages you have a share button published on. They typically included the follow tags:
 
 -   og:title
 -   og:type
@@ -56,7 +56,7 @@ The main thing you will need to ensure is that it is turned on so open up the Co
 
 ### <a name="og-core"></a>CoalaWeb Core Users
 
-There are loads of free Open Graph plugins over in JED so have a look around to see if one fits your needs.
+There are loads of free Open Graph plugins over in [JED](https://extensions.joomla.org/extensions/extension/?searchall=Open+Graph&filter%5Btags%5D%5B%5D=&filter%5Bcore_catid%5D=&filter%5Bincludes%5D=&filter%5Bversions%5D=&filter%5Btype%5D=free&filter%5Bhasdemo%5D=&order=&filter%5Bnewupdated%5D=&filter%5Bscore%5D=&filter%5Bfavourites%5D=&dir=DESC&limitstart=0&controller=filter&view=extension&layout=list&Itemid=145&clearorders=0&clearfilters=1) so have a look around to see if one fits your needs.
 
 ### <a name="og-check"></a>Check Open Graph Tags
 
