@@ -47,7 +47,6 @@ To check that the Open Graph tags are being included start by opening up one of 
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure3.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-share/cw-fbshare-figure3.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-
 **How do I update what LinkedIn has stored?**
 
 1. If your site doesn't have any errors and LinkedIn can see and retrieved your page information you can wait up to 7days for your pages to automatically catch up.

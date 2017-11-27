@@ -11,7 +11,7 @@ After about 10 years of allowing keyless use Google Maps as of the 22nd of June 
 
 Before we get started I would like to point out that the Google API interface does appeared to be geared towards developers so it can be a bit confusing for the average user. Having said that if you follow the steps covered in this guide you should be up and running in no time.
 
-## <a name="Create"></a>Create a Google Maps API Key
+## <a name="create"></a>Create a Google Maps API Key
 
 Following the steps outlined below to create and implement a free [Google Maps API Key]( https://developers.google.com/maps/documentation/javascript/get-api-key)
 
@@ -23,8 +23,7 @@ Following the steps outlined below to create and implement a free [Google Maps A
 
 3. Under **Accept requests**, add the two entries below (replacing yourname.com with your own domain). Type the first entry then hit enter on your keyboard to add it. Repeat to add the second entry. Having both entries (with asterisks) will help ensure your maps work on any URL related to your website.  *\[Figure-2\]*
 
-    yourname.com/*
-    *.yourname.com/*
+    *.coalaweb.com/*
 
 ![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/api-key/cw-api-key-figure2.png "Figure-2"){.coalaweb-docs}
 
