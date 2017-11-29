@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 0.4.4 November 2017
+- **(C)** Code improvements
+- **(C)** Tools helper file expanded
+- **(C)** Integrated CoalaWeb GitHub extension
+
 ### Version 0.4.3 October 2017
 - **(C)** Overhaul of dependent form field
 - **(C)** Improved component CSS
