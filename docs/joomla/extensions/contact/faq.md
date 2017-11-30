@@ -31,14 +31,13 @@ I also highly recommend using **Regular Labs** awesome extension [Cache Cleaner]
 
 #### <a class="doc-top" name="q3"></a>How to set email sender to the contact form user??
 
-1. In your Joomla **Mail Settings** 
+1. In your Joomla **Mail Settings**(See Below) make sure you have the **From Email** and **From Name** setup correctly.
 
-    System -> Global Configurtions -> Server Tab
-    
-make sure you have the **From Email** and **From Name** setup correctly.
+
+    System → Global Configurtions → Server Tab
 
 2. Next in the CoalaWeb Contact **component** set the **Mail From** option under the **General** tab to **Contact Form User** and lastly make sure that you set the **Email Field** to **Display and Required**.
 
-Now when you receive an email it should display the form user's email address as the **Sender**.
+<div class="uk-alert">Now when you receive an email it should display the form user's email address as the sender.</div>
 
 ***
