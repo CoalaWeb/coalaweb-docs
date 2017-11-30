@@ -29,7 +29,7 @@ I also highly recommend using **Regular Labs** awesome extension [Cache Cleaner]
 
 ***
 
-#### <a class="doc-top" name="q3"></a>How to set email sender to the contact form user??
+#### <a class="doc-top" name="q3"></a>How to set email sender to the contact form user?
 
 1. In your Joomla **Mail Settings**(See Below) make sure you have the **From Email** and **From Name** setup correctly.
 
