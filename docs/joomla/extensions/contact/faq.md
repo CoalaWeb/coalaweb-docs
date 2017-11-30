@@ -1,6 +1,7 @@
 ## List of Questions
 1.  [How can I update the text starting: Do you have any idea in mind?](#q1)
 2.  [CoalaWeb Contact form disappeared after upgrading to Joomla 3.8.0?](#q2)
+2.  [How to set email sender to the contact form user?](#q3)
 
 ***
 
@@ -25,5 +26,19 @@ Please try clearing your **Joomla Cache** if you are not sure how [here](https:/
     System → Clear Cache
     
 I also highly recommend using **Regular Labs** awesome extension [Cache Cleaner](https://www.regularlabs.com/extensions/cachecleaner) which I install on all my sites and makes clearing cache after making changes or installing updates a breeze.
+
+***
+
+#### <a class="doc-top" name="q3"></a>How to set email sender to the contact form user??
+
+1. In your Joomla **Mail Settings** 
+
+    System -> Global Configurtions -> Server Tab
+    
+make sure you have the **From Email** and **From Name** setup correctly.
+
+2. Next in the CoalaWeb Contact **component** set the **Mail From** option under the **General** tab to **Contact Form User** and lastly make sure that you set the **Email Field** to **Display and Required**.
+
+Now when you receive an email it should display the form user's email address as the **Sender**.
 
 ***
