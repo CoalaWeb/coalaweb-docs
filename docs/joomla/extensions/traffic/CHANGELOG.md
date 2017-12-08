@@ -1,5 +1,30 @@
 ## Change Log
 
+### Version 1.1.3 December 2017
+
+#### Component - Traffic
+- **(A)** Purge log files option
+- **(A)** Auto cleanup of log files based on size
+- **(A)** Robot list expanded to 276 \[Pro\]
+- **(A)** Referers added to Charts \[Pro\]
+- **(C)** Robot Name now uses regular expressions
+- **(C)** Updated info messages
+- **(C)** Improved installer script
+- **(L)** New and updated language strings
+
+#### Module - Traffic Stats \[Pro\]\[Admin\]
+- **(C)** Changed Joomla version to 3.6
+
+#### Plugin(S) - Traffic Clean
+- **(A)** Auto cleanup of log files based on size
+
+#### Plugin(S) - Traffic Count
+- **(C)** Now using regular expressions for robot name matching 
+- **(L)** Improved language loading
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.4
+
 ### Version 1.1.2 September 2017
 
 #### General
