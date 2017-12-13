@@ -1,5 +1,13 @@
 ## Change Log
 
+### Version 1.1.4 December 2017
+
+#### Component - Traffic
+- **(B)** Fixed JFolder bug in log cleaning system
+
+#### Plugin(S) - Traffic Count
+- **(B)** Fixed JFolder bug in log cleaning system
+
 ### Version 1.1.3 December 2017
 
 #### Component - Traffic
