@@ -1,5 +1,65 @@
 ## Change Log
 
+### Version 1.1.4 January 2018
+
+#### General
+- **(C)** Copyright year updated to 2018
+- **(C)** Header comments improved
+
+#### Component - Contact
+- **(A)** Added Google Analytics tracking \[Beta\]\[Pro\]
+- **(B)** Fixed Google Maps API key loading bug
+- **(B)** Fixed InvalidValueError: initMap is not a function
+- **(C)** Code improvements
+- **(C)** Improved dependency warning
+- **(C)** Improved control panel layout and functions
+- **(C)** Improved custom field and email template messages
+- **(C)** Copy me and thank you emails always use Joomla as sender
+- **(L)** Fixed Google map guide link
+- **(L)** New and updated language strings
+
+#### Module - Contact
+- **(A)** Added Google Analytics tracking \[Beta\]\[Pro\]
+- **(B)** Fixed Google Maps API key loading bug
+- **(B)** Fixed InvalidValueError: initMap is not a function
+- **(C)** Code improvements
+- **(C)** Copy me and thank you emails always use Joomla as sender
+- **(L)** New and updated language strings
+
+#### Module - Contact Tab \[Pro\]
+- **(A)** Added Google Analytics tracking \[Beta\]\[Pro\]
+- **(A)** Added TOS field display option
+- **(B)** Fixed Google Maps API key loading bug
+- **(B)** Fixed InvalidValueError: initMap is not a function
+- **(C)** Code improvements
+- **(C)** Copy me and thank you emails always use Joomla as sender
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Contact \[Pro\]
+- **(A)** Added Google Analytics tracking \[Beta\]\[Pro\]
+- **(B)** Fixed Google Maps API key loading bug
+- **(B)** Fixed InvalidValueError: initMap is not a function
+- **(A)** Component check
+- **(C)** Code improvements
+- **(C)** Fetches component's parameters as a JRegistry instance
+- **(C)** Copy me and thank you emails always use Joomla as sender
+- **(L)** New and updated language strings
+
+#### Plugin(S) - CW Mail Check
+- **(A)** Component check
+- **(C)** Code improvements
+- **(C)** Fetches component's parameters as a JRegistry instance
+- **(L)** New and updated language strings
+
+#### Plugin(E) - Button CW Contact \[Pro\]
+- **(A)** Component check
+- **(C)** Code improvements
+- **(C)** Fetches component's parameters as a JRegistry instance
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.4
+
 ### Version 1.1.3 August 2017
 
 #### Component - Contact
