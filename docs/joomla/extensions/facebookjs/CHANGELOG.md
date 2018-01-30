@@ -1,4 +1,17 @@
-## Change Log
+##Change Log
+
+### Version 1.0.7 January 2018
+
+#### Plugin(S) - Facebook JS
+- **(B)** Fixed incorrect language code
+- **(C)** Copyright year updated to 2018
+- **(C)** Header comments improved
+- **(C)** Code improvements
+- **(C)** Install script improvements
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.5
 
 ### Version 1.0.6 September 2017
 
