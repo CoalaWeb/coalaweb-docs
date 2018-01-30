@@ -1,5 +1,13 @@
 ## Change Log
 
+### Version 0.4.5 January 2018
+- **(C)** Copyright year updated to 2018
+- **(C)** Header comments improved
+- **(C)** Upgraded UIkit to version 2.27.4
+- **(C)** Sort field extended for CoalaWeb Social Tabs
+- **(C)** Fields - Code improvements
+- **(L)** New and updated language strings
+
 ### Version 0.4.4 November 2017
 - **(C)** Code improvements
 - **(C)** Tools helper file expanded
