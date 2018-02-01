@@ -1,5 +1,44 @@
 ## Change Log
 
+### Version 0.4.3 February 2018
+
+#### General
+- **(C)** Copyright year updated to 2018
+- **(C)** Header comments improved
+
+#### Component - Social Links
+- **(C)** Update CW UIkit Social Buttons version 1.0.4
+- **(C)** Now loading SweetAlert from unpkg.com
+- **(C)** Upgrade SweetAlert code to V2.0 syntax
+- **(C)** Code updates and improvements
+- **(C)** Install script improvements
+- **(C)** Media folder has been renamed for consistency
+- **(R)** Removed unneeded SweetAlert CSS and JS files
+- **(R)** Removed unneeded icons
+- **(L)** New and updated language strings
+
+#### Module - Tweet
+- **(C)** Code updates and improvements
+- **(C)** Twitter Fetcher JS updated v17.0.3
+
+#### Module - Social Tabs \[Pro\]
+- **(A)** Three more custom Tabs
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(B)** Removed unneeded meta tag
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(C)** Information messages improved
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(C)** Information messages improved
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.5
+
+#### Plugin(S) - Facebook JS
+- **(C)** Updated to version 1.0.7
+
 ### Version 0.4.2 September 2017
 
 #### General

@@ -7,3 +7,6 @@
 
 # PHP Storm #
 .idea/
+
+# CoalaWeb Files #
+docs/coalaweb/
