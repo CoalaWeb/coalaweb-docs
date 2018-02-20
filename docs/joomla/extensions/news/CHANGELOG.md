@@ -1,5 +1,34 @@
 ## Change Log
 
+### Version 1.1.2 February 2018
+
+#### General
+- **(C)** Copyright year updated to 2018
+- **(C)** Header comments improved
+- **(C)** Updates to README files
+
+#### Module - News
+- **(A)** Filter by Tags option \[Pro\]
+- **(A)** Display linked tags \[Pro\]
+- **(A)** Multiple display locations for tags \[Pro\]
+- **(A)** New go pro info
+- **(A)** New dependencies check system
+- **(C)** Links section hidden if no links
+- **(C)** Code improvements
+- **(L)** New and updated language strings
+
+#### Module - News Set \[Pro\]
+- **(A)** Filter by Tags option. \[Pro\]
+- **(A)** Display linked tags \[Pro\]
+- **(A)** Multiple display locations for tags \[Pro\]
+- **(A)** New dependencies check system
+- **(C)** Code improvements
+- **(L)** Fixed incorrect language constant
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.5
+
 ### Version 1.1.1 November 2017
 
 #### Module - News
