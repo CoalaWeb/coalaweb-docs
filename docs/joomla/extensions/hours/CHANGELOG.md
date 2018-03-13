@@ -1,5 +1,20 @@
 ## Change Log
 
+### Version 1.1.1 March 2018
+
+#### General
+- **(C)** Copyright year updated to 2018
+- **(C)** Header comments improved
+- **(C)** Updates to README files
+
+#### Module - Hours
+- **(B)** Fixed modal bug on non UIKit template sites
+- **(A)** New dependency check system
+- **(A)** New debug message system
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.6
+
 ### Version 1.1.0 November 2017
 
 #### Module - Hours
