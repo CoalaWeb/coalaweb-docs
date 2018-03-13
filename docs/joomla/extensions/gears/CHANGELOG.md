@@ -1,5 +1,9 @@
 ## Change Log
 
+### Version 0.4.6 March 2018
+- **(A)** New helper tools for checking dependencies
+- **(A)** Added CoalaWeb Import component support
+
 ### Version 0.4.5 January 2018
 - **(C)** Copyright year updated to 2018
 - **(C)** Header comments improved
