@@ -1,5 +1,8 @@
 ## Change Log
 
+### Version 0.4.7 March 2018
+- **(B)** Fixed CSS file reference error
+
 ### Version 0.4.6 March 2018
 - **(A)** New helper tools for checking dependencies
 - **(A)** Added CoalaWeb Import component support
