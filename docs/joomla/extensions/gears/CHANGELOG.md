@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 0.4.8 March 2018
+- **(C)** Code improvements
+- **(A)** New helper functions in Tools class
+- **(A)** Added support for CoalaWeb Import extension
+ 
 ### Version 0.4.7 March 2018
 - **(B)** Fixed CSS file reference error
 
