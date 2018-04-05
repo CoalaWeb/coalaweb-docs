@@ -1,5 +1,12 @@
 ## Change Log
 
+### Version 0.4.9 April 2018
+- **(B)** Fixed UIkit loading bug
+- **(C)** Code improvements
+- **(C)** Tools class updates including new array empty function
+- **(C)** Dependent field updates
+- **(C)** Dependency check now displays warnings not notices
+
 ### Version 0.4.8 March 2018
 - **(C)** Code improvements
 - **(A)** New helper functions in Tools class
