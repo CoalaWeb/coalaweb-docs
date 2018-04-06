@@ -1,5 +1,16 @@
 ## Change Log
 
+### Version 1.0.8 April 2018
+
+#### Plugin(S) - Facebook JS
+- **(C)** Code improvements
+- **(C)** New dependency check
+- **(A)** New debug message system
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.4.9
+
 ### Version 1.0.7 January 2018
 
 #### Plugin(S) - Facebook JS
