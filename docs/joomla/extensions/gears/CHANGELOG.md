@@ -1,5 +1,8 @@
 ## Change Log
 
+### Version 0.5.0 April 2018
+- **(B)** Fixed UIkit JS loading bug
+
 ### Version 0.4.9 April 2018
 - **(B)** Fixed UIkit loading bug
 - **(C)** Code improvements
