@@ -1,5 +1,22 @@
 ## Change Log
 
+### Version 1.1.3 April 2018
+
+#### Module - News
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** Removed, added and updated language strings
+
+#### Module - News Set \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.0
+
 ### Version 1.1.2 February 2018
 
 #### General
