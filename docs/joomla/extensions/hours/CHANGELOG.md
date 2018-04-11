@@ -1,5 +1,16 @@
 ## Change Log
 
+### Version 1.1.2 April 2018
+
+#### Module - Hours
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.0
+
 ### Version 1.1.1 March 2018
 
 #### General
