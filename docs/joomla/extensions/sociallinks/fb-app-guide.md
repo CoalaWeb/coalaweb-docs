@@ -88,7 +88,7 @@ You can now copy your **App ID** and paste it into the Facebook App ID field und
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-2.png">![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-2.png "Figure-2"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-If you are CoalaWeb Social Links Pro subscriber and you want to get Facebook counts using the inbuilt count system you can also add your new Facebook **App ID** and **Secret** to the Facebook options under the **Counts** tab. *\[Figure-3\]*
+If you are CoalaWeb Social Links Pro subscriber and you want to use your Facebook App with the inbuilt count system you can also add your new Facebook **App ID** and **Secret** to the Facebook options under the **Counts** tab. *\[Figure-3\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-3.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/fb-app/cw-fbapp-figure-3.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
