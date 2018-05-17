@@ -15,7 +15,7 @@
      - [Acknowledgments](#privacy-acknowledge)
 4.  [Need More Help?](#more-help)
 
-<div class="uk-alert uk-alert-warning"><i class="uk-icon-calendar"></i> Last updated on the 15th of May 2018</div>
+<div class="uk-alert uk-alert-warning"><i class="uk-icon-calendar"></i> Last updated on the 17th of May 2018</div>
 
 ## <a class="doc-top" name="intro"></a>Intro
 
