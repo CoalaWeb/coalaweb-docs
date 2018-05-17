@@ -19,11 +19,17 @@
 
 ## <a class="doc-top" name="intro"></a>Intro
 
-Facebook has made some changes recently to their App system such as a few settings that were once optional are now compulsory plus the inclusion of a new warning message titled: App Review required by August 1, 2018 to retain access to Facebook Platform APIs
+This is quite a complicated subject but some of the main points we try to cover in this guide are:
+
+- Is an App compulsory?
+- Where, why and how is it used?
+- How do I create an App?
+- Do I need to have my App reviewed?
+- Do I need a Privacy Policy?
 
 ## <a name="background"></a>App Background
 
-Before you get started creating a Facebook App let me explain a bit about what it is and how it's used by CoalaWeb Social Links.
+<div class="uk-alert">Before you get started creating a Facebook App let me explain a bit about what it is and how it's used by CoalaWeb Social Links.</div>
 
 ### <a name="bg-compulsory"></a>Is an App compulsory?
 
@@ -45,7 +51,7 @@ The App ID is added to a page through the CoalaWeb Facebook JS plugin and or inc
 
 ## <a name="creation"></a>App Creation
 
-If you have decided you want to create a Facebook App and use it with the CoalaWeb Social Links extension read on.
+<div class="uk-alert">If you have decided you want to create a Facebook App and use it with the CoalaWeb Social Links extension read on.</div>
 
 ### <a name="creation-overview"></a>Overview
 
@@ -111,13 +117,14 @@ As far as I'm aware none of the situations mentioned in the [Where, why and how]
 
 > If your app uses advanced FB Login or Messenger permissions, or if you want your app to be listed in App Center, you need to submit the app for review.
 
-<div class="uk-alert">Based on my research Apps should continue to function for the purposes of the CoalaWeb Social Links extension after the 1st of August even with no review.</div>
+<div class="uk-alert">Note: Based on my research Apps should continue to function for the purposes of the CoalaWeb Social Links extension after the 1st of August even with no review but I will continue to monitor the situation.</div>
 
 ## <a name="privacy"></a>Privacy Policy
 
 Facebook has recently made the Privacy Policy and Terms of Service URLs compulsory for all Apps so if you have created and App or you are looking to update an existing one read on.
 
 > Privacy Policy URL - You must provide a Privacy Policy URL. Must be provided to take your app public.
+
 > Terms of Service URL - You must provide a Terms of Service URL.
 
 ### <a name="privacy-overview"></a>Overview
@@ -145,6 +152,8 @@ If you have any questions about data collection, analysis and use of personal da
 Please be advised: the true extent of the way in which Facebook uses the data it receives is unknown. As a result it is not possible to produce a privacy policy statement which satisfies every legal eventuality. CoalaWeb therefore accepts no liability for third party claims arising either directly or indirectly as a result of the use of the privacy policy template example above.
 
 ### <a name="privacy-acknowledge"></a>Acknowledgments
+
+- This privacy policy was based on one produced by [WILDE BEUGER SOLMECKE](https://www.wbs-law.de)
 
 ## <a name="more-help"></a>Need More Help
 
