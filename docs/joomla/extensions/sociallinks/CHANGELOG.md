@@ -1,5 +1,146 @@
 ## Change Log
 
+### Version 1.0.0 May 2018
+
+#### General
+- **(N)** Version updated to 1.0.0 due to major code improvements
+- **(R)** Removed CoalaWeb Like box module (obsolete since 0.2.1 June 2015)
+- **(R)** Removed obsolete icon themes   
+
+#### Component - Social Links
+- **(B)** Fixed missing count table field 
+- **(A)** Retina display system integrated into CoalaWeb icon themes
+- **(A)** Added Joomla icon option to CoalaWeb themes
+- **(A)** Added Yelp icon option to CoalaWeb themes
+- **(A)** Added Weibo icon option to CoalaWeb themes
+- **(A)** Added iTunes icon option to CoalaWeb themes
+- **(A)** Added new CoalaWeb Color Ring theme \[Pro\]
+- **(A)** Three new icon hover options \[Pro\]
+- **(A)** New UIkit prefix option
+- **(R)** Removed unneeded media reference in XML
+- **(C)** New Facebook Application information
+- **(C)** New count option to use or not a Facebook App \[Pro\]
+- **(C)** New count option to combine counts from both HTTP and HTTPS URLs \[Pro\]
+- **(C)** Count table improvements
+- **(C)** Updated Deviantart icon in CoalaWeb themes
+- **(C)** Updated Instagram icon in CoalaWeb themes
+- **(C)** New icon hovers system
+- **(C)** General CoalaWeb themes improvements
+- **(C)** Improved dependency check system
+- **(C)** Code updates and improvements
+- **(L)** Removed, added and updated language strings
+
+#### Module - Social Tabs \[Pro\]
+- **(B)** Custom icons aligns center using bottom expand
+- **(C)** Retina display for icons
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** Fixed language error
+- **(L)** Removed, added and updated language strings
+
+#### Module - Tweet
+- **(A)** Integrated centralized UIkit prefix option
+- **(C)** Stop UIkit loading when not needed
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(B)** Twitter Fetcher JS updated v18.0.2 fixes Twitter widget issue
+- **(L)** Removed, added and updated language strings
+
+#### Module - Social Links
+- **(A)** New Retina display system for icons
+- **(A)** New Joomla Follow Us option
+- **(A)** New Weibo Follow Us option
+- **(A)** New Yelp Follow Us option
+- **(A)** New iTunes Follow Us option
+- **(C)** General CoalaWeb themes improvements
+- **(A)** Three new icon hover options \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** Removed, added and updated language strings
+
+#### Module - Page
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** Removed, added and updated language strings
+
+#### Module - G Plus \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(R)** Removed unneeded Twitter layout option
+- **(B)** Fixed bug in Google+ layout
+- **(A)** Integrated UIkit prefix option
+- **(C)** Stop UIkit loading when not needed
+- **(C)** CSS layout improvements
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(A)** Integrated UIkit prefix option
+- **(A)** New Retina display system for icons
+- **(C)** General CoalaWeb themes improvements
+- **(A)** Three new icon hover options
+- **(C)** Stop UIkit loading when not needed
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(C)** Integrated count option to use or not a Facebook App \[Pro\]
+- **(C)** Integrated count option to combine counts from both HTTP and HTTPS URLs \[Pro\]
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Share Count \[Pro\]
+- **(B)** Fixed Facebook bug when not counting
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(C)** Integrated count option to use or not a Facebook App \[Pro\]
+- **(C)** Integrated count option to combine counts from both HTTP and HTTPS URLs \[Pro\]
+- **(L)** Fix language loading error
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(A)** Integrated UIkit prefix option
+- **(B)** Fixed bug in Google+ layout
+- **(C)** Stop UIkit loading when not needed
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(C)** CSS layout improvements
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.0
+
+#### Plugin(S) - Facebook JS
+- **(C)** Updated to version 1.0.8
+
 ### Version 0.4.3 February 2018
 
 #### General
