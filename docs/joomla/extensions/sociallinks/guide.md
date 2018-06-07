@@ -590,7 +590,7 @@ You also have the option to turn on or off the display of the **Share This** or 
 
 ### <a name="mod-custom-theme"></a>Creating a Custom Theme
 
-Creating a theme is easy, just copy the custom-example folder found in:
+Creating a theme is easy, just copy the custom-example-v2 folder found in:
 
     media → coalawebsocial → components → sociallinks → themes-icon
 
