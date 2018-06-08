@@ -1,6 +1,10 @@
-## Table of Contents
+## <a class="doc-top" name="toc">Table of Contents
 1.  [Overview](#overview)
-2.  [Component Guide](#component-guide)
+2.  [GDPR](#gdpr)
+    -   [What is the GDPR?](#gdpr-what)
+    -   [CoalaWeb Traffic Data](#gdpr-data)
+    -   [Disclaimer](#gdpr-disclaimer)
+3.  [Component Guide](#component-guide)
     -   [Control Panel](#control-panel)
     -   [Visitors](#visitors)
     -   [Locations \[Pro\]](#locations)
@@ -39,32 +43,55 @@
             -   [CSV Report](#export-csv)
         -   [Backup \[Pro\]](#man-backup)
         -   [Restore \[Pro\]](#man-restore)
-3.  [Traffic \[M\]](#module)
+4.  [Traffic \[M\]](#module)
     -   [General](#mod-general)
     -   [Layout](#mod-layout)
     -   [Visitor](#mod-visitor)
     -   [Who is Online](#mod-who)
     -   [Advanced](#mod-advanced)
-4.  [Traffic Pro \[M\]](#module-pro)
+5.  [Traffic Pro \[M\]](#module-pro)
     -   [General](#mod-pro-general)
     -   [Layout](#mod-pro-layout)
     -   [Traffic](#mod-pro-traffic)
     -   [Visitor](#mod-pro-visitor)
     -   [Who is Online](#mod-pro-who)
     -   [Advanced](#mod-pro-advanced)
-5.  [Stats \[A M\]\[Pro\]](#module-traffic-stats)
-6.  [Places \[M\]\[Pro\]](#module-places)
-7.  [Plugins](#plg)
+6.  [Stats \[A M\]\[Pro\]](#module-traffic-stats)
+7.  [Places \[M\]\[Pro\]](#module-places)
+8.  [Plugins](#plg)
     -   [System Plugin - Count](#plg-count)
     -   [System Plugin - Clean](#plg-clean)
     -   [System Plugin - Online](#plg-online)
-8.  [Need More Help?](#more-help)
+9.  [Need More Help?](#more-help)
 
-## <a class="doc-top"  name="overview"></a>Overview
+## <a name="overview"></a>Overview
 
 **CoalaWeb Traffic** is a Joomla extension designed to keep track of the visitors to your site. You can choose to display the modules and let visitors see and be amazed by your traffic or unpublish the module and view your website statistics in the **Admin** area.
 
 <div class="uk-alert">When installing all the parts of the system will be installed at the same time making installing, upgrading and uninstalling a breeze.</div>
+
+## <a name="gdpr"></a>GDPR
+
+### <a name="gdpr-what"></a>What is the GDPR?
+
+The **General Data Protection Regulation 2016/679** is a regulation in EU law on data protection and privacy for all individuals within the European Union and the European Economic Area. It also addresses the export of personal data outside the EU and EEA. [More at Wikipedia](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation")
+
+### <a name="gdpr-data"></a>CoalaWeb Traffic Data
+
+This extension records visitors' information including their **IP** address.
+
+- **Pro subscribers** have the option to store visitors IPs in a hash (hidden) format which to our knowledge meets the data privacy requirements.
+
+Visitor information is also recorded by the **Who is Online** part of the system which includes an **IP** address and a **Cookie**
+
+- **Pro subscribers** have the option to store visitors IPs in a hash (hidden) format which to our knowledge meets the data privacy requirements.
+- There are **two** options in regards to the Cookie. The first is display a message informing users that your website stores and uses Cookies with an accompanying consent button. The second option is set the component option **Set Cookie** to **No** which will remove any current Cookies and stop any new ones from being created.
+
+<div class="alert alert-info"> Note: If you choose <strong>Not</strong> to set a <strong>Cookie</strong> the <strong>Who is Online</strong> section will <strong>Not</strong> display in the front end modules.</div>
+
+### <a name="gdpr-disclaimer"></a>Disclaimer
+
+<div class="alert alert-warning">The GDPR is complex topic and the information above is based on our research but is in no way a guarantee that we have covered all aspects of the GDPR and or that CoalaWeb Traffic meets all of it's regulations. If you have more GDPR information, a GDPR related question, have spotted an error or have a GDPR feature request feel free to drop by the <a class="alert-link" href="https://coalaweb.com/forum/gdpr" target="_blank">GDPR part of the Forum</a> and lets us know.</div>
 
 ## <a name="component-guide"></a>Component
 
