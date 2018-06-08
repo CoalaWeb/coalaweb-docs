@@ -87,11 +87,11 @@ Visitor information is also recorded by the **Who is Online** part of the system
 - **Pro subscribers** have the option to store visitors IPs in a hash (hidden) format which to our knowledge meets the data privacy requirements.
 - There are **two** options in regards to the Cookie. The first is display a message informing users that your website stores and uses Cookies with an accompanying consent button. The second option is set the component option **Set Cookie** to **No** which will remove any current Cookies and stop any new ones from being created.
 
-<div class="alert alert-info"> Note: If you choose <strong>Not</strong> to set a <strong>Cookie</strong> the <strong>Who is Online</strong> section will <strong>Not</strong> display in the front end modules.</div>
+<div class="uk-alert"> Note: If you choose <strong>Not</strong> to set a <strong>Cookie</strong> the <strong>Who is Online</strong> section will <strong>Not</strong> display in the front end modules.</div>
 
 ### <a name="gdpr-disclaimer"></a>Disclaimer
 
-<div class="alert alert-warning">The GDPR is complex topic and the information above is based on our research but is in no way a guarantee that we have covered all aspects of the GDPR and or that CoalaWeb Traffic meets all of it's regulations. If you have more GDPR information, a GDPR related question, have spotted an error or have a GDPR feature request feel free to drop by the <a class="alert-link" href="https://coalaweb.com/forum/gdpr" target="_blank">GDPR part of the Forum</a> and lets us know.</div>
+The GDPR is complex topic and the information above is based on our research but is in no way a guarantee that we have covered all aspects of the GDPR and or that CoalaWeb Traffic meets all of it's regulations. If you have more GDPR information, a GDPR related question, have spotted an error or have a GDPR feature request feel free to drop by the [GDPR part of the Forum](https://coalaweb.com/forum/gdpr") and lets us know.
 
 ## <a name="component-guide"></a>Component
 
