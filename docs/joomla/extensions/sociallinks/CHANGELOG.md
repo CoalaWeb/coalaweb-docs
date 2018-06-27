@@ -1,5 +1,22 @@
 ## Change Log
 
+### Version 1.0.1 June 2018
+
+#### General
+- **(R)** Removed Social Panel \[Pro\] plugin (obsolete since v0.3.7 April 2017)
+
+#### Module - G Plus \[Pro\]
+- **(B)** Fixed module name bug
+
+#### Module - Social Tabs \[Pro\]
+- **(A)** New Instagram follow us Tab
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(B)** Fixed menu bug due to changes in Joomla! 3.8.9+
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.1
+
 ### Version 1.0.0 May 2018
 
 #### General
