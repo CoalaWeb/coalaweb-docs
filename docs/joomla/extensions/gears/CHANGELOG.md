@@ -1,5 +1,8 @@
 ## Change Log
 
+### Version 0.5.1 June 2018
+- **(C)** Sort field extended to include Instagram
+
 ### Version 0.5.0 April 2018
 - **(B)** Fixed UIkit JS loading bug
 
