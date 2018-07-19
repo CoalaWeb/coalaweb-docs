@@ -1,9 +1,59 @@
 ## Change Log
 
+### Version 1.1.5 July 2018
+
+#### Component - Traffic
+- **(A)** GDPR related information
+- **(A)** New hide unknown in charts option \[Pro\]
+- **(A)** New set Cookie option
+- **(A)** New max record option for exporting reports
+- **(A)** New To and From option for exporting reports \[Pro\]
+- **(A)** New automatic report creating/emailing options \[Pro\]
+- **(A)** New database table #__cwtraffic_storage to keep track of reports \[Pro\]
+- **(C)** Who is Online DB table now has iphash column
+- **(C)** Who is Online system can now store IP as hash \[Pro\]
+- **(C)** Improved dependency check system
+- **(C)** Now loading SweetAlert from unpkg.com
+- **(C)** Upgrade SweetAlert code to V2.0 syntax
+- **(C)** Code updates and improvements
+- **(C)** Install script improvements
+- **(R)** Removed unneeded SweetAlert CSS and JS files
+- **(R)** Removed unneeded icons
+- **(R)** Removed unneeded CSV Report controller
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Count
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Clean
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Online
+- **(C)** Can now store IP as hash \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** Improved dependency check system
+- **(C)** Using Gears Tools class
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Reports \[Pro\]
+- **(N)** Integrated into the CoalaWeb Traffic extension
+- **(N)** This plugin creates and sends CoalaWeb Traffic CSV reports at regular intervals.
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.1
+
 ### Version 1.1.4 December 2017
 
 #### Component - Traffic
 - **(B)** Fixed JFolder bug in log cleaning system
+- **(A)** New DB cleanup message
+- **(C)** Automatic DB cleanup turned on by default
 
 #### Plugin(S) - Traffic Count
 - **(B)** Fixed JFolder bug in log cleaning system
