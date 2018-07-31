@@ -14,41 +14,41 @@ If you want to contributed to a project hosted on **GitHub** you will find the m
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-1.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-1.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-2. Next you want to **Clone** your newly forked project by clicking the **Clone or download** button and copying the URL. *\[Figure-2\]*
+2. Next you want to **Clone** your newly forked project by clicking the **Clone or download** button and copying the **URL**. *\[Figure-2\]*
                                                                                        
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-2.png">![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-2.png "Figure-2"){.uk-thumbnail .uk-thumbnail-mini}</a> 
 
-   After you have the URL head over to PhpStorm and go to: *\[Figure-2a\]*
+3. After you have the URL head over to **PhpStorm** and go to: *\[Figure-2a\]*
 
         VCS -> Checkout from Version control -> Git 
         
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-2a.png">![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-2a.png "Figure-2a"){.uk-thumbnail .uk-thumbnail-mini}</a>
         
-   Next past in the URL from earlier and check you are happy with the auto generated name and click **Clone**.
+4. Next paste in the URL from earlier and check you are happy with the auto generated name and lastly click **Clone**.
 
-3. Once you have opened your newly cloned project in PhpStorm make all the necessary code changes.
+5. Once you have opened your newly cloned project in PhpStorm make all the necessary code changes.
 
-4. Once you are happy with the changes you can **Commit and push** the changes back to your fork by going to: *\[Figure-3\]*
+6. Once you are happy with the changes you can **Commit and push** the changes back to your fork by going to: *\[Figure-3\]*
 
         VCS -> Git -> Push
         
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-3.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-3.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
      
- In the next window give your commit a meaningful **Commit Message**, check the **Author** field and when you are ready use the **Commit** button's drop down option and select **Commit and Push**. This will take care of both tasks at the same time.
+7. In the next window give your commit a meaningful **Commit Message**, check the **Author** field and when you are ready use the **Commit** button's drop down option and select **Commit and Push**. This will take care of both tasks at the same time.
  
 <div class="uk-alert">Note: There are many ways to commit and push changes in PhpStorm this is just one example but feel free to do anyway you feel comfortable with.</div>
 
-5. Back in GitHub open your Fork and either click the **New pull request** button found next to the branch selector or use the green version found under the **Pull request** tab. *\[Figure-4\]*
+8. Back in GitHub open your Fork and either click the **New pull request** button found next to the branch selector or use the green version found under the **Pull request** tab. *\[Figure-4\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-4.png">![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-4.png "Figure-4"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-   Give it a title and description explaining in detail why you have made the changes and then submit it.
+9. Give it a title and description explaining in detail why you have made the changes and then submit it.
 
-6. You should now see your Pull Request listed back in the original project's repository under the **Pull requests** tab and also in your profiles **Pull request** list by using GitHub's top menu. *\[Figure-5\]*
+10. You should now see your Pull Request listed back in the original project's repository under the **Pull requests** tab and also in your profiles **Pull request** list by using GitHub's top menu. *\[Figure-5\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-5.png">![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-5.png "Figure-5"){.uk-thumbnail .uk-thumbnail-mini}</a> 
 
-   Now you just need to wait for feedback from the project managers and if all is well you will get your changes merged back into the project. *\[Figure-6\]*
+11. Now you just need to wait for feedback from the project managers and if all is well you will get your changes merged back into the project. *\[Figure-6\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-6.png">![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-6.png "Figure-6"){.uk-thumbnail .uk-thumbnail-mini}</a> 
 
