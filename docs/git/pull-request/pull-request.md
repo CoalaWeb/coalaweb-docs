@@ -7,9 +7,12 @@
 
 ## <a name="intro"></a>Intro
 
-If you want to contributed to a project hosted on **GitHub** you will find the majority of the open source project ask that you do it in the form of a **Pull Request**. If you want to learn more about how to submit a pull Request while using the IDE **PhpStorm** read on.
+If you want to contributed to a project hosted on **GitHub** you will find the majority of the projects ask that you do it in the form of a **Pull Request**. If you want to learn more about how to submit a pull request read on.
+
+<div class="uk-alert">Note: This guide was created using the IDE <strong>PhpStorm</strong> on a <strong>Ubuntu</strong> based machine but the fundamentals remain the same for most setups.</div>
 
 ## <a name="guide"></a>Guide
+
 1. The first thing you will need to do is **Fork** the project you want to contribute to by open the project repository. Once you have the repository open you can use the **Fork** button found in the top right of GitHub interface. *\[Figure-1\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-1.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-1.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
@@ -18,17 +21,17 @@ If you want to contributed to a project hosted on **GitHub** you will find the m
                                                                                        
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-2.png">![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-2.png "Figure-2"){.uk-thumbnail .uk-thumbnail-mini}</a> 
 
-3. After you have the URL head over to **PhpStorm** and go to: *\[Figure-2a\]*
+3. After you have copied the **Clone URL** head over to **PhpStorm** and go to: *\[Figure-2a\]*
 
         VCS -> Checkout from Version control -> Git 
         
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-2a.png">![Figure-2a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-2a.png "Figure-2a"){.uk-thumbnail .uk-thumbnail-mini}</a>
         
-4. Next paste in the URL from earlier and check you are happy with the auto generated name and lastly click **Clone**.
+4. Next paste in the **Clone URL** from earlier and check you are happy with the auto generated name and click **Clone**.
 
 5. Once you have opened your newly cloned project in PhpStorm make all the necessary code changes.
 
-6. Once you are happy with the changes you can **Commit and push** the changes back to your fork by going to: *\[Figure-3\]*
+6. When you have finished updating the code you can **Commit and push** the changes back to your fork by going to: *\[Figure-3\]*
 
         VCS -> Git -> Push
         
@@ -59,7 +62,8 @@ If you want to contributed to a project hosted on **GitHub** you will find the m
  - Give as much detail as possible with your pull request to help the project managers understand why you have made your changes and help then check and potential test your proposed changes.
  
  - When you have submitted your **Pull request** make sure it passes all the checks and gets a nice green tick to give it it's best chance of being accepted. *\[Figure-7\]*
-                                                                                   <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-7.png">![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-7.png "Figure-7"){.uk-thumbnail .uk-thumbnail-mini}</a> 
+
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-7.png">![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/git/pull-request/figure-7.png "Figure-7"){.uk-thumbnail .uk-thumbnail-mini}</a> 
 
 ## <a name="system-info"></a>System Information
 
@@ -67,6 +71,12 @@ If you want to contributed to a project hosted on **GitHub** you will find the m
 -   Ubuntu: 16.04 LTS
 -   PhpStorm: 2018.2.6
 
-## <a name="more-help"></a>Need More Help
+## <a name="more-help"></a>Need More Help?
 
-<div class="uk-alert">Do you have a question that wasn't covered by this GUIDE? Then it's time to drop by the <a href="https://coalaweb.com/forum/index" target="_self">Forum</a></div>
+If you need more help or have any questions regarding this guide feel free to:
+
+ - Start a new [forum](https://coalaweb.com/forum/index) topic if it wasn't covered by this guide
+ - Sending an email to support at this domain name
+ - Sending a tweet or a Twitter direct message to [@coalaweb](https://twitter.com/CoalaWeb)
+ - Contacting us through our [Facebook page](https://www.facebook.com/CoalaWeb)
+ - Alternatively, you can use our [Contact Us](https://coalaweb.com/support/get-in-touch/contact-us) form
