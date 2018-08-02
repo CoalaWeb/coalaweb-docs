@@ -1,5 +1,16 @@
 ## Change Log
 
+### Version 1.1.6 August 2018
+
+#### Component - Traffic
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Count
+- **(B)** Fixed issue with visitor counts
+
+#### Plugin(S) - Traffic Reports \[Pro\]
+- **(L)** New and updated language strings
+
 ### Version 1.1.5 July 2018
 
 #### Component - Traffic
