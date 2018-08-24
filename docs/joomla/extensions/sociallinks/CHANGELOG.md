@@ -1,5 +1,23 @@
 ## Change Log
 
+### Version 1.0.2 August 2018
+
+#### Component - Social Links
+- **(B)** Fixed bug in help link
+- **(L)** Fixed error in language constant
+- **(L)** Updated language strings
+
+#### Module - Social Tabs \[Pro\]
+- **(B)** Fixed Instagram follow us link
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(A)** Added Open Graph, Twitter and Schema editor override options
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(A)** Implemented Open Graph, Twitter and Schema editor overrides
+- **(C)** Code updates and improvements
+
 ### Version 1.0.1 June 2018
 
 #### General
