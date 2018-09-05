@@ -1,5 +1,8 @@
 ## Change Log
 
+### Version 0.5.2 September 2018
+- **(A)** 3 New helper functions in the Tools class
+
 ### Version 0.5.1 June 2018
 - **(C)** Sort field extended to include Instagram
 
