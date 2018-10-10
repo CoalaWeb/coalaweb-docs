@@ -1,5 +1,23 @@
 ## Change Log
 
+### Version 1.0.3 October 2018
+
+#### General
+- **(L)** New and updated language strings
+
+#### Component - Social Links
+- **(A)** Option to turn on/off OG tags in BaGallery modal window
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(C)** Updates to OG Tag comments
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(A)** Turn on/off OG tags in BaGallery modal window
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.2
+
 ### Version 1.0.2 August 2018
 
 #### Component - Social Links
