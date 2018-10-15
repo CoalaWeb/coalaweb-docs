@@ -1,5 +1,16 @@
 ## Change Log
 
+### Version 1.0.9 October 2018
+
+#### Plugin(S) - Facebook JS
+- **(C)** Code improvements
+- **(C)** Improved install script
+- **(A)** New always load option
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.2
+
 ### Version 1.0.8 April 2018
 
 #### Plugin(S) - Facebook JS
