@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 1.1.0 October 2018
+
+#### Plugin(S) - Facebook JS
+- **(C)** New version to help updates for dependent extensions
+
 ### Version 1.0.9 October 2018
 
 #### Plugin(S) - Facebook JS
