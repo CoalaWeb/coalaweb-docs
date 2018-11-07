@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 0.5.3 November 2018
+- **(C)** Updates to README file
+- **(C)** Code improvements
+- **(A)** New Tools class helper functions
+
 ### Version 0.5.2 September 2018
 - **(A)** 3 New helper functions in the Tools class
 
