@@ -1,6 +1,7 @@
 ## Change Log
 
 ### Version 0.5.3 November 2018
+- **(C)** Minimum Joomla version is now 3.7
 - **(C)** Updates to README file
 - **(C)** Code improvements
 - **(A)** New Tools class helper functions
