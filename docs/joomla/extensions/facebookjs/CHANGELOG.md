@@ -1,5 +1,19 @@
 ## Change Log
 
+### Version 1.1.1 November 2018
+
+#### General
+- **(C)** Updates to README file
+
+#### Plugin(S) - Facebook JS
+- **(C)** Code improvements
+- **(C)** Extension descriptions now include a change log link
+- **(C)** Minimum Joomla version is now 3.7
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.3
+
 ### Version 1.1.0 October 2018
 
 #### Plugin(S) - Facebook JS
