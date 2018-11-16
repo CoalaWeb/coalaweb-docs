@@ -1,5 +1,36 @@
 ## Change Log
 
+### Version 1.0.4 November 2018
+
+#### General
+- **(C)** Updates to README file
+- **(C)** Extension descriptions now include a change log link
+- **(C)** Minimum Joomla version is now 3.7
+
+#### Component - Social Links
+- **(R)** Removed unneeded Open Graph conflict options
+- **(L)** Removed, added and updated language strings
+
+#### Module - Tweet
+- **(L)** Removed, added and updated language strings
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(A)** New image width and height if images are locally stored
+- **(C)** Now using setMetaData to help with conflicting Open Graph tags
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(A)** New image width and height if images are locally stored
+- **(A)** New function to fix wrongly defined Open Graph tags(setMetaData)
+- **(C)** Now using setMetaData to help with conflicting Open Graph tags
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.3
+
+#### Plugin(S) - Facebook JS
+- **(C)** Updated to version 1.1.1
+
 ### Version 1.0.3 October 2018
 
 #### General
