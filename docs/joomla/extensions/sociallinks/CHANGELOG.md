@@ -1,5 +1,13 @@
 ## Change Log
 
+### Version 1.0.5 November 2018
+
+#### General
+- **(C)** Improved CSS in all icon themes
+
+#### Component - Social Links
+- **(B)** Fixed JImage bug when reading SVGs now using a try catch
+
 ### Version 1.0.4 November 2018
 
 #### General
