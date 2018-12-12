@@ -1,5 +1,37 @@
 ## Change Log
 
+### Version 1.1.5 December 2018
+
+#### General
+- **(C)** Updates to README file
+- **(C)** Extension descriptions now include a change log link
+- **(C)** Minimum Joomla version is now 3.7
+
+#### Component - Contact
+- **(B)** Fixed Google Maps API key loading order on some systems
+- **(L)** New and updated language strings
+
+#### Module - Contact
+- **(C)** Now using a try catch for reCAPTCHA response due to changes in Joomla 3.9
+- **(L)** New and updated language strings
+
+#### Module - Contact Tab \[Pro\]
+- **(C)** Now using a try catch for reCAPTCHA response due to changes in Joomla 3.9
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Contact \[Pro\]
+- **(C)** Now using a try catch for reCAPTCHA response due to changes in Joomla 3.9
+- **(L)** New and updated language strings
+
+#### Plugin(S) - CW Mail Check
+- **(L)** New and updated language strings
+
+#### Plugin(E) - Button CW Contact \[Pro\]
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.3
+
 ### Version 1.1.4 January 2018
 
 #### General
