@@ -1,5 +1,9 @@
 ## Change Log
 
+### Version 0.5.4 January 2019
+- **(C)** Extension descriptions now include change log link
+- **(C)** Copyright year updated to 2019
+
 ### Version 0.5.3 November 2018
 - **(C)** Minimum Joomla version is now 3.7
 - **(C)** Updates to README file
