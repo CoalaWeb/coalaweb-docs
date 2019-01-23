@@ -1,5 +1,28 @@
 ## Change Log
 
+### Version 1.1.4 January 2019
+
+#### General
+- **(C)** Updates to README file
+- **(C)** Copyright year updated to 2019
+
+#### Module - News
+- **(C)** Code updates and improvements
+- **(A)** New image option that searches article text \[Pro\]
+- **(B)** Fix bug in Strip HTML option
+- **(A)** New change log link in description
+- **(L)** Updated language strings
+
+#### Module - News Set \[Pro\]
+- **(C)** Code updates and improvements
+- **(A)** New image option that searches article text
+- **(B)** Fix bug in Strip HTML option
+- **(A)** New change log link in description
+- **(L)** Updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.4
+
 ### Version 1.1.3 April 2018
 
 #### Module - News
