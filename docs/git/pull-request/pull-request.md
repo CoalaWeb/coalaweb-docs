@@ -76,7 +76,7 @@ If you want to contributed to a project hosted on **GitHub** you will find the m
 If you need more help or have any questions regarding this guide feel free to:
 
  - Start a new [forum](https://coalaweb.com/forum/index) topic if it wasn't covered by this guide
- - Sending an email to support at this domain name
- - Sending a tweet or a Twitter direct message to [@coalaweb](https://twitter.com/CoalaWeb)
- - Contacting us through our [Facebook page](https://www.facebook.com/CoalaWeb)
+ - Send an email to support at our domain name
+ - Send a tweet or a Twitter direct message to [@coalaweb](https://twitter.com/CoalaWeb)
+ - Contact us through our [Facebook page](https://www.facebook.com/CoalaWeb)
  - Alternatively, you can use our [Contact Us](https://coalaweb.com/support/get-in-touch/contact-us) form

@@ -14,6 +14,7 @@
 13. [How to display Tabs module when using JA Builder?](#q13)
 14. [Lost my Facebook feed in Page module after upgrade to 0.4.2?](#q14)
 15. [Browser inspector error: Load denied by X-Frame-Options?](#q15)
+16. [I can't find the Instagram share button](#q16)
 
 ***
 
@@ -217,5 +218,19 @@ Firstly the module content will continue to be displayed as expected so you can 
 ##### Extra Info
 
 I will continue to follow this up with the Facebook developers and update this FAQ with any new info I get but if anyone else has extra info on the subject please [Contact Me](https://coalaweb.com/support/get-in-touch/contact-us).
+
+***
+
+#### <a name="q16"></a> I can't find the Instagram share button?
+
+Instagram currently doesn't allow sharing through a button like other social media platforms here is a quote from their documentation.
+
+> At this time, uploading via the API is not possible. We made a conscious choice not to add this for the following reasons:
+
+> - Instagram is about your life on the go – we hope to encourage photos from within the app.
+> - We want to fight spam & low quality photos. Once we allow uploading from other sources, it's harder to control what comes into the Instagram ecosystem. All this being said, we're working on ways to ensure users have a consistent and high-quality experience on our platform.
+>
+
+Note: I'm keeping an eye out just in case they change their mind but currently Instagram wants people to share through their App.
 
 ***
