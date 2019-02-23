@@ -1,5 +1,22 @@
 ## Change Log
 
+### Version 1.1.3 February 2019
+
+#### General
+- **(C)** Updates to README file
+- **(C)** Extension descriptions now include a change log link
+- **(C)** Minimum Joomla version is now 3.7
+- **(C)** Copyright year updated to 2019
+
+#### Module - Hours
+- **(C)** Code updates and improvements
+- **(A)** New open/break/close sign icon type and size options \[Pro\]
+- **(A)** New open/break/close sign image option \[Pro\]
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.4
+
 ### Version 1.1.2 April 2018
 
 #### Module - Hours
