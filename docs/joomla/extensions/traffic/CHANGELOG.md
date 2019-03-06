@@ -1,5 +1,41 @@
 ## Change Log
 
+### Version 1.1.7 March 2019
+
+#### General
+- **(C)** Updates to README file
+- **(C)** Extension descriptions now include a change log link
+- **(C)** Minimum Joomla version is now 3.7
+- **(C)** MaxMind DB Reader PHP API updated to version 1.4.1
+- **(C)** Both Core and Pro now using GeoLite 2 database
+- **(C)** Copyright year updated to 2019
+- **(R)** Removed legacy geolocation database system
+
+#### Component - Traffic
+- **(C)** 120+ new robots added to the import list \[Pro\]
+- **(C)** Updated depreciated JError handling
+- **(C)** Code updates and improvements
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Count
+- **(C)** Code updates and improvements
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Clean
+- **(C)** Code updates and improvements
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Online
+- **(C)** Code updates and improvements
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Reports \[Pro\]
+- **(C)** Code updates and improvements
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.4
+
 ### Version 1.1.6 August 2018
 
 #### Component - Traffic
