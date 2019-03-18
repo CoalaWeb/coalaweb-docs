@@ -1,5 +1,14 @@
 ## Change Log
 
+### Version 1.1.4 March 2019
+
+#### Module - Hours
+- **(C)** Code updates and improvements
+- **(A)** New open/break/close sign icon type and size options added to Inline layout \[Pro\]
+- **(A)** New open/break/close sign image option added to Inline layout \[Pro\]
+- **(A)** New holiday sign icon types \[Pro\]
+- **(L)** New and updated language strings
+
 ### Version 1.1.3 February 2019
 
 #### General
