@@ -1,5 +1,8 @@
 ## Change Log
 
+### Version 0.5.5 March 2019
+- **(A)** Tools class textClean function extended
+
 ### Version 0.5.4 January 2019
 - **(C)** Extension descriptions now include change log link
 - **(C)** Copyright year updated to 2019
