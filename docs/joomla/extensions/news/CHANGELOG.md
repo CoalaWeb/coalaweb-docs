@@ -1,5 +1,26 @@
 ## Change Log
 
+### Version 1.1.5 March 2019
+
+#### General
+- **(C)** Minimum Joomla version is now 3.7
+- **(C)** Minimum CoalaWeb Gears version is now 0.5.5
+
+#### Module - News
+- **(C)** Code updates and improvements
+- **(A)** New strip HTML exclusion option \[Pro\]
+- **(A)** New image lightbox onclick option \[Pro\]
+- **(L)** Updated language strings
+
+#### Module - News Set \[Pro\]
+- **(C)** Code updates and improvements
+- **(A)** New strip HTML exclusion option \[Pro\]
+- **(A)** New image lightbox onclick option \[Pro\]
+- **(L)** Updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.5
+
 ### Version 1.1.4 January 2019
 
 #### General
