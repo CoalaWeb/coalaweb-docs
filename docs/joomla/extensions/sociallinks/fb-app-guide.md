@@ -47,7 +47,7 @@ The App ID is added to a page through the CoalaWeb Facebook JS plugin and or inc
 - Used with Open Graph tags to help with insights. The Open Graph system will work fine without an App ID
 - The App ID and App Secret can be used when retrieving the current Share, Comment and Total Facebook counts for a page. Version 1.0.0+ will work with out n App.
 
-<div class="uk-alert">Note: With the release of version <strong>1.0.0</strong> of CoalaWeb Social Links the count system will work without the use of an App. On <strong>large sites<strong> that make a lot of API requests I recommend setting a large <strong>locktime</strong> and potentially using an <strong>App</strong> to increase the <strong>API limit</strong>.</div>
+<div class="uk-alert">Note: With the release of version <strong>1.0.0</strong> of CoalaWeb Social Links the count system will work without the use of an App. On <strong>large sites</strong> that make a lot of API requests I recommend setting a large <strong>locktime</strong> and potentially using an <strong>App</strong> to increase the <strong>API limit</strong>.</div>
 
 ## <a name="creation"></a>App Creation
 
