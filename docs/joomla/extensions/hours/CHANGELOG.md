@@ -1,5 +1,15 @@
 ## Change Log
 
+### Version 1.1.5 June 2019
+
+#### General
+- **(C)** Minimum CoalaWeb Gears version is now 0.5.5
+
+#### Module - Hours
+- **(B)** Fixed popup open/closed sign bug \[Pro\]
+- **(C)** Using new method to check Gears dependencies
+- **(C)** Code updates and improvements
+
 ### Version 1.1.4 March 2019
 
 #### Module - Hours
