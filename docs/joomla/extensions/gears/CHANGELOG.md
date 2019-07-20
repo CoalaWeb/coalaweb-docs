@@ -1,5 +1,9 @@
 ## Change Log
 
+### Version 0.5.6 July 2019
+- **(C)** Removed obsolete items from sorting field
+- **(C)** Code updates and improvements
+
 ### Version 0.5.5 March 2019
 - **(A)** Tools class textClean function extended
 
