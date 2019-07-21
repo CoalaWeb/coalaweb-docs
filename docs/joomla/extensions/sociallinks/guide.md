@@ -10,7 +10,6 @@
         - [1. General](#options-general)
         - [2. Like Plugin \[Pro\]](#options-content)
         - [3. Share Plugin \[Pro\]](#options-share)
-        - [4. Panel Plugin \[Pro\]](#options-panel)
         - [5. Metadata Plugin \[Pro\]](#options-og)
         - [6. Count \[Pro\]](#options-count)
         - [7. Updates \[Pro\]](#options-updates)
@@ -42,19 +41,14 @@
     -   [Layout](#mod-p-layout)
     -   [Style](#mod-p-style)
     -   [Advanced](#mod-p-advanced)
-6.  [Google Plus \[M\] \[Pro\]](#module-gplus)
-    -   [General](#mod-gplus-general)
-    -   [Layout](#mod-gplus-layout)
-    -   [Advanced](#mod-gplus-advanced)
-7.  [Tweet \[M\]](#module-tweet)
+6.  [Tweet \[M\]](#module-tweet)
     -   [General](#mod-tweet-general)
     -   [Tweet](#mod-tweet-tweet)
     -   [Footer](#mod-tweet-footer)
     -   [Advanced](#mod-tweet-advanced)
-8.  [Plugins](#plg)
+7.  [Plugins](#plg)
     -   [Content Plugin - Social Likes \[Pro\]](#plg-content)
     -   [Content Plugin - Social Share \[Pro\]](#plg-share)
-    -   [Content Plugin - Social Panel \[Pro\]](#plg-panel)
     -   [Content Plugin - Social Metadata \[Pro\]](#plg-og)
     -   [Content Plugin - Meta Fields \[Pro & J3.+\]](#plg-mf)
     -   [System Plugin - Menu Meta](#plg-mm)
@@ -94,7 +88,6 @@ If you have chosen to turn on share counts in the component options then you wil
 -   FL = Facebook Likes
 -   FS = Facebook Share
 -   FT = Facebook Total
--   G = Google +
 -   L = Linkedin
 -   P = Pinterest
 -   R = Reddit
@@ -195,7 +188,7 @@ and scroll down or search the page looking for something similar to *\[Figure-24
 ![Figure-24](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra1.png "Figure-24"){.coalaweb-docs}
 
 Now that we have made sure cURL is installed lets move onto the configuration options. The first option 
-is whether to turn on the shortening system and which service you wish to use (Currently only Google is available).
+is whether to turn on the shortening system and which service you wish to use (Currently only Bitly is available).
 
 Next enter the **API Key** your received from your shortening service provider making sure to not leave any extra spaces.
 
@@ -207,27 +200,10 @@ Next you can choose which URL's you wish to have shortened keeping in mind that 
 
 ![Figure-24a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra2.png "Figure-24a"){.coalaweb-docs}
 
-#### How do I get an API Key? (Google)
+#### How do I get an API Key? (Bitly)
 
-**Steps for creating API key for Google URL Shortening.**
+**Steps for creating API key for Bitly URL Shortening.**
 
--   Firstly log into your Google account and then go to the **Google Developers Console** using this [link](https://console.developers.google.com/)
--   Select a project, or create a new one.
--   Now from the left menu select **APIs and auth → APIs**
--   Scroll down until you find **URL Shortener API** and select it. 
--   In the next window click the **Enable API** button at the top.
--   Next select **Credentials** from the left menu.
--   Next select **Add credentials → API Key** from the top drop down menu. *\[Figure-24b\]*
-
-![Figure-24b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra3.png "Figure-24b"){.coalaweb-docs}
-
--   Lastly select **Server Key** from the popup window. *\[Figure-24c\]*
-
-![Figure-24c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra9.png "Figure-24c"){.coalaweb-docs}
-
--   When the window closes you should now have your new **API Key** displayed in the list of keys. *\[Figure-24d\]*
-
-![Figure-24d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-extra4.png "Figure-24d"){.coalaweb-docs}
 
 ### 2. <a name="options-content"></a>Like Plugin Options \[Pro Version\]
 
@@ -304,70 +280,7 @@ buttons in Joomla and K2. If you plan to display the Facebook button you will ne
 
 To get a **Facebook App ID** requires you to first create a Facebook Application but don’t worry it’s an easy process which we will walk your through in this [GUIDE](https://coalaweb.com/support/documentation/item/create-facebook-application "Facebook App Guide").
 
-### 4. <a name="options-panel"></a>Panel Plugin Options \[Pro Version\]
-
-<div class="uk-alert uk-alert-warning">The Panel plugin is no longer under active development. For a more flexible, modern and mobile friendly alternative try the CoalaWeb Tabs module.</div>
-
-![Figure-23](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel1.png "Figure-23"){.coalaweb-docs}
-
-<div class="uk-alert">To make it easier to follow I have broken up the <em>Social Panel Plugin Options</em> into five parts.</div>
-
-#### Part 1 - Display Where
-
-To make it easy to turn on or off the Social Panel plugin completely I have included a **Load Panel** option this will save you having to open up the plugin manager to disable it. Next you have an opportunity to select which categories you wish the buttons to be displayed in. If you wish to select more than one just hold down **Shift** on your keyboard and select the categories with your mouse. If you want to exclude any articles use the last input field by entering their IDs one per line. *\[Figure-23a\]*
-
-![Figure-23a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel2.png "Figure-23a"){.coalaweb-docs}
-
-#### Part 2 - Layout & Style
-
-Next are the **Layout & Style Options** these options will affect both the Fixed and Collapse style layouts. First you can choose if you want the panel to be visible all the time displayed to the side of the article content or Collapse which will hide the panel off the side of the page. The Collapse option becomes visible by clicking a tab that extends from the side of the page. 
-
-The next option allows you to choose which side you want the panel displayed on.
-
-The next option allows you to choose a **Theme** for the panel. I have included a few and will expand it over time but if you want to create your own have a look below.
-
-The buttons also have style options associated with them, you can display them in **Vertical** \[Bubble\], or with **No Count**. The **Mail** and **Twitter** buttons are only avaliable in the **No Count** layout so they don't appear in the list.
-
-#### Creating your own theme
-
-Creating a theme is easy, just copy the default folder found in:
-
-    media → coalawebsocial → plugins → content → socialpanel → themes
-
-Give the theme a different name and edit the files as needed. All the
-folders located in the themes directory will automatically be listed in
-the **Form Theme** select list.
-
-The last option listed under Layout and Style is Top Space this is theamount of space above the panel and will affect both panel styles. The top space is measure in % so just enter a number, 15 is the default and works well in most situations. *\[Figure-23b\]*
-
-<div class="uk-alert">The Fixed Style will automatically convert to <em>Collapse</em> when the page reaches a certain size.</div>
-
-![Figure-23b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel3.png "Figure-23b"){.coalaweb-docs}
-
-#### Part 3 - Fixed Style
-
-The next couple of option only affect the Fixed panel style. First you can choose the Convert Width if the page is reduced smaller than the width entered here it will automatically convert to the Collapse style. The last option in this section is the side space this is the amount of space between the side of the page and the panel it is measured in % so just enter a number, 5 is the default and works well in most situations. *\[Figure-23c\]*
-
-![Figure-23c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel4.png "Figure-23c"){.coalaweb-docs}
-
-#### Part 4 - Collapse Style
-
-The next couple of option only affect the Collapse panel style. First you can choose the type of button(tab) to want to use to trigger the
-display of the panel. If you choose **Text** in the next option you can decide to have the text/button displayed vertically or horizontal. If you choose **Icon** you will have to fill in three of the next four options. First choose the icon you wish to use it can be stored locally or you can use an external URL for the image. Next set the width and height of the icon in pixels. Note: Just enter a number here with out the px. If you choose to use text which is a a great option for multilingual sites you can change the displayed text here. The default text is Share but if you do plan to use it on a multilingual site it would be better to use the language files or an override to manipulate this text.
-
-The next few options control the slide effect of the panel. The first two options control the amount of time the panel takes to open and close. Durations are given in milliseconds; higher values indicate slower animations, not faster ones. The default duration is 400 milliseconds. The last two options affect the animation style, you have a lot to choose from so experiment until you find the ones you like. *\[Figure-23d\]*
-
-![Figure-23d](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel5.png "Figure-23d"){.coalaweb-docs}
-
-#### Part 5 - Social Options
-
-Next are the **Social Options** here you can chose which social networks
-you wish to display. These options will affect the display of both the
-buttons in Joomla and K2. *\[Figure-23e\]*
-
-![Figure-23e](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-panel6.png "Figure-23e"){.coalaweb-docs}
-
-### 5. <a name="options-og"></a>Metadata Plugin Options \[Pro Version\]
+### 4. <a name="options-og"></a>Metadata Plugin Options \[Pro Version\]
 
 The **CoalaWeb Metadata** system will help generate meta data in the **Open Graph**, **Twitter Card** and **Schema.org** formats and then place it in the head of your web pages. This information will then be used by elements such as the Facebook, Twitter and Google + vote and share buttons to get the best representation of the content being shared or voted on.
 
@@ -517,7 +430,7 @@ If you want certain information to always be used within the meta tags set it be
 
 ![Figure-4a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-metadata2.png "Figure-4a"){.coalaweb-docs}
 
-### <a name="options-count"></a>6. Count
+### <a name="options-count"></a>5. Count
 
 CoalaWeb Social links has a count system builtin that can check a page's social counts based on it's URL and then store the information in the database. This allows the counts to be retrieved from the database when displaying the buttons removing the need to check each social network on every page load. *\[Figure-30\]*
 
@@ -527,7 +440,7 @@ The count system currently supports **Joomla**, **K2** and **Zoo** content to va
 
 ![Figure-30a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-count2.png "Figure-30a"){.coalaweb-docs}
 
-The next group of options are **what to check** which give you option to choose which social networks to check so if you only plan to display a **Facebook** and **Google** button you could just turn those two on. Keep in mind the counts are independent of the displayed buttons in the front end so you could display no buttons and turn on the counts here to monitor from the Social Links control panel what your page counts are. *\[Figure-30b\]*
+The next group of options are **what to check** which give you option to choose which social networks to check so if you only plan to display a **Facebook** button you could just turn those two on. Keep in mind the counts are independent of the displayed buttons in the front end so you could display no buttons and turn on the counts here to monitor from the Social Links control panel what your page counts are. *\[Figure-30b\]*
 
 ![Figure-30b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-count3.png "Figure-30b"){.coalaweb-docs}
 
@@ -535,7 +448,7 @@ The next group of options are **what to check** which give you option to choose 
 
 ![Figure-30c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-count4.png "Figure-30c"){.coalaweb-docs}
 
-### <a name="options-updates"></a>7. Update
+### <a name="options-updates"></a>6. Update
 
 The CoalaWeb Social Links extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
 
@@ -561,7 +474,7 @@ You will then see the ID displayed in the module titled **Download ID**. *\[Figu
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
-### <a name="options-permissions"></a>8. Component Permissions
+### <a name="options-permissions"></a>7. Component Permissions
 
 The last tab contains the permission settings for the CoalaWeb Social
 Links component. *\[Figure-8\]*
@@ -861,55 +774,6 @@ The Page module also has a few of what I consider **Advanced Options** such as t
 
 ![Figure-29c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-page-mod-config-advanced.png "Figure-29c"){.coalaweb-docs}
 
-## <a name="module-gplus"></a>Google Plus \[M\]\[Pro\]
-
-CoalaWeb G Plus is a social module that helps you link your Google+ page to your site. Get more recommendations for your site in Google search and grow your audience on Google+.
-
-You have a choice of the following badge types:
-
--   Page
--   Profile
--   Community
-
-<div class="uk-alert">Note: Valid Ranges: Portrait 180-450 px Landscape 273-450px </div>
-
-### <a name="mod-gplus-general"></a>General
-
-The first thing you will need to decide is what type of badge you want to display. You have the option to display a Profile, Page or Community depending on your needs. You will only need to fill in one of the next three options based on your type choice. *\[Figure-18\]*
-
-<div class="uk-alert">Note: If you need more than one type of badge just create another module.</div>
-
-![Figure-18](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-general.png "Figure-18"){.coalaweb-docs}
-
-### <a name="mod-gplus-layout"></a>Layout & Style
-
-<div class="uk-alert">To make it easier to follow I have broken up the <em>Layout & Style Options</em> into two parts.</div>
-
-#### Part 1
-
-The options found here will affect all the badge types. The first one is **Layout**, you can choose to display the badge in Portrait \[Vertical\] or Landscape \[Horizontal\]. 
-
-Next you have the option to choose the width of the badge in pixels. The following ranges are valid: Portrait layout 180-450 pixels Landscape layout 273-450 pixels. Next you have a choice of Light or Dark. 
-
-<div class="uk-alert">Note: These badge color styles are controlled by Google.</div>
-
-The next option specifies whether or not to show the tag line and the last option is whether or not to display the cover photo in the badge. Note: Only if the photo exists. *\[Figure-18a\]*
-
-![Figure-18a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-layout1.png "Figure-18a"){.coalaweb-docs}
-
-#### Part 2
-
-The next option is to Display Owners this is only aplicable to the Community type badge. The last option is the Module Alignment here you can choose one of three options Left, Right or Center. *\[Figure-18b\]*
-
-![Figure-18b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-layout2.png "Figure-18b"){.coalaweb-docs}
-
-### <a name="mod-gplus-advanced"></a>Advanced
-
-The CoalaWeb G Plus module also has a few of what I consider **Advanced Options** such as the option to assign a **Module Class Suffix** or choose
-whether to use **Cache** including the **Cache Time**. There is also options to turn on or off the **Module CSS** and **Google JS**if you want. *\[Figure-18c\]*
-
-![Figure-18c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-gplus-mod-config-advanced1.png "Figure-18c"){.coalaweb-docs}
-
 ## <a name="module-tweet"></a>Tweet \[M\]
 
 CoalaWeb Tweet is a social module designed to display a particular Twitter users feed. It has a long list of options from controlling how many tweets are displayed to their format and style.
@@ -988,24 +852,6 @@ The **CoalaWeb Social Share** plugin is a content plugin designed to display all
 All of the configuration options for this particular plugin can be found in the accompanying component under **Extension Options**. If you can't see the buttons make sure you have the plugin installed and published and that you have selected the appropriate configuration options. *\[Figure-19a\]*
 
 ![Figure-19a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-plg-share.png "Figure-19a"){.coalaweb-docs}
-
-### <a name="plg-panel"></a>Social Panel \[Pc\]\[Pro\]
-
-<div class="uk-alert uk-alert-warning">The Panel plugin is no longer under active development. For a more flexible, modern and mobile friendly alternative try the CoalaWeb Tabs module.</div>
-
-<div class="uk-alert">Social Panel needs jQuery to function correctly. If you don't already have it loaded use the System - <em>CW Gears</em> plugin.</div>
-
-The **CoalaWeb Social Panel** is a content plugin designed to display a 
-variety of social network vote buttons in your Joomla and K2 article views. 
-They will be displayed in a vertical collapsible bar to the side of the article 
-content. 
-
-All of the configuration options for this particular plugin can be found in the
-accompanying component under **Extension Options**. If you can't see the
-buttons make sure you have the plugin installed and published and that
-you have selected the appropriate configuration options. *\[Figure-20\]*
-
-![Figure-20](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-plg-panel.png "Figure-20"){.coalaweb-docs}
 
 ### <a name="plg-og"></a>Open Graph \[Pc\]\[Pro\]
 

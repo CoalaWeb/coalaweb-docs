@@ -4,11 +4,10 @@
 3.  [Modules](#modules)
     -   [Social Links](#mod-social)
     -   [Page](#mod-page)
-    -   [Google + \[Pro\]](#mod-google)
     -   [Social Tabs \[Pro\]](#mod-tabs)
+    -   [Tweet](#mod-tweet)
 4.  [Plugins \[Pro\]](#plugins)
     -   [Content - Social Likes \[Pro\]](#plg-likes)
-    -   [Content - Social Panel \[Pro\]](#plg-panel)
     -   [Content - Social Share \[Pro\]](#plg-share)
     -   [Content - Open Graph \[Pro\]](#plg-og)
     -   [Content - Meta Fields \[Pro & J3.+\]](#plg-meta)
@@ -51,11 +50,11 @@ The **CoalaWeb Social Tabs** module displays a series of tabs on either side of 
 
 ![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/social-tabs.png "Figure-4"){.coalaweb-docs}
 
-### <a name="mod-google"></a>Google Plus \[Pro Version\]
+### <a name="mod-tweet"></a>Tweet
 
-The **CoalaWeb Google Plus** module is a social module that helps you link your Google+page to your site. Get more recommendations for your site in Google search and grow your audience on Google+. *\[Figure-5\]*
+**CoalaWeb Tweet** is a social module designed to display a particular Twitter users feed. It has a long list of options from controlling how many tweets are displayed to their format and style.
 
-![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/google.png "Figure-5"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/tweet-pro.png">![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/tweet-pro.png "Figure-5"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="plugins"></a>Plugins
 
@@ -64,14 +63,6 @@ The **CoalaWeb Google Plus** module is a social module that helps you link your 
 The **CoalaWeb Social Likes** content plugin will display a variety of social network vote buttons in your Joomla and K2 content. It's packed full of configuration options to make integrating it into your website a breeze. *\[Figure-6\]*
 
 ![Figure-6](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/social-likes.png "Figure-6"){.coalaweb-docs}
-
-### <a name="plg-panel"></a>Content - Social Panel \[Pro Version\]
-
-<div class="uk-alert uk-alert-warning">The Panel plugin is no longer under active development. For a more flexible, modern and mobile friendly alternative try the CoalaWeb Tabs module.</div>
-
-The **CoalaWeb Social Panel** content plugin will display a variety of social network like buttons in your Joomla and K2 content. They will be displayed in a vertical collapsible bar to the side of the article content. *\[Figure-7\]*
-
-![Figure-7](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/social-panel.png "Figure-7"){.coalaweb-docs}
 
 ### <a name="plg-share"></a>Content - Social Share \[Pro Version\]
 
