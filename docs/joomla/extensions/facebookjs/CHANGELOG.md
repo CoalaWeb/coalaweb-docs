@@ -1,5 +1,16 @@
 ## Change Log
 
+### Version 1.1.2 July 2019
+
+#### General
+- **(C)** Minimum CoalaWeb Gears version is now 0.5.5
+
+#### Plugin(S) - Facebook JS
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.6
+
 ### Version 1.1.1 November 2018
 
 #### General
