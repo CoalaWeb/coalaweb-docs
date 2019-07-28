@@ -26,7 +26,7 @@
 
 The Component makes setting up the plugins a breeze by having a centralized location for all their associated configuration options. It also provides quick access to help and support plus current version information. The other great thing the component does is take care of the installing, updating and uninstalling of all the associated parts of the system which makes the process much more streamlined. *\[Figure-1\]*
 
-![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/social-component.png "Figure-1"){.coalaweb-docs}
+<a data-lightbox="on" https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/social-component.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/social-component.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="modules"></a>Modules
 
