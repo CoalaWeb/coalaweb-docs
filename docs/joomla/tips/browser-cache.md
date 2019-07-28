@@ -17,7 +17,7 @@ If you have ever updated a CoalaWeb extension you may have noticed a post instal
 
 > Please clear your **Browser Cache** and also take a look at the extension's various configuration options to see whats new and allow any updates to catch up.
 
-<span class="alert" markdown="1">Up until recently this message would have also mentioned clearing your <strong>Joomla Cache</strong> but CoalaWeb extensions now take care of that for you while they are being updated.</div>
+<div class="uk-alert">Up until recently this message would have also mentioned clearing your <strong>Joomla Cache</strong> but CoalaWeb extensions now take care of that for you while they are being updated.</div>
 
 If after reading the message mentioned above you have one of the following questions then you are in the right place.
 
@@ -46,7 +46,7 @@ If during the update process we change a file that your browser has cached, it�
 
 ### Extra Information
 
-<span class="alert" markdown="1">Clearing your browser cache is good practise after making any changes to your website not just updating a CoalaWeb extension.</div>
+<div class="uk-alert">Clearing your browser cache is good practise after making any changes to your website not just updating a CoalaWeb extension.</div>
 
 A good first step whenever you encounter an issue on your website is to clear your browser cache. It won’t always fix the issue – but it is an important first diagnostic step to rule out before you assume that a more complicated issue is causing problems.
 
@@ -88,7 +88,7 @@ Chrome will open up a new tab with a popup window titled **Clear Browsing Data**
 
 2. Next click the **Clear browsing data** button to clear your cache. 
 
-<div class="uk-alert">And that’s it – your <strong>Chrome</strong> browser cache is now empty.</div>
+<div class="uk-alert">And that’s it! Your <strong>Chrome</strong> browser cache is now empty.</div>
 
 ### <a name="how-sa"></a>Clearing cache in Safari
 
@@ -112,7 +112,7 @@ After you have enabled it you can go to:
  
     Develop > Empty Caches 
  
-<div class="uk-alert">And that’s it – your <strong>Safari</strong> browser cache is now empty.</div>
+<div class="uk-alert">And that’s it! Your <strong>Safari</strong> browser cache is now empty.</div>
 
 ### <a name="how-ie"></a>Clearing cache in Internet Explorer
 
@@ -130,7 +130,7 @@ Internet Explorer will open up a new tab with a popup window titled **Delete Bro
 
 2. Click the **Delete** button at the bottom.
 
-<div class="uk-alert">And that’s it – your <strong>Internet Explorer</strong> browser cache is now empty.</div>
+<div class="uk-alert">And that’s it! Your <strong>Internet Explorer</strong> browser cache is now empty.</div>
 
 ### <a name="how-edge"></a>Clearing cache in Edge
 
@@ -146,7 +146,7 @@ You can also access the menu by using the shortcut:
     
 4. Then, click the **Clear** button at the bottom.
 
-<div class="uk-alert">And that’s it – your <strong>Edge</strong> browser cache is now empty.</div>
+<div class="uk-alert">And that’s it! Your <strong>Edge</strong> browser cache is now empty.</div>
 
 ### <a name="how-opera"></a>Clearing cache in Opera
 
@@ -162,7 +162,7 @@ You can also access the menu by using the shortcut:
  
 6. Lastly click the **Clear browsing data** button:
 
-<div class="uk-alert">And that’s it – your <strong>Opera</strong> browser cache is now empty.</div>
+<div class="uk-alert">And that’s it! Your <strong>Opera</strong> browser cache is now empty.</div>
 
 ## <a name="after"></a>What do I do after I’ve cleared my cache?
 
