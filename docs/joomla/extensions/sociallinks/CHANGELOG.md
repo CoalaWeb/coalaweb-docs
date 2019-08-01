@@ -1,12 +1,73 @@
 ## Change Log
 
-### Version 1.0.5 November 2018
+### Version 1.0.6 August 2019
 
 #### General
+- **(A)** New Bitly URL shortening service \[Pro\]
 - **(C)** Improved CSS in all icon themes
+- **(C)** Open Graph image tags converted to og:image rather than og:image:url \[Pro\]
+- **(C)** Minimum CoalaWeb Gears version is now 0.5.6
+- **(R)** Removed obsolete Google URL shortening service \[Pro\]
+- **(R)** Removed obsolete G Plus module \[Pro\]
+- **(R)** Removed obsolete G Plus buttons
+- **(R)** Removed obsolete Stumbleupon buttons
+- **(R)** Removed obsolete Digg buttons
+- **(R)** Removed obsolete Delicious buttons
+- **(R)** Removed obsolete columns from count database table \[Pro\]
+- **(L)** New and updated language strings
 
 #### Component - Social Links
 - **(B)** Fixed JImage bug when reading SVGs now using a try catch
+- **(A)** New Twitter card type Summary Large Image \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Module - Social Links
+- **(R)** Removed obsolete Alternate Icons section 
+- **(C)** Code updates and improvements
+
+#### Module - Social Tabs \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Module - Tweet
+- **(B)** Fixed custom Title text bug
+- **(C)** Improved CSS and layout
+- **(C)** Code updates and improvements
+
+#### Module - Page
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(A)** New Twitter card type Summary Large Image
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Share Count \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(B)** Fix code typo
+- **(A)** New Twitter card type Summary Large Image
+- **(A)** New Twitter specific image option
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(A)** New Open Graph card on off option
+- **(A)** New Twitter card on off option
+- **(A)** New Twitter card type Summary Large Image
+- **(A)** New Twitter specific image option
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(B)** Fix debug message displaying when not using Zoo
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.6
 
 ### Version 1.0.4 November 2018
 
