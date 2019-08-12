@@ -1,5 +1,14 @@
 ## Change Log
 
+### Version 1.0.7 August 2019
+
+#### General
+- **(L)** New and updated language strings
+- **(C)** All index files updated and improved
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(B)** Fix empty image call to a member function on a string error
+
 ### Version 1.0.6 August 2019
 
 #### General
