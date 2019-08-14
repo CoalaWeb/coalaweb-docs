@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4200926-6822-41a5-9873-2b6742ab2ada" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/joomla/extensions/news/CHANGELOG.md" afterPath="$PROJECT_DIR$/docs/joomla/extensions/news/CHANGELOG.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,8 +73,8 @@
         <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="10040">
-                <caret line="502" column="14" lean-forward="false" selection-start-line="502" selection-start-column="14" selection-end-line="502" selection-end-column="14" />
+              <first_editor relative-caret-position="40">
+                <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -264,112 +262,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="joomla" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="joomla" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extensions" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="joomla" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extensions" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cw-docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="joomla" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extensions" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contact" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches">
@@ -509,7 +401,7 @@
       <workItem from="1492553756292" duration="3385000" />
       <workItem from="1493556370597" duration="599000" />
       <workItem from="1493730650928" duration="5926000" />
-      <workItem from="1493912284980" duration="2766000" />
+      <workItem from="1493912284980" duration="3478000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Gears change log for version 0.2.9">
       <created>1484416717515</created>
@@ -742,11 +634,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493916587510</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Updated change logs for Contact and News">
+      <created>1493923502100</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1493923502100</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53943000" />
+    <option name="totallyTimeSpent" value="54655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="0" width="1920" height="1080" extended-state="6" />
@@ -777,7 +676,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed to https (cloudfront) for images" />
     <MESSAGE value="More image links changed to https (cloudfront)" />
     <MESSAGE value="Changes to date guide to cover new date format options" />
     <MESSAGE value="Changes to date guide and updated change log for Gears." />
@@ -802,7 +700,8 @@
     <MESSAGE value="New Google API Key guide and chnaged http to https for coalaweb.com links" />
     <MESSAGE value="Small changes to the Google API Key guide" />
     <MESSAGE value="Updated gitignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated gitignore file" />
+    <MESSAGE value="Updated change logs for Contact and News" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated change logs for Contact and News" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1322,8 +1221,8 @@
     <entry file="file://$PROJECT_DIR$/docs/joomla/extensions/contact/CHANGELOG.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="10040">
-            <caret line="502" column="14" lean-forward="false" selection-start-line="502" selection-start-column="14" selection-end-line="502" selection-end-column="14" />
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />

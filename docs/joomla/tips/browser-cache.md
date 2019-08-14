@@ -19,11 +19,13 @@ If you have ever updated a CoalaWeb extension you may have noticed a post instal
 
 <div class="uk-alert">Up until recently this message would have also mentioned clearing your <strong>Joomla Cache</strong> but CoalaWeb extensions now take care of that for you while they are being updated.</div>
 
-If after reading the message mentioned above you have one of the following questions then you are in the right place.
+If after reading the message mentioned above you have one of the following questions:
 
  - What is browser cache?
  - Why clear browser cache?
- - How do I clear my cache?
+ - How do I clear browser cache?
+ 
+ Then this guide was written for you.
 
 ## <a name="what"></a>What is browser cache?
 
