@@ -1,5 +1,37 @@
 ## Change Log
 
+### Version 1.0.8 December 2019
+
+#### General
+- **(C)** New Pinterest system allows pining of individual images on the page.
+- **(R)** Removed unneeded local Pinterest JS file
+- **(L)** New and updated language strings
+
+#### Module - Social Links
+- **(C)** Pinterest share button has been overhauled
+- **(C)** Code updates and improvements
+
+#### Module - Social Tabs \[Pro\]
+- **(C)** Pinterest share button has been overhauled
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(C)** Pinterest share button has been overhauled
+- **(A)** New Pinterest single or scrap option
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(C)** Pinterest share button has been overhauled
+- **(A)** Independent loading of Pinterest JS
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Pinterest share button has been overhauled
+- **(B)** Pinterest button loading bug fix
+- **(A)** Independent loading of Pinterest JS
+- **(R)** Removed unneeded code from obsolete buttons
+- **(C)** Code updates and improvements
+
 ### Version 1.0.7 August 2019
 
 #### General
