@@ -1,5 +1,23 @@
 ## Change Log
 
+### Version 1.0.9 January 2020
+
+#### General
+- **(C)** Copyright year updated to 2020
+- **(C)** Updates to GNU General Public License references
+- **(R)** Removed obsolete SQL update files
+- **(R)** Removed obsolete license files
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(B)** Pinterest bug fix for CSS class
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Facebook JS
+- **(C)** Updated to version 1.1.3
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.7
+
 ### Version 1.0.8 December 2019
 
 #### General
