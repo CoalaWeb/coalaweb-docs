@@ -1,5 +1,13 @@
 ## Change Log
 
+### Version 1.1.3 January 2020
+- **(C)** Copyright year updated to 2020
+- **(C)** Updates to GNU General Public License references
+- **(R)** Removed obsolete license files
+
+#### General
+- **(C)** Minimum CoalaWeb Gears version is now 0.5.7
+
 ### Version 1.1.2 July 2019
 
 #### General
