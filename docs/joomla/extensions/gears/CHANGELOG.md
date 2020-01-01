@@ -1,5 +1,13 @@
 ## Change Log
 
+### Version 0.5.7 January 2020
+- **(A)** Add missing index.html files
+- **(C)** Copyright year updated to 2020
+- **(C)** Pinterest JS improvements
+- **(C)** Updates to GNU General Public License references
+- **(R)** Removed obsolete SQL update files
+- **(R)** Removed obsolete license files
+
 ### Version 0.5.6 July 2019
 - **(C)** Removed obsolete items from sorting field
 - **(C)** Code updates and improvements
