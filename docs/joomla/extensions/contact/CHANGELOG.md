@@ -1,5 +1,38 @@
 ## Change Log
 
+### Version 1.1.6 January 2020
+
+#### General
+- **(A)** New code library and layouts
+- **(C)** Minimum Joomla version now 3.9.0+
+- **(C)** Minimum PHP version now 5.6+
+- **(C)** Minimum CoalaWeb Gears version now 5.8+
+- **(C)** Sub extensions using new Version Check form field
+
+#### Component - Contact
+- **(B)** Fixed reCAPTCHA issue introduced in Joomla 3.9.15
+- **(B)** Fixed closing list tag in rich HTML template
+- **(C)** Code updates and improvements
+- **(C)** Implemented new update system \[Pro\]
+- **(C)** Using update form fields 
+- **(C)** Updated Control Panel layout
+- **(L)** New and updated language strings
+
+#### Module - Contact
+- **(B)** Fixed recipient conflict between component and module options
+- **(B)** Fixed reCAPTCHA issue introduced in Joomla 3.9.15
+
+#### Module - Contact Tab \[Pro\]
+- **(B)** Fixed recipient conflict between component and module options
+- **(B)** Fixed reCAPTCHA issue introduced in Joomla 3.9.15
+- **(C)** CSS improvements
+
+#### Plugin(C) - Contact \[Pro\]
+- **(B)** Fixed reCAPTCHA issue introduced in Joomla 3.9.15
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.8
+
 ### Version 1.1.5 December 2018
 
 #### General
