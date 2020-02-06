@@ -1,5 +1,21 @@
 ## Change Log
 
+### Version 0.5.8 February 2020
+- **(C)** Minimum Joomla version now 3.9.0+
+- **(C)** Minimum PHP version now 5.6+
+- **(A)** New DB table to track dependencies
+- **(A)** New Download ID form field
+- **(A)** New Version Check form field
+- **(A)** New plugin save form field
+- **(A)** New dependency remove option
+- **(A)** Using new CoalaWeb library
+- **(C)** Updated and improved install script
+- **(C)** Old Version form field made obsolete
+- **(C)** Minimum Joomla version is now 3.9
+- **(C)** Minimum PHP version is now 5.6
+- **(R)** Removed obsolete Download ID system for CoalaWeb extensions
+- **(L)** New and updated language strings
+
 ### Version 0.5.7 January 2020
 - **(A)** Add missing index.html files
 - **(C)** Copyright year updated to 2020
