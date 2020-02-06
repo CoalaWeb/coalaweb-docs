@@ -1,5 +1,17 @@
 ## Change Log
 
+### Version 1.1.4 February 2020
+- **(C)** Minimum Joomla version now 3.9.0+
+- **(C)** Minimum PHP version now 5.6+
+- **(C)** Using new Version Check form field
+- **(C)** Using new CoalaWeb library
+- **(C)** Minimum CoalaWeb Gears version is now 0.5.8
+- **(C)** Updated and improved install script
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.8
+
 ### Version 1.1.3 January 2020
 - **(C)** Copyright year updated to 2020
 - **(C)** Updates to GNU General Public License references
