@@ -1,5 +1,29 @@
 ## Change Log
 
+### Version 1.1.0 February 2020
+
+#### General
+- **(A)** New code library and layouts
+- **(C)** Minimum Joomla version now 3.9.0+
+- **(C)** Minimum PHP version now 5.6+
+- **(C)** Updated and improved install script
+- **(C)** Minimum CoalaWeb Gears version is now 0.5.8
+- **(C)** Sub extensions using new Version Check form field
+- **(C)** Database table updates
+- **(C)** Facebook page reactions are now counted \[Pro\]
+
+#### Component - Social Links
+- **(C)** Facebook API updated to 5.0 and checked \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** Implemented new update system \[Pro\]
+- **(C)** Using update form fields 
+- **(C)** Updated Control Panel layout
+- **(C)** Using new Version Check form field
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.8
+
 ### Version 1.0.9 January 2020
 
 #### General
