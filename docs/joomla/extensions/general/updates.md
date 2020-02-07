@@ -62,7 +62,7 @@ You will then see each **Download ID** displayed with it's corresponding subscri
 
 ## <a name="versions"></a> Minimum Versions (New Release System) 
 
-Below is a list of CoalaWeb extensions and their minimum version required to use the new release (Introduced January 1st 2020). If you are a Pro subscriber and you are using an older version please manually download the latest version from the **Downloads** section and after installing it don't forget to enter your new **Download ID** found in the **My Subscriptions** section.
+Below is a list of CoalaWeb extensions and their minimum version required to use the new release **(Introduced January 1st 2020)**. If you are a Pro subscriber and you are using an older version please manually download the latest version from the **Downloads** section and after installing it don't forget to enter your new **Download ID** found in the **My Subscriptions** section.
 
 - CoalaWeb Social Links - Version **1.1.0+**
 - CoalaWeb Contact - Version **1.1.6+**
