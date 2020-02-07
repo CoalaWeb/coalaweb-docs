@@ -12,15 +12,15 @@
 
 CoalaWeb component based extensions integrate with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extensions up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
 
-For **Pro** subscribers you will need to make sure you still have a **Valid Subscription** and that you have entered your **Download ID** in either the **Control Panel** input field. *\[Figure-1\]*
+For **Pro** subscribers you will need to make sure you still have a **Valid Subscription** and that you have entered your **Download ID** in the **Control Panel** updates input field. *\[Figure-1\]*
 
 <div class="uk-alert">Not sure where to find your Download ID? Click <a href="#dl-id">HERE</a> for more info.</div>
 
-![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/cw-contact-config-updates1.png "Figure-1"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/coalaweb-updates-1.png">![Figure-1](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/coalaweb-updates-1.png "Figure-1"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
- Or through the component configuration options under **Updates**. *\[Figure-2\]*
+Once you have entered and saved the **Download ID** the **Update Key** field under the **About** tab will change to **Yes**. *\[Figure-2\]*
 
-![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/contact/cw-contact-config-updates2.png "Figure-2"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/coalaweb-updates-2.png">![Figure-2](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/coalaweb-updates-2.png "Figure-2"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
 
@@ -28,21 +28,15 @@ For **Pro** subscribers you will need to make sure you still have a **Valid Subs
 
 <div class="uk-alert">This section covers CoalaWeb extensions that don't come packaged with a central component such as stand alone modules and plugins.</div>
 
-<div class="uk-alert uk-alert-warning">Non component CoalaWeb extensions will need to have at least version 0.2.2 of the System - CW Gears plugin installed.</div>
+<div class="uk-alert uk-alert-warning">Non component CoalaWeb extensions will need to be at least the versions listed below.</div>
 
 CoalaWeb non component based extensions integrate with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update.
 
-For **Pro** subscribers you will need to make sure you still have a **Valid Subscription** and that you have entered your **Download ID** into the **System - CW Gears** plugin. *\[Figure-3\]*
+For **Pro** subscribers you will need to make sure you still have a **Valid Subscription** and that you have entered your **Download ID** in the **Download ID** input field under the **Updates** tab of the respective extension options. *\[Figure-3\]*
 
 <div class="uk-alert">Not sure where to find your Download ID? Click <a href="#dl-id">HERE</a> for more info.</div>
 
-![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f9.png "Figure-3"){.coalaweb-docs}
-
-Inside the **CW Gears** plugin options your will find a tab titled **Updates** and under it a **Download ID** input field. I recommend you copy and paste your **Download ID** into this field to reduce the risk of a typo and also to check for no spaces at the end.  *\[Figure-4\]*
-
-![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/gears/cw-gears-f10.png "Figure-4"){.coalaweb-docs}
-
-<div class="uk-alert">The CW Gears plugin will take care of the Download ID for any CoalaWeb extensions that doesn't come with a component.</div>
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/coalaweb-updates-3.png">![Figure-3](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/coalaweb-updates-3.png "Figure-3"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 ## <a name="pro-error"></a>Error Updating Pro?
 
@@ -53,20 +47,15 @@ Inside the **CW Gears** plugin options your will find a tab titled **Updates** a
 - Make sure when you copied and pasted your Download ID it doesn't have a **Space** at the end.
 - After you enter or edit your Download ID make sure to **Clear Cache** in the Joomla updater and **Find Updates** again. This will allow your new settings to catch up.
 
-### <a name="error-non-com"></a>Non Component specific tips
-
-- After you have install a Pro version of a non Component CoalaWeb extension make sure to enter your **Download ID** into the **System - CW Gears** plugin.
-- If you install another non Component CoalaWeb extension **Open and Save** the **System - CW Gears** plugin option again to help the settings catch up.
-
 ## <a name="dl-id"></a> Where can I find my Download ID?
 
 To see your **Download ID** you will need to log into [coalaweb.com](https://coalaweb.com) and then go to:
 
     Members -> My Subscriptions
 
-You will then see the ID displayed in the module titled **Download ID**. *\[Figure-5\]*
+You will then see each **Download ID** displayed with it's corresponding subscription. *\[Figure-4\]*
 
-![Figure-5](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-5"){.coalaweb-docs}
+<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/coalaweb-updates-4.png">![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/coalaweb-updates-4.png "Figure-4"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
 <div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
