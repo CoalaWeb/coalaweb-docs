@@ -12,7 +12,7 @@
 
 CoalaWeb component based extensions integrate with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extensions up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
 
-For **Pro** subscribers you will need to make sure you still have a **Valid Subscription** and that you have entered your **Download ID** in the **Control Panel** updates input field. *\[Figure-1\]*
+For **Pro** subscribers you will need to make sure you still have a **Valid Subscription** and that you have entered your **Download ID** in the component control panel's **Update ID** input field under the **UPDATES** tab. *\[Figure-1\]*
 
 <div class="uk-alert">Not sure where to find your Download ID? Click <a href="#dl-id">HERE</a> for more info.</div>
 
@@ -32,7 +32,7 @@ Once you have entered and saved the **Download ID** the **Update Key** field und
 
 CoalaWeb non component based extensions integrate with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update.
 
-For **Pro** subscribers you will need to make sure you still have a **Valid Subscription** and that you have entered your **Download ID** in the **Download ID** input field under the **Updates** tab of the respective extension options. *\[Figure-3\]*
+For **Pro** subscribers you will need to make sure you still have a **Valid Subscription** and that you have entered your **Download ID** in the **Download ID** input field under the **Updates** tab of the respective extension. *\[Figure-3\]*
 
 <div class="uk-alert">Not sure where to find your Download ID? Click <a href="#dl-id">HERE</a> for more info.</div>
 
