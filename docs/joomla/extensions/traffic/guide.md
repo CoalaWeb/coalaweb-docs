@@ -15,10 +15,10 @@
     -   [GEO Manage](#geo)
         - [1. Install](#geo-install)
         - [2. Easy Install](#geo-easy)
-        - [3. Manual Install](#geo-manual-core)
-        - [4. Manual Install \[Pro\]](#geo-manual-pro)
-        - [5. Refresh](#geo-refresh)
-        - [6. Remove](#geo-remove)
+        - [3. Manual Install](#geo-manual)
+        - [4. Refresh](#geo-refresh)
+        - [5. Remove](#geo-remove)
+        - [6. MaxMind License Key](#geo-key)
     -   [GEO DB Update \[Pro\]](#geo-update)
     -   [Charts \[Pro\]](#com-charts)
     -   [Help](#help)
@@ -29,8 +29,8 @@
         - [4. Cleanup](#options-cleanup)
         - [5. Honeypot](#options-honeypot)
         - [6. Charts \[Pro\]](#options-charts)
-        - [7. Updates \[Pro\]](#options-updates)
-            - [Where is my Download ID?](#options-downloadid)
+        - [7. Updates \[Pro\]](https://coalaweb.com/support/documentation/item/updating-guide)
+            - [Where is my Download ID?](https://coalaweb.com/support/documentation/item/updating-guide#dl-id)
         - [8. Permissions](#options-permissions)
     -   [Manage](#manage)
         -   [Tools](#man-tools)
@@ -226,11 +226,13 @@ CoalaWeb Traffic gives you the option to identify your visitors **Countries** an
 
 #### How Geo Location Works
 
-CoalaWeb Traffic can work in conjunction with **MaxMind's** Geo databases to help determine location information about your visitors. The **Core** version of CoalaWeb Traffic uses the **(Legacy) GeoLite City** database while **Pro** subscribers get the advantage of using the current **GeoLite2 City** database with extend features. The databases are updated very frequently, about once every month. Why so often? IP assignments to countries change all the time in fact by the time we release our extension, the database file is most likely already slightly out of date.
+CoalaWeb Traffic can work in conjunction with **MaxMind's** Geo databases to help determine location information about your visitors. Both the **Core** and **Pro** versions of CoalaWeb Traffic use the **GeoLite2 City** database. The databases are updated very frequently, about once every month. Why so often? IP assignments to countries change all the time in fact by the time we release our extension, the database file is most likely already slightly out of date.
+
+<div class="uk-alert">Note: <a class=\"alert-link\" href="https://blog.maxmind.com/2019/12/18/significant-changes-to-accessing-and-using-geolite2-databases/">MaxMind</a> as of <strong>December 30 2019</strong> now require users to to create an account to access their <strong>GeoLite2</strong> databases. Need help creating a MaxMind account or license key? <a class=\"alert-link\" href="#geo-key">More Info</a></div>
 
 #### What Will This Affect
 
-This could cause some IP addresses to be identified as coming from the wrong location. Updating the file regularly will give you much better country and city accuracy. [MaxMind](http://dev.maxmind.com/geoip/geolite) claims an accuracy of 99.5% for its free Geo databases so please bear in mind that this means that some IP addresses might be reported wrongly.
+This could cause some IP addresses to be identified as coming from the wrong location. Updating the file regularly will give you much better country and city accuracy. MaxMind claims an accuracy of 99.5% for its free Geo databases so please bear in mind that this means that some IP addresses might be reported wrongly.
 
 #### Do I Have To Install It?
 
@@ -240,7 +242,7 @@ This could cause some IP addresses to be identified as coming from the wrong loc
 
 ### <a name="geo-install"></a>Installing the Geo Database
 
-If you don’t have the **GeoLiteCity** database installed you will receive a notice message. To take advantage of CoalaWeb Traffics inbuilt ability to tell you a visitors country and sometimes their city follow the steps below. *\[Figure-5a\]*.
+If you don’t have the **GeoLite2 City** database installed you will receive a notice message. To take advantage of CoalaWeb Traffics inbuilt ability to tell you a visitors country and sometimes their city follow the steps below. *\[Figure-5a\]*.
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-2.png">![Figure5a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-2.png "Figure-5a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
@@ -252,11 +254,16 @@ To make it easier to know if you will need to upload the database manually I hav
  
 #### <a name="geo-easy"></a>Easy Install
 
+<div class="uk-alert">Note: <a class=\"alert-link\" href="https://blog.maxmind.com/2019/12/18/significant-changes-to-accessing-and-using-geolite2-databases/">MaxMind</a> as of <strong>December 30 2019</strong> now require users to to create an account to access their <strong>GeoLite2</strong> databases. Need help creating a MaxMind account or license key? <a class=\"alert-link\" href="#geo-key">More Info</a></div>
+
+1. Login into [MaxMind](https://www.maxmind.com/en/account/login) and create a **License Key**. [More Info](#geo-key)
+2. Enter and save your new **License Key** in the component options.
+
 <div class="uk-alert">What happens when I click the <em>Install Geo Database</em> button?</div>
 
-1. The system will retrieve the latest version of the database from the **Maximind** website and upload it to your website's **tmp** directory. 
-2. Next the system  will attempt to extract and move it to the CoalaWeb Traffic component location to be used by the system. 
-3. Lastly the downloaded file will be deleted from the tmp directory.
+3. The system will retrieve the latest version of the database from the **Maximind** website and upload it to your website's **tmp** directory. 
+4. Next the system  will attempt to extract and move it to the CoalaWeb Traffic component location to be used by the system. 
+5. Lastly the downloaded file will be deleted from the tmp directory.
 
 Now that we know what happens lets try to install the **Geo Database** by clicking the **Install Geo Database** button. *\[Figure-5c\]*.
 
@@ -274,53 +281,27 @@ Now CoalaWeb Traffic will automatically add country and city information to your
 
 <div class="uk-alert">Note: Please be patient when <em>Installing</em> the database it may take some time due to the size of the file.</div>
 
-#### <a name="geo-manual-core"></a>Manual Install
+#### <a name="geo-manual"></a>Manual Install
 
-If you re using the **Core** version of **Traffic** and you couldn't install the database the easy way no problem lets just do it the manual way by following these steps.
-
-<div class="uk-alert">Note: To avoid issues please follow these steps exactly as they are written.</div>
-
-Download the latest MaxMind **GeoLiteCity** database [HERE](http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz). *\[Figure-5g\]*.
-
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-8.png">![Figure-5g](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-8.png "Figure-5g"){.uk-thumbnail .uk-thumbnail-mini}</a>
-
-Now that you have the database downloaded the next step is to extract it. Once it has completed the extraction process you will have a file named **GeoLiteCity.dat** *\[Figure-5i\]*.
-
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-10.png">![Figure-5i](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-10.png "Figure-5i"){.uk-thumbnail .uk-thumbnail-mini}</a>
-
-The last step is to upload the database file to the following location:
-
-    administrator/components/com_coalawebtraffic/assets/geoip
-
-The database file should have 644 permissions. *\[Figure-5k\]*.
-
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12.png">![Figure-5k](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12.png "Figure-5k"){.uk-thumbnail .uk-thumbnail-mini}</a>
-
-Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
-
-#### <a name="geo-manual-pro"></a>Manual Install \[Pro\]
-
-If you re using the **Pro** version of **Traffic** and you  couldn't install the database the easy way no problem lets just do it the manual way by following these steps.
+If you couldn't install the database the easy way no problem lets just do it the manual way by following these steps.
 
 <div class="uk-alert">Note: To avoid issues please follow these steps exactly as they are written.</div>
 
-Download the latest MaxMind **GeoLite2 City** database [HERE](http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.mmdb.gz). *\[Figure-5g-a\]*.
-
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-8a.png">![Figure-5g-a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-8a.png "Figure-5g-a"){.uk-thumbnail .uk-thumbnail-mini}</a>
-
-Now that you have the database downloaded the next step is to extract it. Once it has completed the extraction process you will have a file named **GeoLite2-City.mmdb** *\[Figure-5i-a\]*.
+1. Login into [MaxMind](https://www.maxmind.com/en/account/login). Dont have an account? [More Info](#geo-key)
+2. Download the latest MaxMind **GeoLite2 City** database.
+3. Now that you have the database downloaded the next step is to extract it. Once it has completed the extraction process you will have a file named **GeoLite2-City.mmdb** *\[Figure-5i-a\]*.
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-10a.png">![Figure-5i-a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-10a.png "Figure-5i-a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-The last step is to upload the database file to the following location:
+4. Next upload the database file to the following location:
 
     administrator/components/com_coalawebtraffic/assets/geoip/v2
 
-The database file should have 644 permissions. *\[Figure-5k-a\]*.
+5. Make sure the database file has **644** permissions. *\[Figure-5k-a\]*.
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12a.png">![Figure-5k-a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-12a.png "Figure-5k-a"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
-Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
+6. Now if everything went according to plan you should now start to see **Country and City** data in the **Visitors** view.
 
 #### <a name="geo-refresh"></a>Refresh
 
@@ -334,9 +315,22 @@ If you are having problems with the GEO database or no longer want to use the GE
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-15.png">![Figure-5m](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-15.png "Figure-5m"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
+#### <a name="geo-key"></a>MaxMind License Key
+
+So you want to use the easy method of installing and updating your GEO database through the **GEO Manage** section of CoalaWeb Traffic, then as of December 30 2019 you will need a MaxMind account and also create a **License Key**. But don't worry it's easy just follow these steps.
+
+1. Head over to [MaxMind](https://www.maxmind.com/en/geolite2/signup) and create a **GeoLite2** account.
+2. Next [Login](https://www.maxmind.com/en/account/login) and click the **My License Key** link in the side menu under **Services**.
+3. Now click the **Generate new license key** button and in the next window give it a description and click **Confirm**.
+4. You should now see a message confirming the creation of your new license key and more importantly you should see the new key list underneath.
+5. Copy the new **Key** over to the CoalaWeb Traffic component options under the **GEO** tab and then save.
+6. That's it you have created and saved your new MaxMind license key.
+
+<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the <strong>License Key</strong> and also to check for no spaces at the end.</div>
+
 ### <a name="geo-update"></a>GEO DB Update \[Pro\]
 
-**Pro subscribers** get a button in the control panel called **GEO DB Update** which when pressed will install the lastest version of the GEO database. This button makes keeping the GEO DB up to date a quick and easy process which in-turn keeps the location data as acurrate as possible. *\[Figure-5n\]*.
+**Pro subscribers** get a button in the control panel called **GEO DB Update** which when pressed will install the latest version of the GEO database. This button makes keeping the GEO DB up to date a quick and easy process which in-turn keeps the location data as accurate as possible. *\[Figure-5n\]*.
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-update.png">![Figure-5n](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-geo-update.png "Figure-5n"){.uk-thumbnail .uk-thumbnail-mini}</a>
 
@@ -455,33 +449,6 @@ Project Honeypot is a collective effort to detect spammers, email harversters an
 The options in this section control the amount of records displayed in the **Charts**. *\[Figure-8c\]*
 
 <a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-8.png">![Figure-8c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/traffic/cw-traffic-options-8.png "Figure-8c"){.uk-thumbnail .uk-thumbnail-mini}</a>
-
-#### <a name="options-updates"></a>7. Updates
-
-The CoalaWeb Contact extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
-
-For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** in either the **Control Panel** input field. *\[Figure-28\]*
-
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png ">![Figure-28](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png  "Figure-28"){.uk-thumbnail .uk-thumbnail-mini}</a>
-
- Or through the component configuration options under **Updates**. *\[Figure-28a\]*
-
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png">![Figure-28a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png "Figure-28a"){.uk-thumbnail .uk-thumbnail-mini}</a>
-
-<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
-
-#### <a name="options-downloadid"></a> Where can I find my Download ID?
-
-To see your **Download ID** you will need to log into [coalaweb.com](https://coalaweb.com) and then go to:
-
-    Members -> My Subscriptions
-
-You will then see the ID displayed in the module titled **Download ID**. *\[Figure-28b\]*
-
-<a data-lightbox="on" href="https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png">![Figure-28b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-28b"){.uk-thumbnail .uk-thumbnail-mini}</a>
-
-
-<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
 #### <a name="options-permissions"></a>8. Permissions
 

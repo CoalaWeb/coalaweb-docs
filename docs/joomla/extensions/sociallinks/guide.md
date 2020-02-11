@@ -10,11 +10,11 @@
         - [1. General](#options-general)
         - [2. Like Plugin \[Pro\]](#options-content)
         - [3. Share Plugin \[Pro\]](#options-share)
-        - [5. Metadata Plugin \[Pro\]](#options-og)
-        - [6. Count \[Pro\]](#options-count)
-        - [7. Updates \[Pro\]](#options-updates)
-            - [Where is my Download ID?](#options-downloadid)
-        - [8. Component Permissions](#options-permissions)
+        - [4. Metadata Plugin \[Pro\]](#options-og)
+        - [5. Count \[Pro\]](#options-count)
+        - [6. Updates \[Pro\]](https://coalaweb.com/support/documentation/item/updating-guide)
+            - [Where is my Download ID?](https://coalaweb.com/support/documentation/item/updating-guide#dl-id)
+        - [7. Component Permissions](#options-permissions)
 3.  [Social Links \[M\]](#module)
     -   [General Display](#mod-general)
     -   [Create Custom Theme](#mod-custom-theme)
@@ -453,32 +453,6 @@ The next group of options are **what to check** which give you option to choose 
  The last option in this section is **when to check** which controls how long a page's information is stored before it is checked again. The **locktime** is set in minutes and the default is **1440** which is one day. *\[Figure-30c\]*
 
 ![Figure-30c](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/cw-slinks-config-count4.png "Figure-30c"){.coalaweb-docs}
-
-### <a name="options-updates"></a>6. Update
-
-The CoalaWeb Social Links extension integrates with the inbuilt **Joomla Update** system so both **Core** and **Pro** users can keep their extension up to date. For **Core** users when you see updates listed in the Joomla update manager feel free to select it and update. 
-
-For **Pro** subscribers you will need to make sure you still have a valid subscription and that you have entered your **Download ID** in either the **Control Panel** input field. *\[Figure-28\]*
-
-![Figure-28](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-cpanel.png "Figure-28"){.coalaweb-docs}
-
- Or through the component configuration options under **Updates**. *\[Figure-28a\]*
-
-![Figure-28a](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-com-config.png "Figure-28a"){.coalaweb-docs}
-
-<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the Download ID and also to check for no spaces at the end.</div>
-
-#### <a name="options-downloadid"></a> Where can I find my Download ID?
-
-To see your **Download ID** you will need to log into [coalaweb.com](https://coalaweb.com) and then go to:
-
-    Members -> My Subscriptions
-
-You will then see the ID displayed in the module titled **Download ID**. *\[Figure-28b\]*
-
-![Figure-28b](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/general/updates/cw-updates-download-id.png "Figure-28b"){.coalaweb-docs}
-
-<div class="uk-alert">TIP: To stop any typos I recommend copying and pasting the download ID and also to check for no spaces at the end.</div>
 
 ### <a name="options-permissions"></a>7. Component Permissions
 
