@@ -1,5 +1,42 @@
 ## Change Log
 
+### Version 1.1.8 February 2020
+
+#### General
+- **(A)** New code library and layouts
+- **(C)** Minimum Joomla version now 3.9.0+
+- **(C)** Minimum PHP version now 5.6+
+- **(C)** Improved database query error catching
+- **(C)** Updated and improved install script
+- **(C)** Minimum CoalaWeb Gears version is now 0.5.8
+- **(C)** Sub extensions using new Version Check form field
+
+#### Component - Traffic
+- **(A)** New MaxMind license key field
+- **(C)** Known robot list expanded to 426 \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** GEO upload now needs a MaxMind license key
+- **(C)** Implemented new update system \[Pro\]
+- **(C)** Using update form fields 
+- **(C)** Updated Control Panel layout
+- **(C)** Using new Version Check form field
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Count
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Traffic Clean
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Traffic Online
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Traffic Reports \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.8
+
 ### Version 1.1.7 March 2019
 
 #### General
