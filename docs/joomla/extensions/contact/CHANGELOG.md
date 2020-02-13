@@ -1,5 +1,11 @@
 ## Change Log
 
+### Version 1.1.7 February
+
+#### Component - Contact
+- **(B)** Fixed bug in Core Control Panel layout
+- **(C)** Improved version compare in About section
+
 ### Version 1.1.6 January 2020
 
 #### General
