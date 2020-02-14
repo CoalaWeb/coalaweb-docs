@@ -66,6 +66,7 @@ Below is a list of CoalaWeb extensions and their minimum version required to use
 
 - CoalaWeb Social Links - Version **1.1.0+**
 - CoalaWeb Contact - Version **1.1.6+**
+- CoalaWeb Traffic - Version **1.1.8+**
 - CoalaWeb Gears - Version **0.5.8+**
 - CoalaWeb Facebook JS - Version **1.1.4+**
 
