@@ -1,5 +1,32 @@
 ## Change Log
 
+### Version 1.1.6 February 2020
+
+#### General
+- **(A)** New code library
+- **(C)** Code updates and improvements
+- **(C)** Copyright year updated to 2020
+- **(C)** Updated and improved install script
+- **(C)** Minimum Joomla version now 3.9.0+
+- **(C)** Minimum PHP version now 5.6+
+- **(C)** Minimum CoalaWeb Gears version now 5.8+
+
+#### Module - News
+- **(A)** New featured article option \[Pro\]
+- **(A)** New Download ID form field \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** Using new Version Check form field
+- **(L)** Updated language strings
+
+#### Module - News Set \[Pro\]
+- **(A)** New featured article option
+- **(C)** Code updates and improvements
+- **(C)** Using new Version Check form field
+- **(L)** Updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.8
+
 ### Version 1.1.5 March 2019
 
 #### General
