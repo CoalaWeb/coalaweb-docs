@@ -1,5 +1,50 @@
 ## Change Log
 
+### Version 1.1.1 March 2020
+
+#### General
+- **(C)** Minimum CoalaWeb Gears version is now 0.5.9
+
+#### Component - Social Links
+- **(C)** Improved version compare in About section
+
+#### Module - Social Links
+- **(C)** Better error catching in dependency checks
+
+#### Module - Social Tabs \[Pro\]
+- **(C)** Better error catching in dependency checks
+
+#### Module - Tweet
+- **(C)** Better error catching in dependency checks
+
+#### Module - Page
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(C)** Better error catching in dependency checks
+- **(C)** Better HTML checking in description
+
+#### Plugin(C) - Share Count \[Pro\]
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.5.9
+
 ### Version 1.1.0 February 2020
 
 #### General
