@@ -2,13 +2,13 @@
 
 # Contact - Feature Comparison
 
-<div class="alert">Making the decision on whether to invest in a subscription can be a daunting one so to make it easier we have created a quick reference comparison chart so you can get all the facts.</div>
+<div class="alert alert-info">Making the decision on whether to invest in a subscription can be a daunting one so to make it easier we have created a quick reference comparison chart so you can get all the facts.</div>
 
 ---
 
 | CONTACT GENERAL FEATURES           | CORE                   | PRO                    |
 |------------------------------------|------------------------|------------------------|
-| Joomla updater                     |Yes|Yes|
+| Joomla updater                     |Yes|<span class="icon-thumbs-up"></span>|
 | Pro functionality                  |No|Yes|
 | Pro downloads and updates     
 | Language support                   
@@ -25,7 +25,6 @@
 | Custom Fields                      | 1                      | Unlimited              |
 | Email Formats                      | 1                      | 3                      |
 | Captcha Options                    | 1                      | 3                      |
-{.table .table-striped}
 
 | CONTACT \[M\]                      | CORE                   | PRO                    |
 |------------------------------------|------------------------|------------------------|
