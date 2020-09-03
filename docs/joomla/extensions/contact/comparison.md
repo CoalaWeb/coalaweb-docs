@@ -8,8 +8,8 @@
 
 | CONTACT GENERAL FEATURES           | CORE                   | PRO                    |
 |------------------------------------|------------------------|------------------------|
-| Joomla updater                     |Yes|<span class="icon-thumbs-up"></span>|
-| Pro functionality                  |No|Yes|
+| Joomla updater                     |<span class="label label-success"><span class="icon-ok"></span></span>|<span class="label label-success"><span class="icon-ok"></span></span>|
+| Pro functionality                  |<span class="label label-danger"><span class="icon-not-ok"></span></span>|<span class="label label-success"><span class="icon-ok"></span></span>|
 | Pro downloads and updates     
 | Language support                   
 | Access to General Forum 
