@@ -20,7 +20,7 @@
 | Unlimited Custom fields            |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
 | Upload Attachments                 |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
 | Redirection Options                |<span class="badge badge-warning">2</span>|<span class="badge badge-success">3</span>|
-| Custom Fields                      |<span class="badge badge-warning">2</span>|<span class="badge badge-success">UNLIMITED</span>|
+| Custom Fields                      |<span class="badge badge-warning">2</span>|<span class="badge badge-success">∞</span>|
 | Email Formats                      |<span class="badge badge-warning">1</span>|<span class="badge badge-success">3</span>|
 | Captcha Options                    |<span class="badge badge-warning">1</span>|<span class="badge badge-success">3</span>|
 
@@ -47,7 +47,7 @@
 | Button Styles                      |<span class="badge badge-warning">1</span>|<span class="badge badge-success">12</span>|
 | Custom Button Style                |<span class="icon-ok"></span>|<span class="icon-ok"></span>|
 | Redirection Options                |<span class="badge badge-warning">2</span>|<span class="badge badge-success">3</span>|
-| Custom Fields                      |<span class="badge badge-warning">1</span>|<span class="badge badge-success">UNLIMITED</span>|
+| Custom Fields                      |<span class="badge badge-warning">1</span>|<span class="badge badge-success">∞</span>|
 | Captcha Options                    |<span class="badge badge-warning">1</span>|<span class="badge badge-success">3</span>|
 | Upload Attachments                 |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
 | Cancel Button                      |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
@@ -71,7 +71,7 @@
 | Custom Button Style                |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
 | Redirection Options                |<span class="icon-not-ok"></span>|<span class="badge badge-success">3</span>|
 | Custom Fields                      |<span class="icon-not-ok"></span>|<span class="badge badge-success">3</span>|
-| Captcha Options                    |<span class="icon-not-ok"></span>|<span class="badge badge-success">UNLIMITED</span>|
+| Captcha Options                    |<span class="icon-not-ok"></span>|<span class="badge badge-success">∞</span>|
 | Cancel Button                      |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
 | Popup Validation Messages          |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
 | Modal Popup Layout                 |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
