@@ -48,7 +48,7 @@
 | Custom Button Style                |<span class="icon-ok"></span>|<span class="icon-ok"></span>|
 | Redirection Options                |<span class="badge badge-warning">2</span>|<span class="badge badge-success">3</span>|
 | Custom Fields                      |<span class="badge badge-warning">1</span>|<span class="badge badge-success">UNLIMITED</span>|
-| Captcha Options                    |<span class="badge badge-warning">1</span>|<span class="badge badge-success">3</span>| |
+| Captcha Options                    |<span class="badge badge-warning">1</span>|<span class="badge badge-success">3</span>|
 | Upload Attachments                 |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
 | Cancel Button                      |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
 | Popup Validation Messages          |<span class="icon-not-ok"></span>|<span class="icon-ok"></span>|
