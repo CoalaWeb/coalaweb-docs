@@ -1,6 +1,50 @@
 ## Change Log
 
-### Version 1.1.7 February
+### Version 1.1.8 December 2020
+
+#### General
+- **(A)** New TOS type option article/full page \[Pro\]
+- **(A)** New Banned email,subject and text options \[Pro\]
+- **(A)** New hidden field option to catch spam bots \[Pro\]
+- **(A)** New time lock options to catch spam bots \[Pro\]
+- **(A)** New multiple answer option for basic Captcha
+- **(C)** Minimum CoalaWeb Gears version is now 0.6.1
+- **(C)** Streamlined core extension configuration settings 
+- **(C)** Using new article selector form field
+- **(C)** Code updates and improvements
+- **(C)** CSS improvements
+
+#### Component - Contact
+- **(A)** Related extensions listed in control panel
+- **(C)** Improved version compare in About section
+- **(C)** Improved control panel layout
+- **(L)** New and updated language strings
+
+#### Module - Contact
+- **(C)** Better error catching in dependency checks
+- **(A)** New hidden field option to catch spam bots \[Pro\]
+- **(A)** New time lock options to catch spam bots \[Pro\]
+- **(L)** New and updated language strings
+
+#### Module - Contact Tab \[Pro\]
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(C) - Contact \[Pro\]
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(S) - CW Mail Check
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(E) - Button CW Contact \[Pro\]
+- **(C)** Better error catching in dependency checks
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.6.1
+
+### Version 1.1.7 February 2020
+
+#### General
+- **(C)** Copyright year updated to 2020
 
 #### Component - Contact
 - **(B)** Fixed bug in Core Control Panel layout
