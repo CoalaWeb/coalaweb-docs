@@ -1,5 +1,12 @@
 ## Change Log
 
+### Version 1.1.9 January 2021
+
+#### General
+- **(B)** Basic Captcha bug fix
+- **(C)** PHP 7.4 code updates
+- **(C)** Code updates and improvements
+
 ### Version 1.1.8 December 2020
 
 #### General
