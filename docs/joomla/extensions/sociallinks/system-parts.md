@@ -5,6 +5,7 @@
     -   [Social Links](#mod-social)
     -   [Page](#mod-page)
     -   [Social Tabs \[Pro\]](#mod-tabs)
+    -   [Call \[Pro\]](#mod-call)
     -   [Tweet](#mod-tweet)
 4.  [Plugins \[Pro\]](#plugins)
     -   [Content - Social Likes \[Pro\]](#plg-likes)
@@ -49,6 +50,12 @@ The **CoalaWeb Page** module is designed to help Facebook Page owners attract an
 The **CoalaWeb Social Tabs** module displays a series of tabs on either side of the page that slide in and out when hovered over. It gives you the option to display share, follow us or both types including the ability to create custom follow us tabs. It's packed full of other configuration options including the ability to reorder the tabs and choose their colors which help make it as flexible as possible. *\[Figure-4\]*
 
 ![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/social-tabs.png "Figure-4"){.coalaweb-docs}
+
+### <a name="mod-call"></a>Call \[Pro Version\]
+
+The **CoalaWeb Call** module gives site visitors the ability to quickly and easily get in touch via a telephone number. It's packed full of other configuration options such as the ability to change the button background and border color plus it's location to help make it as flexible as possible. *\[Figure-4\]*
+
+![Figure-4](https://d1tgoab1lhw0tx.cloudfront.net/images/docs/joomla-extensions/social-links/system-parts/call.png "Figure-4"){.coalaweb-docs}
 
 ### <a name="mod-tweet"></a>Tweet
 
