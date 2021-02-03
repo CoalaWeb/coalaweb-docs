@@ -1,5 +1,15 @@
 ## Change Log
 
+### Version 1.1.5 February 2021
+
+#### General
+- **(C)** Copyright year updated to 2021
+- **(C)** Install script improvements
+- **(C)** Minimum CoalaWeb Gears version is now 0.6.2
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.6.2
+
 ### Version 1.1.4 February 2020
 - **(C)** Minimum Joomla version now 3.9.0+
 - **(C)** Minimum PHP version now 5.6+
