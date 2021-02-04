@@ -1,5 +1,81 @@
 ## Change Log
 
+### Version 1.1.2 February 2021
+
+#### General
+- **(C)** Minimum CoalaWeb Gears version is now 0.6.2
+- **(C)** Improved PHP 7.4 support
+- **(C)** Streamlined core extension configuration settings 
+- **(C)** Code updates and improvements
+- **(C)** CSS improvements
+- **(C)** Copyright year updated to 2021
+- **(C)** Install script improvements
+- **(R)** Removed all reference to obsolete Panel plugin
+
+#### Component - Contact
+- **(A)** Related extensions listed in control panel
+- **(C)** Improved version compare in About section
+- **(C)** Improved control panel layout
+- **(C)** New helper file to support related extensions
+- **(L)** New and updated language strings
+
+#### Module - Social Links
+- **(C)** Code updates and improvements
+- **(C)** Improved Core options layout
+- **(L)** New and updated language strings
+
+#### Module - Social Tabs \[Pro\]
+- **(C)** Code updates and improvements
+- **(C)** Improved Core options layout
+- **(L)** New and updated language strings
+
+#### Module - Call \[Pro\]
+- **(N)** Integrated into the CoalaWeb Social Links extension.
+
+#### Module - Tweet
+- **(C)** Code updates and improvements
+- **(C)** Improved Core options layout
+- **(L)** New and updated language strings
+
+#### Module - Page
+- **(C)** Code updates and improvements
+- **(C)** Improved Core options layout
+- **(L)** New and updated language strings
+
+#### Plugin(C) - Social Likes \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(B)** Fixed PHP 7.4 notices for array offsets
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(B)** Fixed Twitter card root URL issue
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(B)** Fixed bug when missing intro text
+- **(C)** Code updates and improvements
+- **(C)** Blog parent category information (from menu item) is used even if empty
+
+#### Plugin(C) - Share Count \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Meta Fields \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Menu Meta \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.6.2
+
+#### Plugin(S) - Facebook JS
+- **(C)** Updated to version 1.1.5
+
 ### Version 1.1.1 March 2020
 
 #### General
