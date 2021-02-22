@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 0.6.3 February 2021
+- **(C)** Install script improvements
+- **(C)** Copyright year updated to 2021
+- **(A)** New class MobileDetect for the CoalaWeb library to stop conflicts
+
 ### Version 0.6.2 February 2021
 - **(B)** Fixed update URL
 - **(A)** New class dependency MobileDetect for the CoalaWeb library
@@ -178,7 +183,7 @@
 - **(A)** Added CoalaWeb Date to version field
 
 ### Version 0.2.9 January 2017
-- **(C)** Updated copyright to 2017
+- **(C)** Copyright year updated to 2017
 - **(A)** Added UIkit tooltip support
 - **(A)** Added UIkit date picker support
 
@@ -304,7 +309,7 @@
 - **(R)** Removed gearversion fields.
 - **(R)** Removed ogtypes fields.
 - **(A)** Integrated CoalaWeb's custom prefix version of Uikit version 2.17.
-- **(C)** Updated copyright.
+- **(C)** Updated Copyright.
 - **(A)** New language strings.
 
 ### Version 0.1.0 December 2014
