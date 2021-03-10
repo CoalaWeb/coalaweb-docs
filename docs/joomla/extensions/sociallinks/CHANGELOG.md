@@ -1,5 +1,21 @@
 ## Change Log
 
+### Version 1.1.3 March 2021
+
+#### General
+- **(C)** Minimum CoalaWeb Gears version is now 0.6.3
+- **(C)** Code updates and improvements
+- **(C)** Work around to stop conflicts with other extensions using Mobile Detect
+- **(B)** Updated incorrect links
+- **(L)** New and updated language strings
+
+#### Module - Social Links
+- **(A)** New Follow Us link target option
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.6.3
+
 ### Version 1.1.2 February 2021
 
 #### General
