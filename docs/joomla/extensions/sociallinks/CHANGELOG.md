@@ -1,5 +1,32 @@
 ## Change Log
 
+### Version 1.1.4 April 2021
+
+#### General
+- **(C)** PHP 8 compatibility improvements
+- **(C)** Minimum PHP version now 7.2+
+- **(C)** Minimum CoalaWeb Gears version is now 0.6.4
+- **(L)** New and updated language strings
+
+#### Component - Contact
+- **(B)** New Metadata exclude article and or category options
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(B)** New exclude article and or category options
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Share Count \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Zoo Elements \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Facebook JS
+- **(C)** Updated to version 1.1.6
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.6.4
+
 ### Version 1.1.3 March 2021
 
 #### General
