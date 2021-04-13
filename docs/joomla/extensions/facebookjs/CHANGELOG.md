@@ -1,5 +1,15 @@
 ## Change Log
 
+### Version 1.1.6 April 2021
+
+#### General
+- **(C)** PHP 8 compatibility improvements
+- **(C)** Minimum PHP version now 7.2+
+- **(C)** Minimum CoalaWeb Gears version is now 0.6.4
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.6.4
+
 ### Version 1.1.5 February 2021
 
 #### General
