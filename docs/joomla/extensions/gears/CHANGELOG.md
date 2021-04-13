@@ -1,5 +1,11 @@
 ## Change Log
 
+### Version 0.6.4 April 2021
+- **(C)** Extended CoalaWeb PayPal support
+- **(C)** PHP 8 compatibility improvements
+- **(C)** Code updates and improvement
+- **(C)** Minimum PHP version now 7.2+
+
 ### Version 0.6.3 February 2021
 - **(C)** Install script improvements
 - **(C)** Copyright year updated to 2021
@@ -39,8 +45,7 @@
 - **(A)** Using new CoalaWeb library
 - **(C)** Updated and improved install script
 - **(C)** Old Version form field made obsolete
-- **(C)** Minimum Joomla version is now 3.9
-- **(C)** Minimum PHP version is now 5.6
+- **(C)** Minimum Joomla version is now 3.9+
 - **(R)** Removed obsolete Download ID system for CoalaWeb extensions
 - **(L)** New and updated language strings
 
