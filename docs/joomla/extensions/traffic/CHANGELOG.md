@@ -1,5 +1,65 @@
 ## Change Log
 
+### Version 1.1.9 April 2021
+
+#### General
+- **(C)** PHP 8 compatibility improvements
+- **(C)** Minimum PHP version now 7.2+
+- **(C)** Minimum CoalaWeb Gears version is now 0.6.4
+
+#### Component - Traffic
+- **(B)** Fixed Google Charts bug 
+- **(B)** Fixed language layout bug in Manage view
+- **(R)** Removed obsolete messages from Control Panel
+- **(A)** Expanded dependency checks for GEO database
+- **(A)** Related extensions listed in control panel
+- **(A)** New helper file to support related extensions
+- **(C)** Known robot list expanded to 512 \[Pro\]
+- **(C)** Improved version compare in About section
+- **(C)** Improved GEO methods
+- **(C)** Improved control panel layout
+- **(L)** New and updated language strings
+
+#### Module - Traffic Stats \[Pro\]\[Admin\]
+- **(C)** Code updates and improvements
+- **(C)** Improved options layout
+- **(L)** New and updated language strings
+
+#### Module - Traffic
+- **(C)** Code updates and improvements
+- **(C)** Improved options layout
+- **(L)** New and updated language strings
+
+#### Module - Traffic Pro \[Pro\]
+- **(C)** Code updates and improvements
+- **(L)** New and updated language strings
+
+#### Module - Places \[Pro\]
+- **(C)** Code updates and improvements
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Count
+- **(C)** Code updates and improvements
+- **(C)** Improved options layout
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Clean
+- **(C)** Code updates and improvements
+- **(C)** Improved options layout
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Online
+- **(C)** Code updates and improvements
+- **(C)** Improved options layout
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Traffic Reports \[Pro\]
+- **(C)** Code updates and improvements
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.6.4
+
 ### Version 1.1.8 February 2020
 
 #### General
