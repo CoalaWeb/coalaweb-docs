@@ -1,5 +1,12 @@
 ## Change Log
 
+### Version 0.6.5 May 2021
+- **(R)** Removed obsolete jQuery options and files
+- **(A)** New Language Note form field to display notes using current module ID
+- **(C)** Phasing out jscolor field in favour of Joomla's color field
+- **(C)** Upgraded jquery-sortable plugin to 0.9.13
+- **(L)** Updated language strings
+
 ### Version 0.6.4 April 2021
 - **(C)** Extended CoalaWeb PayPal support
 - **(C)** PHP 8 compatibility improvements
