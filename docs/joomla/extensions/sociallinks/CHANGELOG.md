@@ -1,5 +1,30 @@
 ## Change Log
 
+### Version 1.1.5 May 2021
+
+#### General
+- **(C)** Replaced obsolete jscolor fields with Joomla color fields
+- **(C)** Minimum CoalaWeb Gears version is now 0.6.5
+
+#### Component - Social Links
+- **(R)** Removed obsolete download ID message
+
+#### Module - Social Links
+- **(B)** Follow Us email bug fix
+- **(C)** Now using Joomla's color form field
+
+#### Plugin(C) - Open Graph \[Pro\]
+- **(B)** Bug fixed in exclude article and or category options
+
+#### Plugin(C) - Share Count \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(C) - Social Share \[Pro\]
+- **(C)** Code updates and improvements
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.6.5
+
 ### Version 1.1.4 April 2021
 
 #### General
@@ -8,11 +33,11 @@
 - **(C)** Minimum CoalaWeb Gears version is now 0.6.4
 - **(L)** New and updated language strings
 
-#### Component - Contact
-- **(B)** New Metadata exclude article and or category options
+#### Component - Social Links
+- **(A)** New Metadata exclude article and or category options
 
 #### Plugin(C) - Open Graph \[Pro\]
-- **(B)** New exclude article and or category options
+- **(A)** New exclude article and or category options
 - **(C)** Code updates and improvements
 
 #### Plugin(C) - Share Count \[Pro\]
@@ -55,7 +80,7 @@
 - **(C)** Install script improvements
 - **(R)** Removed all reference to obsolete Panel plugin
 
-#### Component - Contact
+#### Component - Social Links
 - **(A)** Related extensions listed in control panel
 - **(C)** Improved version compare in About section
 - **(C)** Improved control panel layout
