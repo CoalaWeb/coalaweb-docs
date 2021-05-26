@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 1.1.6 May 2021
+
+#### Module - Social Tabs \[Pro\]
+- **(B)** Color field bug fix
+
 ### Version 1.1.5 May 2021
 
 #### General
