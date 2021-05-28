@@ -1,5 +1,21 @@
 ## Change Log
 
+### Version 1.0.3 May 2021
+
+#### Module - Flair
+- **(A)** New helper class
+- **(C)** Code updates and improvements
+- **(C)** Copyright year updated to 2021
+- **(C)** Updated and improved install script
+- **(C)** Minimum Joomla version now 3.9.0+
+- **(C)** Improved PHP 7.4 abd 8 support
+- **(C)** Minimum PHP version now 7.2+
+- **(C)** Minimum CoalaWeb Gears version is now 0.6.5
+- **(L)** New and updated language strings
+
+#### Plugin(S) - Gears
+- **(C)** Updated to version 0.6.5
+
 ### Version 1.0.2 July 2017
 
 #### Module - Flair
