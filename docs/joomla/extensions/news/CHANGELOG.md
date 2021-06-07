@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 1.1.8 June 2021
+
+#### Module - News
+- **(B)** Helper file naming bug fix
+
 ### Version 1.1.7 June 2021
 
 #### General
